@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>9</num>
+  <heading>Contract Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>901</num>
+    <heading>Hiring by Contractors Is Restricted</heading>
+    <section>
+      <num>901.1</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this ordinance is to help provide employment for tribal members living on or near the reservation who may have skills as laborers, heavy machine operators or in other construction areas. Often times there are contracts given out for road, bridge and other types of construction in this area. The idea is to allow for our members participate in such jobs to enable them to be employed and to instill pride in their work on or near the reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>901.2</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Tribe" means the Bad River Band of Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Member" means any person who is a member of the Bad River Band of Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Reservation" refers to all lands and roads within the exterior boundaries of the reservation.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Contract or subcontract" refers to any individual, partnership or company who has been awarded a contract or subcontract to do road, bridge or other work on the reservation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Tribal Personnel Officer" refers to that person who is in charge of the Personnel Office.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>901.3</num>
+      <heading>Prohibition</heading>
+      <para>
+        <num>(a)</num>
+        <text>No contractor or subcontractor who has been contracted to do road, bridge, or other work on the reservation shall hire any additional persons needed for the job who is not a member of the Tribe unless there is no qualified member of the Tribe able to perform such job or jobs.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No contractor or subcontractor shall be deemed to have complied with subsection (a) above unless (1) they have a statement from the Tribal Personnel Officer stating that they have worked with the Personnel Office and (2) the statement sets forth whether or not there are qualified members of the Tribe to perform the job.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>901.4</num>
+      <heading>Penalties/Forfeitures</heading>
+      <text>Violation of Section 901.3 of this ordinance shall be subject to the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Forfeiture not to exceed $500.00, or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Recession of the contract if possible, or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Barred from receiving future contracts.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>901.5</num>
+      <heading>Violation</heading>
+      <text>All violations shall be tried in Tribal or Federal Court.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>900</num>
+    <heading>Enacted by Resolution #10-3-86-75</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>920</num>
+    <heading>Code of Conduct for Procurements and Contracts</heading>
+    <text>This Code of Conduct is established by the Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribal Council and shall govern the performance of all officers, committees and their members, employees or agents of the Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribe engaged in the award and administration of all procurement or contracts. For the purposes of this Code, the term "officer" shall include members of the Tribal Council.</text>
+    <section>
+      <num>920.1</num>
+      <heading>Conflict of Interest</heading>
+      <para>
+        <num>(a)</num>
+        <text>No officer, employee, committee member, or agent of the Bad River Band of the Lake Superior Tribe of Chippewa Indians shall participate in the selection, or in the award or administration of a procurement or contract if a conflict of interest, real or apparent, would be involved. Such a conflict would arise when the officer, employee, committee member, or agent; and/or</text>
+        <para>
+          <num>(1)</num>
+          <text>Any member of his or her immediate family; and/or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>His or her partner; and/or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any organization which employs, or is about to employ any of the above, has or may foreseeably develop a financial or other interest in the firm or individual selected for award of the procurement or contract.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>920.2</num>
+      <heading>Gratuities or Positions of Employment or Monetary Interest</heading>
+      <text>No officer, employee, committee member, or agent of the Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribe shall either solicit or accept gratuities, favors or anything of monetary value, including any position of employment or monetary interest from firms or contractors, potential firms or contractors, or parties to subcontracts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>920.3</num>
+      <heading>Acceptance of Gifts</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Officers, Employees, Committee Members, and Agents of the Tribe</u>. An officer, employee, committee member, or agent may accept a gift from a firm or contractor seeking to do business with the Band or having interests that may be substantially affected by performance or nonperformance of the officer, employee, committee member or agent, if such is unsolicited and of nominal value (not to exceed $10.00). Acceptance of such gifts will be limited to items used as advertising by firms or contractors. Acceptance of any other gift shall constitute a violation of this Code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Tribal Council</u>. The Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribal Council may receive such other gifts as offered by a firm or contractor after completion of a contract where no promises of the gift has been given before completion, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation of gifts, the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of ten dollars [$10.00]) shall constitute a violation of this Chapter.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Exceptions</u>. It shall not be a violation of this Chapter to accept the following so long as the acceptance does not influence or have the appearance of influencing the procurement or award of contracts:</text>
+        <para>
+          <num>(1)</num>
+          <text>Ceremonial gifts given according to traditional customs which are retained by the Tribe;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Food and refreshments of nominal value in the ordinary course of meals provided as part of meetings;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Unsolicited advertising or promotional material of nominal value;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Personal achievement awards for meritorious service of nominal value; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Plaques or other similar items intended to memorialize or remember some program or project.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>920.4</num>
+      <heading>Violations</heading>
+      <text>Violation of this Code of Conduct shall be prosecuted as follows.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any violation of this Code of Conduct by an officer of the Bad River Band of the Lake Superior Tribe of Chippewa Indian Community shall be handled by the Bad River Tribal Court. In the event that the officer, employee, committee member, or agent is a member the Tribal Council, the Tribal Court will review the violation and take such action against the officer(s) involved as is allowable under the Constitution and By-Laws of the Bad River Community, including possible removal from the Tribal Council according to the terms of the Constitution.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any violation of this Code of Conduct by an employee of the Bad River Band of the Lake Superior Tribe of Chippewa Indian Community will be handled in accordance with the Personnel Policies and Procedures, Chapter XIV. Discipline, reprimand, suspension, or termination may result with respect to the seriousness of the violation.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

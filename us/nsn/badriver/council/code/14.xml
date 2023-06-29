@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>14</num>
+  <heading>General Conduct</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1450</num>
+    <heading>Motor Vehicle Code</heading>
+    <section>
+      <num>1450.1</num>
+      <heading>Scope and Purpose</heading>
+      <para>
+        <num>(1)</num>
+        <text>This code is-applicable to all persons within the exterior boundaries of the Bad 	River Band of Lake Superior Chippewa Reservation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The purpose of this code is to govern the activities of all persons within the exterior boundaries of the Bad River Band of Lake Superior Chippewa Reservation with respect to motor vehicles owned or operated on the reservation by incorporating and applying state law to such activities.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1450.2</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(1)</num>
+        <text>The definitions contained in Chapter 340 of the Wisconsin Statutes are hereby incorporated by reference as if fully set forth herein.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As used in this ordinance:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Member" means a person enrolled or eligible for enrollment in the Bad River Band of Lake Superior Indians.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Non-criminal" means punishable by forfeiture or loss of privileges and not by fine or imprisonment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Reservation" means the area within the exterior boundaries of the Bad River Band of Lake Superior Indians.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Tribe" means the Bad River Band of Lake Superior Indians.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Tribal Court" means the Bad River Tribal Court.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1450.3</num>
+      <heading>Rules of the Road</heading>
+      <para>
+        <num>(1)</num>
+        <text>No person may operate a motor vehicle on the reservation in violation of the rules of the road contained in Chapter 346 of the Wisconsin Statutes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No person may operate a vehicle on the reservation in violation of a traffic regulation adopted by a local authority pursuant to the powers conferred upon such local authority by Chapter 349 of the Wisconsin Statutes. The Program Manager of the Tribal Roads Department is hereby authorized to set and post speed limits on all tribally maintained roads. No person may operate a motor vehicle on such tribally maintained roads in excess of any speed limit posted.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1450.4</num>
+      <heading>Equipment of Vehicles</heading>
+      <text>No person may operate a motor vehicle on the reservation in violation of the vehicle equipment provisions in Chapter 347 of the Wisconsin Statutes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1450.5</num>
+      <heading>Size, Weight, and Load</heading>
+      <para>
+        <num>(1)</num>
+        <text>No member mom nay operate a motor vehicle on the reservation in violation of the vehicle size, weight, and load provisions contained in Chapter 348 of the Wisconsin Statutes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Program Manager of the Tribal Roads Department is hereby authorized to set and post size, weight, and load limits on all tribally maintained roads. No person may operate a motor vehicle on such tribally maintained roads in violation of any limits so posted.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1450.6</num>
+      <heading>Jurisdiction and Procedure</heading>
+      <para>
+        <num>(1)</num>
+        <text>Jurisdiction is hereby conferred upon the Tribal Court over prosecutions for violations of this Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Proceedings for violation of this Code shall be governed by Section 2 of the Tribal Court Code, Tribal Code Chapters 101-123, provided, that proceedings may be instituted by issuance of a Wisconsin uniform traffic citation pursuant to Wisconsin Statutes Sec. 345.11 citing a violation of the state law provision incorporated into this Code by reference.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1450.7</num>
+      <heading>Enforcement and Penalties</heading>
+      <para>
+        <num>(1)</num>
+        <text>The provisions of this Code shall be enforced by all Tribal law enforcement officers. In addition, every officer empowered by the laws of the State of Wisconsin to issue uniform citations for violation of Wisconsin traffic regulations is hereby authorized to enforce this Code and issue citations to Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Violations of the provisions of this Code shall be punishable by a civil remedial money penalty of no more than the lesser of $500.00 or the maximum forfeiture authorized by state law for the offense.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In addition to a civil remedial money penalty, the Tribal Court shall suspend or revoke driving privileges on the reservation in accordance with Wisconsin Statutes Sec. 343.25 through 343.40, provided, that no demerit points resulted from the action of a state court for an incident which occurred on the reservation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notice of any conviction under this Code shall be sent by the Clerk of Court to the Wisconsin Department of Transportation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In addition to a civil remedial money penalty, the court upon conviction shall order payment of court costs in the amount of $25.00 and justice system surcharge/court support system surcharge (25% of civil remedial money penalty).</text>
+      </para>
+      <text>
+        <strong>HISTORY NOTE:</strong>
+      </text>
+      <text>A resolution to create a motor vehicle code of the Tribal Court Code; relating to: the activities of persons within the boundaries of the reservation with respect to motor vehicles.</text>
+      <text>Cases: <u>County of Vilas v. Chapman</u>, 122 Wis. 2d 211, 361 N.W. 2d-699 (1985) (state has non-criminal traffic jurisdiction over members of the Lac du Flambeau Band of Lake Superior Chippewa on reservation until the Tribe is enforcing its own code).</text>
+      <text>By this Code, the Tribe asserts its exclusive jurisdiction over the non-criminal activities of its members with respect to motor vehicles owned or operated by its members on the reservation and all persons on tribally maintained roads.</text>
+      <text>The Tribe asserts its concurrent jurisdiction over the non-criminal activities of non- members with respect to motor vehicles owned or operated by non-members on the reservation.</text>
+      <text>The Tribal Council expressly determines that the activities of non-members with respect to motor vehicles, many of whom are residents of the Reservation or employees of the Tribe, directly effects the health and welfare of the Tribe's members, and the ability of the tribal government to carry on its operations in an orderly manner.</text>
+      <text>This Code incorporates and applies state law in effect at the time of adoption. Any changes in state law shall automatically be incorporated and applied in this Code. It is contemplated that the governing body of the Tribe shall periodically review any changes in state law and reject any changes that do not further the purposes of this Code</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

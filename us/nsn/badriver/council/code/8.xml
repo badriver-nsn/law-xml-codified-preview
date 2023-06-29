@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>8</num>
+  <heading>Membership</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>800</num>
+    <heading>– Exclusion and Removal</heading>
+    <section>
+      <num>800.4</num>
+      <heading>Severability</heading>
+      <text>If any portion of this ordinance is found to be invalid for any reason, the remaining portions of this ordinance shall remain in full force and effect.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.5</num>
+      <heading>Exclusive Remedy</heading>
+      <text>Exclusion and removal does not prevent, negate or exclude the use of any other remedy or penalty that is otherwise provided by this Code or other governing federal, state or tribal law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.6</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Exclusion and removal" means the temporary or permanent expulsion of an individual from within the boundaries of the Bad River Reservation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.7</num>
+      <heading>Petition</heading>
+      <text>An exclusion and removal action shall be commenced by any member of the Bad River Band or Tribal Council upon the presentment of an oral or written Petition for Exclusion and Removal in an open meeting of the Tribal Council. The Petition shall include the name of the individual sought to be removed and a statement of the reasons which individually or collectively are justifiable cause for exclusion and removal.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.8</num>
+      <heading>Personal Appearance</heading>
+      <text>No individual considered for possible exclusion or removal has any right or privilege to personally appear before the Tribal Council in either the initial consideration of a Petition for Exclusion and removal or in any subsequent appeal of an Order for Exclusion and Removal before the Tribal Council. However, the Tribal Council may, in its discretion, grant an individual the</text>
+      <text>right to appear before it in either proceeding.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.9</num>
+      <heading>Grounds for Exclusion and Removal</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon consideration of a Petition; the Tribal Council may enter an Order of Exclusion and Removal if it finds that it is in the best interests of the Band to do so. The Tribal Council may consider whether the individual's conduct threatens or has some direct effect on the political integrity, institutional process, economic security, or health or welfare of the Band, its members or Reservation residents. In determining whether to issue an Order of Exclusion and Removal, the Tribal Council may consider the number and pattern of acts committed and the history, circumstances and/or significance of each act. Acts for which an individual may be excluded and removed from the Bad River Reservation may include but are not limited to the following:</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Doing or attempting to do any act upon the Reservation which unlawfully threatens the peace, health, safety, morals or general welfare of the Bad River Band, its members, Reservation residents, or other persons;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any act causing physical loss or damage of any nature to the property of the Band, any member or Reservation resident;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Entering an area in violation of any order of the Bad River Band or any entity thereof designating such area as closed;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Failing or refusing to pay any taxes, rents or other charges justly due the Bad River Band or an entity thereof, after reasonable notice and an opportunity to pay, unless such charges or fees are related to an interest in real property;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Mining, prospecting, cutting timber or vegetation or other use, abuse, taking of or damage to tribal property without authorization;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Committing a fraud, to wit: meaning a false representation of a matter of material fact by words, conduct, false or misleading allegations, or by concealment of a fact which should have been disclosed which is intended to and does in fact deceive another to his legal injury or detriment.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Trading or conducting business within the Reservation in violation of tribal law;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Hunting, fishing or trapping without lawful authority or permission or in violation of tribal or federal law;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Disturbing or excavating items, sites or locations of religious, historic or scientific significance without the authority of the Bad River Band or in violation of tribal or federal law;</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Failing to obey an order of the Tribal Court; or</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Committing any criminal offense as defined by state, federal or tribal law.</text>
+      </para>
+      <text>
+        <strong>Section 800-10 - Standard of Proof</strong>
+      </text>
+      <text>In considering whether justifiable cause exists to exclude and remove an individual from the Reservation, the Tribal Council must be satisfied by a preponderance of the evidence given the totality of the circumstances.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.11</num>
+      <heading>Order for Exclusion and Removal</heading>
+      <text>Upon finding that it is in the best interests of the Bad River Band, the Tribal Council shall issue an Order for Exclusion and Removal. If the individual is not present at such meeting or if a decision is not rendered until after the meeting, appropriate notice shall be served on the individual, informing him or her of the action of the Tribal Council. Such notice shall include a copy of the Order for Exclusion and Removal issued pursuant to this ordinance. The Order shall include the reasons for the decision, the terms of the exclusion (including duration), and the</text>
+      <text>Individual's appeal rights (including any conditions under which the individual may return for an appeal of the Order). An Order issued pursuant to this ordinance shall remain in force for the duration provided in the Order or, unless the Order specifically provides otherwise, until revoked or modified by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.12</num>
+      <heading>Enforcement of Orders of Exclusion and Removal</heading>
+      <text>Upon the issuance of an Order for Exclusion and Removal, the Tribal Council shall deliver said Order to any qualified law enforcement officer, who shall thereupon serve notice upon the individual and direct the individual to obey the Order. If, after the time specified in the Order, the individual does not comply with the Order, the Tribal Council shall request relief through the appropriate federal, state or tribal courts:</text>
+      <para>
+        <num>(k)</num>
+        <text>Referring the matter to the Tribal or other prosecutor for appropriate action, including prosecution or other action authorized under any applicable tribal, federal or state law;</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Directing any law enforcement officer to remove the individual from the Reservation covered by the Order at the individual's expense;</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Directing law enforcement to remove the individual bodily, using only so much force as is reasonable and necessary to effect the removal; and</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Directing any law enforcement officer to prevent the individual from reentry onto any Reservation lands covered by the Order for so long as the Order remains in effect.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>800.13</num>
+      <heading>Appeals</heading>
+      <text>Any individual to whom an Order for Exclusion and Removal has been issued pursuant to this ordinance may be appeal such Order to the Bad River Tribal Council. The individual must apply to the Tribal Council in writing within ten (10) DAYS OF HIS OR HER RECEIPT OF SAID Order, requesting revocation or amendment of said Order. Upon receipt of such a request, the Tribal Council shall call a special meeting for the purpose of allowing the individual to address the Tribal Council regarding the reasons for constituting the justifiable cause for his or her exclusion and removal and to show cause why he or she should not excluded and removed from the Reservation. Unless the Tribal Council has specifically granted the individual the right to personally appear before it in the special meeting, the individual must set forth his or her position, arguments and proofs in writing and provide same to the Tribal Council in advance of the special meeting. Appropriate notice of such a special meeting shall be delivered to the individual not less than five (5) days prior to the meeting. Decisions of the Tribal Council on appeal shall be final.</text>
+      <text>
+        <strong>ENACTED BY RESOLUTION #8-14-02-324</strong>
+      </text>
+      <annotations/>
+    </section>
+  </container>
+</container>

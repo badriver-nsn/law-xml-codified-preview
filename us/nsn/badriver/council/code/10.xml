@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>10</num>
+  <heading>Policies and Procedures</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1000</num>
+    <heading>Winter Parking Ordinance</heading>
+    <section>
+      <num>1000.01</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Ordinance is protect public health, safety and welfare of the Bad River residents and visitors by regulating vehicular parking during winter months.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.02</num>
+      <heading>Authority</heading>
+      <text>This Ordinance is adopted pursuant to the Bad River Constitution, Article VI, §(1)(q); and Tribal Resolution 11-6-91-160.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.03</num>
+      <heading>Effective Date</heading>
+      <text>This Ordinance shall take effect upon its adoption by resolution by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.04</num>
+      <heading>Construction</heading>
+      <text>This Ordinance shall be interpreted to comport with the customs and traditions of the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.05</num>
+      <heading>Definitions</heading>
+      <text>For the purposes of this ordinance, the following definitions shall apply:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Ticketing Official" means any Bad River Tribal Law Enforcement Officer, to include Bad River Snow Plow authorized by the Bad River Garage Supervisor to issue tickets for non-compliance with this ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Class 1 Road" means all Bad River Community Streets: including Maple Street, Kinnickinnick Street, Oak Street, Birch Street, Pine Street, Elm Street, Evergreen Street, Caville Road, Old Odanah Road, Kakagon Street, Birch Hill Court, Sand Pit Road, Firebreak Road, Plantation Lane, Red Pine Road, Birch Lane, Clear Cut Drive, Moccasin Trail, West Denomie Street, Fire Hall Lane, Butterfield Road, and Lemieux Road.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Class 2 Road" means all Bad River Tribal Roads other than those listed above in Subsection (b) including: Lake Birch Road, Pine Flats Road, Potato River Road, and Cemetery Road.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.06</num>
+      <heading>Severability and Non-Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>If any section, provision or portion of this Ordinance is adjudged to be unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Ordinance shall not be affected hereby.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe declares that there is no liability on the part of the Tribe, it's agencies, agents, or employees for any damage which may occur as a result of reliance upon or conformance with this Ordinance.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.07</num>
+      <heading>Parking Prohibited in Certain Specified Places</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall stop or leave any vehicle standing on any Class 1 road within the confines of the Bad River Reservation from November 1, to April 30, except temporarily for the purpose of and while actually engaged in loading or unloading, or in receiving or discharging passengers and while the vehicle is attended by a licensed operator so that it may be promptly moved to avoid obstruction of snowplow traffic.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall stop or leave any vehicle standing on any Class 2 road within the confines of the Bad River Reservation for a period longer than 24 hours from November 1, to April 30.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.08</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any Ticketing Official may issue a citation to any Tribal member or non-member if the Ticketing Official reasonably believes that such person has breached a provision of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any Ticketing Official may authorize the removal of any vehicle in violation of this ordinance by having the vehicle towed at the owner's expense, including any impound charge.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.09</num>
+      <heading>Penalties</heading>
+      <text>Any person who violates the provisions of this ordinance shall be subject to the following penalties: Any person violating a provision of §1000.07 shall be required to forfeit $30.00 for a first offense, $45.00 for a second offense and $60.00 for a third or subsequent offense within a two year period.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1000.10</num>
+      <heading>Jurisdiction</heading>
+      <text>Jurisdiction is hereby conferred upon the Bad River Tribal Court over all matters related to the enforcement of this ordinance.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1001</num>
+    <heading>– Police Commission</heading>
+    <section>
+      <num>1001.5</num>
+      <heading>Establishment and Composition</heading>
+      <para>
+        <num>(a)</num>
+        <text>Establishment of Police Commission</text>
+        <text>The Bad River Tribe hereby establishes an entity to be known as the Bad River Tribal Police Commission whose sole purpose shall be to oversee the conduct and operations of the Bad River Police Force.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Composition of Police Commission</text>
+        <text>The Commission shall consist of seven permanent members. One shall be from the Ashland County Sheriff, and one member from the Wisconsin Department of Corrections Ashland Office, each of whom shall hold permanent seats on the commission and shall be non-voting members appointed by the Bad River Tribal Council to serve a five year term. Tribal appointees shall be eligible for reappointment. Members of the Police Commission may not simultaneously serve as members of the Tribal Council. Tribal member appointees must reside within the exterior boundaries of the Bad River Reservation and be at least twenty-one years of age.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1001.6</num>
+      <heading>Removal</heading>
+      <text>Members of the Police Commission may be removed by the Tribal Council for serious misconduct. Members shall not be removed except after given a fair and impartial hearing including the opportunity to respond to and rebut specific allegation or allegations of misconduct. Members facing removal shall be afforded due process including the right to present reliable evidence and witness, confront adverse witness with cross-examination and be represented by counsel at no expense to the Band. An affirmative vote of at least five Tribal Council members after the close of a hearing is required to remove a member of the police commission.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1001.7</num>
+      <heading>Substitutions</heading>
+      <text>If a member to the Police Commission is removed, resigns or is otherwise no longer a member of the commission, he or she shall be replaced by his or her successor in the case of a permanent member, or reasonable substitute at the discretion of the Tribal Council if necessary, or succeeded by a new appointment by the Tribal Council. When applicable, new appointees appointed pursuant to this section shall serve out the original term of their predecessor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1001.8</num>
+      <heading>Expenses/Stipends</heading>
+      <text>Members of the Police Commission are authorized reimbursements for costs associated with official Police Commission business and shall be paid reasonable stipends. The Tribal Council shall authorize a sufficient amount of funding to meet the budgeted needs of the Police Commission.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1001.9</num>
+      <heading>Reports</heading>
+      <text>The Police Commission shall be invited to meet with the Tribal Council at least once per year and from time to time as necessary so as to report any information deemed important.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1001.10</num>
+      <heading>Oversight Powers and Duties</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <u>Oversight</u>
+        </text>
+        <text>It shall be the duty of the Police Commission to meet at least quarterly, and more frequently if necessary so as to perform the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Review the Bad River Police Chief's quarterly report to the Commission</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review all or selected police reports generated by the Bad River Police Department.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Review any complaints lodged against the Bad River Police Department and take or direct any necessary action.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Direct corrective action to the Bad River Police Chief concerning any deficiencies that are apparent with the Police Department.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Ensure that the Bad River Tribal Police Department is acting in the best interests of the Band and is performing its duties in the most professional and effective manner possible.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <u>Powers</u>
+        </text>
+        <text>The Police Commission shall have the following powers:</text>
+        <para>
+          <num>(1)</num>
+          <text>The authority to access the Police Department announced or unannounced.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The authority to review all police reports, records, financial documents, policies and procedures.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The authority to hire, fire, and reappoint police department personnel.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The authority to suspend and discipline all police department personnel consistent with the appropriate personnel policies and procedures regulations.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The authority to grant pay increases, bonuses and promotions for police personnel.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The authority to review all purchases by the Police Department and have approval authority for those purchases over $1,000.00.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The authority to review and revise police department budget requests.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The authority to direct, review, and revise law enforcement grant applications for the Police Department.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The authority to review, revise and implement police department policies and procedures so long as such policies and procedures are not inconsistent with the terms and</text>
+        </para>
+      </para>
+      <text>conditions of any agreement entered into by the Band on behalf of the Police Department.</text>
+      <para>
+        <num>(10)</num>
+        <text>The authority to negotiate, but not enter into, any necessary memorandums of agreement and Understanding, contracts and insurance on behalf of the police department.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>The authority to conduct internal investigations of police misconduct or to hire outside experts to do the same.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1001.11</num>
+      <heading>By-Laws</heading>
+      <text>The Police Commission shall operate under the procedures listed below but may establish by-laws and procedures for the operation of the organization not inconsistent with those set forth in this section.</text>
+      <para>
+        <num>(1)</num>
+        <text>A quorum shall consist of at least three members.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A tape recording of all official meetings shall be made and kept for a period of at least two years.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Official meetings do not have to be noticed nor made public.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Official actions shall be carried or defeated by majority vote.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Roberts Rules of Order shall be generally followed at all official meetings.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Tape recordings of official meetings shall be provided to the Tribal Council upon demand but do not have to be provided to the public. The Tribal Council is empowered to release copies of the tape recordings or transcripts therefore to the public upon reasonable request. Reasonable and prudent attempts must be made to protect the privacy and safety of individuals concerned with the release of any tape recording or transcript requested under this ordinance.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A chair and vice-chair shall be selected from within the members to officiate at meetings.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A secretary shall be selected from within the members to be responsible for producing and maintaining records of official meeting, minutes and so forth. Enacted pursuant to Bad River Tribal Council Resolution 10-25-01-174</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

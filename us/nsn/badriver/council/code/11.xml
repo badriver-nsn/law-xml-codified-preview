@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>11</num>
+  <heading>Worker's Compensation</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1100</num>
+    <heading>Health and Disability Benefits (Worker's Compensation)</heading>
+    <section>
+      <num>1100.1</num>
+      <heading>Purpose</heading>
+      <text>The Bad River Tribal Council may authorize the Tribe to offer health and/or disability insurance, including at its option, opting into the State of Wisconsin's Worker's Compensation system, to all full time employees, as defined in the Bad River Personnel and Policy Manual, of the Bad River Tribe, including it's enterprises.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.2</num>
+      <heading>Exclusive Remedy</heading>
+      <text>If the Tribe elects to offer health and disability benefits to Tribal Employees, such benefits shall be the sole and exclusive remedy for claims and compensation resulting from any work related injury or illness. If the Tribe elects to offer a comprehensive health insurance coverage to its employees for off-duty injury or illness, the benefits and coverage contained in the policy shall be the exclusive remedy for claims and compensation resulting for any non-work related injury or illness. If the Tribe opts not to offer health and/or disability insurance to its employees then there shall be no remedy available from the Tribe for injury sustained at the workplace.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.3</num>
+      <heading>Index</heading>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.1</num>
+      <heading>Purpose</heading>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.2</num>
+      <heading>Exclusive Remedy</heading>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.3</num>
+      <heading>Index</heading>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.4</num>
+      <heading>Definitions</heading>
+      <annotations/>
+    </section>
+    <section>
+      <num>1100.5</num>
+      <heading>Conditions of Liability</heading>
+      <annotations/>
+    </section>
+  </container>
+</container>

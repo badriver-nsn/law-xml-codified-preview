@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>17</num>
+  <heading>Repatriation Committee</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1700</num>
+    <heading>Establishment and Operation of the Bad River Repatriation Committee</heading>
+    <section>
+      <num>1700.1</num>
+      <heading>Purpose</heading>
+      <text>The purpose behind the creation of a Tribal Repatriation Committee is to appoint a body of individuals to directly engage in activities designed to locate, inventory and repatriate human remains, funerary objects, sacred objects and objects of cultural patrimony which should rightfully be repatriated to the Bad River Band of Lake Superior Tribe of Chippewa Indians and which are currently being held in museums, educational institutions, and other agencies, offices or locations.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.2</num>
+      <heading>Scope</heading>
+      <text>This ordinance is applicable to Bad River Repatriation Committee as it relates to the Bad River Band's repatriation activities and efforts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.3</num>
+      <heading>Authority</heading>
+      <text>This ordinance is enacted pursuant to Article VI, Section 1(m) and 1(n) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.4</num>
+      <heading>Severability</heading>
+      <text>If any portion of this ordinance is found to be invalid for any reason, the remaining portions of this ordinance shall remain in effect.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.5</num>
+      <heading>Establishment and Composition</heading>
+      <para>
+        <num>(A)</num>
+        <text>
+          <u>Establishment of Repatriation Committee</u>
+        </text>
+        <text>The Bad River Band hereby establishes an entity to be known as the Bad River Repatriation Committee whose sole purpose shall be to engage in repatriation efforts and activities for and on behalf of the Bad River Band of Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>
+          <u>Composition of Repatriation Committee</u>
+        </text>
+        <text>The Committee shall consist of six permanent members, who shall be Bad River Tribal members appointed by the Bad River Tribal Council to serve a five year term. Tribal appointees shall be eligible for reappointment. Members of the Committee may simultaneously serve as members of the Tribal Council or on other Tribal boards, commissions or committees.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.6</num>
+      <heading>Removal</heading>
+      <text>Members of the Repatriation Committee may be removed by the Tribal Council for just cause. Members shall not be removed except after given a fair and impartial hearing including the opportunity to respond to and rebut specific allegation or allegations of misconduct. Members facing removal shall be afforded due process including the right to present reliable evidence and witnesses, confront adverse witnesses with cross-examination and be represented by counsel at no expense to the Band. An affirmative vote of at least five Tribal Council members after the close of the a hearing is required to remove a member of the Repatriation Committee.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.7</num>
+      <heading>Substitutions</heading>
+      <text>If a member to the Repatriation Committee is removed, resigns or is otherwise no longer a members of the Committee, he or she shall be replaced by his or her successor in the case of permanent member, or a reasonable substitute at the discretion of the Tribal Council if necessary, or succeeded by a new appointment made by the Tribal Council. When applicable, new appointees appointed pursuant to this section shall serve out the original term of their predecessor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.8</num>
+      <heading>Expenses/Stipends</heading>
+      <text>Members of the Repatriation Committee are authorized reimbursements for costs associated with official Committee business and shall be paid reasonable stipends at a rate to be determined by the Tribal Council. The Tribal Council shall authorize a sufficient amount of funding to meet the needs of the Repatriation Committee subject to availability of funds and an approved budget, including any necessary education and training pertaining to the Native American Graves Protection and Repatriation Act.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.9</num>
+      <heading>Reports</heading>
+      <text>The Repatriation Committee shall be invited to meet with the Tribal Council at least once per year and from time to time as necessary so as to report any information deemed important.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.10</num>
+      <heading>Oversight Powers and Duties</heading>
+      <para>
+        <num>(A)</num>
+        <text>Oversight.</text>
+        <text>It shall be the duty of the Repatriation Committee to meet at least quarterly, and more frequently if necessary so as to perform the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Review current and future repatriation activities on behalf of the Bad River Band of Lake Superior Tribe of Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review pertinent legislation, ordinances and regulations pertaining to the repatriation of human remains, funerary objects, sacred objects and objects of cultural patrimony which are affiliated with the Bad River Band of the Lake Superior Tribe of Chippewa Indians or the LaPointe Band of Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Review potential funding sources which may be utilized in regards to the repatriation of human remains, funerary objects, sacred objects and objects of cultural patrimony which are affiliated with the Bad River Band of the Lake Superior Tribe of Chippewa Indians or the LaPointe Band of Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Make reports and recommendations to the Bad River Tribal Council on the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Current status of any ongoing repatriation efforts and activities and the advisability of any future repatriation efforts and activities;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The current state of pertinent laws, regulations, ordinances and the like pertaining to Bad River's repatriation activities; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The availability of pertinent potential funding sources and the advisability of pursuing same.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Powers the Repatriation Committee shall have the following powers:</text>
+        <para>
+          <num>(1)</num>
+          <text>The authority to act as the "Indian Tribal Official" for purposes of exercising the Tribe's rights and responsibilities under the Native American Graves Protection and Repatriation Act.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The authority to meet, visit and consult with museums, educational institutions, and other agencies, offices and entities with regard to human remains, funerary objects, sacred objects and objects of cultural patrimony which are affiliated with the Bad River Band of the Lake Superior Tribe of Chippewa Indians or the LaPointe Band of Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The authority to gather information, including inventories, lists, and any other documents and items which pertain to human remains, funerary objects, sacred objects and objects of cultural patrimony which are affiliated with the Bad River Band of the Lake Superior Tribe of Chippewa Indians or the LaPointe Band of Chippewa Indians.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1700.11</num>
+      <heading>By-Laws</heading>
+      <text>The Repatriation Committee shall operate under the procedures listed below but may establish by-laws and procedures for the operation of the organization not inconsistent with those set forth in this section.</text>
+      <para>
+        <num>(1)</num>
+        <text>A quorum shall consist of at least three members.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A tape recording of all official meetings shall be made and kept for a period of at least two years.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Official meetings shall be noticed and made public.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Official actions shall be carried or defeated by majority vote.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Roberts Rules of Order shall be generally followed at all official meetings.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Tape recordings of official meetings shall be provided to the Tribal Council upon demand but do not have to provided to the public. The Tribal Council is empowered to release copies of the tape recordings or transcripts thereof to the public upon reasonable request. Reasonable and prudent attempts must be made to protect the confidentiality of the Repatriation Committee's activities where appropriate.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A chair and vice-chair shall be selected from within the members to officiate at meetings.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A secretary shall be selected from within the members to be responsible for producing and maintaining records of official meetings, minutes and so forth.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

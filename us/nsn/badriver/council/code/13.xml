@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>13</num>
+  <heading>Business Organizations</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1300</num>
+    <heading>Chapter of Non-Profit Economic Organizations</heading>
+    <section>
+      <num>1300.1</num>
+      <heading>Introduction</heading>
+      <text>The following is the ordinance authorizing the charter of subordinate non-profit economic organizations for the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.2</num>
+      <heading>Purpose</heading>
+      <text>The Bad River Band seeks to encourage the formation of charitable organizations within the exterior boundaries of the Bad River Reservation its works both on and off the Bad River Reservation. By this ordinance the Bad River Band authorizes the charter and regulation of charitable organizations.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.3</num>
+      <heading>Scope</heading>
+      <text>The chartering of charitable organizations applies to specifically designated tribally sanctioned non-profit operations and/or enterprises subordinate to the Bad River Tribal Government.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.4</num>
+      <heading>Authority</heading>
+      <text>This Ordinance is enacted pursuant to Article VI, Section 1(o) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians. Economic enterprises chartered under this chapter are enacted under the auspice of Section 16 of the Indian Reorganization Act of 1934, 25 United States Code Section 476 (governmental powers) and shall not be deemed to be managed or otherwise formed pursuant to the Band's Corporate Charter pursuant to 25 Untied States Code Section 477.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.5</num>
+      <heading>Severability</heading>
+      <text>If any portion of this ordinance is found to be invalid for any reason, the remaining portions of this ordinance shall remain in effect.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.6</num>
+      <heading>Non-Profit Charter Authorization</heading>
+      <text>Under this chapter the Tribal Council shall have the authority to chapter subordinate non- profit organizations.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.7</num>
+      <heading>Approval Authority</heading>
+      <text>The Tribal Council shall have the authority to approve organizational by-laws and any amendment made thereto. The Tribal Council shall require at a minimum the following from all economics entitles chartered under this chapter:</text>
+      <para>
+        <num>(a)</num>
+        <text>By-laws outlining the composition of the board of directors and officers, the powers and duties of said directors and officers. Proposed terms of office, provisions for the replacement and succession of directors and officers. Quorum requirements, and provisions for meetings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Creation of separate bank account done under the auspices of the Bad River Accounting Department.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A three year business plan including a market analysis concerning prospective business and a budget for the enterprise, board and officers, salaries, wages, fringe benefits.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Insurance plan, including unemployment, worker's compensation, liability, bonding, and other applicable insurance.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Space and warehousing area and cost analysis.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Employment policies (hiring, firing overtime, vacations, sick leave, health insurance etc.)</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Evaluation plan to determine profitability, success of business, criteria for continuing business operation.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>A plan to wrap up the organization and dispose of business assets and/or liabilities.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Any other market study, informational requirement deemed necessary by the Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.8</num>
+      <heading>Appointment Authority</heading>
+      <text>The Tribal Council shall have the authority to appoint board members to any non-profit organization chartered under this chapter. The boards shall serve at the pleasure of the Tribal Council. Board members may be removed without cause at any time by a majority vote of the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.9</num>
+      <heading>Authorization To Contract</heading>
+      <text>Subject to this chapter, the Tribal Council may delegate the authority to enter into and otherwise bind any non-profit organization chartered under this chapter and may also limit said authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.10</num>
+      <heading>Wavier of Sovereign Immunity</heading>
+      <text>The Tribal Council may authorize officials representing any non-profit organization</text>
+      <text>chartered under this chapter to waive immunity on behalf of the non-profit organization only from suit attendant up to a contract or obligated amount but not over a stated contract amount and shall not attach to Tribal assets other than those designated to the non-profit organization. In instances where the Tribal Council authorizes an organization chartered under this chapter, a specific contract shall be extended to the organization by the Tribal Council under separate letter. In no instance shall the contract limit be extended without the express written consent and authorization of the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.11</num>
+      <heading>Dispute Resolution</heading>
+      <text>Unless otherwise authorized beforehand by the Tribal Council, all non-profit organizations chartered under this chapter shall only consent to settle disputes in the Bad River Tribal Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.12</num>
+      <heading>Tort Liability</heading>
+      <text>Non-profit organizations chartered under this chapter shall maintain sufficient tort liability insurance commensurate with the risk involving their respective activity and specifically approved by the Tribal Council and shall not allow the insurer to invoke the defense of sovereign immunity up to the limit of such insurance coverage.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1300.13</num>
+      <heading>Name</heading>
+      <text>The chartered organization shall include the phrase "Non-Profit Business Organization Chartered by the Bad River Band" in it logo and letterhead.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>
