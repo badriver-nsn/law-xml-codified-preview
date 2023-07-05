@@ -1,0 +1,1426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lake Superior Fishing Agreement 2018-2028">
+  <heading>Lake Superior Fishing Agreement</heading>
+  <container>
+    <heading>PREAMBLE</heading>
+    <text>WHEREAS the State of Wisconsin Department of Natural Resources (hereafter referred to as the Department), the Bad River Band of Lake Superior Tribe of Chippewa Indians (hereafter referred to as the Bad River Tribe) and the Red Cliff Band of Lake Superior Chippewas (hereafter referred to as the Red Cliff Tribe, and collectively as the Tribes) agree that the Lake Superior fishery is an important resource which must be carefully managed, and</text>
+    <text>WHEREAS the Department and the Tribes agree that the management of the resource can best be handled on a cooperative basis, and</text>
+    <text>WHEREAS the Department and the Tribes establish as a goal a healthy and diverse Lake Superior ecosystem that supports fish species at levels needed to sustain viable fisheries, managed holistically through sounds science that respects reserved treaty rights and ensures the beneficial uses by Tribal and non-tribal fishers, families and communities for future generations, and</text>
+    <text>WHEREAS lake trout is the principal top predator in Lake Superior, the Parties agree that the goal is to maintain self-sustaining populations at or near carrying capacity, and</text>
+    <text>WHEREAS, recognizing the key role sea lamprey control plays in maintaining selfsustaining lake trout populations, the Parties agree to work in unison to support the U.S. Fish and Wildlife Service efforts via the Great Lakes Fisheries Commission in reducing sea lamprey abundance to levels agreed upon by the Commission, and</text>
+    <text>WHEREAS after extensive negotiations the Department and the Tribes have agreed on a Comprehensive Plan for the cooperative management of the Lake Superior fishery, and</text>
+    <text>WHEREAS the Department has agreed to exceed a 50% allocation of the lake trout quota in exchange for protection of the sport fishery and other concessions, and</text>
+    <text>WHEREAS it is the desire of the Department and the Tribes to reduce this Agreement to writing:</text>
+    <text>NOW THEREFORE the Department and the Tribes agree as follows:</text>
+  </container>
+  <para>
+    <num>I.</num>
+    <text>DEFINITIONS</text>
+    <para>
+      <num>A.</num>
+      <text>The following definitions shall apply to this Agreement:</text>
+      <para>
+        <num>1.</num>
+        <text>"Allocation" means that portion of any quota which is assigned to a specific Party, user group or individual fisher;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Angling" means fishing by means of hook and line in which the fish harvested are not sold or bartered;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Big boat" means a Coast Guard documented vessel with a weight of five or more tons equipped with a powered net lifter or of at least 20 feet in length;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Commercial net" means a net in which any portion of the catch is utilized for commercial purposes;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Catch Per Unit of Effort" or "CPE" means the average number of fish caught per</text>
+        <text>1,000 foot lift of gill net or per lift of trap net, and includes all dead and live fish;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Fishing day" means any day on which a Party's fisherman fishes gill nets or trap nets;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Fishing season" means the period of time during which it is lawful to harvest a given species of fish;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Fishing week" means any week in which a Party's fisherman lifts gill nets or trap nets;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Fishing year" means an annual year including both periods of time during which it is lawful to harvest a given species of fish and periods of time that are closed to harvest of that species;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Home use" means the non-commercial disposition of a fish by a Tribal member, including consumption by the member or member's family, or donation for charitable purposes;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Home use net" means a net that is used exclusively for home use harvest, and does not include nets which are set for commercial harvest;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Inspect" and "inspection" refer to such enforcement examinations as are not required to satisfy the probable cause and warrant requirements of the Fourth and Fourteenth Amendments. Inspections include the counting, measurement and observation of fish on commercial vessels at dockside or during on-water boardings by law enforcement personnel;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Joint monitoring" means a big boat lift monitored by at least one State representative and one Tribal representative;</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Joint patrol" means a law enforcement patrol that includes both a State and a Tribal warden;</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Lake Superior Technical Committee" means a committee convened by the Great Lakes Fishery Commission, of which the Parties may be members.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Lake Trout Statistical Catch at Age Model (SCAA)" means the model used to estimate fishery harvest, abundance, recruitment, mortality, gear selectivity, catchability, and assessment CPE since 1980 for wild lake trout of ages 4 and older in order to forecast abundance and estimate total allowable catch;</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Quota" means the total allowable catch across all Parties and user groups of a given species;</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Search" means such enforcement inspections as are required to satisfy the probable cause and warrant requirements of the Fourth and Fourteenth Amendments;</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"Small boat" means a boat that is not equipped with a mechanical lifter;</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Sport Fishing" means angling by non-tribal members.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"WI-1" and "WI-2" mean Wisconsin Statistical Districts l and 2 as defined in the Lake Trout Management Plan of the Lake Superior Technical Committee of the Lake Superior Committee of, the Great Lakes Fishery Commission. The line between the districts extends due north from the northernmost tip of Bark Point with WI-1 waters to the west and WI-2 waters to the east to the Michigan border. (See Appendix A)</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Latitudes and Longitudes contained in this Agreement are derived from NOAA Coast and Geodetic Survey nautical chart 14966, 28th edition, published in 2014. The horizontal datum used in this chart is North American Datum of 1983 (NAD 83) which is considered equivalent to the World Geodetic System 1984 (WGS 84). Global Positioning System (GPS) units used to find these coordinates should be set to one of these map datums to ensure the closest possible match with the stated coordinates.</text>
+    </para>
+  </para>
+  <para>
+    <num>II.</num>
+    <text>GENERAL PRINCIPLES</text>
+    <para>
+      <num>A.</num>
+      <text>Each Party shall enact regulations as necessary to facilitate and effectuate this Agreement. Each Party shall provide the other Parties copies of such regulations within 10 working days of their adoption. Nothing in this Agreement shall prohibit any Party from adopting more restrictive regulations than those prescribed herein.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Commercial licensees of the Tribes shall be free to fish the Wisconsin waters of Lake Superior, except as otherwise provided in this Agreement, and except as the Tribes may otherwise from time to time prescribe within the framework of this Agreement.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except insofar as prescribed by this Agreement, each Party retains sole discretion to subdivide its allocation of any quota among its user groups and prescribe such regulations that may be necessary or appropriate to ensure such Party's allocation is not exceeded.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Parties agree to meet at least once per year to discuss the implementation of the Agreement, including but not limited to the manner in which the joint law enforcement and biological monitoring provisions are accomplished. The meeting shall be held in September of each year. The Parties may also meet as needed upon the request of any other Party.</text>
+    </para>
+  </para>
+  <para>
+    <num>III.</num>
+    <text>BIOLOGICAL COMMITTEE</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties shall establish a State-Tribal "Biological Committee", the membership of which shall be comprised of biological representatives of each Party. The Biological Committee shall be advisory to the Parties as described herein.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Biological Committee shall be charged with the following responsibilities:</text>
+      <para>
+        <num>1.</num>
+        <text>Developing and revising assessment techniques and models as necessary or required by this Agreement;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Performing research as necessary to further the purposes of this Agreement;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Reviewing assessment data collected pursuant to this Agreement;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Reviewing reporting needs;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Calculating quotas established in this Agreement;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Exchanging documents, data and information as required by this Agreement;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Producing reports required by this Agreement; and</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Making other science-based recommendations as requested by the Parties.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Biological Committee will meet following the end of each Period (January, May and September) and report to the Parties on the status of native species management in Lake Superior. The Biological Committee may also meet additionally as needed or as requested by the Parties.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>As needed or as appropriate, the Biological Committee shall discuss the following items during the course of its annual meetings:</text>
+      <para>
+        <num>1.</num>
+        <text>Quotas for lean lake trout and other species for which quotas have been established;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Updates on a per period basis on all species harvested, including commercial, home use and angler harvest;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Home use harvest during the closed lean lake trout season;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Commercial harvest updates for cisco and whitefish;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Assessment activities;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Stocking;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Data to be shared with the Great Lakes Fishery Commission Lake Superior Technical Committee;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Data and research needs, including inter-party coordination of efforts;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Commercial reporting;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Annual reports;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Exchange of information;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Model development and improvements; and</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Any other matter for which the Biological Committee has been directed by the Parties to discuss</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>At a time to be mutually agreed, assessment fisheries for the coming fishing year shall be reviewed by members of the Biological Committee in the interest of promoting cooperation and efficient efforts.</text>
+    </para>
+  </para>
+  <para>
+    <num>IV.</num>
+    <text>FISHING SEASONS &amp; PERIODS</text>
+    <para>
+      <num>A.</num>
+      <text>Except for fish harvested for Tribal home use in conformity with Section X and whitefish harvested in conformity with Section VII, the fishing season for lean lake trout and whitefish shall open on November 28 and close on September 30 of the subsequent year. No nets shall be set for any species during the closed season for that species.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The commercial fishing season for lean lake trout and whitefish shall be divided into three periods:</text>
+      <para>
+        <num>1.</num>
+        <text>Period 1: November 28 through March 31;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Period 2: April 1 through May 31; and 3.  Period 3: June 1 through September 30.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The fishing season for cisco shall begin on January 1 of each year and end on December 31 of the same year.</text>
+    </para>
+  </para>
+  <para>
+    <num>V.</num>
+    <text>LEAN LAKE TROUT QUOTAS &amp; ALLOCATION</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties agree that the Biological Committee shall, within three years, develop a lean lake trout model for WI-1 for consideration by Parties, with annual progress reports made during the annual meeting of the Parties. Until such time as the Parties agree to adopt a system for calculating the WI-1 quota, the annual lean lake trout quota for WI-1 shall be fixed at 14,500 lean lake trout.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An annual lean lake trout quota for WI-2 shall be calculated every three years or as otherwise agreed to by the Parties using the Lake Trout Statistical Catch at Age Model.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To confine the lean lake trout mortality to a 42% total annual mortality rate, the annual lean lake trout quota for WI-2 shall be established as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>The Parties agree to estimate a quota based on an annual mortality of 42%.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Age-specific instantaneous commercial fishing mortality will be set so that total annual mortality will be 42% for the age most vulnerable to commercial harvest.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The recommended quota will be the average total harvest (sport and commercial) predicted for the next 3 years, based on assumed mortality rates and projected lake trout abundance as projected by the SCAA model.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Lean lake trout allocations shall be derived as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>The initial quotas for WI-1 and WI-2 shall first be reduced by the numbers needed for assessment (WI-1: 500 for State; WI-2: 1000 for State, 500 per Tribe).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The remaining fish shall be divided equally between the State and the Tribes (combined).</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribal allocation in each zone shall be apportioned equally between the Bad River and Red Cliff Tribes.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>At this time the Tribes have less need of an allocation in WI-1 and more of a need for an allocation in WI-2. Conversely, at this time the State has more of a need for an allocation in WI-1 and less of a need for an allocation in WI-2. Hence the Parties agree to a voluntary, nonprecedential exchange of fish between WI-1 and WI-2. Bad River shall annually retain 500 tags in WI-1 and in exchange for 3,000 additional tags in WI-2. Red Cliff shall annually retain 1,500 tags in WI-1 and in exchange for 2,000 additional tags in WI-2. The State's annual allocation in WI-1 shall increase by 5,000 and decrease in WI-2 by 5,000.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The State further agrees to annually transfer 6,000 tags from its WI-2 allocation to the Tribes in exchange for reduced commercial fishing within the Van Tassell's Point Restricted Fishing Area. The Tribes agree that 3,000 of these tags shall be allocated to the Bad River Tribe and that 3,000 of these tags shall be allocated to the Red Cliff.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>For the 2018, 2019 and 2020 seasons, the lake trout quota and allocation shall be as follows:</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td proof="needed"/>
+              <th colspan="3" class="center">WI-1</th>
+              <th colspan="3" class="center">WI-2</th>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <th>
+                <em>State</em>
+              </th>
+              <th>
+                <em>Bad River</em>
+              </th>
+              <th>
+                <em>Red Cliff</em>
+              </th>
+              <th>
+                <em>State</em>
+              </th>
+              <th>
+                <em>Bad River</em>
+              </th>
+              <th>
+                <em>Red Cliff</em>
+              </th>
+            </tr>
+            <tr>
+              <th>Initial Allocation</th>
+              <td>7,000</td>
+              <td>3,500</td>
+              <td>3,500</td>
+              <td>36,500</td>
+              <td>18,250</td>
+              <td>18,250</td>
+            </tr>
+            <tr>
+              <th>WI-1/WI-2 Tag Swap</th>
+              <td>+5,000</td>
+              <td>-3,000</td>
+              <td>-2,000</td>
+              <td>-5,000</td>
+              <td>+3,000</td>
+              <td>+2,000</td>
+            </tr>
+            <tr>
+              <th>Allocation Adjustment for WI-2</th>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>N/A</td>
+              <td>-6,000</td>
+              <td>+3,000</td>
+              <td>+3,000</td>
+            </tr>
+            <tr>
+              <th>Total Allocation:</th>
+              <th>12,000</th>
+              <th>500</th>
+              <th>1,500</th>
+              <th>25,500</th>
+              <th>24,250</th>
+              <th>23,250</th>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <th colspan="3" class="center">
+                <em>WI-1 TAC: 14,000</em>
+              </th>
+              <th colspan="3" class="center">
+                <em>WI-2 TAC: 73,000</em>
+              </th>
+            </tr>
+            <tr>
+              <th>Assessment Tags</th>
+              <td>500</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1,000</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <th colspan="3">Total WI-1 Assessment Tags: 500</th>
+              <th colspan="3">
+                <em>Total WI-2 Assessment Tags: 2,000</em>
+              </th>
+            </tr>
+            <tr>
+              <th>Total Quotas</th>
+              <td colspan="3">WI-1 Total: 14,500</td>
+              <td colspan="3">WI-2 Total: 75,000</td>
+            </tr>
+            <tr>
+              <th colspan="7" class="center">
+                <em>Combined Totals: 89,500</em>
+              </th>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>encompasses all State users, including sport fishers. The Tribal allocation encompasses all Tribal users, including home use fishers. Each Party retains discretion as to the portion of its lean lake trout allocation it will annually set aside for non-commercial purposes, but shall inform the other Parties of this number before the start of the lake trout fishing season.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Bad River agrees to annually reserve 900 fish from its Tribal allocation for home-use harvest activity. Red Cliff agrees to annually reserve 400 fish from its Tribal allocation for home-use fishing. Any unused portion of these fish can be reallocated to the commercial component of the fishery no later than August 1. When and if home use fish are reallocated to the commercial fishery, a sum of 100 fish will be retained from the available balance for home use activity during the remainder of the quota year. The following formula will be used to calculate effort limitations for utilization of reallocated home use fish.</text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="text-indent-4">Available Balance - 100</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-4">--------------------------------</td>
+                <td class="text-indent-4">X</td>
+                <td class="text-indent-4">1,000  =  Effort Limitation for</td>
+              </tr>
+              <tr>
+                <td class="text-indent-4">Period 3 CPE</td>
+                <td proof="needed"/>
+                <td class="text-indent-4">Reallocated Home Use Fish</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Should monitoring reveal that either the sport or home use fisheries have exceeded or are likely to exceed the amount allocated the responsible Party agrees to take emergency measures to prevent the excess harvest. Should such measures be unavailable the excess shall be deducted from the allocation of the responsible Party in the next fishing year.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VI.</num>
+    <text>WHITEFISH, CISCO &amp; MISCELLANEOUS SPECIES</text>
+    <para>
+      <num>A.</num>
+      <text>There shall be no restriction on the sale of any species of fish taken in Wisconsin waters of Lake Superior by Red Cliff and Bad River Tribal commercial fishers, except that the following species may not be sold: brown, brook, rainbow and splake trout; salmon; lake sturgeon; bass; yellow perch, northern pike and panfish.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The commercial harvest of walleye, rough fish and detrimental fish is permitted in accordance with Section XIV.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Experimental October Whitefish Season:</heading>
+      <text>The Parties agree to create an experimental October Whitefish Season, in which any Party may authorize participation by its licensed commercial fishers.</text>
+      <para>
+        <num>1.</num>
+        <text>The following regulations shall apply to participants in fishery, unless more restrictive regulations are adopted by the license-issuing Party:</text>
+        <para>
+          <num>b.</num>
+          <text>The season shall begin on October 3 and end on October 24, when all nets must be removed from the water.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Gillnets may be set in those areas of WI-2 that are less than 15 fathoms in depth and which are designated as non-exclusion zones denoted in the October Whitefish Fishery Zones and Spawning Sites map (Appendix B).</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Allowable gillnet gear types shall include suspended set, bottom set or legged nets with a minimum of 4 7/16" stretch measure.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Tribal big boat licenses and State commercial fishers may set up to 6,000 feet of the allowable gillnet gear types in total. Each gillnet shall be lifted a minimum of once every 48 hours.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>All lake trout incidentally caught must be tagged and retained. A licensed fisher cannot participate in the fishery if they do not possess lake trout tags.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The experiment shall be conducted during a five-year period, with an evaluation occurring in the fourth year of the study.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>At the conclusion of the fifth year, the Biological Committee shall prepare a report, which may include recommendations concerning the long-term continuation of the season and any regulatory changes that may be needed to address sustainability, enforceability, and other relevant factors.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Cisco.</heading>
+      <text>The Parties acknowledge that the State has implemented an annual cisco quota for WI-1 and WI-2, applicable to state-licensed fishers and effective for each of the 2018, 2019 and 2020 calendar years. As currently established, such quota shall not exceed 15 percent of the most recent estimate of the biomass of cisco in Wisconsin waters of Lake Superior. The quota is subject to evaluation every three years. Based on this schedule, the quota shall either be renewed or revised with an effective date of January 1, 2021. To meet this deadline, the evaluation process will begin in 2019.</text>
+      <text>The Tribes agree to participate in the evaluation of the cisco quota. Working cooperatively, the Parties agree to assess the current quota and make revisions as necessary. The Parties agree to implement the result of this process as a three-party quota, effective January 1, 2021. The Parties may additionally agree to the schedule by which the quota will be recalculated or revised in the future.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Parties agree that for purposes of future management of whitefish in Lake Superior that it would be desirable to develop Statistical Catch At Age (SCAA) models for whitefish and any other species as agreed to by the Parties. SCAA models shall be based on appropriate grids and stocks for the species at issue. Such models would not necessarily lead to developing quotas, but would be used to determine the health of the populations and sustainability of current harvest levels. The Biological Committee shall investigate the technical and financial requirements of developing this model and provide a report to the Parties no later than December 31, 2021.</text>
+    </para>
+  </para>
+  <para>
+    <num>VII.</num>
+    <text>COMMERCIAL FISHING EFFORT &amp; GEAR</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties agree that the Biological Committee shall undertake a study of each Parties' regulations with respect to fishing gear and effort for the purpose of achieving greater consistency and reducing biological impacts. Such a study shall assess current regulations and any potential options identified for the biological considerations, associated costs and other factors as appropriate. The Biological Committee shall prepare a report for consideration by the Parties by December 31, 2021, with annual progress reports provided at the annual meeting of the Parties. The Parties agree that trap regulations shall be the priority of the study during the first year.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Regulation of Gillnet Effort</text>
+      <para>
+        <num>1.</num>
+        <text>The Parties agree to regulate the amount of large mesh gill net that may be fished during each of the three periods in the fishing year. The allowable effort for a Party shall be based on the lean lake trout quota and the Catch Per Unit of Effort (CPE) monitored in the fishery of each Party. Allowable effort shall be calculated for each of the three periods in the fishing year according to the formula below, using the period dates established in Section IV.B, except as provided in Paragraph 5.</text>
+        <text>
+          <strong>
+            <u>Period 1</u>
+          </strong>
+        </text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="center">Available Allocation</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="center">-------------------------------------------------------------------------------</td>
+                <td class="text-indent-2">X 1000</td>
+                <td class="text-indent-2">=Period 1 Effort Limitation</td>
+              </tr>
+              <tr>
+                <td class="center">Period 1 CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>
+          <strong>
+            <u>Period 2</u>
+          </strong>
+        </text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="center">(Unused Effort from Period 1/1000) x Period 1 CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="center">-------------------------------------------------------------------------------</td>
+                <td class="text-indent-2">X 1000</td>
+                <td class="text-indent-2">=Period 2 Effort Limitation</td>
+              </tr>
+              <tr>
+                <td class="center">Period 2 CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>
+          <strong>
+            <u>Period 3</u>
+          </strong>
+        </text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="center">(Unused Effort from Period 2/1000) x Period 2 CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="center">-------------------------------------------------------------------------------</td>
+                <td class="text-indent-2">X 1000</td>
+                <td class="text-indent-2">=Period 3 Effort Limitation</td>
+              </tr>
+              <tr>
+                <td class="center">Period 3 CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>CPE is defined as the average number of lean lake trout caught per 1,000 foot lift of large mesh gill net. CPE includes all dead and live lake trout. A separate CPE shall be used for each period except as provided in Paragraph 5. CPE values for Periods 1 and 2 shall be decreased by 10% to account for return of live fish. CPE values for a given period shall be the average of the monitored CPE in that period during the preceding three years (hereafter referred to as three year rolling average) except as provided in Paragraph 3. Each Party shall use its own separately calculated CPE for each period, except that a Party failing to meet the standard set out in Paragraph 4 for a period shall be deemed to have the three-party weighted average CPE (CPE by lift) for that period in determining the remaining footage available, and that shall be its CPE for inclusion in the three-year rolling average.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Previous agreements have included the following provision: "If in any fishing year the actual jointly monitored CPE for any given period exceeds the rolling average CPE that was calculated for that period and year by more than 50%, the actual CPE shall be used in the following year rather than the rolling average. Unless the expected CPE in the next year is again exceeded by 50%, the CPE calculation for</text>
+        <text>the next year will go back to the rolling average, using the prior three years."</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>CPE values shall be based on a statistically adequate number of jointly monitored lifts, as joint monitoring is described in Section XI. A statistically adequate number will be obtained if during each period:</text>
+        <para>
+          <num>1.</num>
+          <text>At least 7% of all big boat lifts by each Party or at least one big boat lift per fishing week by a Party is jointly monitored; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>All big boats of that Party are jointly monitored at least once during a period in which they fish at least five days.</text>
+        </para>
+        <text>The foregoing standard for joint monitoring shall be met unless a failure is due to unforeseen or hazardous circumstances unanimously agreed by the Biological committee for CPEs or the Law Enforcement Committee for effort monitoring.</text>
+        <text>The Parties shall periodically evaluate the foregoing standard and may revise the standard if mutually agreeable.</text>
+        <text>If a signatory notifies the other Parties in a timely fashion that it will have difficulties in providing a monitor(s) the other Parties will temporarily (if possible) provide a monitor(s) until the initial Party can once again provide a monitor(s).</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Any Party shall have the option to calculate CPE and manage the allowable effort for Periods 1 and 2 combined. Allowable effort and CPE shall be calculated using procedures described in Paragraphs 1, 2, and 3 except that a single CPE for Periods 1 and 2 shall be calculated and used to compute allowable effort for both periods combined, using the following formulas.</text>
+        <text>
+          <strong>
+            <u>Periods 1 &amp; 2</u>
+          </strong>
+        </text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="center">Available Allocation</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="center">-------------------------------------------------------------------------------</td>
+                <td class="text-indent-2">X 1000</td>
+                <td class="text-indent-2">=Period (1+2) Effort Limitation</td>
+              </tr>
+              <tr>
+                <td class="center">Period (1+2) CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>
+          <strong>
+            <u>Period 3</u>
+          </strong>
+        </text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="center">(Unused Effort from Periods (1+2)/1000) x Periods (1+2) CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="center">-------------------------------------------------------------------------------</td>
+                <td>X 1000</td>
+                <td class="text-indent-1">=Period 3 Effort Limitation</td>
+              </tr>
+              <tr>
+                <td class="center">Period 3 CPE</td>
+                <td proof="needed"/>
+                <td proof="needed"/>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>The allowable effort for each individual fisherman shall be calculated in the same manner as the overall Tribal effort, except that the fishermen's individual fish allocation shall be used instead of the Tribal fish allocation.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The Parties agree to establish a system of effort control for large mesh gill nets placed in waters less than 330 feet (55 fathoms). Each Parties' system shall allocate and enforce individual fishing effort limits in terms of maximum net footage allowed, based upon individual lake trout tag allocations. These systems, employing individual seasonal harvest declarations, individual net length markings and bimonthly catch and effort reports, shall be administered in such manner that the sum of the net footage allocated to and actually fished by each individual fisher, multiplied by the CPE applicable to each period during which the footage is actually fished, does not exceed the Party's annual lake trout allocation. Except as provided in Paragraph 5, individual allocations shall be recalculated at the onset of Periods 2 and 3 to assure this result. The exceeding of an individual's annual allowable effort allocation shall be a prosecutable offense.</text>
+        <text>Individual fishing effort allocations may not be transferred except by writings signed by transferor and transferee, verified and dated by signature of the fisheries biologist and filed with that person who shall give notice to the other Parties to the Agreement upon reasonable request. No such transfer or claim of such transfer shall be entertained as a defense to a prosecution for exceeding fishing effort except where the written transfer was filed and verified prior to the date of the alleged offense.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Biological Committee and the wardens of the Parties shall meet within 20 days of the close of each of the three fishing periods to calculate the actual observed CPE from that period. The biologists shall also determine whether the CPE calculation shall result in the effort adjustments required by Section VII.B.6 for periods 2 and 3 or the exception to the CPE rolling average required by Section VII.B.1. The wardens will compare reported effort by grid by day with monitored effort.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Gillnet Requirements. The Parties agree that all gillnets shall have the following standard requirements.</text>
+      <para>
+        <num>1.</num>
+        <text>Each Party shall enact gillnet size standards that minimally require the following: Gill nets must be greater than 4 1/4 inch stretch measure (large mesh) or between 2 3/8 and 3 inch stretch measure (small mesh).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All large mesh gill nets shall have standard lifting requirements. Each gill net shall be lifted a minimum of (1) once every 72 hours (3 days) in open water less than 96 feet (16 fathoms) deep, or (2) once every 120 hours (5 days) in open water 96 to 210 feet (16 to 35 fathoms) deep, or (3) once every 240 hours (10 days) in open water more than 210 feet (35 fathoms) deep, or (4) once every 120 hours (5 days) in commercial ice fishing.</text>
+        <text>To the extent any Party's regulations recognize an inclement weather exception, the regulations shall be construed to place the burden on the commercial fisher to prove that inclement weather or similar dangers prevented the timely lifting of nets. Failure to use available means of notifying the appropriate law enforcement authority in advance shall constitute prima facie evidence that the failure to lift was not due to inclement weather. Regulations promulgated by any Party shall require fishers to lift nets as soon as practicable after the inclement weather subsides.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Trap Net Requirements. The Parties agree that all trap nets shall have standard fishing requirements.</text>
+      <para>
+        <num>1.</num>
+        <text>The pot or crib must be set, placed and operated in water not more than 90 feet (15 fathoms) deep.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each commercial fisher may use no more than 10 nets, pots or cribs.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Each trap net shall be lifted a minimum of once every 168 hours (7 days).</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The fish holding pot portion of the net shall be rendered inoperable during the closed season for whitefish and lake trout and shall have the webbing removed from the water within 3 days after the close of the lake trout (open) season.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Nets may not be placed or operated during the months of April through September if the mesh covering the top of hearts of the nets is less than 14 inch stretch.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Nets may not be placed or operated from a boat or watercraft from November 28 through March 31.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Nets fished in the Van Tassells Point restricted fishing area may harvest only whitefish and lake herring.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The location restrictions imposed in Par. VII(D)1. and Par. VII(E)1., below, may be reopened after three years upon a showing that there are one or more additional Tribal members ready and willing to operate entrapment gear but are precluded from obtaining an effective placement due to these restrictions.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>All Nets. The Parties agree that the following regulations shall apply to all nets.</text>
+      <para>
+        <num>1.</num>
+        <text>No trap net or gill net may be placed within ¼ mile of any other trap net or gill net.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Within 24 hours of setting any portion of a net, the net must be fully set and begin actively fishing.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Nets may not be placed or operated within 1/2 mile of a designated trout stream.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Gear Identification. The Parties agree that nets shall be marked in the following fashion.</text>
+      <para>
+        <num>1.</num>
+        <text>Tribal nets shall be marked in such way as to designate the fisher's license number and Tribe (specifically including the initials 'RC' or 'BR'). State nets shall be marked</text>
+        <text>in such way as to designate the fisher's license number.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All large mesh gill nets used by Tribal fishers shall include an informational tag placed in a secured pocket of the outside buoy. Each tag shall state the date on which the gill net was set, the length of the gang of nets and the license number of the fisher. Additionally, a minimum of five floats on each end of the gang shall be marked with the net owner's license number.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Each Party shall adopt ice buoy standards applicable to commercial fishers licensed by that Party that minimally require the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Ice buoys shall have an overall minimum length of 12 feet;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>At least two feet of any ice buoy shall be above water with the license number of the commercial fisherman visible; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The top foot of the above-water portion of an ice buoy shall be marked with a high visibility color.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VIII.</num>
+    <text>EXPERIMENTAL EFFORT CARRY-OVER SYSTEM</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties agree to an experimental, non-precedential large mesh gill net effort carry over system. A Party which so elects may carry over a portion of its unused lean lake trout effort from one fishing year into the subsequent fishing year only. The amount of effort to be carried over into the subsequent fishing year shall be determined based on the number of unused lake trout tags remaining at the end of prior fishing year. To derive this number, the Parties shall perform the following calculations:</text>
+      <para>
+        <num>1.</num>
+        <text>First, the electing Party shall determine the lower of the following:</text>
+        <para>
+          <num>a.</num>
+          <text>The number of lean lake trout tags left over and turned in at the end of the fishing year in which the Party has unused lake trout effort; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The number of lean lake trout effort unfished by that Party during the fishing year in which the Party has unused lake trout effort, calculated by dividing the amount of unused footage by that Party's CPE for period 3 of that year. When calculating this value the Parties shall use the quota from the fishing year in which the Party has unused lake trout effort.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Second, the lower of these values shall further be reduced by multiplying by 0.8531, reflecting an annual natural mortality rate of 0.1469, and which shall in no case exceed 25% of the Party's lean lake trout allocation for fishing season that has just ended.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Third, the value derived in subpar. 2 shall be divided by the period 3 CPE for the upcoming fishing year, and multiplied by 1000. The resulting number shall be the amount of effort available for carry over.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Experimental carry over effort calculated under this Section may only be used during period 3 of the subsequent fishing year. A Party electing to carry over effort shall report the amount of effort to be carried over to the other Parties by December 1 of each year, or within 10 days of receiving from the State the commercial monitoring summary for Wisconsin waters of Lake Superior fishing during period 3 (June 1 – September 30) of the fishing year in which the Party has unused effort, whichever is later. Such report by the electing Party of the intended carry over shall include the calculations used to derive the carry over value, which is subject to verification by any other Party.</text>
+    </para>
+  </para>
+  <para>
+    <num>IX.</num>
+    <text>HOME USE</text>
+    <para>
+      <num>A.</num>
+      <text>Tribal members are permitted to fish for home use in accordance with the provisions of this Section, and only when in possession of a valid home use license or Tribal ID issued by the appropriate Tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Fish harvested for home use may not be sold.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In no instance may a commercial boat fish both commercial and home use nets at the same time. If such home use nets are fished by a commercial licensee, they must be labeled as home use and contain the same information as required for commercial nets.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Sections VII.C.2. and VII.E.1. apply to gill nets set for home use.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Tribes will limit the use of home use gill nets to mesh sizes of 2 3/4" (stretch measure) or smaller, and 4 ½" (stretch measure) or larger.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>During the open season for lake trout, the Tribes agree to limit the length of home use nets to a total of 800 feet per fishers. During the closed season for lake trout, the Tribe agrees to limit the length of such nets to a total of 500 feet per fishers. At all times, said nets will be marked by at least one buoy at the lakeward end of the net and said buoy will contain information required by Tribal regulations.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>During the closed season for lake trout, the Tribes agree to restrict gill net placement so that no part of any net extends beyond 1,320 feet from the shoreline into waters adjacent to the Reservation. The Tribes will each provide quarterly home use fishing harvest information on forms supplied by the Department. Each Tribe will affix authorized tags to all species of game fish taken. The Tribes agree to review the reporting and enforcement systems with the Department at six month intervals after the effective date of this Agreement. The Department will compensate the Tribes for the actual costs of reporting and tagging.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>For purposes of enforcing these provisions, the Department will refer all detected violations of this Agreement to Tribal enforcement authorities. The Tribe will provide the Department with records of disposition in such cases. Department and Tribal enforcement personnel will endeavor to work cooperatively.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>The Parties have not yet concluded discussions concerning the use of home use nets in Chequamegon Bay. The Parties agree to continue their discussions, with a commitment to conclude them by March 31, 2019.</text>
+    </para>
+  </para>
+  <para>
+    <num>X.</num>
+    <text>LAKE TROUT TAGGING</text>
+    <para>
+      <num>A.</num>
+      <text>That portion of the State and Tribal lean lake trout allocation assigned to commercial fishing shall be enforced by the use of tags, distributed by the Department and the Tribes respectively.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The State and the Tribes shall enact and maintain secure systems for the tagging of lean lake trout. Such systems shall employ serially numbered, once-lockable tags, identifying the issuing Party, to be issued in fixed numbers to individual fishers pursuant to applicable allocations, and so recorded. Such systems shall further require lean lake trout harvested on open waters to be tagged, i.e., a tag affixed to the fish and securely locked, before docking, and lake trout harvested on the ice to be similarly tagged before being transported.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Such tags are to be valid only for the fishing year of issuance and are to be color coded so as to distinguish between any two consecutive fishing years. The Parties agree to coordinate the purchase of lake trout tags so that all Parties order the same color tag for a given fishing year. Additional costs borne by the Tribes in maintaining a color-coded system are to be compensated by the Department. All unused tags issued for the commercial harvest of lean lake trout shall be returned to the appropriate Party within 15 days of the close of the fishing season for that species.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>On or before November 1 of each fishing year each Party shall notify the others of the proportion of the Party's allocation it intends to devote to noncommercial fishing, and shall reduce the amount of tags available to commercial users by the amount so allocated.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>On or before November 15th of each year, each Party to inform the others in writing of the number, serial numbers and physical type of tag to be used in the coming fishing year.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>To the extent Tribal tagging regulations recognize an inclement weather exception, the regulations shall be construed to place the burden on the fisher to prove that inclement weather or similar dangers prevented the timely tagging of the fish. Failure to use available means of notifying Tribal wardens in advance, and the fact that fish were dressed, shall constitute prima facie evidence that the failure to tag was not due to inclement weather.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Tribes shall adopt regulations on the tagging of lake trout fillets which substantially conform to current State regulations, or shall adopt an alternative system for assuring the tagging of fillets, acceptable to the Department.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>No lake trout harvested in Michigan shall be docked in Wisconsin unless they are tagged in conformity with a tagging system assuring the secure issuance of a limited number of tags. If the tags involved are furnished by Michigan Tribal sources, the Tribes shall furnish the Department with the details and text of the regulations regulating the amount of tags and the methods of their issuance. If a secure system of limited tag issuance is not otherwise in place the Tribes agree to provide such a tagging system themselves, prescribed and enforced by their own ordinances.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>No combined catch of Wisconsin and Michigan lake trout shall be docked in Wisconsin. Nor shall any fisher lift nets in Wisconsin with Michigan lake trout aboard.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Tribal fishers fishing in Wisconsin Waters of Lake Superior shall not have tags for Michigan lake trout in their possession.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>All lean lake trout caught in gill nets set in waters less than 330 feet (55 fathoms) shall be kept and tagged except that live lake trout caught during Periods 1 and 2 may be returned to the water.</text>
+    </para>
+  </para>
+  <para>
+    <num>XI.</num>
+    <text>MONITORING</text>
+    <para>
+      <num>A.</num>
+      <text>The Tribes shall monitor the non-commercial harvest of lake trout, notify the State of the methods of monitoring employed and provide information on the harvest, according to the schedule in Section XVIII.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The State shall similarly monitor the sport harvest of lake trout, keep the Tribes apprised of the methods of monitoring employed and provide information on the harvest, according to the schedule Section XVIII. Tribal biologists/technicians may accompany State monitors.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Joint monitoring is defined as a big boat lift monitored by at least one State representative and one Tribal representative. Joint biological monitoring shall not be conducted in conjunction with any enforcement activity unless requested by the biological staffs. However, joint law enforcement effort checks on the ice have the option of monitoring lifts for CPE data provided that such data is shared with biological personnel from the appropriate management agency within 6 working days. The number of monitorings forming the base for CPE calculations is set forth in Section VII.B.4. Failure of one Party to participate in the joint monitoring session after being notified of the proposed joint monitoring shall not result in the discarding of the data from that monitoring session. The contact shall be made at a reasonable time, but no later than 9 p.m. on the evening before the monitoring, with the individuals involved in the monitoring effort. Contact occurs when the initiating Party leaves a voice message; speaks to the individual involved in the monitoring effort, or sends a text message (if text messaging services are enabled). The contact must be made at the number designated by the Party being contacted, which shall have a functioning answering machine or service attached. When the State monitors State-licensed commercial fishers, contact should be to both Bad River and Red Cliff.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Each Party shall be responsible for jointly monitoring a statistically adequate number of lifts per period. A statistically adequate number of lifts for the following gear types is separately obtained if during each period:</text>
+      <para>
+        <num>1.</num>
+        <text>
+          <em>For Gill Nets:</em>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>At least 7% of all big boat lifts by each Party or at least one big boat lift per fishing week by a Party is jointly monitored; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All big boats of that Party are jointly monitored at least once during a period in which they fish at least five days.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <em>For Trap Nets:</em>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>At least 7% of all lifts by each Party or at least one lift per fishing week by a Party is jointly monitored; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All boats of that Party are jointly monitored at least once during a period in which they fish.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XII.</num>
+    <text>REFUGES</text>
+    <para>
+      <num>A.</num>
+      <text>In the interest of strengthening and reestablishing self-sustaining stocks of lean lake trout, the Parties recognize the following refuges, closed to all fishing except as provided in this Section. A map of these refuges is included in Appendix A.</text>
+      <para>
+        <num>1.</num>
+        <text>The Gull Island Shoals Refuge is defined as all waters bounded by a line from the Gull Island light south to the northernmost point of Michigan Island and then proceeding in a southerly direction following the shoreline of Michigan Island to the Michigan Island light, thence southerly towards the center of the mouth of the Bad River in Ashland County to latitude 46°40'00"N, thence due east to the Michigan state line; thence northerly along the state line to latitude 46°59'18"N; from that point due west to longitude 90°26'30"W and thence due south to the Gull Island light the place of beginning.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Devils Island Refuge is defined as all waters wherein the bottom lies at a depth of less than 35 fathoms northerly from a line beginning two miles north of the Outer Island light and extending westerly to the north end of North Twin Island, thence along the shoreline to the south end of North Twin Island, thence southwesterly to the north end of South Twin Island, thence northerly to the north end of Rocky Island, thence along the north shoreline to the northwest point of Rocky Island, thence northwesterly to the south end of Devils Island, thence along the shoreline to the north end of Devils Island, thence westerly to a point 2.5 Statute miles north of the York Island Shoal bell buoy.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The following limited fisheries shall be allowed within the refuges:</text>
+      <para>
+        <num>1.</num>
+        <text>The following area is set aside solely for Tribal fishing during period 3 by boats not equipped with mechanical gill net lifters: Within grid 1410 and 1411, to a maximum depth of 110 feet, an area southwest of a line between a point at latitude 46°45'02"N, longitude 90°34'37"W and a point at latitude 46°40'00"N, longitude 90°28'57" W. Within this area a minimum of 25% of the lifts will be jointly monitored to determine C.P.E. Joint monitoring may be conducted by biological or law enforcement staff. Failure to reach the required number of monitorings will result in the action described in Section XI of the Agreement.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The area within the Devils Island refuge south of a line running northwesterly from the north tip of Devils Island to the refuges western boundary, thence due south to the southwest corner of the refuge and back to the north tip of Devils Island will be open to commercial fishing during Period 3 (June 1 to Sept. 30).</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XIII.</num>
+    <text>RESTRICTED SPORT FISHING AREAS &amp; RESERVATION SHORELINE AREAS</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties agree to establish the following restricted sport fishing areas, closed to net fishing except as provided below (See Appendix C):</text>
+      <para>
+        <num>1.</num>
+        <text>The Minnesota Boundary to Iron River. All waters from a line extending due north from the mouth of the Iron River, westerly to the Wisconsin-Minnesota state line wherein the bottom lies at a depth of less than 35 fathoms.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Iron River to Cranberry River. All waters from a line extending due north from the mouth of the Iron River, easterly to a line extending due north from the mouth of the Cranberry River at Herbster, wherein the bottom lies at a depth of less than 12 fathoms.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Cranberry River to Bark Point. All waters from a line extending due north from the mouth of the Cranberry River at Herbster, easterly to the Bark Point Roman Point line wherein the bottom lies at a depth of less than 12 fathoms.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Siskiwit Bay. All waters of Siskiwit Bay bounded by the shoreline and a line extending from Roman Point to Squaw Point.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Van Tassells Point. The area from the eastern most tip of Houghton Pt. northerly along the shore to the entry to the City of Bayfield's Marina, then easterly to Pt. Defroid on Madeline Is., then southerly along the western end of the Island to the tip of Grants Pt., then southerly to Chequamegon Pt. on the western tip of Long Island. Hence southwest to the eastern most tip on Houghton Pt.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Chequamegon Bay. All waters of Chequamegon Bay bounded by the shoreline and a line extending from the easterly most tip of Houghton Point, Bayfield County, to the Chequamegon Point light on the western tip of Long Island, Ashland County.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Saxon Harbor. Saxon Harbor area defined as all waters bounded by a line beginning at the mouth of Graveyard Creek extending due north to the southern boundary of the Gull Island Shoals refuge, thence due east to the Wisconsin-Michigan state line, thence southwesterly along the Wisconsin-Michigan state line to the mouth of the Montreal River, thence westerly along the mainland shoreline to the place of beginning.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Bark Bay. All waters of Bark Bay bounded by the shoreline and a line extending from Roman Point to Bark Point.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Sand Cut. All waters bounded by a line beginning at the Chequamegon Point light on the western end of Long Island extending northeasterly to the southernmost point of Madeline Island, thence due east 2.5 miles to 46°45'11"N 90°44'5"W, thence due south 1 mile to 46°44'22"N 90°44'5"W, thence due east to 46°44'22"N 90°36'06"W, thence due north to 46°45'11"N 90°36'06"W, thence due east to the western boundary of Gull Island Shoals refuge, thence southerly along the refuge boundary to latitude of 46°40'00"N, thence due west to the mainland shoreline, thence northwesterly along the shoreline to the place of beginning, except within one and one-half mile of the mainland shoreline in Ashland County.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Outer Island. Those waters less than 35 fathoms lying north of the latitude 46°59'18"N refuge line in grids 1212, 1312 , and east of longitude 90°25'00"W and south of latitude 47°05'00"N in grids 1311 and 1211.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Parties agree to the following reservation shoreline areas, subject to limitations on net fishing as described below (See Appendix C):</text>
+      <para>
+        <num>1.</num>
+        <text>Red Cliff Shoreline. Within ½ mile of shore on the westernmost boundary 46°55'8"N 90°59'37"W, extending along the 22.6 mile reservation shoreline to the southernmost boundary 46°50'45"N 90°47'17"W, no trap net fishing shall be allowed.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Bad River Shoreline. During periods 1, 2 &amp; 3, Bad River home use and commercial fishers may harvest within an area between the shoreline, and a boundary of which begins at 46°43'54"N 90°48'27"W, and thence heads in a line northeast to 46°44'16"N 90°48'07"W (along the eastern boundary of Van Tassell's Restricted Area), thence easterly to 46°43'27"N 90°45'52"W at a distance of ½ mile from the shoreline. From that point eastward, the area continues at a distance of 1 ½ miles from the shoreline, all the way to the eastern boundary of the Bad River Reservation. In order to accommodate a ¾ mile safe zone of passage within the Sand Cut Restricted Area, the far northwestern corner of the 1 ½ mile-wide portion of Bad River Shoreline Area is bounded by an arc between the points 46°43'54"N 90°45'26"W and 46°43'51"N 90°44'37"W.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Madeline Island Reservation Shoreline. Starting at the westernmost corner of the Trust parcel, extending due north 1 ½ mile to 46°52'56"N 90°35'22"W and continuing along a 1 ½ mile contour of the island to a maximum easterly</text>
+        <text>boundary of 46°50'56"N 90°32'15"W then circling southwest at a maximum southerly boundary of 46°49'27"N 90°34'26"W then due north to the island. This area shall be closed to entrapment gear.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The restrictions in this Section are subject to the following exceptions:</text>
+      <para>
+        <num>1.</num>
+        <text>Bark Bay shall be open for gillnets from April 1 through May 31 and for entrapment nets only for period 3.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Nets of mesh size no greater than 3 inch stretch measure shall be allowed in waters greater than 15 fathoms, between the mouth of the Brule River and the mouth of the Iron River, from November 15 through December 31. Float nets (minimum of 2 fathoms off the bottom) of no greater than 3 inch stretch measure shall be allowed from the mouth of the Iron River to Bark Point from October 15 - December 31.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Entrapment nets will be allowed in W-1 from one mile east of the mouth of the Iron River to one mile west of Bark Point only during periods 2 and 3, and lake trout must be less than 25 inches to be retained. Entrapment pots must be a minimum of one half mile apart.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Red Cliff fishers may harvest 5,000 pounds round weight of walleye annually within the restricted areas west of Bark Point and east of a point one mile west of Port Wing. Bad River fishers may harvest up to 50% of this amount through August 30 of each year. Red Cliff fishers will fish its 50% and any remainder of the 50% allowed to Bad River fishers, up to 5,000 pounds total, after August 30. Bad River fishers must report catches to the Red Cliff fisheries biologist by August 30 of each year. The 50% allowance to Bad River will be reviewed annually on the basis of biological stability and enforcement compliance.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Saxon Harbor Area shall be open to a herring fishery, employing nets no less than 2 1/2 and no greater than 3 inch stretch measure, at 14 fathoms and greater, from November 15 through December 15, for Tribal fishers and State fishers.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Nets may be fished under permit for the taking of rough or detrimental fish other than longnose suckers.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Waters starting at 46°45'11"N 90°44'5"W thence due south 1 mile to 46°44'22"N 90°44'5"W thence due east to 46°44'22"N 90°36'06"W, thence due north to 46°45'11"N 90°36'06"W thence due west to the starting coordinates of 46°45'11"N 90°44'5"W shall be closed to entrapment gear.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Within the Van Tassel's Area, recreational fishing equipment will only be allowed except lake herring float nets will be allowed, entrapment gear may be fished June 1 to August 15 for whitefish only, and State and Tribal bottom set large mesh gill nets (4.25 and 4 1/4 to 4 7/16 minimum size stretch measure for Tribal and State respectively) will be allowed from November 28 through March 31 of the following year north of latitude 46°45'00"N , minimum of 19 fathoms. Smelt pound nets will</text>
+        <text>be allowed by permit in this area from ice-out to May 15. Gill nets of not greater than 1 3/4 inch stretch measure may be fished in this area for smelt and herring under the ice but must be at least a half mile from the mouths of any trout streams.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XIV.</num>
+    <text>WHOLESALE FISH DEALERS</text>
+    <para>
+      <num>A.</num>
+      <text>Tribally licensed wholesalers engaged solely in the purchase of fish from Tribal fishers are subject to the enforcement provisions of this Agreement. Any violations of regulations adopted by a Tribe to effectuate the terms of this Agreement by Tribally licensed wholesalers engaged solely in the purchase of fish from Tribal fishers shall be prosecuted exclusively in Tribal courts.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribes shall adopt and enforce regulations substantially similar to State regulations, requiring periodic reports and inspections from Tribally licensed fish wholesalers.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal wholesalers wishing to purchase fish from State licensees shall so indicate to Tribal authorities, who shall promptly notify the Department. The status of wholesalers so signifying shall be governed by applicable law, outside this Agreement.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Tribes agrees to provide the Department with records of Tribal licensed wholesalers on a case-by-case basis upon a showing of law enforcement need.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Nothing herein is intended to prevent purchase of fish from State licensees by Tribal wholesalers.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The purchase of fish from State licensees by a wholesaler who has not declared his intent to purchase from State licensees, shall be punishable by license suspension in addition to other penalties. A second violation shall be punished by a 30 day suspension, in addition to other penalties.</text>
+    </para>
+  </para>
+  <para>
+    <num>XV.</num>
+    <text>REPORTING</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties shall require their commercial fishermen to file harvest reports for the periods ending the 15th and last day of each month, which include records of catch and effort by day and location by grid. The reports shall be required to be received by the appropriate management agency no later than the third working day following the reporting period. The Parties agree to provide each other a summary report showing effort by day by grid within 6 working days of the end of the month.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The State is in the process of developing an electronic reporting system, applicable to State licensed commercial fishers. The Tribes agree to aid State in the development of the system, which may include a mobile application. Until such time as the Tribes adopt a similar system, the Tribes agree to require their licensed commercial fishers to keep an onboard daily log that includes estimated catch weights per species, to be completed each day of fishing prior to docking.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribes agree to provide the Department the daily effort records of individual fishermen on a case-by-case basis upon a showing of law enforcement need.</text>
+    </para>
+  </para>
+  <para>
+    <num>XVI.</num>
+    <text>STOCKING</text>
+    <para>
+      <num>A.</num>
+      <text>The Parties agree that stocking can be a tool used for reestablishing, rehabilitating, and maintaining species within the Lake Superior system.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Parties, through the Biological Committee, may discuss stocking strategies as needed.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The State will remove no more than 300,000 lake trout eggs annually from the Gull Island refuge.</text>
+    </para>
+  </para>
+  <para>
+    <num>XVII.</num>
+    <text>ENFORCEMENT</text>
+    <para>
+      <num>A.</num>
+      <text>The Department agrees to enact the various restrictions of this Agreement as administrative regulations enforceable against non-Indian fishers. Violations by nonIndians shall be prosecuted exclusively in State courts.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribes agree to enact the various restrictions of this Agreement as ordinances enforceable against Tribal members. Violations by Tribal members shall be prosecuted exclusively in Tribal courts.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Identification</text>
+      <para>
+        <num>1.</num>
+        <text>At the beginning of each fishing year the Parties shall provide each other with a list of licensed fishermen and their license numbers.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>State wardens may approach a Tribal fishing boat when necessary for the purpose of obtaining the identification of occupants of the boat, previously unknown to the wardens, who are apparently engaged in fishing activities. Tribal fishermen, upon showing of proper authority, shall stop and cooperate with such inquiries.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>State wardens may similarly approach a Tribal fishing operation on the ice for the purpose of obtaining identification of persons, previously unknown to the wardens, apparently engaged in fishing activities. Tribal fishermen, upon showing of proper authority, shall cooperate with such inquiries.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Inspections</text>
+      <para>
+        <num>1.</num>
+        <text>The Tribes and their wardens shall have sole and exclusive authority to inspect Tribal fishermen, except as prescribed herein.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribes agree that inspections are an important tool of law enforcement. The Tribes shall conduct at least 25 inspections per fishing year, in an effective, unannounced manner, with due consideration given to State recommendations and specific tips. The Tribes shall exchange inspection reports with the Department on a bimonthly basis, whether or not inspections are conducted during such period.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>State wardens may on occasion, by agreement, accompany Tribal wardens during inspections and searches at landings and at sea. The Tribes shall allow at least 7 such inspections or searches during the fishing year.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Tribes and State shall cooperate with each other's proposals to assure that these accompanied inspections and searches are carried out in a secure and unannounced manner. The Tribes will provide the State with schedules, telephone numbers, contact persons and other information to facilitate action on short notice, provided that action is consistent with Tribal guidelines on inspection hours and procedures and provided further that the State provide reciprocal information to the Tribes.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>In addition to other penalties, a Tribal member's failure to allow an inspection or search authorized by this Agreement shall be punishable by license suspension. A second violation shall be punished by a suspension for not less than 30 fishing days.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Searches</text>
+      <para>
+        <num>1.</num>
+        <text>State wardens, having probable cause to believe that a Tribal fishing violation has occurred that day or is occurring on Lake Superior, may stop and contact the violators on the water in the following manner:</text>
+        <para>
+          <num>a.</num>
+          <text>Upon observing probable cause of the violation, State wardens shall immediately notify Tribal law enforcement authorities. Notice shall be given to the Tribe's designated representative, and shall include the nature of the suspected or observed violation and the location of the suspected violator(s) and State boat.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>State wardens shall use their best efforts to establish contact, including direct radio contact with the Tribe, radio and telephone contact through the sheriff's office or any other communications resource. A log shall be kept of all attempted contacts.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>State wardens may request permission from said suspected violator(s) to submit to a search of their vessel and its contents, provided that the State wardens, having probable cause of a violation, inform the suspected violator(s) of their reasons for believing that a violation has occurred and apprise the suspected violator(s) of their efforts to contact Tribal authorities. Suspects may refuse such search but shall then remain on site until a Tribal warden arrives to conduct an search.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>If State wardens cannot establish contact with Tribal law enforcement authorities within ½ hour, they shall apprise the suspected violator(s) of that fact and may then board and search the Tribal boat for evidence of a suspected violation.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>If the Tribal law enforcement boat can reach the location within 1 ½ hour of the</text>
+          <text>time that notice is given, the suspected violator(s) and the State boat shall proceed in the direction of a rendezvous, or, if it is deemed essential to establish the locus, or the violator refuses to proceed, shall remain at the location until Tribal law enforcement arrives.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Upon arrival of the Tribal law enforcement boat, boarding and search of the suspected violator(s)'s vessel shall be initiated by Tribal law enforcement authorities. State law enforcement officers may assist.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>If Tribal law enforcement authorities request and if the location of a Tribal boat in potential violation is within 2 hours of a suitable port, the suspected violator(s) will proceed to that location accompanied by the State boat. Boarding and search will occur as in Subparagraph f. above.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Should Tribal law enforcement be unable to arrive within 1 ½ hour of notice of contact, or fail to arrive within 30 minutes of the violator's arrival in port pursuant to Subparagraph g. above, boarding and search by State wardens may take place as in Subparagraph d. above.</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Should a search be conducted under this Section, State wardens shall promptly provide the Tribe with a report summarizing the procedures and results of such search.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>State wardens, having observed probable cause of a Tribal violation during fishing on the Lake Superior ice, and that evidence of a suspected violation is present, may conduct a search on the ice and seize evidence of the suspected violation, provided that they first inform the suspected violator(s) of their reasons for believing that a violation has occurred, and provided also that wardens are unable to contact and secure Tribal authorities to conduct the search.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>State wardens, having probable cause to believe that a Tribal fishing violation has occurred, and that evidence of the violation is to be found in a Tribal fisher's vehicle off the reservation, may stop such vehicle, and thereafter conduct a search and seize evidence of a violation, provided that they first inform the suspected violator(s) of their reasons for believing that a violation has occurred, and provided also that the stop occurs at such distance and time of day that it is not feasible to contact and secure Tribal authorities to conduct the search or Tribal law enforcement declines to conduct the search.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Seizures</text>
+      <para>
+        <num>1.</num>
+        <text>The State may seize Tribal fishing gear set in areas closed to Tribal fishing pursuant to this Agreement.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In any search authorized by this Agreement, the State may seize all evidence of a suspected violation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>State wardens shall promptly notify Tribal authorities of a seizure and turn over the seized items to Tribal authorities.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Items seized for evidence shall be held by Tribal authorities where pertinent, except that fishing gear-shall be returned to Tribal fishermen upon stipulation as to ownership and physical description.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Fish seized and determined by the court to be contraband shall not be returned to the defendant, his agents or immediate family members. Should the fish be sold, the proceeds shall not be paid to the defendant, his agents or immediate family members.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Exchange of Law Enforcement Information and Reports</text>
+      <para>
+        <num>1.</num>
+        <text>In the interest of assuring the effective enforcement necessary for the success of the management plan, the Parties agree to promptly exchange incident reports and other information bearing on violations and the disposition of reported commercial fishing cases.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon receipt of an incident report from State wardens, Tribal authorities shall notify the State within 10 working days of whether a citation is to be issued.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Upon final disposition of such a case the Tribe shall notify the State of such disposition within 10 working days.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Tribes shall provide State witnesses with notice of pertinent hearings and such witnesses shall cooperate in case development.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Upon receipt of an incident report from Tribal wardens involving non-tribal members, the State shall give the same notification as required of a Tribe in Paragraphs 2 and 3 above.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The Tribal attorney, or such other person as may be specifically designated, shall be responsible for providing the notification required in Paragraphs 2 and 3 above. Notification under Paragraph 5, and inquiries as to the current status of any case, shall be directed to this person.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The DNR staff attorney responsible for treaty fishing matters, or such other person as may be specifically designated, shall be responsible for providing the notification required under Paragraph 5. Notification under Paragraphs 2 and 3, and inquiries as to the status of any case, shall be directed to this person.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>At least once a year, on the 1st of February, the persons designated in Paragraphs 6 and 7 above shall provide each other with summaries of all cases within the last calendar year in their respective jurisdictions dealing with Lake Superior fishing.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The intent of the Parties is to have joint patrols including both State and Tribal</text>
+        <text>wardens become routine. In furtherance of this goal, Red Cliff agrees to make two wardens available for two days a week and Bad River agrees to make one warden available a minimum of one day a week, with additional days to be agreed upon between enforcement staffs. Department and Tribal wardens shall meet regularly and as frequently as necessary to establish and adjust patrol schedules.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>The Tribes each agree to authorize the other Tribe's wardens to enforce its ordinances pertaining to fishing in the Wisconsin waters of Lake Superior and to cite alleged violations thereof into its Tribal courts. In addition, the Bad River Tribes authorizes wardens of the Great Lakes Indian Fish and Wildlife Commission (GLIFWC) to so act with reference to Bad River members and references to Tribal wardens shall include GLIFWC wardens so authorized.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Where a Tribal warden on joint patrol shall decide to board a Tribal boat, inspect or seize a Tribal catch or take similar law enforcement action involving Tribal members, State wardens, acting under the direction of the Tribal warden, shall be authorized to participate in conducting boarding, inspection, seizure or other action, and it shall not be an objection to a subsequent citation or prosecution that State wardens so participated.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>The Parties agree to exchange monthly reports showing individual law enforcement effort, the number of joint law enforcement patrols, the officers involved, offenses discovered and a discussion of the effectiveness of the joint patrol system.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XVIII.</num>
+    <text>EXCHANGE OF BIOLOGICAL INFORMATION</text>
+    <para>
+      <num>A.</num>
+      <text>The purpose of this Section is to facilitate the timely and accurate exchange of routine fisheries information—including documents, data and other records—and identify persons responsible for implementing this protocol.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Nothing in this Agreement or Section is intended to violate or supersede federal or State open records laws or other laws applicable to the exchange of information. To the extent that such laws apply, this Section is intended to facilitate and streamline the process for requesting and responding to information requests.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as otherwise required by law or as otherwise agreed to by the appropriate Parties, no Party may make public or usurp legitimate propriety authorship of draft materials and reports that are intended for public dissemination.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>To the extent it is necessary for the cooperative management of the Lake Superior Fishery to share information deemed to be confidential by the providing Party, the Parties receiving such confidential information shall take all reasonable steps to maintain the confidentiality of such information to the extent allowed by law and, if release of such information is required by law, shall notify the providing Party prior to the release.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Parties recognize that routine exchange of information is important to the management of the shared Lake Superior fishery.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The following schedule is established for exchange of information collected on an annual basis.</text>
+      <para>
+        <num>1.</num>
+        <text>The results of assessments conducted in Wisconsin waters by each Party during the preceding year shall be shared in typical report format by May 1 of each year. Upon request of any Party, the Party receiving the request shall provide all Parties with a spreadsheet of the raw catch data which is summarized in the assessment report. Such data may include age, weight, length, sex, lamprey wounds and other pertinent data collected during the assessment.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each Tribe shall report its gill net effort to the WDNR on a period basis within 1 month after the conclusion of the fishing period which is the subject of the report. WDNR shall furnish the CPE report for that period to the Tribes as soon as practicable, but no more than 45 days, after effort information is received from both Tribes.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Each Party shall provide its anticipated general cruise schedules to the other Parties at least one week prior to the start of any stock assessment but no later than April 1 of each year. All Parties understand that inclement weather on Lake Superior may hinder cruise schedules and delay the beginning or completion of a scheduled assessment. Additionally, each Party shall strive to make accommodations to allow for biological staff from any other Party to attend a scheduled assessment day, if desired.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Each Party which conducts creel surveys to gauge angler harvest on Lake Superior in a given year shall provide to the other Parties a creel report by May 1 of the following year.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Each Tribe shall report annual harvest from home use nets to the other Parties by May 1 of the following year. Home use statistics shall be reported by calendar year.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Each Party shall report its annual commercial harvest to the other Parties by May 1 of the following year. Reported harvest shall be compiled by species, month, grid, gear type, effort and total pounds harvested. Commercial statistics shall be reported by calendar year.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Data forms of jointly-monitored gill net and trap net lifts shall be available to any Party within two weeks of a request.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Each Party shall report its past and planned stocking activities to the other Parties by December 31 of each calendar year. Reports should include number and locations of release by species, clipping information, and age of fish released.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Data and reports shall be delivered in a manner that reasonably informs the appropriate staff of each Party that the information requested has been provided and confirms receipt.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Biological Committee shall provide the Parties with a final report for the TAC recommendation no later than July 1 every three years.</text>
+    </para>
+  </para>
+  <para>
+    <num>XIX.</num>
+    <text>MISCELLANEOUS/ADMINISTRATIVE PROVISIONS</text>
+    <para>
+      <num>A.</num>
+      <text>Because of the mutual concern for fair and effective enforcement, the Parties agree to meet within 10 days of a request by either Party to discuss concerns relating to enforcement of the terms of this Agreement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Agreement, if not reaffirmed or renegotiated, will terminate on November 27, 2028.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This Agreement may be terminated for any reason by any Party upon 60-days notice to the other Parties, or amended upon the agreement of all Parties. Such notice of termination or agreed-upon amendments shall be in writing and subscribed by the respective signatory to this Agreement or his/her successor. Grounds for amendment or termination may include, but are not limited to, the emergence of unforeseen biological circumstances or adverse conditions which, if left unaddressed and the opinion of the initiating Party, could jeopardize the sustainability of the Lake Superior resources or health, safety and welfare of resource users. The Parties agree to exercise good faith in apprising each other of grievances and problems in implementing this Agreement as may arise, and to cooperate to resolve such matters to the greatest extent possible.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>While the Parties agree to abide by the terms of this Agreement, nothing in this Agreement shall be construed as a waiver by any Party of its rights in the Lake Superior fishery.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Unless specifically stated otherwise, this Agreement supersedes all earlier agreements. This Agreement also incorporates any such amendments the Parties may enter into during the effective dates of the Agreement.</text>
+    </para>
+  </para>
+</document>
