@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="OFF-RESERVATION CONSERVATION CODE OF THE ____________________________________________">
-  <heading>OFF-RESERVATION CONSERVATION CODE OF THE ____________________________________________</heading>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Off-Reservation Conservation Code of the ____________________________________________">
+  <heading>Off-Reservation Conservation Code of the ____________________________________________</heading>
   <container>
     <prefix>CHAPTER</prefix>
     <num>1</num>
@@ -6925,9 +6925,9 @@
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
+    <prefix>CHAPTER</prefix>
     <num>13</num>
-    <heading>Miscellaneous Wild Animal Harvesting Regulations</heading>
+    <heading>MISCELLANEOUS WILD ANIMAL HARVESTING REGULATIONS</heading>
     <section>
       <num>13.01</num>
       <heading>Purpose.</heading>
@@ -9091,7 +9091,8 @@
             <th colspan="2">SHOOTING HOURS</th>
           </tr>
           <tr>
-            <th class="text-indent-4">START     END</th>
+            <th class="text-indent-4">START</th>
+            <th class="text-indent-4">END</th>
           </tr>
         </thead>
         <tbody>
@@ -9166,24 +9167,24 @@
         </tbody>
       </table>
     </text>
-    <text>Tribal HuntingAugust Hours  2019</text>
     <text><strong>Table 2. </strong>Hunting hours for the 1837 ceded territory in Minnesota.</text>
     <text>
       <table>
         <thead>
           <tr>
             <th rowspan="2">SPECIES</th>
-            <th colspan="2">SHOOTING HOURS</th>
+            <th colspan="3">SHOOTING HOURS</th>
           </tr>
           <tr>
-            <th class="text-indent-4">START     END</th>
+            <th class="text-indent-4">START</th>
+            <th class="text-indent-4">END</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td>Bear</td>
-            <td rowspan="17">½ hour before sunrise</td>
-            <td rowspan="17">½ hour after sunset</td>
+            <td colspan="2" rowspan="17">½ hour before sunrise</td>
+            <td>½ hour after sunset</td>
           </tr>
           <tr>
             <td>Deer</td>
@@ -9235,7 +9236,7 @@
           </tr>
           <tr>
             <td>Raccoon</td>
-            <td proof="needed" colspan="2" rowspan="4">
+            <td proof="needed" colspan="3" rowspan="4">
               <p>24 hours per day*</p>
               <p>*During Minnesota regular firearm deer season:</p>
               <p>½ hour before sunrise – ½ hour after sunset</p>
@@ -9252,8 +9253,8 @@
           </tr>
           <tr>
             <td>Night Hunting Deer</td>
-            <td rowspan="2">½ hour after sunset</td>
-            <td rowspan="2">½ hour before sunrise</td>
+            <td colspan="2" rowspan="2">½ hour after sunset</td>
+            <td>½ hour before sunrise</td>
           </tr>
           <tr>
             <td>Night Hunting Bear</td>
