@@ -17,7 +17,7 @@
         <repository name="badriver-nsn/law-xml" commit="35f063c5727055f4aa7cd3b48e4b7a91f524c652"/>
       </repositories>
       <platform version="2.11.0" reproducible="false"/>
-      <build-date>2023-07-07</build-date>
+      <build-date>2023-07-10</build-date>
       <codified-date>0001-01-01</codified-date>
     </build>
   </meta>
