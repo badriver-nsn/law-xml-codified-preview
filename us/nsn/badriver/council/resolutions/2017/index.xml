@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2017">
+  <heading>2017 Resolutions</heading>
+  <xi:include href="./9-19-17-885.xml"/>
+  <xi:include href="./6-29-17-839.xml"/>
+  <xi:include href="./6-7-17-828.xml"/>
+</collection>
