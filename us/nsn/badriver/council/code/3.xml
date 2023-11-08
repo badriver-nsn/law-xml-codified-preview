@@ -8,7 +8,7 @@
     <heading>Conservation; General Provision</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>3.01</num>
+      <num>3.00.010</num>
       <heading>Waste</heading>
       <text>No member shall unreasonably waste, injure destroy, or impair natural resources while engaging in the exercise of on-reservation hunting, fishing, trapping, or gathering rights, or in the disposition of any animal or plant taken in such exercise, whether such disposition is on-reservation or off-reservation, and whether such waste, injury, destruction or impairment is accomplished by act or by omission.</text>
       <text>
@@ -17,11 +17,11 @@
         </strong>
       </text>
       <annotations>
-        <annotation type="Prior Codifications">§3.01 was formerly codified as 300.01</annotation>
+        <annotation type="Prior Codifications">§3.00.010 was formerly codified as 300.01</annotation>
       </annotations>
     </section>
     <section>
-      <num>3.02</num>
+      <num>3.00.020</num>
       <heading>Trespass</heading>
       <para>
         <num>(a)</num>
@@ -37,11 +37,11 @@
         </strong>
       </text>
       <annotations>
-        <annotation type="Prior Codifications">§3.02 was formerly codified as 300.02</annotation>
+        <annotation type="Prior Codifications">§3.00.020 was formerly codified as 300.02</annotation>
       </annotations>
     </section>
     <section>
-      <num>3.03</num>
+      <num>3.00.030</num>
       <heading>Tampering with Equipment of Another</heading>
       <text>No member shall molest, disturb, tamper with or in any way otherwise interfere with any hunting, fishing, trapping or gathering equipment or bait, used, set, or placed by another member without that member's permission.</text>
       <text>
@@ -50,11 +50,11 @@
         </strong>
       </text>
       <annotations>
-        <annotation type="Prior Codifications">§3.03 was formerly codified as 300.03</annotation>
+        <annotation type="Prior Codifications">§3.00.030 was formerly codified as 300.03</annotation>
       </annotations>
     </section>
     <section>
-      <num>3.04</num>
+      <num>3.00.040</num>
       <heading>- Endangered and Threatened Species</heading>
       <text>No member shall take, transport, possess, process, or sell any plant or animal species contained on either the federal (50 CFR Sections 17.11 and 17.12) or the State of Wisconsin (Wis. Adm. Code NR 27.03) endangered or threatened species list, as may be amended from time to time, or any species which the Tribal Council may declare as endangered or threatened, and no tag as provided for in Chapter 305 shall be issued or affixed to the carcass or part thereof of any such species.</text>
       <text>
@@ -63,11 +63,11 @@
         </strong>
       </text>
       <annotations>
-        <annotation type="Prior Codifications">§3.04 was formerly codified as 300.4</annotation>
+        <annotation type="Prior Codifications">§3.00.040 was formerly codified as 300.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>3.05</num>
+      <num>3.00.050</num>
       <heading>Forfeitures</heading>
       <para>
         <num>(a)</num>
@@ -87,7 +87,7 @@
         </text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§3.05 was formerly codified as 300.50</annotation>
+        <annotation type="Prior Codifications">§3.00.050 was formerly codified as 300.50</annotation>
       </annotations>
     </section>
   </container>
@@ -153,14 +153,14 @@
       <num>3.01.040</num>
       <heading>Season, Limits</heading>
       <text>Open seasons and limits are established as follows:</text>
-      <text>Open Season 		Limit</text>
+      <text>Open Season     Limit</text>
       <para>
         <num>(a)</num>
-        <text>Member	July 1 - January 31	None</text>
+        <text>Member  July 1 - January 31 None</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Non-member none 			N/A</text>
+        <text>Non-member none       N/A</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§3.01.040 was formerly codified as 301.4</annotation>
@@ -946,7 +946,6 @@
     <prefix>Chapter</prefix>
     <section>
       <num>3.15.010</num>
-      <heading>_</heading>
       <text>Any nets set in any river, stream, or other navigable water within the boundaries of the Bad River Reservation shall be sunk so as not to impede navigation.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.15.010 was formerly codified as 315.1</annotation>
@@ -954,7 +953,6 @@
     </section>
     <section>
       <num>3.15.020</num>
-      <heading>_</heading>
       <text>Any net in river, stream, or other navigable water within the boundaries of the Bad River Reservation shall be marked with the name of the owner and the words "Bad River" or an abbreviation thereof, indicating the tribal membership of the owner. Such marking shall be of an indelible nature and shall be placed on a red or white buoy, jug or other floating device.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.15.020 was formerly codified as 315.2</annotation>
@@ -962,7 +960,6 @@
     </section>
     <section>
       <num>3.15.030</num>
-      <heading>_</heading>
       <text>Any person who sets a net in any river, stream, or other navigable water within the Bad River Reservation shall check the net and remove all fish therefrom at least once within each twenty-four hour period.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.15.030 was formerly codified as 315.3</annotation>
@@ -970,7 +967,6 @@
     </section>
     <section>
       <num>3.15.040</num>
-      <heading>_</heading>
       <text>Except as provided in <cite path="§3.15.050">Section 3.15.050</cite>, no person shall remove fish from the net of another without authorization by the owner of the net. Any owner giving authorization shall so notify the Bad River Conservation Office.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.15.040 was formerly codified as 315.4</annotation>
@@ -978,7 +974,6 @@
     </section>
     <section>
       <num>3.15.050</num>
-      <heading>_</heading>
       <text>Tribal conservation wardens may inspect any net found in any river, stream, or other navigable waters within the Bad River Reservation. Any net which a warden reasonably suspects to be in violation of <cite path="§3.15.010">Section 3.15.010</cite>, 315.2, or 315.3 of this ordinance may be immediately seized, including any fish therein.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.15.050 was formerly codified as 315.5</annotation>
@@ -986,7 +981,6 @@
     </section>
     <section>
       <num>3.15.060</num>
-      <heading>_</heading>
       <text>For a first violation of Sections 315.1, 315.2, or 315.3 of this ordinance, a civil forfeiture not to exceed $50.00 may be assessed, and the net used forfeited. For a second violation and any violation subsequent thereto of Sections 315.1, 2 or 3, a civil forfeiture not to exceed $100.00 may be assessed and the net used forfeited. For a violation of <cite path="§3.15.040">Section 3.15.040</cite> of this ordinance a civil forfeiture not to exceed $100.00 may be assessed. For a second violation and any violation subsequent thereto of <cite path="§3.15.040">Section 3.15.040</cite> a civil forfeiture of $200.00 may be assessed. In addition to the forfeiture assessed for a violation of <cite path="§3.15.040">Section 3.15.040</cite>, the court may order restitution made to the person whose net was subject to the unauthorized taking.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.15.060 was formerly codified as 315.6</annotation>
@@ -2836,7 +2830,7 @@
       <para>
         <num>(m)</num>
         <text>"Tagging" is defined as affixing a tag to a fish and locking it securely.</text>
-        <text>(mn) 	"Trap net" means a device constructed of netting, which may employ wings or wings and leads, directing the movement of fish through a tunnel of netting into inner hearts or built-in fore bays wherein the fish are trapped by their own movement. Such nets may be referred to as shallow trap nets, submarine trap nets, or deep-water trap nets.</text>
+        <text>(mn)  "Trap net" means a device constructed of netting, which may employ wings or wings and leads, directing the movement of fish through a tunnel of netting into inner hearts or built-in fore bays wherein the fish are trapped by their own movement. Such nets may be referred to as shallow trap nets, submarine trap nets, or deep-water trap nets.</text>
         <text>This <cite path="3|325|325.2|(mn)">Section 325.2(mn)</cite> is added pursuant to Resolution No. 12-5-01-193</text>
       </para>
       <para>
@@ -3557,13 +3551,13 @@
       <text>Season 2:</text>
       <text>Unused effort from season 1</text>
       <text>--------------------------- x Season 1</text>
-      <text>1,000		CPE</text>
+      <text>1,000   CPE</text>
       <text>------------------------------------------- x 1,000 = Season 2 Effort Limitation</text>
       <text>Season 2 CPE</text>
       <text>Season 3:</text>
       <text>Unused effort from Season 2</text>
       <text>--------------------------- x Season 2</text>
-      <text>1,000		CPE</text>
+      <text>1,000   CPE</text>
       <text>------------------------------------------- x 1,000 = Season 3 Effort Limitation</text>
       <text>Season 3 CPE</text>
       <text>
@@ -3581,7 +3575,7 @@
       <text>Any unused portion of fish reserved for home use under <cite path="§3.25.130">Section 3.25.130</cite> can be reallocated to the commercial component of the fishery no later than August 1. When and if home use fish are reallocated to the commercial fishery, a sum of 100 fish will be retained from the available balance for home use activity during the remainder of the quota year. The following formula will used to calculate effort limitations for utilization of reallocated home use fish.</text>
       <text>Available balance - 100</text>
       <text>------------------------------------------- x 1,000 = Effort Limitation for</text>
-      <text>Season 3 CPE			Reallocated Home Use Fish</text>
+      <text>Season 3 CPE      Reallocated Home Use Fish</text>
       <text>The effort limitation for reallocated home use fish will then be allocated among individual licensees.</text>
       <text><cite path="3|3.25">This chapter</cite> 325 ENACTED BY RESOLUTION #3-7-84-59/AMENDED BY RESOLUTION 3-20-86-11/11-5-86- 79/REPEALED AND RECREATED BY RESOLUTION #8-16-90-132</text>
       <text>AMENDED BY RESOLUTION #1-10-07-13</text>
@@ -3676,7 +3670,7 @@
       <para>
         <num>(h)</num>
         <text>"Member" means a member of the Tribe.</text>
-        <text>(hn)	"Small boat" means a boat in operational condition.</text>
+        <text>(hn)  "Small boat" means a boat in operational condition.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -4339,7 +4333,7 @@
           <text><u>Less than 36 feet long Buoyant Apparatus</u> is required when:</text>
           <text>Crew of 4 or more persons anywhere on Lake Superior, or</text>
           <text>Crew of or fewer persons and more than 12miles from the shore of the mainland or an island.</text>
-          <text><u>36 Feet or Longer	Buoyant Apparatus</u> is required when:</text>
+          <text><u>36 Feet or Longer  Buoyant Apparatus</u> is required when:</text>
           <text>Crew of or fewer persons and less than 12 miles from the shore of the mainland or an island.</text>
           <text><u>Inflatable Buoyant Apparatus</u> is required when:</text>
           <text>Crew of 4 or more persons anywhere on Lake Superior, or Crew of 3 or fewer persons and more than 12 miles from the shore of the mainland or an island.</text>
@@ -4966,7 +4960,7 @@
       </para>
       <text>
         <strong>
-          <em>Legislative History: 	Chapter 327 The Bad River Sloughs Protection Ordinance was originally enacted in its entirety on February 4, 1998 by Tribal Council Resolution Number 2-4-98-114. The ordinance was amended by Tribal Council Resolution Number __________ as follows: The ordinance was renumbered to Chapter 340 and sections 327.7 and 327.9(b) (now 340.7 and 340.9(b) respectively) were amended to include the Bad River Police Department.</em>
+          <em>Legislative History:  Chapter 327 The Bad River Sloughs Protection Ordinance was originally enacted in its entirety on February 4, 1998 by Tribal Council Resolution Number 2-4-98-114. The ordinance was amended by Tribal Council Resolution Number __________ as follows: The ordinance was renumbered to Chapter 340 and sections 327.7 and 327.9(b) (now 340.7 and 340.9(b) respectively) were amended to include the Bad River Police Department.</em>
         </strong>
       </text>
       <annotations>
@@ -5959,7 +5953,6 @@
     </section>
     <section>
       <num>3.51.290</num>
-      <heading>_</heading>
       <text>The Tribal Council and any Tribal entity shall not be liable for any injury suffered in connection with a race, derby, trail, or route under <cite path="§3.51.290">this section</cite>. The Tribal entity hosting an event shall post the provisions of this paragraph in a conspicuous place, readily accessible to all contestants and spectators, and shall assist in locating and identifying persons responsible for injuries that may occur.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.51.290 was formerly codified as 351.5.4</annotation>
@@ -5967,7 +5960,6 @@
     </section>
     <section>
       <num>3.51.300</num>
-      <heading>_</heading>
       <text>Sub<cite path="3|351|351.3.5|(c)">section 351.3.5(c)</cite> does not apply to snowmobiles competing in a sanctioned race or derby.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.51.300 was formerly codified as 351.5.5</annotation>
@@ -5975,7 +5967,6 @@
     </section>
     <section>
       <num>3.51.310</num>
-      <heading>_</heading>
       <text>All snowmobile competing in a sanctioned race or derby shall be equipped with a device wired into the motor's electrical system that will shut off the motor if the operator falls from the snowmobile or otherwise leaves the operator's position. The device shall be capable of being attached to the body of the operator and shall be so attached when the snowmobile is being operated.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.51.310 was formerly codified as 351.5.6</annotation>
@@ -6499,7 +6490,6 @@
     </section>
     <section>
       <num>3.52.180</num>
-      <heading>_</heading>
       <text>Go-Carts: Go-Carts shall only be operated on specifically designated go-cart recreational facilities or on fee land owned or managed by the operator or his or her immediate family.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.52.180 was formerly codified as 352.3.5</annotation>
@@ -6682,7 +6672,6 @@
     </section>
     <section>
       <num>3.52.320</num>
-      <heading>_</heading>
       <text>
         <strong>The penalties for violations of any provision of <cite path="3|3.52">this chapter</cite> shall be as follows:</strong>
       </text>
@@ -6704,7 +6693,6 @@
     </section>
     <section>
       <num>3.52.330</num>
-      <heading>_</heading>
       <text>Any ATV or other equipment used in violation of <cite path="3|3.52">this chapter</cite> may be seized by any Officer authorized to enforce this ordinance and ordered forfeited by the Tribal Court.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.52.330 was formerly codified as 352.10.2</annotation>
@@ -6712,7 +6700,6 @@
     </section>
     <section>
       <num>3.52.340</num>
-      <heading>_</heading>
       <text>Neither the imposition of a penalty as provided for above, nor satisfaction of the terms of such penalty, shall constitute a waiver or release from any additional civil or criminal liabilities, including but not limited to liability for damages to natural resources.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.52.340 was formerly codified as 352.10.3</annotation>
@@ -6758,7 +6745,6 @@
     </section>
     <section>
       <num>3.52.400</num>
-      <heading>_</heading>
       <text>
         <strong>Terms as used in <cite path="3|3.52">this chapter</cite> are defined as follows:</strong>
       </text>
@@ -7413,7 +7399,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>.	A Disposers of Computers and Computer Accessories shall, prior to recycling them through the Bad River Recycling and Solid Waste Department, attempt to reuse or recycle the computer through reuse, donation, resale, materials exchange, or through a computer recycler. Information on material exchange or computer recyclers may be obtained from the Bad River Recycling and Solid Waste Department.</text>
+          <text>. A Disposers of Computers and Computer Accessories shall, prior to recycling them through the Bad River Recycling and Solid Waste Department, attempt to reuse or recycle the computer through reuse, donation, resale, materials exchange, or through a computer recycler. Information on material exchange or computer recyclers may be obtained from the Bad River Recycling and Solid Waste Department.</text>
         </para>
       </para>
       <para>
