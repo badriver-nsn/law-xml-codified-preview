@@ -1,136 +1,158 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>16</num>
   <heading>Fireworks</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
-    <num>1600</num>
+    <num>16.00</num>
     <heading>Regulating the Use of Fireworks</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>1600.1</num>
-      <heading>INTRODUCTION</heading>
+      <num>16.01</num>
+      <heading>Introduction</heading>
       <text>The following is the ordinance regulating the use of fireworks within the exterior boundaries of the Bad River Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.01 was formerly codified as 1600.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.2</num>
-      <heading>PURPOSE</heading>
+      <num>16.02</num>
+      <heading>Purpose</heading>
       <text>The Bad River Band seeks to limit the noise and disruption caused by the indiscriminate use of fireworks at inappropriate times.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.02 was formerly codified as 1600.2</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.3</num>
-      <heading>SCOPE</heading>
+      <num>16.03</num>
+      <heading>Scope</heading>
       <text>The ordinance applies to all tribally controlled lands within the exterior boundaries of the Bad River Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.03 was formerly codified as 1600.3</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.4</num>
-      <heading>AUTHORITY</heading>
+      <num>16.04</num>
+      <heading>Authority</heading>
       <text>This ordinance is enacted pursuant to Article VI, Section 1(q) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.04 was formerly codified as 1600.4</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.5</num>
-      <heading>SEVERABILITY</heading>
+      <num>16.05</num>
+      <heading>Severability</heading>
       <text>If any portion of this ordinance is found to be invalid for any reason, the remaining portions of this ordinance shall remain in effect.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.05 was formerly codified as 1600.5</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.6</num>
-      <heading>DEFINITIONS</heading>
+      <num>16.06</num>
+      <heading>Definitions</heading>
       <para>
-        <num>(1)</num>
-        <text>In <cite path="16|1600">this Chapter</cite>, "fireworks" means anything manufactured, processed or packaged for exploding, emitting sparks or combustion which does not have another common use, but does not include any of the following:</text>
+        <num>(a)</num>
+        <text>In <cite path="16|16.00">this chapter</cite>, "fireworks" means anything manufactured, processed or packaged for exploding, emitting sparks or combustion which does not have another common use, but does not include any of the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Fuel or a lubricant.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>A firearm cartridge or shotgun shell.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A flare used or possessed or sold for use as a signal in an emergency or in the operation of a railway, aircraft, water craft or motor vehicle.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>A match, cigarette lighter, stove, furnace, candle, lantern or space heater.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>A cap containing not more than one-quarter grain of explosive mixture, if the cap is used or possessed or sold for use in a device which prevents direct bodily contact with a cap when it is in place for explosion.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>A toy snake which contains no mercury.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>A model rocket engine.</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>Tobacco and a tobacco product.</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>A sparkler on a wire or wood stick not exceeding 36 inches in length that is designed to produce audible or visible effects or to produce audible and visible effects.</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text>A device designed to spray out paper confetti or streamers and which contains less than one-quarter grain of explosive mixture.</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(11)</num>
           <text>A fuseless device that is designed to produce audible or visible effects or audible and visible effects, and that contains less than one-quarter grain of explosive mixture.</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(12)</num>
           <text>A device that is designed primarily to burn pyrotechnic smoke-producing mixtures, at a controlled rate, and that produces audible or visible effects, or audible and visible effects.</text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(13)</num>
           <text>A cylindrical fountain that consists of one or more tubes and that is classified by the federal department of transportation as a Division 1.4 explosive, as defined in 49 CFR 173.50.</text>
         </para>
         <para>
-          <num>(n)</num>
+          <num>(14)</num>
           <text>A cone fountain that is classified by the federal department of transportation as a Division 1.4 explosive, as defined in 49 CFR 173.50.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.06 was formerly codified as 1600.6</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.7</num>
-      <heading>AUTHORIZED DAYS AND HOURS OF THE USE OF FIREWORKS</heading>
-      <text>Under <cite path="16|1600">this Chapter</cite> the Tribal Council shall establish days and hours which authorize or prohibit the use of fireworks on the Bad River Reservation.</text>
-      <annotations/>
+      <num>16.07</num>
+      <heading>Authorized Days and Hours of the Use of Fireworks</heading>
+      <text>Under <cite path="16|16.00">this chapter</cite> the Tribal Council shall establish days and hours which authorize or prohibit the use of fireworks on the Bad River Reservation.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§16.07 was formerly codified as 1600.7</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.8</num>
-      <heading>RETAIL AND WHOLESALE SALE OF FIREWORKS</heading>
+      <num>16.08</num>
+      <heading>Retail and Wholesale Sale of Fireworks</heading>
       <text>Reserved</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.08 was formerly codified as 1600.8</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.9</num>
-      <heading>AGE LIMIT FOR PURCHASE, SALE AND POSSESSION OF FIREWORKS</heading>
+      <num>16.09</num>
+      <heading>Age Limit for Purchase, Sale and Possession of Fireworks</heading>
       <text>Reserved</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.09 was formerly codified as 1600.9</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.10</num>
-      <heading>PENALTIES</heading>
+      <num>16.10</num>
+      <heading>Penalties</heading>
       <text>Violation of this ordinance shall carry a forfeiture of not more than $50.00 for the first offense; $100.00 for the Second offense within 3 years of the first offense; and $500.00 per incident, for three or more offenses within 3 years of the first offense. Violators are also subject to immediate confiscation of all fireworks in the immediate possession of the violator or violators.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.10 was formerly codified as 1600.10</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1600.11</num>
-      <heading>JURISDICTION</heading>
+      <num>16.11</num>
+      <heading>Jurisdiction</heading>
       <text>The Bad River Tribal Court shall have exclusive jurisdiction over violations and disposition of matters arising from this ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§16.11 was formerly codified as 1600.11</annotation>
+      </annotations>
     </section>
   </container>
 </container>

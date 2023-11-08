@@ -1,124 +1,136 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>14</num>
   <heading>General Conduct</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
-    <num>1450</num>
+    <num>14.50</num>
     <heading>Motor Vehicle Code</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>1450.1</num>
+      <num>14.50.010</num>
       <heading>Scope and Purpose</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>This code is-applicable to all persons within the exterior boundaries of the Bad 	River Band of Lake Superior Chippewa Reservation.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The purpose of this code is to govern the activities of all persons within the exterior boundaries of the Bad River Band of Lake Superior Chippewa Reservation with respect to motor vehicles owned or operated on the reservation by incorporating and applying state law to such activities.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.010 was formerly codified as 1450.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1450.2</num>
+      <num>14.50.020</num>
       <heading>Definitions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The definitions contained in Chapter 340 of the Wisconsin Statutes are hereby incorporated by reference as if fully set forth herein.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>As used in this ordinance:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>"Member" means a person enrolled or eligible for enrollment in the Bad River Band of Lake Superior Indians.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>"Non-criminal" means punishable by forfeiture or loss of privileges and not by fine or imprisonment.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>"Reservation" means the area within the exterior boundaries of the Bad River Band of Lake Superior Indians.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>"Tribe" means the Bad River Band of Lake Superior Indians.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>"Tribal Court" means the Bad River Tribal Court.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.020 was formerly codified as 1450.2</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1450.3</num>
+      <num>14.50.030</num>
       <heading>Rules of the Road</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>No person may operate a motor vehicle on the reservation in violation of the rules of the road contained in Chapter 346 of the Wisconsin Statutes.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>No person may operate a vehicle on the reservation in violation of a traffic regulation adopted by a local authority pursuant to the powers conferred upon such local authority by Chapter 349 of the Wisconsin Statutes. The Program Manager of the Tribal Roads Department is hereby authorized to set and post speed limits on all tribally maintained roads. No person may operate a motor vehicle on such tribally maintained roads in excess of any speed limit posted.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.030 was formerly codified as 1450.3</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1450.4</num>
+      <num>14.50.040</num>
       <heading>Equipment of Vehicles</heading>
       <text>No person may operate a motor vehicle on the reservation in violation of the vehicle equipment provisions in Chapter 347 of the Wisconsin Statutes.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.040 was formerly codified as 1450.4</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1450.5</num>
+      <num>14.50.050</num>
       <heading>Size, Weight, and Load</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>No member mom nay operate a motor vehicle on the reservation in violation of the vehicle size, weight, and load provisions contained in Chapter 348 of the Wisconsin Statutes.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Program Manager of the Tribal Roads Department is hereby authorized to set and post size, weight, and load limits on all tribally maintained roads. No person may operate a motor vehicle on such tribally maintained roads in violation of any limits so posted.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.050 was formerly codified as 1450.5</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1450.6</num>
+      <num>14.50.060</num>
       <heading>Jurisdiction and Procedure</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Jurisdiction is hereby conferred upon the Tribal Court over prosecutions for violations of this Code.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Proceedings for violation of this Code shall be governed by Section 2 of the Tribal Court Code, Tribal Code Chapters 101-123, provided, that proceedings may be instituted by issuance of a Wisconsin uniform traffic citation pursuant to Wisconsin Statutes <cite path="3|345|345.11">Sec. 345.11</cite> citing a violation of the state law provision incorporated into this Code by reference.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.060 was formerly codified as 1450.6</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1450.7</num>
+      <num>14.50.070</num>
       <heading>Enforcement and Penalties</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The provisions of this Code shall be enforced by all Tribal law enforcement officers. In addition, every officer empowered by the laws of the State of Wisconsin to issue uniform citations for violation of Wisconsin traffic regulations is hereby authorized to enforce this Code and issue citations to Tribal Court.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Violations of the provisions of this Code shall be punishable by a civil remedial money penalty of no more than the lesser of $500.00 or the maximum forfeiture authorized by state law for the offense.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>In addition to a civil remedial money penalty, the Tribal Court shall suspend or revoke driving privileges on the reservation in accordance with Wisconsin Statutes <cite path="3|343|343.25">Sec. 343.25</cite> through 343.40, provided, that no demerit points resulted from the action of a state court for an incident which occurred on the reservation.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Notice of any conviction under this Code shall be sent by the Clerk of Court to the Wisconsin Department of Transportation.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>In addition to a civil remedial money penalty, the court upon conviction shall order payment of court costs in the amount of $25.00 and justice system surcharge/court support system surcharge (25% of civil remedial money penalty).</text>
       </para>
       <text>
@@ -130,7 +142,9 @@
       <text>The Tribe asserts its concurrent jurisdiction over the non-criminal activities of non- members with respect to motor vehicles owned or operated by non-members on the reservation.</text>
       <text>The Tribal Council expressly determines that the activities of non-members with respect to motor vehicles, many of whom are residents of the Reservation or employees of the Tribe, directly effects the health and welfare of the Tribe's members, and the ability of the tribal government to carry on its operations in an orderly manner.</text>
       <text>This Code incorporates and applies state law in effect at the time of adoption. Any changes in state law shall automatically be incorporated and applied in this Code. It is contemplated that the governing body of the Tribe shall periodically review any changes in state law and reject any changes that do not further the purposes of this Code</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.50.070 was formerly codified as 1450.7</annotation>
+      </annotations>
     </section>
   </container>
 </container>

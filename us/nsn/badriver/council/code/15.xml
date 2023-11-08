@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>15</num>
   <heading>Motor Vehicle Licensing</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
-    <num>1500</num>
+    <num>15.00</num>
     <heading>Bad River Band of Wisconsin Chippewa Motor Vehicle Licensing Ordinance</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>1500.1</num>
+      <num>15.01</num>
       <heading>Introduction</heading>
       <text>This ordinance of the Bad River Tribal Code Chapter 1500 is enacted by the Bad River Band to provide for the establishment of standards for the registration of motor vehicles, the establishment of lawful regulations for the operation of motor vehicle and other related purposes.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.01 was formerly codified as 1500.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.2</num>
+      <num>15.02</num>
       <heading>Purpose</heading>
       <text>The Bad River Tribal Council of the Bad River Band finds that the issuance of motor vehicle license plates within the boundaries of the Reservation has a direct affect on the political integrity, economic security and health and welfare of its members. Pursuant to the inherent powers of the Bad River Band to exercise civil regulatory authority in such matters and pursuant to the authorities vested in the Bad River Tribal Council, the Bad River Band Tribal Council has enacted this Bad River Band Licensing Ordinance regulating motor vehicle licensing within the exterior boundaries of the Bad River Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02 was formerly codified as 1500.2</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.3</num>
+      <num>15.03</num>
       <heading>Application</heading>
       <text>The provisions of the Bad River Band Motor Vehicle Licensing Chapter 1500 shall apply to vehicle owners who are enrolled members of the Bad River Tribe and who reside or are domicile within the exterior boundaries of the Bad River Reservation, and to vehicles owned and operated by the governing body of the Bad River Band.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.03 was formerly codified as 1500.3</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.4</num>
+      <num>15.04</num>
       <heading>Authority</heading>
       <text>This ordinance is enacted pursuant to Article VI, Sections 1(j) (m) and (q) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.04 was formerly codified as 1500.4</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.5</num>
+      <num>15.05</num>
       <heading>Definitions</heading>
       <text>In this Ordinance the following words and phrases have the designated meanings unless a different meaning is expressly provided or the content clearly indicates a different meaning. For the purpose of effectuating the terms of this Ordinance, any terms not defined herein shall have the meanings given to them in the statutes of the State of Wisconsin, as amended from time to time, except where the context otherwise indicates or requires.</text>
       <para>
@@ -79,16 +87,20 @@
         <num>(k)</num>
         <text>"Vehicle" means every device in, upon or by which any person or property is or may be transported or drawn upon a highway or roadway.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.05 was formerly codified as 1500.5</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.6</num>
+      <num>15.06</num>
       <heading>Application Process: Forms</heading>
       <text>Application for original registration and for renewal or registration shall be made to the Registrar of Motor Vehicles of the Bad River Band upon forms prescribed by the Registrar and shall be accompanied by the required fee.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.06 was formerly codified as 1500.6</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.6.1</num>
+      <num>15.07</num>
       <heading>Required Information</heading>
       <text>Applications for original registration of a vehicle shall contain the following information:</text>
       <para>
@@ -107,16 +119,20 @@
         <num>(d)</num>
         <text>Such further information as the Registrar may reasonably require to determine whether the vehicle is by law entitled to registration or to determine the proper registration fee for the vehicle.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.07 was formerly codified as 1500.6.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.7</num>
-      <heading>Application by Person under the age of 18</heading>
-      <text>If the applicant for a certificate of registration is under 18 years of age, with the minimum age being 16 years of age, the application shall be accompanied by a statement made and signed by the applicant's father or mother if he or she has custody of the applicant; or if neither parent has custody, then by the person or guardian having such custody, stating that the applicant has the consent of such person or guardian to register such vehicle in the applicant's name. The signature of such statement shall not impute any liability for the negligence or misconduct of the applicant while operating such motor vehicle on the highways. Any person who violates <cite path="15|1500|1500.7">this Section</cite> may be fined not more than $500.00 or given same equivalency in community service, or both.</text>
-      <annotations/>
+      <num>15.08</num>
+      <heading>Application by Person Under the Age of 18</heading>
+      <text>If the applicant for a certificate of registration is under 18 years of age, with the minimum age being 16 years of age, the application shall be accompanied by a statement made and signed by the applicant's father or mother if he or she has custody of the applicant; or if neither parent has custody, then by the person or guardian having such custody, stating that the applicant has the consent of such person or guardian to register such vehicle in the applicant's name. The signature of such statement shall not impute any liability for the negligence or misconduct of the applicant while operating such motor vehicle on the highways. Any person who violates <cite path="§15.08">this section</cite> may be fined not more than $500.00 or given same equivalency in community service, or both.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.08 was formerly codified as 1500.7</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.8</num>
+      <num>15.09</num>
       <heading>Ground for Refusing Registration</heading>
       <text>The Registrar shall refuse registration of a vehicle under the following circumstances:</text>
       <para>
@@ -135,10 +151,12 @@
         <num>(d)</num>
         <text>Because certificate of title is a prerequisite to registration of the vehicle and the applicant does not hold a valid certificate of title and is not entitled to the issuance of a certificate of title, because of court order or death;</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.09 was formerly codified as 1500.8</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.9</num>
+      <num>15.10</num>
       <heading>Vehicles Exempt from Registration</heading>
       <text>A vehicle, even though operated upon roads within the boundaries of this Reservation, is exempt from registration when such vehicle:</text>
       <para>
@@ -177,59 +195,85 @@
         <num>(i)</num>
         <text>Is a motor vehicle currently registered in another Jurisdiction.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.10 was formerly codified as 1500.9</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.10</num>
+      <num>15.11</num>
       <heading>Twenty-One Day Permit; Temporary Registration Certificate</heading>
       <text>A vehicle may be operated by a private person after the date of purchase of such vehicle by such private person, or after the date such person moved to this reservation or lands subject to the jurisdiction of the Band, once the person has obtained a temporary 21-day registration certificate from the Registrar. The owner shall make application upon forms prescribed by the Registrar and remit the required fee of $5.00. All temporary certificates shall be affixed to the interior rear window of the vehicle, on the driver's side of the car and in a position as not to obstruct the rear- view of any driver. The Registrar shall issue no other temporary registration certificate upon expiration of the first 21-day permit.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.11 was formerly codified as 1500.10</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.11</num>
-      <heading>Penalty for operating Unregistered or Improperly Registered Vehicle(s)</heading>
+      <num>15.12</num>
+      <heading>Penalty for Operating Unregistered or Improperly Registered Vehicle(s)</heading>
       <text>It is unlawful for any person to operate or for an owner to consent to being operated on any public roads within the boundaries of the Bad River Reservation, any motor vehicle, trailer, or semi-trailer or any other vehicle for which a registration fee is specifically prescribed unless at the time or operation the vehicle in question either is registered with the Bad River Reservation another jurisdiction or is exempt from registration.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.12 was formerly codified as 1500.11</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.11.1</num>
+      <num>15.13</num>
+      <heading>_</heading>
       <text>All vehicles subject to renewal or registration may be operated provided that application of re-registration has been made.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.13 was formerly codified as 1500.11.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.11.2</num>
-      <text>Any person violating <cite path="15|1500|1500.6">Section 1500.6</cite> shall forfeit not less than $5.00 and not more the $50.00 or given the same in equivalent community service, or both. In addition to imposing the penalty, the Court shall order the offender to make application for registration or re-registration and to pay the fee thereof.</text>
-      <annotations/>
+      <num>15.14</num>
+      <heading>_</heading>
+      <text>Any person violating <cite path="§15.06">Section 15.06</cite> shall forfeit not less than $5.00 and not more the $50.00 or given the same in equivalent community service, or both. In addition to imposing the penalty, the Court shall order the offender to make application for registration or re-registration and to pay the fee thereof.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.14 was formerly codified as 1500.11.2</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.11.3</num>
+      <num>15.15</num>
+      <heading>_</heading>
       <text>If upon order of the Court to register or re-register a vehicle, the owner fails to comply, the Court shall have the power to order any Law Enforcement Officer of the Band to seize and impound any unregistered or unlawfully registered vehicle and to hold the same until such time as the owner complies with the provisions of the Ordinance. All costs incurred in the holding, seizure by order of the Court shall be the responsibility of the owner of the vehicle. Any vehicle held, under seizure order of the Court, shall be sold at public auction to the highest bidder, including all costs incurred, after thirty (30) days from the date of seizure. The owner of the vehicle shall have the right to petition the Court to half any public auction of the said vehicle at any time prior to the sale. The Registrar shall have the right to reject any and all bids received which are less than the appraised value of the vehicle. All proceeds derived from the sale of the vehicle, less all costs incurred by the Band, including monetary assessments shall become the property of the legal owner as defined in <cite path="2|2|2.07">Section 2.07</cite>. If, in the event the sale does not realize sufficient proceeds to pay off any security interest, the owner prior to auction shall be obligated to the secured party for any balance remaining. The secured party shall have the right to be listed as a secured party on any other certificate of title for a vehicle registered in the Band and owned by the person prior to the auction. Nothing herein shall limit the rights of any secured party in any vehicle registered with the Bad River Band.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.15 was formerly codified as 1500.11.3</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.12</num>
+      <num>15.16</num>
       <heading>Removal of Registration</heading>
       <text>Applications for removal of registration shall contain the information required in <cite path="3|3|3.01">Section 3.01</cite> for application or such parts thereof as the Registrar deems necessary to assure the proper registration of the vehicle.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.16 was formerly codified as 1500.12</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.13</num>
+      <num>15.17</num>
       <heading>Design, Procurement and Issuance of Registration Plates</heading>
       <text>The Band shall determine the size, color, and design of registration plates provided the plates contain visible evidence of the period for which the vehicle is registered, as well as being a means of identifying the specific vehicle or owner that the plates were issued to.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.17 was formerly codified as 1500.13</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.13.1</num>
+      <num>15.18</num>
+      <heading>_</heading>
       <text>The Registrar upon registering a vehicle pursuant to this ordinance shall issue and deliver prepaid to the applicant two registration plates for each automobile, motor truck, motor bus, school bus or self-propelled mobile home registered.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.18 was formerly codified as 1500.13.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.13.2</num>
+      <num>15.19</num>
+      <heading>_</heading>
       <text>The Registrar upon registering a trailer or motorcycle pursuant to this Ordinance shall issue and deliver prepaid to the applicant one registration plate.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.19 was formerly codified as 1500.13.2</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.13.3</num>
+      <num>15.20</num>
+      <heading>_</heading>
       <text>All registration plates shall have displayed upon the following:</text>
       <para>
         <num>(a)</num>
@@ -247,41 +291,53 @@
         <num>(d)</num>
         <text>All registration plates issued shall be treated with a reflective material.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.20 was formerly codified as 1500.13.3</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.14</num>
+      <num>15.21</num>
       <heading>Issuance of Replacement or Duplicate Plates</heading>
       <text>Whenever current registration plates are illegible, lost or destroyed the owner of the vehicle shall immediately apply to the Registrar for replacements. Upon satisfactory proof of the loss or destruction of the plates and upon payment of a fee of $5.00 and the cost of replacement, the Registrar shall issue a replacement.</text>
       <text>Upon receipt of his replacement plates, the applicant shall forthwith surrender to the Registrar his illegible plates. When issuing replacement plates, the Registrar may assign a new number and issue new plates rather than a duplicate of the original if in his judgment that is in the best interest of the economy or prevention of fraud. In such event, the person receiving the replacement plates shall surrender current plate(s).</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.21 was formerly codified as 1500.14</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.15</num>
+      <num>15.22</num>
       <heading>Penalty for Failure to Surrender Illegible Plates</heading>
-      <text>Any person issued replacement plates who fails to surrender his or her illegible plates as required by <cite path="15|1500|1500.14">Section 1500.14</cite> may be required to pay a forfeiture of not less than $5.00 and not more than $100.00.</text>
-      <annotations/>
+      <text>Any person issued replacement plates who fails to surrender his or her illegible plates as required by <cite path="§15.21">Section 15.21</cite> may be required to pay a forfeiture of not less than $5.00 and not more than $100.00.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.22 was formerly codified as 1500.15</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.16</num>
-      <heading>Disposition of Plates Upon Sale of Vehicle</heading>
+      <num>15.23</num>
+      <heading>Disposition of Plates upon Sale of Vehicle</heading>
       <text>Registration plates shall remain with the owner upon sale or disposal of the vehicle.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.23 was formerly codified as 1500.16</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.17</num>
+      <num>15.24</num>
       <heading>Transfer of Registration Plates</heading>
-      <text>Registration plates may be transferred upon application as prescribed in <cite path="15|1500|1500.6.1">Section 1500.6.1</cite> of this ordinance, including additional information as the Registrar may deem necessary, and upon payment of transfer fees and any additional registration fees. Transfer of staggered registration may require a pro-rating of registration fees at 1/12<sup>th</sup>  the total cost of registration for the remaining portion of previous registration, with a credit allowed for the unused portion of previous registration.</text>
-      <annotations/>
+      <text>Registration plates may be transferred upon application as prescribed in <cite path="§15.07">Section 15.07</cite> of this ordinance, including additional information as the Registrar may deem necessary, and upon payment of transfer fees and any additional registration fees. Transfer of staggered registration may require a pro-rating of registration fees at 1/12<sup>th</sup>  the total cost of registration for the remaining portion of previous registration, with a credit allowed for the unused portion of previous registration.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.24 was formerly codified as 1500.17</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.18</num>
+      <num>15.25</num>
       <heading>Display of Registration Plates</heading>
-      <text>Plates issued to an automobile, motor truck, motor bus, school bus or self-propelled mobile home shall be attached firmly and rigidly in a horizontal position, one to the rear of the vehicle and one to the front. Plates issued to a trailer or motorcycle shall be attached firmly and rigidly in a horizontal position to the rear of said trailer or motorcycle. The plates shall at all times be maintained in a legible condition and shall be so displayed that they can be readily and distinctly seen and read. Any peace officer may require the operator of any vehicle on which plates are not properly displayed to display such plates as required by <cite path="15|1500|1500.18">this section</cite>.</text>
-      <annotations/>
+      <text>Plates issued to an automobile, motor truck, motor bus, school bus or self-propelled mobile home shall be attached firmly and rigidly in a horizontal position, one to the rear of the vehicle and one to the front. Plates issued to a trailer or motorcycle shall be attached firmly and rigidly in a horizontal position to the rear of said trailer or motorcycle. The plates shall at all times be maintained in a legible condition and shall be so displayed that they can be readily and distinctly seen and read. Any peace officer may require the operator of any vehicle on which plates are not properly displayed to display such plates as required by <cite path="§15.25">this section</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.25 was formerly codified as 1500.18</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.19</num>
+      <num>15.26</num>
       <heading>Penalty for Improper Display of Registration Plates</heading>
       <text>Any of the following may result in a forfeiture of not less than $50.00 and not more than $100.00 for each occasion:</text>
       <para>
@@ -296,16 +352,20 @@
         <num>(c)</num>
         <text>A person who operates a vehicle with registration plates in an illegible condition due to the accumulation of dirt or other foreign matter as the deterioration or mutilation of the plates.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.26 was formerly codified as 1500.19</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.20</num>
+      <num>15.27</num>
       <heading>Annual Registration Fees</heading>
       <text>A registration fee as herein set forth shall be paid for all motor vehicles, not exempted by <cite path="15|1500|1500.0">Section 1500.0</cite>, using the public streets or roads within the boundaries of the Bad River Reservation for each calendar year as set forth by the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.27 was formerly codified as 1500.20</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.21</num>
+      <num>15.28</num>
       <heading>Additional Fees</heading>
       <text>The following additional charges must be included when computing registration costs, as set forth by the Tribal Council:</text>
       <para>
@@ -324,11 +384,13 @@
         <num>(d)</num>
         <text>1/12 of the annual registration fee for every month or part thereof that registration renewal is late.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.28 was formerly codified as 1500.21</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.22</num>
-      <heading>Other Fees to be Set Forth by the Tribal Council</heading>
+      <num>15.29</num>
+      <heading>Other Fees to Be Set Forth by the Tribal Council</heading>
       <para>
         <num>(a)</num>
         <text>Duplicate Validation Sticker - (each).</text>
@@ -345,16 +407,20 @@
         <num>(d)</num>
         <text>Duplicate Registration Plates - plus the cost of replacement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.29 was formerly codified as 1500.22</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.23</num>
+      <num>15.30</num>
       <heading>Motorcycle Registration Fee</heading>
       <text>A registration fee for each calendar year shall be paid for all motorcycles using the public streets and roadways within the boundaries of the Bad River Reservation, as set forth by the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.30 was formerly codified as 1500.23</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.24</num>
+      <num>15.31</num>
       <heading>Trailer Registration Fee</heading>
       <text>A registration fee as herein set forth shall be paid for all trailers drawn upon the public streets and roadways within the exterior boundaries of the Bad River Reservation, as set forth by the Tribal Council.</text>
       <para>
@@ -365,44 +431,56 @@
         <num>(b)</num>
         <text>A fee shall be paid for all other two-axle trailers with a gross weight of more than 1,500 pounds, but less than 25,000 pounds.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.31 was formerly codified as 1500.24</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.25</num>
+      <num>15.32</num>
       <heading>Refundable Fees</heading>
-      <text>The Bad River Band shall not refund a fee paid to it except when expressly authorized or directed by <cite path="15|1500|1500.25">this Section</cite>.</text>
+      <text>The Bad River Band shall not refund a fee paid to it except when expressly authorized or directed by <cite path="§15.32">this section</cite>.</text>
       <para>
         <num>(a)</num>
         <text>The Bad River Registrar shall refund the unused portion of the registration fee paid for the registration of a vehicle upon application for such refund upon a form prescribed by the Registrar and upon furnishing of such proof as the Registrar may require that the vehicle will not be operated within the exterior boundaries of the Bad River Reservation during the remainder of the period for which the vehicle is registered, and registration plates. The refund shall be computed on a monthly basis, one-twelfth of the annual registration fee for each calendar month or fraction thereof, during which the motor vehicle will not be used on any road within the exterior boundaries of the Bad River Reservation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.32 was formerly codified as 1500.25</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.26</num>
+      <num>15.33</num>
       <heading>Contents, Issuance and Display of Certificates of Registration; Issuance of Duplicate Certificate</heading>
       <text>The Registrar upon registering a vehicle shall issue and deliver to the owner a certificate of registration. The certificate shall contain the name and address of the owner, the make, model and year of the vehicle, the registration number assigned and the date of expiration of registration. The certificate shall be in such form and may contain such additional information as the Registrar deems advisable. A Vehicle Seller's Report of Sale form shall be on the reverse side of the Certificate of Registration.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.33 was formerly codified as 1500.26</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.27</num>
+      <num>15.34</num>
       <heading>– Duplicate Certificate</heading>
       <text>The Registrar shall issue a duplicate certificate of registration upon application thereof by any person in whose name the vehicle is registered and upon payment of a fee, set by the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.34 was formerly codified as 1500.27</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.28</num>
+      <num>15.35</num>
       <heading>Fraudulent Application for Registration or License</heading>
       <text>A person who with fraudulent intent uses a false or fictitious name or address, or makes a materially false statement, or fails to disclose a security interests, or conceals any other material fact in an application for a registration or submits a false, forged, or fictitious document in support of an application for a registration and/or license plate, shall face legal action and may be adjudged a forfeiture of not less than $50.00 and not more than $500.00.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.35 was formerly codified as 1500.28</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.29</num>
+      <num>15.36</num>
       <heading>Odometer Reading</heading>
       <text>A person who knowingly tampers with or alters a motor vehicle odometer reading, or causes another person to alter or tamper with a motor vehicle odometer reading, shall be liable to any person injured by a violation. Any person injured by a violation of the section shall recover the actual damages sustained together with costs and disbursements, including a reasonable attorney's fee provide that the court in its discretion may increase the award of damages to an amount not to exceed three times the actual damages sustained, or $1,500, whichever is greater.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.36 was formerly codified as 1500.29</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.30</num>
+      <num>15.37</num>
       <heading>Improper Use of Registration</heading>
       <text>Any person who does any of the following shall forfeit at least $25.00 and not more than $300.00:</text>
       <para>
@@ -421,16 +499,20 @@
         <num>(d)</num>
         <text>Sells, trades, barters, or otherwise disposes of the plates in a manner which is prohibited by provisions of this Ordinance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.37 was formerly codified as 1500.30</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.31</num>
+      <num>15.38</num>
       <heading>False Evidence of Registration</heading>
       <text>Whosoever operates or has in his or her possession of a motor vehicle, motor home, trailer or semi-trailer or other vehicle registration which attached thereto any plates or similar device fashioned in the imitation of or altered so as to resemble the current registration plates issued by the Bad River Band may be fined not less than $50.00 and not more than $250.00.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.38 was formerly codified as 1500.31</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.32</num>
+      <num>15.39</num>
       <heading>Suspension/Revocation of Registration</heading>
       <text>The Registrar of the Bad River Band shall suspend and/or revoke the registration when:</text>
       <para>
@@ -445,34 +527,44 @@
         <num>(c)</num>
         <text>The registered owner is in violation of any provision of this ordinance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.39 was formerly codified as 1500.32</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.33</num>
+      <num>15.40</num>
       <heading>Period of Suspension</heading>
-      <text>Any registration suspended pursuant to <cite path="15|1500|1500.33">this Section</cite> continues to be suspended until reinstated by the Registrar. The Registrar shall reinstate the registration when the reason for the suspension has been removed.</text>
-      <annotations/>
+      <text>Any registration suspended pursuant to <cite path="§15.40">this section</cite> continues to be suspended until reinstated by the Registrar. The Registrar shall reinstate the registration when the reason for the suspension has been removed.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.40 was formerly codified as 1500.33</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.34</num>
+      <num>15.41</num>
       <heading>Return of Registration Plates; Penalty for Non-Compliance</heading>
-      <text>Whenever the registration of a vehicle is suspended under <cite path="15|1500|1500.34">this Section</cite>, the owner or person in possession of the registration plates shall forthwith return them to the Bad River Band. Any person who fails to return the plates as required by <cite path="15|1500|1500.34">this Section</cite> may be required to forfeit not more than $50.00.</text>
-      <annotations/>
+      <text>Whenever the registration of a vehicle is suspended under <cite path="§15.41">this section</cite>, the owner or person in possession of the registration plates shall forthwith return them to the Bad River Band. Any person who fails to return the plates as required by <cite path="§15.41">this section</cite> may be required to forfeit not more than $50.00.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.41 was formerly codified as 1500.34</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.35</num>
+      <num>15.42</num>
       <heading>Revocation</heading>
-      <text>Revocation of registration shall occur when the period of suspension exceeds 90 days. The State of Wisconsin and the owner shall be notified in writing that the registration has been revoked pursuant to <cite path="15|1500|1500.35">this Section</cite>. The State of Wisconsin and the owner shall also be notified of the revocation of the Certificate of Title.</text>
-      <annotations/>
+      <text>Revocation of registration shall occur when the period of suspension exceeds 90 days. The State of Wisconsin and the owner shall be notified in writing that the registration has been revoked pursuant to <cite path="§15.42">this section</cite>. The State of Wisconsin and the owner shall also be notified of the revocation of the Certificate of Title.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.42 was formerly codified as 1500.35</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.36</num>
+      <num>15.43</num>
       <heading>Venue</heading>
-      <text>Any disputes arising under <cite path="15|1500|1500.36">this Section</cite> shall be brought before the Bad River Tribal Court.</text>
-      <annotations/>
+      <text>Any disputes arising under <cite path="§15.43">this section</cite> shall be brought before the Bad River Tribal Court.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.43 was formerly codified as 1500.36</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.37</num>
+      <num>15.44</num>
       <heading>When Certificate of Title Required</heading>
       <text>The owner of a vehicle subject to registration on the Bad River Reservation, shall make application for certificate of title for the vehicle under the following circumstances:</text>
       <para>
@@ -487,22 +579,28 @@
         <num>(c)</num>
         <text>A vehicle which is presently in possession.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.44 was formerly codified as 1500.37</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.38</num>
+      <num>15.45</num>
       <heading>Eligibility a Prerequisite</heading>
       <text>An applicant's eligibility for a certificate of title is a prerequisite to registration of the vehicle. If the applicant for registration holds a valid certificate of title previously issued to him by the Registrar for the vehicle in question, that is prima facie evidence that he is the record owner of the vehicle and he need not apply for a new certificate of title each time he or she applies for registration.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.45 was formerly codified as 1500.38</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.39</num>
+      <num>15.46</num>
       <heading>Certificate of Title</heading>
       <text>The State of Wisconsin shall retain control of Certificates of Title to motor vehicles as evidenced in the Band/State Reciprocal Agreement.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.46 was formerly codified as 1500.39</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.40</num>
+      <num>15.47</num>
       <heading>Cancellation of Title or Registration</heading>
       <text>The Registrar shall cancel registration whenever:</text>
       <para>
@@ -513,10 +611,12 @@
         <num>(b)</num>
         <text>It is subsequently discovered that the issuance or possession of a title or registration is prohibited by law.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.47 was formerly codified as 1500.40</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.41</num>
+      <num>15.48</num>
       <heading>New Title</heading>
       <text>When any person who dies testate or intestate and that person is the legal owner of a vehicle registered under the laws of the Bad River Band, the Registrar shall issue a new certificate of title, as follows:</text>
       <para>
@@ -527,33 +627,44 @@
         <num>(b)</num>
         <text>Upon receipt of a properly executed form(s) as prescribed by the Registrar and all required accompanying documents which provides for the transfer of interest and ownership to an individual (or individuals) stated thereon.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.48 was formerly codified as 1500.41</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.42</num>
-      <heading>Re-titling in Proper Jurisdiction</heading>
+      <num>15.49</num>
+      <heading>Re-Titling in Proper Jurisdiction</heading>
       <text>When a certificate of title is issued to a new owner and the new owner is not eligible to have said vehicle registered under the laws of the Band, said new owner shall promptly register the vehicle with the appropriate jurisdiction.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.49 was formerly codified as 1500.42</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.43</num>
+      <num>15.50</num>
       <heading>When Registrar to Issue a New Certificate</heading>
       <text>The Registrar upon receipt of a properly assigned certificate of title, with an application for a new certificate of title, the required fee and any other transfer documents required by Ordinance, to support the transfer, shall issue a new certificate of title in the name of the transferee as owner.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.50 was formerly codified as 1500.43</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.44</num>
+      <num>15.51</num>
       <heading>Perfection of Security Interests</heading>
       <text>A security interest in a vehicle of a type for which a certificate of title is required is not valid against creditors of the owner or subsequent transferees or secured parties of the vehicle unless perfected as provided by this ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.51 was formerly codified as 1500.44</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.45</num>
+      <num>15.52</num>
+      <heading>_</heading>
       <text>A security interest is perfected by the delivery to the Registrar of the existing certificate of title, if any, an application for a certificate of title containing the name and address of the secured party and the date of the security agreement, with the required fee. It is perfected as of the time of its creation if such delivery is completed within 10 days hereafter.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.52 was formerly codified as 1500.45</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.46</num>
+      <num>15.53</num>
       <heading>Duties on Creation of Security Interest</heading>
       <text>If an owner creates a security interest in a vehicle:</text>
       <para>
@@ -568,120 +679,161 @@
         <num>(c)</num>
         <text>Upon receipt of the certificate of title, application and the required fee, the Registrar shall issue to the secured party a new certificate which contains the name and address of the lien holder.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.53 was formerly codified as 1500.46</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.47</num>
+      <num>15.54</num>
       <heading>Assignment of Security Interest</heading>
       <text>A secured party may assign, absolutely or otherwise, his security interest in vehicle to a person other than the owner without affecting the interest of the owner or the validity of the security interest, but any person without notice of the assignment is protected in dealing with the secured party, as the holder of the security interest and the secured party remains liable for any obligations as a secured party until the assignee is named as secured party on the certificate.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.54 was formerly codified as 1500.47</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.48</num>
+      <num>15.55</num>
+      <heading>_</heading>
       <text>The assignee may not need to perfect the assignment, have the certificate of title endorsed or issue with the assignee named as secured party, upon delivering to the Registrar the certificate and an assignment by the secured party named in the certificate in the form the Registrar prescribes.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.55 was formerly codified as 1500.48</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.49</num>
+      <num>15.56</num>
       <heading>Release of Security Interest</heading>
       <text>Whenever there is not outstanding obligation and not commitment to make advances, incur obligations or otherwise give value, secured by the security interest in a vehicle under any security agreement between the owner and the secured party, the secured party shall execute and deliver to the owner, as the Registrar prescribes, a release of the security interest in the form and manner prescribed by the Registrar. If the secured party fails to execute and deliver such a release within 10 days after the receipt of the owner's written demand therefore he shall be liable to the owner for $25.00 and for any loss caused to the owner by such failure.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.56 was formerly codified as 1500.49</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.49.1</num>
+      <num>15.57</num>
       <heading>Delivery of Certificate</heading>
       <text>The owner, other than a dealer holding the vehicle for resale, shall promptly cause the certificate and release to be mailed or delivered to the Registrar, which shall release the secured party's rights on the certificate and issue a new certificate of title to the owner.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.57 was formerly codified as 1500.49.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.50</num>
+      <num>15.58</num>
       <heading>Secured Party's and Owner's Duties</heading>
       <text>A secured party named in a certificate of title shall, upon written request of the owner or of another secured party named on the certificate, disclose any pertinent information as to his security agreement and the indebtedness secured by it.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.58 was formerly codified as 1500.50</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.51</num>
+      <num>15.59</num>
       <heading>Prompt Delivery of Title</heading>
       <text>An owner shall promptly deliver his or her certificate of title to any secured party who is named on it or who has a security interest in the vehicle described in it upon receipt of a notice from such secured party that his or her interest is to be assigned, extended or perfected.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.59 was formerly codified as 1500.51</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.52</num>
+      <num>15.60</num>
       <heading>Maintenance of Records</heading>
       <text>The Registrar shall keep accurate and updated lists of all registration plates issued, the number thereof, the name of the owner and the description of the motor vehicle for a period of 7 years from the date of issuance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.60 was formerly codified as 1500.52</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.53</num>
+      <num>15.61</num>
       <heading>Police Powers</heading>
       <text>Any duly sworn Law Enforcement Officer, including Law Enforcement Officer of the State of Wisconsin are hereby authorized and empowered to enforce the provisions of this Ordinance and any other Ordinance of the Bad River Band and to execute and serve all warrants and processes issued by the Bad River Tribal Court under any law of the Bad River Band.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.61 was formerly codified as 1500.53</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.54</num>
+      <num>15.62</num>
       <heading>Citations</heading>
       <text>When a person is cited for any violation of this ordinance, the officer shall prepare in quadruplicate, written notice to appear before the Court. This notice has the effect of, and serves as a summons and complaint. The written notice must be signed by the officer, describe the violation, the date and time of return or first appearance before the courts and the address of the court. In order to secure appearance, the cited person must give his written notice prepared by the arresting officer. The officer shall retain the original of the notice and deliver the copy thereof marked "summons" to the person cited. If the person so summoned fails to appear on the day, the Court shall issue an order to show cause, and may subject the person to the court powers of contempt.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.62 was formerly codified as 1500.54</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.55</num>
+      <num>15.63</num>
       <heading>Authorization to Enter Trust Land for Enforcement</heading>
       <text>Any duly sworn law enforcement officer is hereby authorized and empowered to enter upon any trust land within the jurisdiction of the Band for the purpose of carrying out the duties and functions of his office.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.63 was formerly codified as 1500.55</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.56</num>
+      <num>15.64</num>
       <heading>Enforcement</heading>
       <text>It shall be illegal for any person to willfully hinder, resist or obstruct a law enforcement officer in the performance of his official duty, or refuse to submit anything called for by him for his inspection when authorized by law.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.64 was formerly codified as 1500.56</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.57</num>
+      <num>15.65</num>
       <heading>Jurisdiction for Violations Bad River Tribal Court</heading>
-      <text>The Bad River Tribal Court is hereby granted jurisdiction for any cause of action which arises from <cite path="15|1500">this Chapter</cite>. Nothing in <cite path="15|1500">this Chapter</cite> shall operate or be construed as a waiver of the sovereign immunity of the Bad River Band or the Bad River Tribal Council.</text>
-      <annotations/>
+      <text>The Bad River Tribal Court is hereby granted jurisdiction for any cause of action which arises from <cite path="15|15.00">this chapter</cite>. Nothing in <cite path="15|15.00">this chapter</cite> shall operate or be construed as a waiver of the sovereign immunity of the Bad River Band or the Bad River Tribal Council.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.65 was formerly codified as 1500.57</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.58</num>
+      <num>15.66</num>
       <heading>Enforcement by Registrar</heading>
-      <text>The Registrar shall enforce all provisions of <cite path="15|1500">this chapter</cite>. He or she may prescribe all rules and regulation consistent with the provisions of <cite path="15|1500">this chapter</cite> through the issuance of Registrar Orders. He or she may call upon the Bad River Tribal Council or any Band law enforcement officer to aid him in the performance of his duties. He or she may appoint current employees of the Bad River Band as designees as may be required to administer the provisions of this Ordinance.</text>
-      <annotations/>
+      <text>The Registrar shall enforce all provisions of <cite path="15|15.00">this chapter</cite>. He or she may prescribe all rules and regulation consistent with the provisions of <cite path="15|15.00">this chapter</cite> through the issuance of Registrar Orders. He or she may call upon the Bad River Tribal Council or any Band law enforcement officer to aid him in the performance of his duties. He or she may appoint current employees of the Bad River Band as designees as may be required to administer the provisions of this Ordinance.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§15.66 was formerly codified as 1500.58</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.59</num>
+      <num>15.67</num>
       <heading>Severability</heading>
       <text>If any provision of this Ordinance or the application thereof to any person, business, corporation or circumstances is held invalid, the invalidity shall not affect other provisions or application of the Ordinance which can be given effect without the invalid provision or application and to this end the provisions of this Ordinance are declared severable.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.67 was formerly codified as 1500.59</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.60</num>
+      <num>15.68</num>
       <heading>Limited Waiver of Sovereign Immunity</heading>
       <text>The Bad River Band hereby waives sovereign immunity to be used only in the Bad River Tribal Court or such other court as the Bad River Tribal Council may designate in any seizure of property matter pursuant to the provisions of this Ordinance. However, any such action shall only be directed against the Registrar, in his/her official capacity in order to challenge any seizure action. Any and all seizure cause of action which arise pursuant to this Ordinance shall be limited to actions against the Registrar in his/her official capacity for an order returning any seized goods or the proceeds of a sale of such seized goods if in the possession of the Registrar or his/her office. All other causes of action which arise pursuant to this Ordinance shall be limited in relief to declaratory or injunctive measures and no damages, monetary or otherwise, including but not limited to attorney fees, shall be permitted. All causes of action arising must be commenced by service of complaint and filing same within 90 days of the first event giving rise to the cause of action.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.68 was formerly codified as 1500.60</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.61</num>
+      <num>15.69</num>
       <heading>Reservation of Right</heading>
       <text>The Bad River Tribal Council hereby reserves the right to alter, amend or increase or decrease the fees, forfeiture and penalties imposed herein, amend or repeal the several provisions of this Ordinance, and all rights and privileges granted or extended hereunder shall be subject to such reserved right.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.69 was formerly codified as 1500.61</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.62</num>
+      <num>15.70</num>
       <heading>Revenue Distribution</heading>
       <text>All revenue derived from fees imposed by this Ordinance shall be deposited in the general revenue account of the Bad River Band.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.70 was formerly codified as 1500.62</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.63</num>
+      <num>15.71</num>
       <heading>Band Attorney Obligations</heading>
       <text>The Attorney(s) designated by the Bad River Tribal Council shall represent the interests of the Bad River Band and the Registrar of Motor Vehicles in any matter arising from any provision of this Band Ordinance before the Bad River Tribal Court.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.71 was formerly codified as 1500.63</annotation>
+      </annotations>
     </section>
     <section>
-      <num>1500.64</num>
+      <num>15.72</num>
       <heading>American Association of Motor Vehicle Administrators: Policy Positions</heading>
       <text>The Bad River Tribal Council hereby declares that the implementation of the provisions of this Ordinance shall be accomplished, as much as feasible, according to the policies promulgated by the American Association of Motor Vehicle Administrators, which is hereby incorporated by reference into this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.72 was formerly codified as 1500.64</annotation>
+      </annotations>
     </section>
   </container>
 </container>
