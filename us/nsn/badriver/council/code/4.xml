@@ -161,7 +161,7 @@
       <heading>Jurisdiction</heading>
       <text>The Tribal Court shall have exclusive jurisdiction to enforce this ordinance.</text>
       <text>Legislative History</text>
-      <text>Adopted by Resolution # 5-15-18-1029, replacing Section 5 - Chapter 300 - Conservation General Provisions - Section 300.02 - Trespass.</text>
+      <text>Adopted by Resolution # 5-15-18-1029, replacing Section 5 - Chapter 300 - Conservation General Provisions - <cite path="3|300|300.02">Section 300.02</cite> - Trespass.</text>
       <annotations/>
     </section>
   </container>
@@ -172,13 +172,13 @@
     <section>
       <num>403.1</num>
       <heading>Purpose</heading>
-      <text>The purpose of this chapter is to provide for the public health, safety, and welfare by establishing an orderly procedure for the residential leasing of tribal land to tribal members.</text>
+      <text>The purpose of <cite path="4|403">this chapter</cite> is to provide for the public health, safety, and welfare by establishing an orderly procedure for the residential leasing of tribal land to tribal members.</text>
       <annotations/>
     </section>
     <section>
       <num>403.2</num>
       <heading>Authority</heading>
-      <text>This chapter is adopted pursuant to Art. VI, sec. 1 (c) and (w), Bad River Constitution.</text>
+      <text><cite path="4|403">This chapter</cite> is adopted pursuant to Art. VI, sec. 1 (c) and (w), Bad River Constitution.</text>
       <annotations/>
     </section>
     <section>
@@ -190,19 +190,19 @@
     <section>
       <num>403.4</num>
       <heading>Procedure Established</heading>
-      <text>No agreement for the residential leasing of tribal land to a tribal member shall be entered into except as provided in this chapter.</text>
+      <text>No agreement for the residential leasing of tribal land to a tribal member shall be entered into except as provided in <cite path="4|403">this chapter</cite>.</text>
       <annotations/>
     </section>
     <section>
       <num>403.5</num>
       <heading>Administrator's Duties</heading>
-      <text>The administrator of this chapter shall be responsible for assisting applicants with applications, for making all necessary inter-departmental and inter-agency contracts with regard to particular applications, for certifying to the Tribal Council or denying all lease applications based on the standards provided in this chapter, for maintaining the Official Lease Map, and for executing all other tasks specifically assigned to him by this chapter.</text>
+      <text>The administrator of <cite path="4|403">this chapter</cite> shall be responsible for assisting applicants with applications, for making all necessary inter-departmental and inter-agency contracts with regard to particular applications, for certifying to the Tribal Council or denying all lease applications based on the standards provided in <cite path="4|403">this chapter</cite>, for maintaining the Official Lease Map, and for executing all other tasks specifically assigned to him by <cite path="4|403">this chapter</cite>.</text>
       <annotations/>
     </section>
     <section>
       <num>403.6</num>
       <heading>Administrator Established</heading>
-      <text>The Environmental Health Community Health Representative shall serve as the administrator of this chapter.</text>
+      <text>The Environmental Health Community Health Representative shall serve as the administrator of <cite path="4|403">this chapter</cite>.</text>
       <annotations/>
     </section>
     <section>
@@ -226,15 +226,15 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Percolation. The administrator shall refer a site not within a flood plain and meeting the criteria specified in Section 403.7(c) to the Indian Health Service to perform a percolation test and to determine the feasibility of locating at the site a private sewer disposal system and well meeting the requirements of Chapter 402. Based on Indian Health Service reports and recommendations the administrator shall determine if the site is suitable for an approved private sewer disposal system and well under Chapter 402. For sites within a flood plain, the applicant shall privately secure and convey to the administrator the information required by this subsection.</text>
+        <text>Percolation. The administrator shall refer a site not within a flood plain and meeting the criteria specified in <cite path="4|403|403.7|(c)">Section 403.7(c)</cite> to the Indian Health Service to perform a percolation test and to determine the feasibility of locating at the site a private sewer disposal system and well meeting the requirements of Chapter 402. Based on Indian Health Service reports and recommendations the administrator shall determine if the site is suitable for an approved private sewer disposal system and well under Chapter 402. For sites within a flood plain, the applicant shall privately secure and convey to the administrator the information required by this subsection.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Certification - Denial. If the proposed site fails to prove suitable under Section 403.7(e), the site shall be denied certification, the applicant shall be so informed, and the administrator shall commence the certification process for an alternative site listed on the applicant's application, or shall consult the applicant to determine his wishes.</text>
+        <text>Certification - Denial. If the proposed site fails to prove suitable under <cite path="4|403|403.7|(e)">Section 403.7(e)</cite>, the site shall be denied certification, the applicant shall be so informed, and the administrator shall commence the certification process for an alternative site listed on the applicant's application, or shall consult the applicant to determine his wishes.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Certification - Granted. If the proposed site is found suitable for a private sewer system and well under Section 403.7(e), the administrator shall instruct the Bureau of Indian Affairs to prepare a lease for the site. The lease shall specify the type of private sewer disposal system permitted at the site.</text>
+        <text>Certification - Granted. If the proposed site is found suitable for a private sewer system and well under <cite path="4|403|403.7|(e)">Section 403.7(e)</cite>, the administrator shall instruct the Bureau of Indian Affairs to prepare a lease for the site. The lease shall specify the type of private sewer disposal system permitted at the site.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -242,11 +242,11 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Recording on Official Lease Map. Upon execution and recording of the lease, the administrator shall record on the Official Lease Map the approved lease site, and shall set down the verbal information as required by Section 403.8.</text>
+        <text>Recording on Official Lease Map. Upon execution and recording of the lease, the administrator shall record on the Official Lease Map the approved lease site, and shall set down the verbal information as required by <cite path="4|403|403.8">Section 403.8</cite>.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Appeal of Administrator Denial. Any denial of lease-site certification made by the administrator may be appealed to the Tribal Council by submitting to the Council the lease application, the administrator's denial of certification and a statement of reasons why the denial should be overridden. The Council in determining any appeal shall apply the provisions of this chapter and Chapters 401 and 402. For purposes of appeal any failure by the administrator to certify or to proceed further in the certification process because of a 403.7(c) conflict or 403.7(e) failure shall be construed as a denial.</text>
+        <text>Appeal of Administrator Denial. Any denial of lease-site certification made by the administrator may be appealed to the Tribal Council by submitting to the Council the lease application, the administrator's denial of certification and a statement of reasons why the denial should be overridden. The Council in determining any appeal shall apply the provisions of <cite path="4|403">this chapter</cite> and Chapters 401 and 402. For purposes of appeal any failure by the administrator to certify or to proceed further in the certification process because of a 403.7(c) conflict or 403.7(e) failure shall be construed as a denial.</text>
       </para>
       <annotations/>
     </section>
@@ -259,19 +259,19 @@
     <section>
       <num>403.9</num>
       <heading>Flow Chart</heading>
-      <text>The flow chart attached to this chapter as Appendix A is intended to provide a graphic representation of the procedures prescribed herein. It is not a part of this chapter and is of no legal effect. In any case of conflict between the procedures as depicted on the flow chart and the procedures described in this chapter, the latter shall be controlling.</text>
+      <text>The flow chart attached to <cite path="4|403">this chapter</cite> as Appendix A is intended to provide a graphic representation of the procedures prescribed herein. It is not a part of <cite path="4|403">this chapter</cite> and is of no legal effect. In any case of conflict between the procedures as depicted on the flow chart and the procedures described in <cite path="4|403">this chapter</cite>, the latter shall be controlling.</text>
       <annotations/>
     </section>
     <section>
       <num>403.10</num>
       <heading>Application Form</heading>
-      <text>The application form attached to this chapter as Appendix B shall be the official application form for residential leases for tribal members. The application form may be modified by the administrator provided such modification is submitted to the Tribal Council for review at the next subsequent regular Tribal Council meeting.</text>
+      <text>The application form attached to <cite path="4|403">this chapter</cite> as Appendix B shall be the official application form for residential leases for tribal members. The application form may be modified by the administrator provided such modification is submitted to the Tribal Council for review at the next subsequent regular Tribal Council meeting.</text>
       <annotations/>
     </section>
     <section>
       <num>403.11</num>
       <heading>Effective Date</heading>
-      <text>This chapter shall be effective on the date following Tribal Council approval.</text>
+      <text><cite path="4|403">This chapter</cite> shall be effective on the date following Tribal Council approval.</text>
       <annotations/>
     </section>
     <section>
@@ -322,8 +322,11 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>(a) 	Zoning Map: Tribal property? Yes <u>______</u>	No <u>______</u></text>
-        <text>If no, inform applicant. Recommend for second choice.</text>
+        <para>
+          <num>(a)</num>
+          <text>Zoning Map: Tribal property? Yes <u>______</u>	No <u>______</u></text>
+          <text>If no, inform applicant. Recommend for second choice.</text>
+        </para>
         <para>
           <num>(b)</num>
           <text>Zoning Map: State district:</text>
@@ -379,7 +382,10 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>(a) 	Denial. The lease site described in line 5 of this application is denied certification for the following reasons:</text>
+        <para>
+          <num>(a)</num>
+          <text>Denial. The lease site described in line 5 of this application is denied certification for the following reasons:</text>
+        </para>
         <text>Lease Administrator					Date</text>
         <text>Applicant informed:</text>
         <text>Action taken: 	Second Choice 					Appeal</text>
@@ -463,8 +469,11 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>(a)	Zoning Map: Tribal property? 	Yes _______ 	No _______</text>
-        <text>If no, inform applicant. Recommend next choice.</text>
+        <para>
+          <num>(a)</num>
+          <text>Zoning Map: Tribal property? 	Yes _______ 	No _______</text>
+          <text>If no, inform applicant. Recommend next choice.</text>
+        </para>
         <para>
           <num>(b)</num>
           <text>Zoning Map: State district:</text>
@@ -520,7 +529,10 @@
       </para>
       <para>
         <num>(15)</num>
-        <text>(a) 	Denial. The lease site described in line 7 of this application is denied certification for the following reasons:</text>
+        <para>
+          <num>(a)</num>
+          <text>Denial. The lease site described in line 7 of this application is denied certification for the following reasons:</text>
+        </para>
         <text>Lease Administrator					Date</text>
         <text>Applicant informed</text>
         <text>Action taken:	Next choice 					Appeal</text>
@@ -566,7 +578,7 @@
         <num>(22)</num>
         <text>Official Lease Map modified</text>
         <text>Date</text>
-        <text>THIS CHAPTER 403 ENACTED BY RESOLUTION # /AMENDED BY RESOLUTION 6-2-82-88</text>
+        <text><cite path="4|403">THIS CHAPTER</cite> 403 ENACTED BY RESOLUTION # /AMENDED BY RESOLUTION 6-2-82-88</text>
       </para>
       <annotations/>
     </section>
@@ -618,7 +630,7 @@
     <section>
       <num>405.4</num>
       <heading>Systems Covered</heading>
-      <text>This section may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the systems are covered as follows:</text>
+      <text><cite path="4|405|405.4">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the systems are covered as follows:</text>
       <para>
         <num>(a)</num>
         <text>Water (Community Systems)</text>
@@ -722,7 +734,7 @@
     <section>
       <num>405.6</num>
       <heading>Rate Schedule</heading>
-      <text>This section may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. Upon installation of water meters, the Department shall establish and charge base rates and usage rates as recommended by the Department and approved by the Tribal Council. Such rates may be adjusted from time to time upon recommendation of the Department and approval of the Tribal Council and shall be published as an Attachment A to this ordinance:</text>
+      <text><cite path="4|405|405.6">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. Upon installation of water meters, the Department shall establish and charge base rates and usage rates as recommended by the Department and approved by the Tribal Council. Such rates may be adjusted from time to time upon recommendation of the Department and approval of the Tribal Council and shall be published as an Attachment A to this ordinance:</text>
       <para>
         <num>(a)</num>
         <text>Residential</text>
@@ -923,7 +935,7 @@
         <text>The owner or lessee of each parcel of land adjacent to a sewer main on which there exists a building useable for human habitation or in a block through which such system is extended, shall connect to such system with 90 days of notice in writing from the Utility Department. Upon failure to do so, the Utility Department may cause such connection to be made and bill the property owner or lessee for the costs of the hook-up.</text>
         <para>
           <num>(1)</num>
-          <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding subsection 405.8B, for recovery of the costs hook-up.</text>
+          <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding sub<cite path="4|405|405.8">section 405.8</cite>B, for recovery of the costs hook-up.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -931,7 +943,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>This chapter ordains that the failure to connect to the sewer system is contrary to the minimum health standards of the Bad River Band of Lake Superior Tribe of Chippewa Indians and fails to assure preservation of the health, comfort, and safety of the Bad River Reservation population and environment</text>
+          <text><cite path="4|405">This chapter</cite> ordains that the failure to connect to the sewer system is contrary to the minimum health standards of the Bad River Band of Lake Superior Tribe of Chippewa Indians and fails to assure preservation of the health, comfort, and safety of the Bad River Reservation population and environment</text>
         </para>
       </para>
       <annotations/>
@@ -952,18 +964,18 @@
       <num>405.15</num>
       <heading>Amendments or Revisions</heading>
       <text>The Plan of Operation may be amended by a simple majority of Tribal Council members in attendance at a meeting called for that, purpose and thereafter by the Bad River Tribal Council as provided by law.</text>
-      <text><strong>Legislative History:</strong> (This Legislative History is provided only as a reference and a guide to interpretation and application of this Chapter, and should only be cited as such. The Legislative History may not provide a complete historical record of the Chapter. Deletions specified below are indicated by strike-through and specified additions by bold.)</text>
+      <text><strong>Legislative History:</strong> (This Legislative History is provided only as a reference and a guide to interpretation and application of <cite path="4|405">this Chapter</cite>, and should only be cited as such. The Legislative History may not provide a complete historical record of the Chapter. Deletions specified below are indicated by strike-through and specified additions by bold.)</text>
       <text>The following amendments were made to the Bad River Utility Ordinance on 		<u>,</u> by</text>
       <text>Resolution No. 			<u>	:</u></text>
       <text>Add to 405.3.A 		and water meter installation and servicing follows:</text>
       <text>Change 405.6 as follows:</text>
-      <text>This section may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the rates are as follows:</text>
+      <text><cite path="4|405|405.15">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the rates are as follows:</text>
       <text>And Add:</text>
       <text>Upon installation of water meters, the Department shall establish and charge base rates and usage rates as recommended by the Department and approved by the Tribal Council. Such rates may be adjusted from time to time upon recommendation of the Department and approval of the Tribal Council and shall be published as an Attachment A to this ordinance.</text>
-      <text>Add a new section 405.7B as follows and renumber the previously number sections 405.7 B through E: Water meters will be read according to a schedule established by the Department.</text>
+      <text>Add a new <cite path="4|405|405.7">section 405.7</cite>B as follows and renumber the previously number sections 405.7 B through E: Water meters will be read according to a schedule established by the Department.</text>
       <text>Change 405.12B as follows:</text>
-      <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee that the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding subsection 405.8.B, for recovery of the costs of hook-up. <s>The Utility Department shall net seek to attach the owner or</s> lessee's property, or seek to have fines assessed by the Tribal Curt, except in limited cases of blatant or continued abuses or destruction of property.</text>
-      <text>Add a new section 405.13 as follows and renumber the previously numbered sections 405.13 through 405.14:</text>
+      <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee that the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding sub<cite path="4|405|405.8">section 405.8</cite>.B, for recovery of the costs of hook-up. <s>The Utility Department shall net seek to attach the owner or</s> lessee's property, or seek to have fines assessed by the Tribal Curt, except in limited cases of blatant or continued abuses or destruction of property.</text>
+      <text>Add a new <cite path="4|405|405.13">section 405.13</cite> as follows and renumber the previously numbered sections 405.13 through 405.14:</text>
       <text>
         <strong>
           <em>Add 405.13 Water Meters</em>
@@ -998,36 +1010,12 @@
       <text>The following amendments were adopted by the Bad River Tribal Council, by Resolution No. 4-4-01-76 on the 4th day of April, 2001:</text>
       <text>The Plan of Operation and the Regulations referred to above were named and numbered as Bad River Tribal Code Section 6, Chapter 405 Bad River Utilities Ordinance.</text>
       <text>Numbers were assigned to each section of the Ordinance (405.)</text>
-      <annotations/>
-    </section>
-    <section>
-      <num>405.4</num>
-      <heading>was amended to add the following language to provide for routing updating of services areas covered: "This section may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the systems covered are as follows:</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>405.6</num>
-      <heading>utilized the rate schedules in effect at the time of passage of the ordinance. In addition, the following language was added to provide for routine adjustments in rate schedules: This section may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the rates are as follows:</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>405.9</num>
-      <heading>D was added to include the following language to provide for income sufficient to perform vital functions of the sewage treatment system and to safely and legally provide for ultimate disposal of the sludge</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>405.12</num>
-      <heading>Mandatory Hook-Up was added to meet USDA funding requirements</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>405.13</num>
-      <heading>Emergency Plan was added to ensure that a plan is in place</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>405.14</num>
-      <heading>Amendments or Revisions was amended as follows to refer to the Plan of Operation as Chapter 405 and to provide a procedure more compatible with Tribal Council practice. This Chapter 405 may be amended by a resolution of the Tribal Council as provided by law</heading>
+      <text>The <cite path="4|405|405.4">Section 405.4</cite> was amended to add the following language to provide for routing updating of services areas covered: "<cite path="4|405|405.15">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the systems covered are as follows:</text>
+      <text>The <cite path="4|405|405.6">Section 405.6</cite> utilized the rate schedules in effect at the time of passage of the ordinance. In addition, the following language was added to provide for routine adjustments in rate schedules: <cite path="4|405|405.15">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the rates are as follows:</text>
+      <text>The <cite path="4|405|405.9">Section 405.9</cite>.D was added to include the following language to provide for income sufficient to perform vital functions of the sewage treatment system and to safely and legally provide for ultimate disposal of the sludge.</text>
+      <text>The <cite path="4|405|405.12">Section 405.12</cite> Mandatory Hook-Up was added to meet USDA funding requirements.</text>
+      <text>The <cite path="4|405|405.13">Section 405.13</cite> Emergency Plan was added to ensure that a plan is in place.</text>
+      <text>The <cite path="4|405|405.14">Section 405.14</cite> Amendments or Revisions was amended as follows to refer to the Plan of Operation as Chapter 405 and to provide a procedure more compatible with Tribal Council practice. <cite path="4|405">This Chapter</cite> 405 may be amended by a resolution of the Tribal Council as provided by law.</text>
       <annotations/>
     </section>
   </container>
@@ -1053,11 +1041,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Scope and Date of Applicability. This Ordinance shall govern within the boundaries of the Bad River Reservation and apply immediately upon enactment to any new installation or any renovation of private on-site wastewater treatment and disposal systems (POWTS) and the operation, maintenance, correction and inspection of such systems, as well as holding tanks, engineered systems, experimental systems, privies and other non-plumbing systems. Existing systems shall have one (1) year from the date of enactment of this chapter to come into compliance with its terms evidenced through acquisition of an Inspection Certificate for an adequate system or repair, upgrade, or replacement of a failing or inadequate system. POWTS owners who anticipate not being able to bring their system into compliance within one year of the date of enactment to enter into a compliance schedule agreement with the POWTS Inspector. Systems subject to such a compliance schedule agreement shall have three years from the date of enactment to come into full compliance.</text>
+        <text>Scope and Date of Applicability. This Ordinance shall govern within the boundaries of the Bad River Reservation and apply immediately upon enactment to any new installation or any renovation of private on-site wastewater treatment and disposal systems (POWTS) and the operation, maintenance, correction and inspection of such systems, as well as holding tanks, engineered systems, experimental systems, privies and other non-plumbing systems. Existing systems shall have one (1) year from the date of enactment of <cite path="4|406">this chapter</cite> to come into compliance with its terms evidenced through acquisition of an Inspection Certificate for an adequate system or repair, upgrade, or replacement of a failing or inadequate system. POWTS owners who anticipate not being able to bring their system into compliance within one year of the date of enactment to enter into a compliance schedule agreement with the POWTS Inspector. Systems subject to such a compliance schedule agreement shall have three years from the date of enactment to come into full compliance.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Interpretation. In the interpretation and application of this Ordinance, its provisions shall be held to be the minimum requirements and shall be construed so as to fully effect its purpose and shall not be deemed a limitation or repeal of any other power by law or Ordinance except as specifically provided herein. In the event conflicting requirements are imposed by this Ordinance or by other Ordinances of the Band, the most restrictive provisions shall apply. The POWTS Inspector shall rule on what is more restrictive, and appeals from such decisions, as well as other interpretations, may be made in accordance with Section 406.10E herein.</text>
+        <text>Interpretation. In the interpretation and application of this Ordinance, its provisions shall be held to be the minimum requirements and shall be construed so as to fully effect its purpose and shall not be deemed a limitation or repeal of any other power by law or Ordinance except as specifically provided herein. In the event conflicting requirements are imposed by this Ordinance or by other Ordinances of the Band, the most restrictive provisions shall apply. The POWTS Inspector shall rule on what is more restrictive, and appeals from such decisions, as well as other interpretations, may be made in accordance with <cite path="4|406|406.10">Section 406.10</cite>E herein.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1102,11 +1090,11 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"Experimental System" shall have the same meaning as in WAC Comm 83 as referenced by Section 406.1F, above.</text>
+        <text>"Experimental System" shall have the same meaning as in WAC Comm 83 as referenced by <cite path="4|406|406.1">Section 406.1</cite>F, above.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>"Failing System" shall have the same meaning specified under WSA Section 145.245(4).</text>
+        <text>"Failing System" shall have the same meaning specified under WSA <cite path="1|145|145.245|(4)">Section 145.245(4)</cite>.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -1118,7 +1106,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>"Inspection Certificate" shall mean a certificate issued by the POWTS Inspector, pursuant to Section 406.4, below, for the use of a system that has passed an inspection ensuring the POWTS is of adequate size for the premises being served and is functioning properly, and which includes performance standards, time limitations, maintenance requirements, and other conditions as may be required by the POWTS Inspector to evaluate and assure adequate system performance.</text>
+        <text>"Inspection Certificate" shall mean a certificate issued by the POWTS Inspector, pursuant to <cite path="4|406|406.4">Section 406.4</cite>, below, for the use of a system that has passed an inspection ensuring the POWTS is of adequate size for the premises being served and is functioning properly, and which includes performance standards, time limitations, maintenance requirements, and other conditions as may be required by the POWTS Inspector to evaluate and assure adequate system performance.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -1126,7 +1114,7 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>"Journeyman Plumber" shall mean any person licensed and registered as a Journeyman Plumber in accordance with WSA Section 145.07.</text>
+        <text>"Journeyman Plumber" shall mean any person licensed and registered as a Journeyman Plumber in accordance with WSA <cite path="1|145|145.07">Section 145.07</cite>.</text>
       </para>
       <para>
         <num>(n)</num>
@@ -1134,7 +1122,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"Master Plumber" shall mean any person licensed and registered as a Master Plumber in accordance with WSA Section 145.07.</text>
+        <text>"Master Plumber" shall mean any person licensed and registered as a Master Plumber in accordance with WSA <cite path="1|145|145.07">Section 145.07</cite>.</text>
       </para>
       <para>
         <num>(p)</num>
@@ -1211,7 +1199,7 @@
       </para>
       <para>
         <num>(hh)</num>
-        <text>"Restricted Plumber Licensee" shall mean any person licensed as a master plumber (restricted) or a journeyman plumber (restricted) under WSA Section 145.14.</text>
+        <text>"Restricted Plumber Licensee" shall mean any person licensed as a master plumber (restricted) or a journeyman plumber (restricted) under WSA <cite path="1|145|145.14">Section 145.14</cite>.</text>
       </para>
       <para>
         <num>(ii)</num>
@@ -1219,7 +1207,7 @@
       </para>
       <para>
         <num>(jj)</num>
-        <text>"Site Evaluator" shall mean any person who conducts an evaluation of a site proposed for a POWTS and who meets the requirements of licensing and certification set forth in Section 406.6 of this Ordinance.</text>
+        <text>"Site Evaluator" shall mean any person who conducts an evaluation of a site proposed for a POWTS and who meets the requirements of licensing and certification set forth in <cite path="4|406|406.6">Section 406.6</cite> of this Ordinance.</text>
       </para>
       <para>
         <num>(kk)</num>
@@ -1235,11 +1223,11 @@
       </para>
       <para>
         <num>(nn)</num>
-        <text>"Transfer, sale, or conveyance" shall mean all transfers, sales, or conveyance's of the original owner's or lessee's interest in the buildings, structures or land which is served by a POWTS or upon which a POWTS is located, regardless of form, so long as the owner or lessee is divested of all rights of ownership or leasehold interest, or as exempted by Section 406.4.J.5, below.</text>
+        <text>"Transfer, sale, or conveyance" shall mean all transfers, sales, or conveyance's of the original owner's or lessee's interest in the buildings, structures or land which is served by a POWTS or upon which a POWTS is located, regardless of form, so long as the owner or lessee is divested of all rights of ownership or leasehold interest, or as exempted by <cite path="4|406|406.4">Section 406.4</cite>.J.5, below.</text>
       </para>
       <para>
         <num>(oo)</num>
-        <text>"Variance" shall mean any modification or relief from this Ordinance where it is determined that, by reason of exceptional circumstances, the strict enforcement of the provisions of this Ordinance would cause unnecessary hardship as defined in Section 406.7 of this Ordinance.</text>
+        <text>"Variance" shall mean any modification or relief from this Ordinance where it is determined that, by reason of exceptional circumstances, the strict enforcement of the provisions of this Ordinance would cause unnecessary hardship as defined in <cite path="4|406|406.7">Section 406.7</cite> of this Ordinance.</text>
       </para>
       <para>
         <num>(pp)</num>
@@ -1319,7 +1307,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>A thorough soil and site evaluation shall be completed in all areas in order to comply with Section 406.4.C.</text>
+          <text>A thorough soil and site evaluation shall be completed in all areas in order to comply with <cite path="4|406|406.4">Section 406.4</cite>.C.</text>
         </para>
       </para>
       <para>
@@ -1340,7 +1328,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Maintenance. It shall be the responsibility of the owner of any premises using a POWTS, Engineered or Experimental System, holding tank, privy or non-plumbing system to provide for the periodic maintenance of such system as necessary to assure adequate function. See Section 406.9 for Maintenance Program Requirements. Failure to maintain shall result in civil fine or forfeiture.</text>
+        <text>Maintenance. It shall be the responsibility of the owner of any premises using a POWTS, Engineered or Experimental System, holding tank, privy or non-plumbing system to provide for the periodic maintenance of such system as necessary to assure adequate function. See <cite path="4|406|406.9">Section 406.9</cite> for Maintenance Program Requirements. Failure to maintain shall result in civil fine or forfeiture.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -1473,7 +1461,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The POWTS Inspector may request verification of a Soil and Site Evaluation Report by a certified soil tester before a complete sanitary permit application is submitted. Application for this verification shall contain all information required in section 406.4.H and 406.4.1 on forms provided by the POWTS Inspector, the original copy of the Soil and Site Evaluation Report and as many copies as are required by the POWTS Inspector.</text>
+          <text>The POWTS Inspector may request verification of a Soil and Site Evaluation Report by a certified soil tester before a complete sanitary permit application is submitted. Application for this verification shall contain all information required in <cite path="4|406|406.4">section 406.4</cite>.H and 406.4.1 on forms provided by the POWTS Inspector, the original copy of the Soil and Site Evaluation Report and as many copies as are required by the POWTS Inspector.</text>
         </para>
       </para>
       <para>
@@ -1485,7 +1473,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A sanitary permit shall be obtained by the property owner, except as permitted in section 406.3.N, before any private sewage system or part thereof may be installed, replaced, repaired, reconnected or modified.</text>
+          <text>A sanitary permit shall be obtained by the property owner, except as permitted in <cite path="4|406|406.3">section 406.3</cite>.N, before any private sewage system or part thereof may be installed, replaced, repaired, reconnected or modified.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1493,7 +1481,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>If any part of the system is found to be defective or not in conformance with the applicable provisions of this Ordinance, the sanitary permit application shall include specifications for the repair, renovation, replacement or removal of that part, except as exempted by Section 406.3.N.</text>
+          <text>If any part of the system is found to be defective or not in conformance with the applicable provisions of this Ordinance, the sanitary permit application shall include specifications for the repair, renovation, replacement or removal of that part, except as exempted by <cite path="4|406|406.3">Section 406.3</cite>.N.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1538,7 +1526,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Permit Fees. The Fee Schedule shall be set initially by the Bad River Tribal Council upon enactment of this Ordinance. Thereafter, the POWTS Board shall have the sole authority to amend rates and fees. The Fee Schedule shall be attached to this Chapter as Exhibit A. There shall be no refunds of application fees for retracted, deficient, or denied applications.</text>
+        <text>Permit Fees. The Fee Schedule shall be set initially by the Bad River Tribal Council upon enactment of this Ordinance. Thereafter, the POWTS Board shall have the sole authority to amend rates and fees. The Fee Schedule shall be attached to <cite path="4|406">this Chapter</cite> as Exhibit A. There shall be no refunds of application fees for retracted, deficient, or denied applications.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -1568,7 +1556,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>System plan (see Section 406.4.1);</text>
+            <text>System plan (see <cite path="4|406|406.4.1">Section 406.4.1</cite>);</text>
           </para>
           <para>
             <num>(d)</num>
@@ -1661,7 +1649,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If, upon inspection, the existing system meets the criteria of a "failing private sewage system" as defined in this Ordinance or WSA Sec. 145.245(4), an order for replacement is issued under this Ordinance or WSA Sec. 145.20(2)(e), (f), and (g), said new system shall be installed within one year of the sale or conveyance date by the transferee unless by written agreement the transferor has retained the obligation to replace the system. Any such agreement shall be filed with the POWTS Inspector and shall be enforceable by the POWTS Inspector against the transferor.</text>
+          <text>If, upon inspection, the existing system meets the criteria of a "failing private sewage system" as defined in this Ordinance or WSA <cite path="1|145|145.245|(4)">Sec. 145.245(4)</cite>, an order for replacement is issued under this Ordinance or WSA <cite path="1|145|145.20|(2)|(e)">Sec. 145.20(2)(e)</cite>, (f), and (g), said new system shall be installed within one year of the sale or conveyance date by the transferee unless by written agreement the transferor has retained the obligation to replace the system. Any such agreement shall be filed with the POWTS Inspector and shall be enforceable by the POWTS Inspector against the transferor.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1757,7 +1745,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>A plot plan prepared by a plumber including information specified in Section 406.4.H and I; and</text>
+            <text>A plot plan prepared by a plumber including information specified in <cite path="4|406|406.4">Section 406.4</cite>.H and I; and</text>
           </para>
           <para>
             <num>(f)</num>
@@ -1810,7 +1798,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Documentation specified in Section 406.5.A.3.</text>
+            <text>Documentation specified in <cite path="4|406|406.5">Section 406.5</cite>.A.3.</text>
           </para>
         </para>
         <para>
@@ -2056,7 +2044,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Interpret the provisions of this Ordinance as provided in Section 406.1.E. (7) Advise applicants concerning the provisions of this Ordinance and assist them in preparing permit applications;</text>
+          <text>Interpret the provisions of this Ordinance as provided in <cite path="4|406|406.1">Section 406.1</cite>.E. (7) Advise applicants concerning the provisions of this Ordinance and assist them in preparing permit applications;</text>
         </para>
         <para>
           <num>(8)</num>
@@ -2076,7 +2064,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text>to Section 406.1.D., above, and enforce the terms of such agreement to ensure compliance schedule milestones are adhered to.</text>
+          <text>to <cite path="4|406|406.1">Section 406.1</cite>.D., above, and enforce the terms of such agreement to ensure compliance schedule milestones are adhered to.</text>
         </para>
         <para>
           <num>(13)</num>
@@ -2164,7 +2152,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The timely filed request for reconsideration must specify the reasons for the request and the administrative remedy requested. The POWTS Inspector shall issue a written decision within forty-five (45) days of the request for reconsideration. Parties dissatisfied with the reconsideration decision of the POWTS Inspector may request an appeal as specified in this Section.</text>
+          <text>The timely filed request for reconsideration must specify the reasons for the request and the administrative remedy requested. The POWTS Inspector shall issue a written decision within forty-five (45) days of the request for reconsideration. Parties dissatisfied with the reconsideration decision of the POWTS Inspector may request an appeal as specified in <cite path="4|406|406.10">this Section</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2252,7 +2240,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Actions for violations of this chapter may be commenced in Tribal Court by conservation citation or by summons and complaint.</text>
+          <text>Actions for violations of <cite path="4|406">this chapter</cite> may be commenced in Tribal Court by conservation citation or by summons and complaint.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -2260,7 +2248,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Any person may bring suit in Tribal Court to enjoin a violation of this chapter.</text>
+          <text>Any person may bring suit in Tribal Court to enjoin a violation of <cite path="4|406">this chapter</cite>.</text>
         </para>
       </para>
       <annotations/>
@@ -2292,7 +2280,7 @@
       <para>
         <num>(a)</num>
         <text>Injunctions, Civil Damages, Civil Forfeiture, Other Remedies</text>
-        <text>The Bad River Tribal Court may impose any of the following for violations of this Chapter, singly or in any combination:</text>
+        <text>The Bad River Tribal Court may impose any of the following for violations of <cite path="4|406">this Chapter</cite>, singly or in any combination:</text>
         <para>
           <num>(1)</num>
           <text>Immediate injunction;</text>
@@ -2319,11 +2307,11 @@
         <text>Citizen Suit Damages</text>
         <para>
           <num>(1)</num>
-          <text>The Bad River Tribal Court may award damages to individuals who successfully bring suit demonstrating harm from the actions of any person found in violation of this chapter.</text>
+          <text>The Bad River Tribal Court may award damages to individuals who successfully bring suit demonstrating harm from the actions of any person found in violation of <cite path="4|406">this chapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Citizen suit damages are separate from and may be in addition to and may duplicate any damages requested by the Tribe under this Section.</text>
+          <text>Citizen suit damages are separate from and may be in addition to and may duplicate any damages requested by the Tribe under <cite path="4|406|406.12">this Section</cite>.</text>
         </para>
       </para>
       <para>
@@ -2410,15 +2398,15 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Any person who breaches Section 3.1 shall be assessed a forfeiture of not more than $500.00 for each breach.</text>
+        <text>Any person who breaches <cite path="3|3|3.1">Section 3.1</cite> shall be assessed a forfeiture of not more than $500.00 for each breach.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Any articles of whatever description located within the jurisdiction of the Tribal Court, used in the commission of a breach of Section 3.1 may be seized and ordered forfeited.</text>
+        <text>Any articles of whatever description located within the jurisdiction of the Tribal Court, used in the commission of a breach of <cite path="3|3|3.1">Section 3.1</cite> may be seized and ordered forfeited.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Citations for violations of Section 3.1 may be issued by the tribal conservation office, the tribal prosecutor, or the tribal attorney.</text>
+        <text>Citations for violations of <cite path="3|3|3.1">Section 3.1</cite> may be issued by the tribal conservation office, the tribal prosecutor, or the tribal attorney.</text>
       </para>
       <annotations/>
     </section>
@@ -2494,13 +2482,13 @@
     <section>
       <num>421.2</num>
       <heading>Authority</heading>
-      <text>This chapter is promulgated pursuant to Article VI, sections 1(j), (n), (q) and (w) of the Bad River Constitution.</text>
+      <text><cite path="4|421">This chapter</cite> is promulgated pursuant to Article VI, sections 1(j), (n), (q) and (w) of the Bad River Constitution.</text>
       <annotations/>
     </section>
     <section>
       <num>421.3</num>
       <heading>Applicability</heading>
-      <text>This Chapter shall apply to all right-of-way maintenance activities of members, non- members, residents and non-residents undertaken within the exterior boundaries of the Bad River Reservation.</text>
+      <text><cite path="4|421">This Chapter</cite> shall apply to all right-of-way maintenance activities of members, non- members, residents and non-residents undertaken within the exterior boundaries of the Bad River Reservation.</text>
       <annotations/>
     </section>
     <section>
@@ -2567,7 +2555,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Upon receipt of permit applicators must follow guidelines set forth in Section 421.7 of this Chapter.</text>
+        <text>Upon receipt of permit applicators must follow guidelines set forth in <cite path="4|421|421.7">Section 421.7</cite> of <cite path="4|421">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2713,11 +2701,11 @@
       <heading>Jurisdiction/Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to this Chapter.</text>
+        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to <cite path="4|421">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Bad River Tribal Court may impose any of the following penalties for violations of this Chapter, singly or in any combination:</text>
+        <text>The Bad River Tribal Court may impose any of the following penalties for violations of <cite path="4|421">this Chapter</cite>, singly or in any combination:</text>
         <para>
           <num>(1)</num>
           <text>Immediate injunction against the use of chemical treatment for right-of-way maintenance;</text>
@@ -2728,7 +2716,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of this chapter may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
+          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of <cite path="4|421">this chapter</cite> may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -3348,7 +3336,7 @@
         <text>Within fifteen business days after receipt of a complete application, the Realty Officer shall</text>
         <para>
           <num>1.</num>
-          <text>Deliver a copy of the application packet to the Director for review pursuant to Section 423.05;</text>
+          <text>Deliver a copy of the application packet to the Director for review pursuant to <cite path="4|423|423.05">Section 423.05</cite>;</text>
         </para>
         <para>
           <num>2.</num>
@@ -3371,7 +3359,7 @@
         <text>
           <u>Environmental Review</u>
         </text>
-        <text>The Director shall assess the environment impact of a proposed Right-of-Way in accordance with the standards of Section 423.05. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
+        <text>The Director shall assess the environment impact of a proposed Right-of-Way in accordance with the standards of <cite path="4|423|423.05">Section 423.05</cite>. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
         <para>
           <num>1.</num>
           <text>request any additional information needed from the applicant that may be needed to complete an environmental review, and;</text>
@@ -3392,7 +3380,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>After receipt of the final environmental review report prepared pursuant to Section 423.05D., the Realty Officer shall determine whether the applicant has satisfied all application requirements of this ordinance. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
+          <text>After receipt of the final environmental review report prepared pursuant to <cite path="4|423|423.05">Section 423.05</cite>D., the Realty Officer shall determine whether the applicant has satisfied all application requirements of this ordinance. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
           <para>
             <num>a.</num>
             <text>so advise the applicant and provide a reasonable period of time for the applicant to cure the deficiencies, and;</text>
@@ -3486,7 +3474,7 @@
         <text>
           <u>Requirement</u>
         </text>
-        <text>Before a utility provider may begin any work to construct Service Lines across Tribal Land, the utility provider must enter into a Service Line Agreement in accordance with this Chapter and federal regulations set forth at 25 C.F.R. Part 169, Subpart B or successor regulations of the BIA.</text>
+        <text>Before a utility provider may begin any work to construct Service Lines across Tribal Land, the utility provider must enter into a Service Line Agreement in accordance with <cite path="4|423">this Chapter</cite> and federal regulations set forth at 25 C.F.R. Part 169, Subpart B or successor regulations of the BIA.</text>
       </para>
       <para>
         <num>B.</num>
@@ -3549,7 +3537,7 @@
         <text>
           <u>Environmental Review</u>
         </text>
-        <text>The Director shall assess the environment impact of a proposed Service Line Agreement in accordance with the standards of Section 423.05. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
+        <text>The Director shall assess the environment impact of a proposed Service Line Agreement in accordance with the standards of <cite path="4|423|423.05">Section 423.05</cite>. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
         <para>
           <num>1.</num>
           <text>request any additional information needed from the grantee that may be needed to complete an environmental review, and;</text>
@@ -3570,7 +3558,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>Within fifteen business days after receipt of the final environmental review report prepared pursuant to Section 423.05, the Realty Officer shall determine whether the applicant has satisfied all requirements of this Chapter. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
+          <text>Within fifteen business days after receipt of the final environmental review report prepared pursuant to <cite path="4|423|423.05">Section 423.05</cite>, the Realty Officer shall determine whether the applicant has satisfied all requirements of <cite path="4|423">this Chapter</cite>. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
           <para>
             <num>a.</num>
             <text>so advise the applicant and provide a reasonable period of time for the applicant to cure the deficiencies, and</text>
@@ -3586,7 +3574,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>If the Realty Officer determines that the application meets the requirements of this Section, the Realty Officer shall submit the application packet, together with the environmental review report, to the Tribal Council for a final decision whether to approve or disapprove the Service Line Agreement. The application packet submitted to the Tribal Council shall include:</text>
+          <text>If the Realty Officer determines that the application meets the requirements of <cite path="4|423|423.04">this Section</cite>, the Realty Officer shall submit the application packet, together with the environmental review report, to the Tribal Council for a final decision whether to approve or disapprove the Service Line Agreement. The application packet submitted to the Tribal Council shall include:</text>
           <para>
             <num>a.</num>
             <text>the proposed Service Line Agreement, together with the Realty Officer's recommendation, if any, whether to approve the Service Line Agreement;</text>
@@ -3761,7 +3749,7 @@
           </para>
           <para>
             <num>b.</num>
-            <text>the public comment and response requirements of this Section are substantially complied with.</text>
+            <text>the public comment and response requirements of <cite path="4|423|423.05">this Section</cite> are substantially complied with.</text>
           </para>
         </para>
       </para>
@@ -3839,7 +3827,7 @@
           <text>Exceptions to Exclusions</text>
           <para>
             <num>a.</num>
-            <text>Notwithstanding the categorical exclusions listed in subsection (a), the Director shall prepare an environmental review statement if he or she has reason to believe that approval of the proposed Right-of- Way or service Line would adversely impact the interests addressed under Section 423.05.A.2.</text>
+            <text>Notwithstanding the categorical exclusions listed in subsection (a), the Director shall prepare an environmental review statement if he or she has reason to believe that approval of the proposed Right-of- Way or service Line would adversely impact the interests addressed under <cite path="4|423|423.05">Section 423.05</cite>.A.2.</text>
           </para>
           <para>
             <num>b.</num>
@@ -3852,7 +3840,7 @@
         <text>
           <u>Public Notice and Comment</u>
         </text>
-        <text>A notice of availability of the draft environmental review statement shall be published in a manner calculated to reach the Public, following Section 1 - Chapter 101 - General Provisions - Section 101.6 - Administrative Procedure: Notice of Intent to Adopt a Code or Availability of Draft Environmental Review Statement Ordinance, Section.</text>
+        <text>A notice of availability of the draft environmental review statement shall be published in a manner calculated to reach the Public, following Section 1 - Chapter 101 - General Provisions - <cite path="1|101|101.6">Section 101.6</cite> - Administrative Procedure: Notice of Intent to Adopt a Code or Availability of Draft Environmental Review Statement Ordinance, Section.</text>
       </para>
       <para>
         <num>D.</num>
@@ -3969,7 +3957,7 @@
       <para>
         <num>D.</num>
         <text>BIA Enforcement.</text>
-        <text>In addition to the Tribal remedies described in this Section, the BIA may, at its discretion and upon reasonable notice from the Tribe, enforce or cancel any Right-of-Way Agreement or Service Line Agreement.</text>
+        <text>In addition to the Tribal remedies described in <cite path="4|423|423.06">this Section</cite>, the BIA may, at its discretion and upon reasonable notice from the Tribe, enforce or cancel any Right-of-Way Agreement or Service Line Agreement.</text>
       </para>
       <text>
         <strong>Legislative History</strong>
@@ -3978,15 +3966,15 @@
       <text>Corrections have been made and incorporated into the published Section 6 - Chapter 423 - Energy Product Facility Rights of Way and Service Lines on November 20, 2019:</text>
       <para>
         <num>1.</num>
-        <text>to Section 423.01.C [application to all facilities present on the Reservation as of June 1, 2018 or installed thereafter];</text>
+        <text>to <cite path="4|423|423.01">Section 423.01</cite>.C [application to all facilities present on the Reservation as of June 1, 2018 or installed thereafter];</text>
       </para>
       <para>
         <num>2.</num>
-        <text>to Section 423.03.C [the surcharge amount for applications otherwise complete and filed before January 31, 2020 shall be $ 0.10, and the surcharge amount for applications otherwise complete and filed after January 31, 2020 shall be $ 0.15 and shall be indexed annually for inflation each year thereafter]; and</text>
+        <text>to <cite path="4|423|423.03">Section 423.03</cite>.C [the surcharge amount for applications otherwise complete and filed before January 31, 2020 shall be $ 0.10, and the surcharge amount for applications otherwise complete and filed after January 31, 2020 shall be $ 0.15 and shall be indexed annually for inflation each year thereafter]; and</text>
       </para>
       <para>
         <num>3.</num>
-        <text>to Section 423.03.F [the Right-of-Way Agreement shall provide for annual payment of just compensation that is in the Public Interest, as determined by the Tribe, but not less than $ 0.25 per year, indexed annually for inflation, multiplied by the length (in feet) of the energy product line, multiplied by the diameter of the line or other facility].</text>
+        <text>to <cite path="4|423|423.03">Section 423.03</cite>.F [the Right-of-Way Agreement shall provide for annual payment of just compensation that is in the Public Interest, as determined by the Tribe, but not less than $ 0.25 per year, indexed annually for inflation, multiplied by the length (in feet) of the energy product line, multiplied by the diameter of the line or other facility].</text>
       </para>
       <annotations/>
     </section>
@@ -4128,7 +4116,7 @@
     <section>
       <num>433.3</num>
       <heading>Applicability</heading>
-      <text>This chapter shall apply to all new construction, repair, renovation of commercial and residential structures owned by members, non-members, residents and non-residents undertaken within the boundaries of the Bad River Reservation and shall apply to all contractors and subcontractors undertaking the installation or replacement or repair of plumbing fixtures as prescribed in 433.2.B.</text>
+      <text><cite path="4|433">This chapter</cite> shall apply to all new construction, repair, renovation of commercial and residential structures owned by members, non-members, residents and non-residents undertaken within the boundaries of the Bad River Reservation and shall apply to all contractors and subcontractors undertaking the installation or replacement or repair of plumbing fixtures as prescribed in 433.2.B.</text>
       <annotations/>
     </section>
     <section>
@@ -4153,7 +4141,7 @@
       <heading>Enforcement/Evidence</heading>
       <para>
         <num>(c)</num>
-        <text>The Bad River Construction Projects Manager, Conservation Wardens and the Bad River Tribal Environmental Systems Coordinator are authorized to issue citations for violations of this chapter.</text>
+        <text>The Bad River Construction Projects Manager, Conservation Wardens and the Bad River Tribal Environmental Systems Coordinator are authorized to issue citations for violations of <cite path="4|433">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4166,11 +4154,11 @@
       <heading>Jurisdiction/Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to this chapter.</text>
+        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to <cite path="4|433">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Bad River Tribal Court may impose any of the following penalties for violations of this chapter, singly or in any combination:</text>
+        <text>The Bad River Tribal Court may impose any of the following penalties for violations of <cite path="4|433">this chapter</cite>, singly or in any combination:</text>
         <para>
           <num>(1)</num>
           <text>Immediate mandate requiring installation of low-flow plumbing fixtures;</text>
@@ -4181,7 +4169,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of this chapter may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
+          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of <cite path="4|433">this chapter</cite> may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
         </para>
       </para>
       <annotations/>
@@ -4189,7 +4177,7 @@
     <section>
       <num>433.7</num>
       <heading>Authority</heading>
-      <text>This chapter is promulgated pursuant to Article VI, sections 1 (j), (n), (q) and (w) of the Bad River Constitution.</text>
+      <text><cite path="4|433">This chapter</cite> is promulgated pursuant to Article VI, sections 1 (j), (n), (q) and (w) of the Bad River Constitution.</text>
       <annotations/>
     </section>
     <section>

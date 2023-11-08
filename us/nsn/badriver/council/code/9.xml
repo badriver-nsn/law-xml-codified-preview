@@ -54,7 +54,7 @@
     <section>
       <num>901.4</num>
       <heading>Penalties/Forfeitures</heading>
-      <text>Violation of Section 901.3 of this ordinance shall be subject to the following:</text>
+      <text>Violation of <cite path="9|901|901.3">Section 901.3</cite> of this ordinance shall be subject to the following:</text>
       <para>
         <num>(a)</num>
         <text>Forfeiture not to exceed $500.00, or</text>
@@ -122,11 +122,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text><u>Tribal Council</u>. The Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribal Council may receive such other gifts as offered by a firm or contractor after completion of a contract where no promises of the gift has been given before completion, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation of gifts, the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of ten dollars [$10.00]) shall constitute a violation of this Chapter.</text>
+        <text><u>Tribal Council</u>. The Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribal Council may receive such other gifts as offered by a firm or contractor after completion of a contract where no promises of the gift has been given before completion, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation of gifts, the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of ten dollars [$10.00]) shall constitute a violation of <cite path="9|920">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text><u>Exceptions</u>. It shall not be a violation of this Chapter to accept the following so long as the acceptance does not influence or have the appearance of influencing the procurement or award of contracts:</text>
+        <text><u>Exceptions</u>. It shall not be a violation of <cite path="9|920">this Chapter</cite> to accept the following so long as the acceptance does not influence or have the appearance of influencing the procurement or award of contracts:</text>
         <para>
           <num>(1)</num>
           <text>Ceremonial gifts given according to traditional customs which are retained by the Tribe;</text>

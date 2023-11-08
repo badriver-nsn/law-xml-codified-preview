@@ -22,31 +22,26 @@
     <section>
       <num>1100.3</num>
       <heading>Index</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.1</num>
-      <heading>Purpose</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.2</num>
-      <heading>Exclusive Remedy</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.3</num>
-      <heading>Index</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.4</num>
-      <heading>Definitions</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.5</num>
-      <heading>Conditions of Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>1100.1		Purpose</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>1100.2		Exclusive Remedy</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>1100.3		Index</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>1100.4		Definitions</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>1100.5		Conditions of Liability</text>
+      </para>
       <annotations/>
     </section>
   </container>
