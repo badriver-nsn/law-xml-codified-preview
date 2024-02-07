@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>4</num>
   <heading>Property Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>4.01</num>
     <heading>Trespass to Land</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>4.01.010</num>
       <heading>Findings and Purposes</heading>
@@ -176,67 +176,65 @@
       <num>4.01.090</num>
       <heading>Jurisdiction</heading>
       <text>The Tribal Court shall have exclusive jurisdiction to enforce this ordinance.</text>
-      <text>Legislative History</text>
-      <text>Adopted by Resolution # 5-15-18-1029, replacing Section 5 - Chapter 300 - Conservation General Provisions - <cite path="§3.02">Section 3.02</cite> - Trespass.</text>
       <annotations>
         <annotation type="Prior Codifications">§4.01.090 was formerly codified as 401.9</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.03</num>
-    <heading>Tribal Leases</heading>
     <prefix>Chapter</prefix>
+    <num>4.02</num>
+    <heading>Tribal Leases</heading>
     <section>
-      <num>4.03.010</num>
+      <num>4.02.010</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="4|4.03">this chapter</cite> is to provide for the public health, safety, and welfare by establishing an orderly procedure for the residential leasing of tribal land to tribal members.</text>
+      <text>The purpose of <cite path="4|4.02">this chapter</cite> is to provide for the public health, safety, and welfare by establishing an orderly procedure for the residential leasing of tribal land to tribal members.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.010 was formerly codified as 403.1</annotation>
+        <annotation type="Prior Codifications">§4.02.010 was formerly codified as 403.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.020</num>
+      <num>4.02.020</num>
       <heading>Authority</heading>
-      <text><cite path="4|4.03">This chapter</cite> is adopted pursuant to Art. VI, sec. 1 (c) and (w), Bad River Constitution.</text>
+      <text><cite path="4|4.02">This chapter</cite> is adopted pursuant to Art. VI, sec. 1 (c) and (w), Bad River Constitution.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.020 was formerly codified as 403.2</annotation>
+        <annotation type="Prior Codifications">§4.02.020 was formerly codified as 403.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.030</num>
+      <num>4.02.030</num>
       <heading>Maximum Lot Size</heading>
       <text>No lease of tribal land to a tribal member for residential purposes shall exceed three acres in size.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.030 was formerly codified as 403.3</annotation>
+        <annotation type="Prior Codifications">§4.02.030 was formerly codified as 403.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.040</num>
+      <num>4.02.040</num>
       <heading>Procedure Established</heading>
-      <text>No agreement for the residential leasing of tribal land to a tribal member shall be entered into except as provided in <cite path="4|4.03">this chapter</cite>.</text>
+      <text>No agreement for the residential leasing of tribal land to a tribal member shall be entered into except as provided in <cite path="4|4.02">this chapter</cite>.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.040 was formerly codified as 403.4</annotation>
+        <annotation type="Prior Codifications">§4.02.040 was formerly codified as 403.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.050</num>
+      <num>4.02.050</num>
       <heading>Administrator's Duties</heading>
-      <text>The administrator of <cite path="4|4.03">this chapter</cite> shall be responsible for assisting applicants with applications, for making all necessary inter-departmental and inter-agency contracts with regard to particular applications, for certifying to the Tribal Council or denying all lease applications based on the standards provided in <cite path="4|4.03">this chapter</cite>, for maintaining the Official Lease Map, and for executing all other tasks specifically assigned to him by <cite path="4|4.03">this chapter</cite>.</text>
+      <text>The administrator of <cite path="4|4.02">this chapter</cite> shall be responsible for assisting applicants with applications, for making all necessary inter-departmental and inter-agency contracts with regard to particular applications, for certifying to the Tribal Council or denying all lease applications based on the standards provided in <cite path="4|4.02">this chapter</cite>, for maintaining the Official Lease Map, and for executing all other tasks specifically assigned to him by <cite path="4|4.02">this chapter</cite>.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.050 was formerly codified as 403.5</annotation>
+        <annotation type="Prior Codifications">§4.02.050 was formerly codified as 403.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.060</num>
+      <num>4.02.060</num>
       <heading>Administrator Established</heading>
-      <text>The Environmental Health Community Health Representative shall serve as the administrator of <cite path="4|4.03">this chapter</cite>.</text>
+      <text>The Environmental Health Community Health Representative shall serve as the administrator of <cite path="4|4.02">this chapter</cite>.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.060 was formerly codified as 403.6</annotation>
+        <annotation type="Prior Codifications">§4.02.060 was formerly codified as 403.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.070</num>
+      <num>4.02.070</num>
       <heading>Procedure</heading>
       <para>
         <num>(a)</num>
@@ -256,15 +254,15 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Percolation. The administrator shall refer a site not within a flood plain and meeting the criteria specified in <cite path="§4.03.070|(c)">Section 4.03.070(c)</cite> to the Indian Health Service to perform a percolation test and to determine the feasibility of locating at the site a private sewer disposal system and well meeting the requirements of Chapter 402. Based on Indian Health Service reports and recommendations the administrator shall determine if the site is suitable for an approved private sewer disposal system and well under Chapter 402. For sites within a flood plain, the applicant shall privately secure and convey to the administrator the information required by this subsection.</text>
+        <text>Percolation. The administrator shall refer a site not within a flood plain and meeting the criteria specified in <cite path="§4.02.070|(c)">Section 4.02.070(c)</cite> to the Indian Health Service to perform a percolation test and to determine the feasibility of locating at the site a private sewer disposal system and well meeting the requirements of <cite path="4|402">Chapter 402</cite>. Based on Indian Health Service reports and recommendations the administrator shall determine if the site is suitable for an approved private sewer disposal system and well under <cite path="4|402">Chapter 402</cite>. For sites within a flood plain, the applicant shall privately secure and convey to the administrator the information required by this subsection.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Certification - Denial. If the proposed site fails to prove suitable under <cite path="§4.03.070|(e)">Section 4.03.070(e)</cite>, the site shall be denied certification, the applicant shall be so informed, and the administrator shall commence the certification process for an alternative site listed on the applicant's application, or shall consult the applicant to determine his wishes.</text>
+        <text>Certification - Denial. If the proposed site fails to prove suitable under <cite path="§4.02.070|(e)">Section 4.02.070(e)</cite>, the site shall be denied certification, the applicant shall be so informed, and the administrator shall commence the certification process for an alternative site listed on the applicant's application, or shall consult the applicant to determine his wishes.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Certification - Granted. If the proposed site is found suitable for a private sewer system and well under <cite path="§4.03.070|(e)">Section 4.03.070(e)</cite>, the administrator shall instruct the Bureau of Indian Affairs to prepare a lease for the site. The lease shall specify the type of private sewer disposal system permitted at the site.</text>
+        <text>Certification - Granted. If the proposed site is found suitable for a private sewer system and well under <cite path="§4.02.070|(e)">Section 4.02.070(e)</cite>, the administrator shall instruct the Bureau of Indian Affairs to prepare a lease for the site. The lease shall specify the type of private sewer disposal system permitted at the site.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -272,50 +270,50 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Recording on Official Lease Map. Upon execution and recording of the lease, the administrator shall record on the Official Lease Map the approved lease site, and shall set down the verbal information as required by <cite path="§4.03.080">Section 4.03.080</cite>.</text>
+        <text>Recording on Official Lease Map. Upon execution and recording of the lease, the administrator shall record on the Official Lease Map the approved lease site, and shall set down the verbal information as required by <cite path="§4.02.080">Section 4.02.080</cite>.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Appeal of Administrator Denial. Any denial of lease-site certification made by the administrator may be appealed to the Tribal Council by submitting to the Council the lease application, the administrator's denial of certification and a statement of reasons why the denial should be overridden. The Council in determining any appeal shall apply the provisions of <cite path="4|4.03">this chapter</cite> and Chapters 401 and 402. For purposes of appeal any failure by the administrator to certify or to proceed further in the certification process because of a 403.7(c) conflict or 403.7(e) failure shall be construed as a denial.</text>
+        <text>Appeal of Administrator Denial. Any denial of lease-site certification made by the administrator may be appealed to the Tribal Council by submitting to the Council the lease application, the administrator's denial of certification and a statement of reasons why the denial should be overridden. The Council in determining any appeal shall apply the provisions of <cite path="4|4.02">this chapter</cite> and Chapters 401 and 402. For purposes of appeal any failure by the administrator to certify or to proceed further in the certification process because of a 403.7(c) conflict or 403.7(e) failure shall be construed as a denial.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.070 was formerly codified as 403.7</annotation>
+        <annotation type="Prior Codifications">§4.02.070 was formerly codified as 403.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.080</num>
+      <num>4.02.080</num>
       <heading>Official Lease Map</heading>
       <text>The administrator shall maintain the Official Lease Map of the Bad River Tribe. The Map shall have no legal effect but shall be used as an administrative tool to locate, identify, and pictorially record lease sites. The Map shall not be altered except by the Administrator upon the execution or expiration of a lease. The Map shall contain, along with a pictorial representation of each site, the following information for each site: Name(s) of lessee(s); date of execution and term of each lease, legal description of each site, and yearly monetary consideration for each lease. The Map shall be available for inspection to Tribal members and the administrator's office, in his presence during regular business hours.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.080 was formerly codified as 403.8</annotation>
+        <annotation type="Prior Codifications">§4.02.080 was formerly codified as 403.8</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.090</num>
+      <num>4.02.090</num>
       <heading>Flow Chart</heading>
-      <text>The flow chart attached to <cite path="4|4.03">this chapter</cite> as Appendix A is intended to provide a graphic representation of the procedures prescribed herein. It is not a part of <cite path="4|4.03">this chapter</cite> and is of no legal effect. In any case of conflict between the procedures as depicted on the flow chart and the procedures described in <cite path="4|4.03">this chapter</cite>, the latter shall be controlling.</text>
+      <text>The flow chart attached to <cite path="4|4.02">this chapter</cite> as Appendix A is intended to provide a graphic representation of the procedures prescribed herein. It is not a part of <cite path="4|4.02">this chapter</cite> and is of no legal effect. In any case of conflict between the procedures as depicted on the flow chart and the procedures described in <cite path="4|4.02">this chapter</cite>, the latter shall be controlling.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.090 was formerly codified as 403.9</annotation>
+        <annotation type="Prior Codifications">§4.02.090 was formerly codified as 403.9</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.100</num>
+      <num>4.02.100</num>
       <heading>Application Form</heading>
-      <text>The application form attached to <cite path="4|4.03">this chapter</cite> as Appendix B shall be the official application form for residential leases for tribal members. The application form may be modified by the administrator provided such modification is submitted to the Tribal Council for review at the next subsequent regular Tribal Council meeting.</text>
+      <text>The application form attached to <cite path="4|4.02">this chapter</cite> as Appendix B shall be the official application form for residential leases for tribal members. The application form may be modified by the administrator provided such modification is submitted to the Tribal Council for review at the next subsequent regular Tribal Council meeting.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.100 was formerly codified as 403.10</annotation>
+        <annotation type="Prior Codifications">§4.02.100 was formerly codified as 403.10</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.110</num>
+      <num>4.02.110</num>
       <heading>Effective Date</heading>
-      <text><cite path="4|4.03">This chapter</cite> shall be effective on the date following Tribal Council approval.</text>
+      <text><cite path="4|4.02">This chapter</cite> shall be effective on the date following Tribal Council approval.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.110 was formerly codified as 403.11</annotation>
+        <annotation type="Prior Codifications">§4.02.110 was formerly codified as 403.11</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.03.120</num>
+      <num>4.02.120</num>
       <heading>Termination of Leases</heading>
       <text>Any lease executed hereunder may be terminated for violation thereof, in accordance with 25 CFR Part 131. Without implying limitation by enumeration, it is expressly stated that ground for termination of any residential lease executed hereafter shall be lessees failure to construct and complete permanent residential improvements within a period of two years from the date of the lease.</text>
       <text>
@@ -348,23 +346,23 @@
       <para>
         <num>(d)</num>
         <text>I (we) hereby make application for the above lease site to be used for residential purposes</text>
-        <text>Signature						Date</text>
-        <text>Signature						Date</text>
+        <text>Signature                     Date</text>
+        <text>Signature                     Date</text>
         <text>
           <strong>FOR OFFICE USE</strong>
         </text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Legal description complete? 	Yes <u>______</u>	No <u>______</u></text>
-        <text>BIA contacted for description: 	Date</text>
+        <text>Legal description complete?   Yes <u>______</u>   No <u>______</u></text>
+        <text>BIA contacted for description:    Date</text>
         <text>Complete description:</text>
       </para>
       <para>
         <num>(f)</num>
         <para>
           <num>(1)</num>
-          <text>Zoning Map: Tribal property? Yes <u>______</u>	No <u>______</u></text>
+          <text>Zoning Map: Tribal property? Yes <u>______</u>  No <u>______</u></text>
           <text>If no, inform applicant. Recommend for second choice.</text>
         </para>
         <para>
@@ -374,17 +372,17 @@
         <para>
           <num>(3)</num>
           <text>Zoning Map: Shoreline/Wetland encroachments on site?</text>
-          <text>Yes <u>______</u>	No <u>______</u>	If yes, describe type and extent:</text>
+          <text>Yes <u>______</u>   No <u>______</u>    If yes, describe type and extent:</text>
         </para>
         <para>
           <num>(4)</num>
           <text>Lease Map: Conflict with existing lease?</text>
-          <text>Yes <u>______</u>	No <u>______</u></text>
+          <text>Yes <u>______</u>   No <u>______</u></text>
         </para>
         <para>
           <num>(5)</num>
           <text>Forestry Map: Conflict with forestry project?</text>
-          <text>Yes <u>______</u>	No <u>______</u></text>
+          <text>Yes <u>______</u>   No <u>______</u></text>
         </para>
       </para>
       <para>
@@ -393,18 +391,18 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>If answer to 6(b) is not residential or if answer to 6(d) or 6(e) is yes, inform applicant, recommend second choice. Applicant informed:	Date</text>
+        <text>If answer to 6(b) is not residential or if answer to 6(d) or 6(e) is yes, inform applicant, recommend second choice. Applicant informed:  Date</text>
       </para>
       <para>
         <num>(i)</num>
         <text>Flood plain map: Within flood plain?</text>
-        <text>If yes, inform applicant. 	 	Date</text>
+        <text>If yes, inform applicant.         Date</text>
         <text>Does applicant wish to proceed or go to second choice.?</text>
-        <text>Proceed 			 Second Choice</text>
+        <text>Proceed            Second Choice</text>
         <text>If proceed, applicant(s) must sign the following statement:</text>
-        <text>I (we) 					 have been informed by the Bad River Lease Administrator that the residential lease site I (we) am (are) seeking is within a flood plain and understand that the site will be ineligible for assistance from the Indian Health Service or the Tribe for in installing or maintaining any sewer or water facilities.</text>
-        <text>Applicant 						Date</text>
-        <text>Applicant 						Date</text>
+        <text>I (we)                     have been informed by the Bad River Lease Administrator that the residential lease site I (we) am (are) seeking is within a flood plain and understand that the site will be ineligible for assistance from the Indian Health Service or the Tribe for in installing or maintaining any sewer or water facilities.</text>
+        <text>Applicant                         Date</text>
+        <text>Applicant                         Date</text>
       </para>
       <para>
         <num>(j)</num>
@@ -426,27 +424,27 @@
           <num>(1)</num>
           <text>Denial. The lease site described in line 5 of this application is denied certification for the following reasons:</text>
         </para>
-        <text>Lease Administrator					Date</text>
+        <text>Lease Administrator                   Date</text>
         <text>Applicant informed:</text>
-        <text>Action taken: 	Second Choice 					Appeal</text>
+        <text>Action taken:     Second Choice                   Appeal</text>
         <text>Other</text>
         <para>
           <num>(2)</num>
-          <text>Certification. I, 					 the Bad River Lease Administrator, certify that the lease site described in line 5 of this application meets all the standards for issuing a residential lease as prescribed by Chapter 403, Bad River Ordinances.</text>
+          <text>Certification. I,                    the Bad River Lease Administrator, certify that the lease site described in line 5 of this application meets all the standards for issuing a residential lease as prescribed by <cite path="4|4.02">this chapter</cite>, Bad River Ordinances.</text>
         </para>
-        <text>Lease Administrator					Date</text>
+        <text>Lease Administrator                   Date</text>
       </para>
       <para>
         <num>(n)</num>
-        <text>Referred to BIA for lease preparation: 	Date</text>
+        <text>Referred to BIA for lease preparation:    Date</text>
       </para>
       <para>
         <num>(o)</num>
-        <text>Referred to Tribal Council for approval: 	Date</text>
+        <text>Referred to Tribal Council for approval:  Date</text>
       </para>
       <para>
         <num>(p)</num>
-        <text>Tribal Council action: 	Approve 				Disapprove</text>
+        <text>Tribal Council action:    Approve                 Disapprove</text>
         <text>Date</text>
       </para>
       <para>
@@ -456,7 +454,7 @@
       </para>
       <para>
         <num>(r)</num>
-        <text>Papers forwarded to BIA for execution and recording.	Date</text>
+        <text>Papers forwarded to BIA for execution and recording.  Date</text>
       </para>
       <para>
         <num>(s)</num>
@@ -478,7 +476,7 @@
       </para>
       <para>
         <num>(v)</num>
-        <text>Address: 						 Ph. #</text>
+        <text>Address:                       Ph. #</text>
       </para>
       <para>
         <num>(w)</num>
@@ -486,7 +484,7 @@
       </para>
       <para>
         <num>(x)</num>
-        <text>Second		Third 		Choice (cross out one).</text>
+        <text>Second        Third       Choice (cross out one).</text>
       </para>
       <para>
         <num>(y)</num>
@@ -495,23 +493,23 @@
       <para>
         <num>(z)</num>
         <text>I (we) hereby make application for the above lease site(s) to be used for residential purposes.</text>
-        <text>Signature						Date</text>
-        <text>Signature						Date</text>
+        <text>Signature                     Date</text>
+        <text>Signature                     Date</text>
         <text>
           <strong>FOR OFFICE USE</strong>
         </text>
       </para>
       <para>
         <num>(aa)</num>
-        <text>Legal description complete? 	Yes _______	No _______</text>
-        <text>BIA contacted for description: 	Date</text>
+        <text>Legal description complete?   Yes _______ No _______</text>
+        <text>BIA contacted for description:    Date</text>
         <text>Complete description:</text>
       </para>
       <para>
         <num>(bb)</num>
         <para>
           <num>(1)</num>
-          <text>Zoning Map: Tribal property? 	Yes _______ 	No _______</text>
+          <text>Zoning Map: Tribal property?    Yes _______     No _______</text>
           <text>If no, inform applicant. Recommend next choice.</text>
         </para>
         <para>
@@ -520,42 +518,42 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Zoning Map: Shoreline/Wetland encroachments on site? Yes _______	No _______</text>
+          <text>Zoning Map: Shoreline/Wetland encroachments on site? Yes _______    No _______</text>
           <text>If yes, describe type and extent:</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Lease Map: Conflict with existing lease? 		Yes _______	No _______</text>
+          <text>Lease Map: Conflict with existing lease?        Yes _______ No _______</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Forestry Map: Conflict with forestry project? 	Yes _______	No _______</text>
+          <text>Forestry Map: Conflict with forestry project?   Yes _______ No _______</text>
         </para>
       </para>
       <para>
         <num>(cc)</num>
         <text>If answer to 6(c) is yes, inform applicant. Does applicant wish to proceed or to go to next choice?</text>
-        <text>Proceed __________	Next choice</text>
+        <text>Proceed __________    Next choice</text>
       </para>
       <para>
         <num>(dd)</num>
         <text>If answer to 6(b) is not residential or if answer to 6(d) or 6(e) is yes, inform applicant, recommend next choice.</text>
-        <text>Applicant informed: 	Date</text>
+        <text>Applicant informed:   Date</text>
       </para>
       <para>
         <num>(ee)</num>
         <text>Flood plain map: Within flood plain?</text>
-        <text>If, yes, inform applicant. 	Date:</text>
+        <text>If, yes, inform applicant.    Date:</text>
         <text>Does applicant wish to proceed or go to next choice?</text>
-        <text>Proceed 		 Next choice</text>
+        <text>Proceed        Next choice</text>
         <text>If proceed, applicant(s) must sign the following statement:</text>
-        <text>I (we) 					<u>	,</u> have been informed by the Bad River Lease Administrator that the residential lease site I (we) am (are) seeking is within a flood plain and understand that the site will ineligible for assistance from the Indian Health Service or the Tribe in installing or maintaining any sewer or water facilities.</text>
-        <text>Applicant						Date</text>
-        <text>Applicant						Date</text>
+        <text>I (we)                    <u> ,</u> have been informed by the Bad River Lease Administrator that the residential lease site I (we) am (are) seeking is within a flood plain and understand that the site will ineligible for assistance from the Indian Health Service or the Tribe in installing or maintaining any sewer or water facilities.</text>
+        <text>Applicant                     Date</text>
+        <text>Applicant                     Date</text>
       </para>
       <para>
         <num>(ff)</num>
-        <text>Perc Test: Outside flood plain: Referred to IHS. 	Date</text>
+        <text>Perc Test: Outside flood plain: Referred to IHS.  Date</text>
         <text>Within flood plain: Applicant informed of information required.</text>
         <text>Date</text>
       </para>
@@ -573,15 +571,15 @@
           <num>(1)</num>
           <text>Denial. The lease site described in line 7 of this application is denied certification for the following reasons:</text>
         </para>
-        <text>Lease Administrator					Date</text>
+        <text>Lease Administrator                   Date</text>
         <text>Applicant informed</text>
-        <text>Action taken:	Next choice 					Appeal</text>
+        <text>Action taken: Next choice                     Appeal</text>
         <text>Other</text>
         <para>
           <num>(2)</num>
-          <text>Certification. I, 					<u>	,</u> the Bad River Lease Administrator, certify that the lease site described in line 7 of this application meets all the standards for issuing a residential lease as prescribed by Chapter 403, Bad River Ordinance.</text>
+          <text>Certification. I,                   <u> ,</u> the Bad River Lease Administrator, certify that the lease site described in line 7 of this application meets all the standards for issuing a residential lease as prescribed by <cite path="4|4.02">this chapter</cite>, Bad River Ordinance.</text>
         </para>
-        <text>Lease Administrator					Date</text>
+        <text>Lease Administrator                   Date</text>
       </para>
       <para>
         <num>(jj)</num>
@@ -595,7 +593,7 @@
       </para>
       <para>
         <num>(ll)</num>
-        <text>Tribal Council action: Approve 			Disapprove</text>
+        <text>Tribal Council action: Approve            Disapprove</text>
         <text>Date</text>
       </para>
       <para>
@@ -618,38 +616,37 @@
         <num>(pp)</num>
         <text>Official Lease Map modified</text>
         <text>Date</text>
-        <text><cite path="4|4.03">This chapter</cite> 403 ENACTED BY RESOLUTION # /AMENDED BY RESOLUTION 6-2-82-88</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.03.120 was formerly codified as 403.12</annotation>
+        <annotation type="Prior Codifications">§4.02.120 was formerly codified as 403.12</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.05</num>
-    <heading>Bad River Utilities</heading>
     <prefix>Chapter</prefix>
+    <num>4.03</num>
+    <heading>Bad River Utilities</heading>
     <section>
-      <num>4.05.010</num>
+      <num>4.03.010</num>
       <heading>Purpose</heading>
       <text>The purpose of the Bad River Utility Department will be to manage, operate, and maintain utility systems of the Bad River Indian Tribe.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.010 was formerly codified as 405.1</annotation>
+        <annotation type="Prior Codifications">§4.03.010 was formerly codified as 405.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.020</num>
+      <num>4.03.020</num>
       <heading>Place of Business</heading>
       <text>The Utility Department will maintain an office in New Odanah, Wisconsin. It's address will be:</text>
       <text>Bad River Utility Department</text>
       <text>P.O. Box 39</text>
       <text>Odanah, WI 54861</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.020 was formerly codified as 405.2</annotation>
+        <annotation type="Prior Codifications">§4.03.020 was formerly codified as 405.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.030</num>
+      <num>4.03.030</num>
       <heading>Services Offered</heading>
       <para>
         <num>(a)</num>
@@ -672,13 +669,13 @@
         <text>Other Services: The Utility Department may agree to perform under contract with governmental, tribal, or private bodies construction or operating and maintenance services.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.030 was formerly codified as 405.3</annotation>
+        <annotation type="Prior Codifications">§4.03.030 was formerly codified as 405.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.040</num>
+      <num>4.03.040</num>
       <heading>Systems Covered</heading>
-      <text><cite path="§4.05.040">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the systems are covered as follows:</text>
+      <text><cite path="§4.03.040">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as <cite path="4|4.03">this chapter</cite>, the systems are covered as follows:</text>
       <para>
         <num>(a)</num>
         <text>Water (Community Systems)</text>
@@ -724,11 +721,11 @@
         <text>Septic Systems and Holding Tanks within the Bad River Reservation.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.040 was formerly codified as 405.4</annotation>
+        <annotation type="Prior Codifications">§4.03.040 was formerly codified as 405.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.050</num>
+      <num>4.03.050</num>
       <heading>Maintenance Schedule</heading>
       <text>The Utility Department will develop and follow a regular schedule of maintenance services for each water and sewage system. These services will include, but not be limited to, the following:</text>
       <para>
@@ -780,27 +777,27 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.050 was formerly codified as 405.5</annotation>
+        <annotation type="Prior Codifications">§4.03.050 was formerly codified as 405.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.060</num>
+      <num>4.03.060</num>
       <heading>Rate Schedule</heading>
-      <text><cite path="§4.05.060">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. Upon installation of water meters, the Department shall establish and charge base rates and usage rates as recommended by the Department and approved by the Tribal Council. Such rates may be adjusted from time to time upon recommendation of the Department and approval of the Tribal Council and shall be published as an Attachment A to this ordinance:</text>
+      <text><cite path="§4.03.060">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. Upon installation of water meters, the Department shall establish and charge base rates and usage rates as recommended by the Department and approved by the Tribal Council. Such rates may be adjusted from time to time upon recommendation of the Department and approval of the Tribal Council and shall be published as an Attachment A to this ordinance:</text>
       <para>
         <num>(a)</num>
         <text>Residential</text>
         <para>
           <num>(1)</num>
-          <text>Water Service				$12.50/month</text>
+          <text>Water Service               $12.50/month</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Sewer Service				$12.50/Month</text>
+          <text>Sewer Service               $12.50/Month</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Re-connection after shut-off 		$40.00</text>
+          <text>Re-connection after shut-off        $40.00</text>
         </para>
       </para>
       <para>
@@ -808,64 +805,64 @@
         <text>Water and Sewer Monthly Charges for Commercial/Administrative Buildings</text>
         <para>
           <num>(1)</num>
-          <text>Administration Building			$450.00</text>
+          <text>Administration Building         $450.00</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Clinic					$125.00</text>
+          <text>Clinic                  $125.00</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Casino					$350.00</text>
+          <text>Casino                  $350.00</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>New Odanah Fire Hall			$50.00</text>
+          <text>New Odanah Fire Hall            $50.00</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Birch Hill Fire Hall			$50.00</text>
+          <text>Birch Hill Fire Hall            $50.00</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Bad River Day Care			$125.00</text>
+          <text>Bad River Day Care          $125.00</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Bad River Head Start			$125.00</text>
+          <text>Bad River Head Start            $125.00</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Bad River Tribal Garbage		$50.00</text>
+          <text>Bad River Tribal Garbage        $50.00</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>Bad River Tribal Center			$150.00</text>
+          <text>Bad River Tribal Center         $150.00</text>
         </para>
         <para>
           <num>(10)</num>
-          <text>Bad River Heritage Building		$50.00</text>
+          <text>Bad River Heritage Building     $50.00</text>
         </para>
         <para>
           <num>(11)</num>
-          <text>Bad River Lodge				$300.00</text>
+          <text>Bad River Lodge             $300.00</text>
         </para>
         <para>
           <num>(12)</num>
-          <text>Bad River Warehouse			$50.00</text>
+          <text>Bad River Warehouse         $50.00</text>
         </para>
         <para>
           <num>(13)</num>
-          <text>Community Center			$125.00</text>
+          <text>Community Center            $125.00</text>
         </para>
         <para>
           <num>(14)</num>
-          <text>Bad River Housing Authority 		$4,255.00</text>
+          <text>Bad River Housing Authority         $4,255.00</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>Reconnection Charge after shut-off		$40.00</text>
+        <text>Reconnection Charge after shut-off        $40.00</text>
       </para>
       <para>
         <num>(d)</num>
@@ -884,11 +881,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.060 was formerly codified as 405.6</annotation>
+        <annotation type="Prior Codifications">§4.03.060 was formerly codified as 405.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.070</num>
+      <num>4.03.070</num>
       <heading>Billing and Collection</heading>
       <para>
         <num>(a)</num>
@@ -915,11 +912,11 @@
         <text>If a customer's water service is discontinued he/she must pay all of this delinquent charges plus the re-connection fee before the Department will restore his water service.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.070 was formerly codified as 405.7</annotation>
+        <annotation type="Prior Codifications">§4.03.070 was formerly codified as 405.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.080</num>
+      <num>4.03.080</num>
       <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
@@ -930,11 +927,11 @@
         <text>The Utility Department shall enforce its regulations and fee collections by shutting off water services and any and all violators and delinquent bill-payers. The Utility Department shall not seek to attach customer's property, nor seek to have fines assessed by Tribal Court, except in limited cases of blatant or continued abuses or destruction of property.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.080 was formerly codified as 405.8</annotation>
+        <annotation type="Prior Codifications">§4.03.080 was formerly codified as 405.8</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.090</num>
+      <num>4.03.090</num>
       <heading>Bookkeeping and Handling of Funds</heading>
       <para>
         <num>(a)</num>
@@ -961,11 +958,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.090 was formerly codified as 405.9</annotation>
+        <annotation type="Prior Codifications">§4.03.090 was formerly codified as 405.9</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.100</num>
+      <num>4.03.100</num>
       <heading>Management</heading>
       <para>
         <num>(a)</num>
@@ -980,26 +977,26 @@
         <text>Job description for all employees will be developed by the Utility systems.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.100 was formerly codified as 405.10</annotation>
+        <annotation type="Prior Codifications">§4.03.100 was formerly codified as 405.10</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.110</num>
+      <num>4.03.110</num>
       <heading>Customer Complaints and Problems</heading>
       <text>The Utility Department should serve the people of the Bad River Reservation. All meetings of the Utility Department shall be open to the public and notice of such meetings will be posted. Customers with particular problems or complaints should bring them to the Utility Department.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.110 was formerly codified as 405.11</annotation>
+        <annotation type="Prior Codifications">§4.03.110 was formerly codified as 405.11</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.120</num>
+      <num>4.03.120</num>
       <heading>Mandatory Hook-up</heading>
       <para>
         <num>(a)</num>
         <text>The owner or lessee of each parcel of land adjacent to a sewer main on which there exists a building useable for human habitation or in a block through which such system is extended, shall connect to such system with 90 days of notice in writing from the Utility Department. Upon failure to do so, the Utility Department may cause such connection to be made and bill the property owner or lessee for the costs of the hook-up.</text>
         <para>
           <num>(1)</num>
-          <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding sub<cite path="§4.05.080">Section 4.05.080</cite>B, for recovery of the costs hook-up.</text>
+          <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding sub<cite path="§4.03.080">Section 4.03.080</cite>B, for recovery of the costs hook-up.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1007,97 +1004,45 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><cite path="4|4.05">This chapter</cite> ordains that the failure to connect to the sewer system is contrary to the minimum health standards of the Bad River Band of Lake Superior Tribe of Chippewa Indians and fails to assure preservation of the health, comfort, and safety of the Bad River Reservation population and environment</text>
+          <text><cite path="4|4.03">This chapter</cite> ordains that the failure to connect to the sewer system is contrary to the minimum health standards of the Bad River Band of Lake Superior Tribe of Chippewa Indians and fails to assure preservation of the health, comfort, and safety of the Bad River Reservation population and environment</text>
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.120 was formerly codified as 405.12</annotation>
+        <annotation type="Prior Codifications">§4.03.120 was formerly codified as 405.12</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.130</num>
+      <num>4.03.130</num>
       <heading>Water Meters</heading>
       <text>All facilities/structures that are connected to the community water system are required to install a water meter. All meters for measurement of utility services provided shall be installed in accordance with the requirements of the Department in such locations as determined by the Department. All water meters shall be the property of the Utility Department and shall be maintained by it. All meters shall remain accessible to Department personnel and no person shall obstruct, damage or tamper with any meter. Such obstruction, damage or tampering shall be a violation of this ordinance and subject the violator to actual damages and civil penalties under this ordinance. The assignee of the property on which the meter is located shall be responsible for all damage to or tampering with the turn off/on water valve, and remote readout attached to such meter.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.130 was formerly codified as 405.13</annotation>
+        <annotation type="Prior Codifications">§4.03.130 was formerly codified as 405.13</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.140</num>
+      <num>4.03.140</num>
       <heading>Emergency Plan</heading>
       <text>The Utility Department shall develop and maintain an Emergency Plan for the Bad River Water/Wastewater System. The most recent copies of the Emergency Plan shall be maintained at the Utilities Department, the Tribal Operations Manager, the Bad River Fire Department, and the Bad River Police Department.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.140 was formerly codified as 405.14</annotation>
+        <annotation type="Prior Codifications">§4.03.140 was formerly codified as 405.14</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.05.150</num>
+      <num>4.03.150</num>
       <heading>Amendments or Revisions</heading>
       <text>The Plan of Operation may be amended by a simple majority of Tribal Council members in attendance at a meeting called for that, purpose and thereafter by the Bad River Tribal Council as provided by law.</text>
-      <text><strong>Legislative History:</strong> (This Legislative History is provided only as a reference and a guide to interpretation and application of <cite path="4|4.05">this chapter</cite>, and should only be cited as such. The Legislative History may not provide a complete historical record of the Chapter. Deletions specified below are indicated by strike-through and specified additions by bold.)</text>
-      <text>The following amendments were made to the Bad River Utility Ordinance on 		<u>,</u> by</text>
-      <text>Resolution No. 			<u>	:</u></text>
-      <text>Add to 405.3.A 		and water meter installation and servicing follows:</text>
-      <text>Change 405.6 as follows:</text>
-      <text><cite path="§4.05.150">This section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the rates are as follows:</text>
-      <text>And Add:</text>
-      <text>Upon installation of water meters, the Department shall establish and charge base rates and usage rates as recommended by the Department and approved by the Tribal Council. Such rates may be adjusted from time to time upon recommendation of the Department and approval of the Tribal Council and shall be published as an Attachment A to this ordinance.</text>
-      <text>Add a new <cite path="§4.05.070">Section 4.05.070</cite>B as follows and renumber the previously number sections 405.7 B through E: Water meters will be read according to a schedule established by the Department.</text>
-      <text>Change 405.12B as follows:</text>
-      <text>If such costs of hook-up are not paid within thirty (30) days, notice shall be made to the owner or lessee that the Utility Department intends to seek a redress in the Bad River Tribal Court, notwithstanding sub<cite path="§4.05.080">Section 4.05.080</cite>.B, for recovery of the costs of hook-up. <s>The Utility Department shall net seek to attach the owner or</s> lessee's property, or seek to have fines assessed by the Tribal Curt, except in limited cases of blatant or continued abuses or destruction of property.</text>
-      <text>Add a new <cite path="§4.05.130">Section 4.05.130</cite> as follows and renumber the previously numbered sections 405.13 through 405.14:</text>
-      <text>
-        <strong>
-          <em>Add 405.13 Water Meters</em>
-        </strong>
-      </text>
-      <text>All facilities/structures that are connected to the community water system are required to install a water meter. All meters for measurement of utility services provided shall be installed in accordance with the requirements of the Department in such locations as determined by the Department. All water meters shall be the property of the Utility Department and shall be maintained by it. All meters shall remain accessible to Department personnel and no person shall obstruct, damage or tamper with any meter. Such obstruction, damage or tampering shall be a violation of this ordinance and subject the violator to actual damages and civil penalties under this ordinance. The assignee of the property on which the meter is located shall be responsible for all damage to or tampering with the turn off/on water valve, and remote readout attached to such meter.</text>
-      <text>The following amendments were made to the Bad River Utility Ordinance on 12-15-2005, by Resolution No. 12-15-05- 26</text>
-      <text>Add 405.3 -	D.	Septic System and Holding Tank Pumping: The Utility Department shall upon request of the customer, pump septic tanks and holding tanks for a fee, as specified below.</text>
-      <text>Add to 405.4- 		E. 	Septic Systems and Holding Tanks within the Bad River Reservation.</text>
-      <text>Correct the numbering of 405.5.</text>
-      <text>Add to 405.6-	D.	Septic System and Holding Tank Pumping and Cleaning/Maintenance Fees</text>
-      <para>
-        <num>(a)</num>
-        <text>Septic Systems: $180.00 per system, up to 2000 gallons. Additional gallons pumped will be charged pro-rata share of the $180.00.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Holding Tanks: $90.00 per holding tank, up to 2000 gallons. Additional gallons pumped will be charged a pro-rata share of the $90.00.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Cleaning and Maintenance Fees shall be charged at an hourly rate of 		 as well as the cost of part replacement.</text>
-      </para>
-      <text>Change 405.7 as follows - 	C.	Customers may make payments by cash, check or money order to Tribal Accounting Office Accounting Clerk, located at the Chief Blackbird Center, P.O. Box 39, Odanah, Wisconsin 54861</text>
-      <text>Change 405.8 as follows - 	A. 	The Utility Department is hereby authorized by the Bad River Tribal Council to shut off services for non-payment.</text>
-      <text>Change 405.9 as follows - 	A. 	The Tribal Accounting Office shall collect Water and Sewer fees and shall perform bookkeeping functions for the Department.</text>
-      <para>
-        <num>(d)</num>
-        <text>Reserve Accounts. The Utility Department shall cause to be established and the Tribal Accounting Department shall maintain the following reserve accounts, funded through collection of Utility rates:</text>
-      </para>
-      <text>The Bad River Indian Reservation Plan of Operation of the Bad River Utility Department and the Utility Regulations were adopted by the Bad River Tribal Council on the 7th day of May, 1986, by Resolution No. 5-7-86-28.</text>
-      <text>The following amendments were adopted by the Bad River Tribal Council, by Resolution No. 4-4-01-76 on the 4th day of April, 2001:</text>
-      <text>The Plan of Operation and the Regulations referred to above were named and numbered as Bad River Tribal Code Section 6, Chapter 405 Bad River Utilities Ordinance.</text>
-      <text>Numbers were assigned to each section of the Ordinance (405.)</text>
-      <text>The <cite path="§4.05.040">Section 4.05.040</cite> was amended to add the following language to provide for routing updating of services areas covered: "<cite path="§4.05.150">this section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the systems covered are as follows:</text>
-      <text>The <cite path="§4.05.060">Section 4.05.060</cite> utilized the rate schedules in effect at the time of passage of the ordinance. In addition, the following language was added to provide for routine adjustments in rate schedules: <cite path="§4.05.150">this section</cite> may be amended as necessary as an Attachment A to this ordinance by Resolution of the Tribal Council. On the date of renumbering of this ordinance as Chapter 405, the rates are as follows:</text>
-      <text>The <cite path="§4.05.090">Section 4.05.090</cite>.D was added to include the following language to provide for income sufficient to perform vital functions of the sewage treatment system and to safely and legally provide for ultimate disposal of the sludge.</text>
-      <text>The <cite path="§4.05.120">Section 4.05.120</cite> Mandatory Hook-Up was added to meet USDA funding requirements.</text>
-      <text>The <cite path="§4.05.130">Section 4.05.130</cite> Emergency Plan was added to ensure that a plan is in place.</text>
-      <text>The <cite path="§4.05.140">Section 4.05.140</cite> Amendments or Revisions was amended as follows to refer to the Plan of Operation as Chapter 405 and to provide a procedure more compatible with Tribal Council practice. <cite path="4|4.05">This chapter</cite> 405 may be amended by a resolution of the Tribal Council as provided by law.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.05.150 was formerly codified as 405.15</annotation>
+        <annotation type="Prior Codifications">§4.03.150 was formerly codified as 405.15</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.06</num>
-    <heading>Private On-Site Wastewater Treatment and Disposal Systems Ordinance</heading>
     <prefix>Chapter</prefix>
+    <num>4.04</num>
+    <heading>Private On-Site Wastewater Treatment and Disposal Systems Ordinance</heading>
     <text>An ordinance regulating the design, location, installation, renovation, operation, maintenance, and inspection of individual, cluster, commercial and institutional wastewater treatment and disposal systems; requiring permits therefore; and prescribing penalties.</text>
     <section>
-      <num>4.06.010</num>
+      <num>4.04.010</num>
       <heading>Introduction and Authority</heading>
       <para>
         <num>(a)</num>
@@ -1113,11 +1058,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Scope and Date of Applicability. This Ordinance shall govern within the boundaries of the Bad River Reservation and apply immediately upon enactment to any new installation or any renovation of private on-site wastewater treatment and disposal systems (POWTS) and the operation, maintenance, correction and inspection of such systems, as well as holding tanks, engineered systems, experimental systems, privies and other non-plumbing systems. Existing systems shall have one (1) year from the date of enactment of <cite path="4|4.06">this chapter</cite> to come into compliance with its terms evidenced through acquisition of an Inspection Certificate for an adequate system or repair, upgrade, or replacement of a failing or inadequate system. POWTS owners who anticipate not being able to bring their system into compliance within one year of the date of enactment to enter into a compliance schedule agreement with the POWTS Inspector. Systems subject to such a compliance schedule agreement shall have three years from the date of enactment to come into full compliance.</text>
+        <text>Scope and Date of Applicability. This Ordinance shall govern within the boundaries of the Bad River Reservation and apply immediately upon enactment to any new installation or any renovation of private on-site wastewater treatment and disposal systems (POWTS) and the operation, maintenance, correction and inspection of such systems, as well as holding tanks, engineered systems, experimental systems, privies and other non-plumbing systems. Existing systems shall have one (1) year from the date of enactment of <cite path="4|4.04">this chapter</cite> to come into compliance with its terms evidenced through acquisition of an Inspection Certificate for an adequate system or repair, upgrade, or replacement of a failing or inadequate system. POWTS owners who anticipate not being able to bring their system into compliance within one year of the date of enactment to enter into a compliance schedule agreement with the POWTS Inspector. Systems subject to such a compliance schedule agreement shall have three years from the date of enactment to come into full compliance.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Interpretation. In the interpretation and application of this Ordinance, its provisions shall be held to be the minimum requirements and shall be construed so as to fully effect its purpose and shall not be deemed a limitation or repeal of any other power by law or Ordinance except as specifically provided herein. In the event conflicting requirements are imposed by this Ordinance or by other Ordinances of the Band, the most restrictive provisions shall apply. The POWTS Inspector shall rule on what is more restrictive, and appeals from such decisions, as well as other interpretations, may be made in accordance with <cite path="§4.06.100">Section 4.06.100</cite>E herein.</text>
+        <text>Interpretation. In the interpretation and application of this Ordinance, its provisions shall be held to be the minimum requirements and shall be construed so as to fully effect its purpose and shall not be deemed a limitation or repeal of any other power by law or Ordinance except as specifically provided herein. In the event conflicting requirements are imposed by this Ordinance or by other Ordinances of the Band, the most restrictive provisions shall apply. The POWTS Inspector shall rule on what is more restrictive, and appeals from such decisions, as well as other interpretations, may be made in accordance with <cite path="§4.04.100">Section 4.04.100</cite>E herein.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1132,11 +1077,11 @@
         <text>Federal Law. Nothing in this Ordinance is intended to modify or supercede requirements of federal law. Pemits will not be issued under this Ordinance until all required federal approvals and permits have been obtained.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.010 was formerly codified as 406.1</annotation>
+        <annotation type="Prior Codifications">§4.04.010 was formerly codified as 406.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.020</num>
+      <num>4.04.020</num>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -1164,11 +1109,11 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"Experimental System" shall have the same meaning as in WAC Comm 83 as referenced by <cite path="§4.06.010">Section 4.06.010</cite>F, above.</text>
+        <text>"Experimental System" shall have the same meaning as in WAC Comm 83 as referenced by <cite path="§4.04.010">Section 4.04.010</cite>F, above.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>"Failing System" shall have the same meaning specified under WSA <cite path="1|145|145.245|(4)">Section 145.245(4)</cite>.</text>
+        <text>"Failing System" shall have the same meaning specified under WSA Section 145.245(4).</text>
       </para>
       <para>
         <num>(i)</num>
@@ -1180,7 +1125,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>"Inspection Certificate" shall mean a certificate issued by the POWTS Inspector, pursuant to <cite path="§4.06.040">Section 4.06.040</cite>, below, for the use of a system that has passed an inspection ensuring the POWTS is of adequate size for the premises being served and is functioning properly, and which includes performance standards, time limitations, maintenance requirements, and other conditions as may be required by the POWTS Inspector to evaluate and assure adequate system performance.</text>
+        <text>"Inspection Certificate" shall mean a certificate issued by the POWTS Inspector, pursuant to <cite path="§4.04.040">Section 4.04.040</cite>, below, for the use of a system that has passed an inspection ensuring the POWTS is of adequate size for the premises being served and is functioning properly, and which includes performance standards, time limitations, maintenance requirements, and other conditions as may be required by the POWTS Inspector to evaluate and assure adequate system performance.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -1188,7 +1133,7 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>"Journeyman Plumber" shall mean any person licensed and registered as a Journeyman Plumber in accordance with WSA <cite path="1|145|145.07">Section 145.07</cite>.</text>
+        <text>"Journeyman Plumber" shall mean any person licensed and registered as a Journeyman Plumber in accordance with WSA Section 145.07.</text>
       </para>
       <para>
         <num>(n)</num>
@@ -1196,7 +1141,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"Master Plumber" shall mean any person licensed and registered as a Master Plumber in accordance with WSA <cite path="1|145|145.07">Section 145.07</cite>.</text>
+        <text>"Master Plumber" shall mean any person licensed and registered as a Master Plumber in accordance with WSA Section 145.07.</text>
       </para>
       <para>
         <num>(p)</num>
@@ -1273,7 +1218,7 @@
       </para>
       <para>
         <num>(hh)</num>
-        <text>"Restricted Plumber Licensee" shall mean any person licensed as a master plumber (restricted) or a journeyman plumber (restricted) under WSA <cite path="1|145|145.14">Section 145.14</cite>.</text>
+        <text>"Restricted Plumber Licensee" shall mean any person licensed as a master plumber (restricted) or a journeyman plumber (restricted) under WSA Section 145.14.</text>
       </para>
       <para>
         <num>(ii)</num>
@@ -1281,7 +1226,7 @@
       </para>
       <para>
         <num>(jj)</num>
-        <text>"Site Evaluator" shall mean any person who conducts an evaluation of a site proposed for a POWTS and who meets the requirements of licensing and certification set forth in <cite path="§4.06.060">Section 4.06.060</cite> of this Ordinance.</text>
+        <text>"Site Evaluator" shall mean any person who conducts an evaluation of a site proposed for a POWTS and who meets the requirements of licensing and certification set forth in <cite path="§4.04.060">Section 4.04.060</cite> of this Ordinance.</text>
       </para>
       <para>
         <num>(kk)</num>
@@ -1297,22 +1242,22 @@
       </para>
       <para>
         <num>(nn)</num>
-        <text>"Transfer, sale, or conveyance" shall mean all transfers, sales, or conveyance's of the original owner's or lessee's interest in the buildings, structures or land which is served by a POWTS or upon which a POWTS is located, regardless of form, so long as the owner or lessee is divested of all rights of ownership or leasehold interest, or as exempted by <cite path="§4.06.040">Section 4.06.040</cite>.J.5, below.</text>
+        <text>"Transfer, sale, or conveyance" shall mean all transfers, sales, or conveyance's of the original owner's or lessee's interest in the buildings, structures or land which is served by a POWTS or upon which a POWTS is located, regardless of form, so long as the owner or lessee is divested of all rights of ownership or leasehold interest, or as exempted by <cite path="§4.04.040">Section 4.04.040</cite>.J.5, below.</text>
       </para>
       <para>
         <num>(oo)</num>
-        <text>"Variance" shall mean any modification or relief from this Ordinance where it is determined that, by reason of exceptional circumstances, the strict enforcement of the provisions of this Ordinance would cause unnecessary hardship as defined in <cite path="§4.06.070">Section 4.06.070</cite> of this Ordinance.</text>
+        <text>"Variance" shall mean any modification or relief from this Ordinance where it is determined that, by reason of exceptional circumstances, the strict enforcement of the provisions of this Ordinance would cause unnecessary hardship as defined in <cite path="§4.04.070">Section 4.04.070</cite> of this Ordinance.</text>
       </para>
       <para>
         <num>(pp)</num>
         <text>"Wetlands" shall mean the presence of hydric soils, surface and subsurface hydrology, and hydrophytic vegetation.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.020 was formerly codified as 406.2</annotation>
+        <annotation type="Prior Codifications">§4.04.020 was formerly codified as 406.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.030</num>
+      <num>4.04.030</num>
       <heading>General Requirements</heading>
       <para>
         <num>(a)</num>
@@ -1383,7 +1328,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>A thorough soil and site evaluation shall be completed in all areas in order to comply with <cite path="§4.06.040">Section 4.06.040</cite>.C.</text>
+          <text>A thorough soil and site evaluation shall be completed in all areas in order to comply with <cite path="§4.04.040">Section 4.04.040</cite>.C.</text>
         </para>
       </para>
       <para>
@@ -1396,7 +1341,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Proximity to Public Sewer. No POWTS or other means of sewage or excreta disposal shall be maintained or used on property located adjacent to a sewer main for a public wastewater treatment system or in a block through which such system is extended. Exception to this prohibition shall only be granted in accordance with Chapter 405, Bad River Utilities Ordinance.</text>
+        <text>Proximity to Public Sewer. No POWTS or other means of sewage or excreta disposal shall be maintained or used on property located adjacent to a sewer main for a public wastewater treatment system or in a block through which such system is extended. Exception to this prohibition shall only be granted in accordance with <cite path="4|4.03">Chapter 4.03</cite>, Bad River Utilities Ordinance.</text>
       </para>
       <para>
         <num>(j)</num>
@@ -1404,7 +1349,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Maintenance. It shall be the responsibility of the owner of any premises using a POWTS, Engineered or Experimental System, holding tank, privy or non-plumbing system to provide for the periodic maintenance of such system as necessary to assure adequate function. See <cite path="§4.06.090">Section 4.06.090</cite> for Maintenance Program Requirements. Failure to maintain shall result in civil fine or forfeiture.</text>
+        <text>Maintenance. It shall be the responsibility of the owner of any premises using a POWTS, Engineered or Experimental System, holding tank, privy or non-plumbing system to provide for the periodic maintenance of such system as necessary to assure adequate function. See <cite path="§4.04.090">Section 4.04.090</cite> for Maintenance Program Requirements. Failure to maintain shall result in civil fine or forfeiture.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -1431,7 +1376,7 @@
         <text>Abandonment of Private Sewage Systems.</text>
         <para>
           <num>(1)</num>
-          <text>When public sewers approved by the Band become available to the structure or premises served, in accordance with Chapter 405 of the Tribal Code, the private sewage system shall be disconnected within one year and a connection made to the public sewer. The POWTS Inspector shall determine whether the sewer is available. Abandonment of the disconnected private sewage system shall be done in accordance with this Ordinance and the provisions of WAC Comm 83.</text>
+          <text>When public sewers approved by the Band become available to the structure or premises served, in accordance with <cite path="4|4.03">Chapter 4.03</cite> of the Tribal Code, the private sewage system shall be disconnected within one year and a connection made to the public sewer. The POWTS Inspector shall determine whether the sewer is available. Abandonment of the disconnected private sewage system shall be done in accordance with this Ordinance and the provisions of WAC Comm 83.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1472,11 +1417,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.030 was formerly codified as 406.3</annotation>
+        <annotation type="Prior Codifications">§4.04.030 was formerly codified as 406.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.040</num>
+      <num>4.04.040</num>
       <heading>Inspection Certificates, Permits and Applications</heading>
       <para>
         <num>(a)</num>
@@ -1539,7 +1484,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The POWTS Inspector may request verification of a Soil and Site Evaluation Report by a certified soil tester before a complete sanitary permit application is submitted. Application for this verification shall contain all information required in <cite path="§4.06.040">this section</cite>.H and 406.4.1 on forms provided by the POWTS Inspector, the original copy of the Soil and Site Evaluation Report and as many copies as are required by the POWTS Inspector.</text>
+          <text>The POWTS Inspector may request verification of a Soil and Site Evaluation Report by a certified soil tester before a complete sanitary permit application is submitted. Application for this verification shall contain all information required in <cite path="§4.04.040">this section</cite>.H and 406.4.1 on forms provided by the POWTS Inspector, the original copy of the Soil and Site Evaluation Report and as many copies as are required by the POWTS Inspector.</text>
         </para>
       </para>
       <para>
@@ -1551,7 +1496,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A sanitary permit shall be obtained by the property owner, except as permitted in <cite path="§4.06.030">Section 4.06.030</cite>.N, before any private sewage system or part thereof may be installed, replaced, repaired, reconnected or modified.</text>
+          <text>A sanitary permit shall be obtained by the property owner, except as permitted in <cite path="§4.04.030">Section 4.04.030</cite>.N, before any private sewage system or part thereof may be installed, replaced, repaired, reconnected or modified.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1559,7 +1504,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>If any part of the system is found to be defective or not in conformance with the applicable provisions of this Ordinance, the sanitary permit application shall include specifications for the repair, renovation, replacement or removal of that part, except as exempted by <cite path="§4.06.030">Section 4.06.030</cite>.N.</text>
+          <text>If any part of the system is found to be defective or not in conformance with the applicable provisions of this Ordinance, the sanitary permit application shall include specifications for the repair, renovation, replacement or removal of that part, except as exempted by <cite path="§4.04.030">Section 4.04.030</cite>.N.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1604,7 +1549,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Permit Fees. The Fee Schedule shall be set initially by the Bad River Tribal Council upon enactment of this Ordinance. Thereafter, the POWTS Board shall have the sole authority to amend rates and fees. The Fee Schedule shall be attached to <cite path="4|4.06">this chapter</cite> as Exhibit A. There shall be no refunds of application fees for retracted, deficient, or denied applications.</text>
+        <text>Permit Fees. The Fee Schedule shall be set initially by the Bad River Tribal Council upon enactment of this Ordinance. Thereafter, the POWTS Board shall have the sole authority to amend rates and fees. The Fee Schedule shall be attached to <cite path="4|4.04">this chapter</cite> as Exhibit A. There shall be no refunds of application fees for retracted, deficient, or denied applications.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -1727,7 +1672,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If, upon inspection, the existing system meets the criteria of a "failing private sewage system" as defined in this Ordinance or WSA <cite path="1|145|145.245|(4)">Sec. 145.245(4)</cite>, an order for replacement is issued under this Ordinance or WSA <cite path="1|145|145.20|(2)|(e)">Sec. 145.20(2)(e)</cite>, (f), and (g), said new system shall be installed within one year of the sale or conveyance date by the transferee unless by written agreement the transferor has retained the obligation to replace the system. Any such agreement shall be filed with the POWTS Inspector and shall be enforceable by the POWTS Inspector against the transferor.</text>
+          <text>If, upon inspection, the existing system meets the criteria of a "failing private sewage system" as defined in this Ordinance or WSA Sec. 145.245(4), an order for replacement is issued under this Ordinance or WSA Sec. 145.20(2)(e), (f), and (g), said new system shall be installed within one year of the sale or conveyance date by the transferee unless by written agreement the transferor has retained the obligation to replace the system. Any such agreement shall be filed with the POWTS Inspector and shall be enforceable by the POWTS Inspector against the transferor.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1767,11 +1712,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.040 was formerly codified as 406.4</annotation>
+        <annotation type="Prior Codifications">§4.04.040 was formerly codified as 406.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.050</num>
+      <num>4.04.050</num>
       <heading>Reconnection and Construction</heading>
       <para>
         <num>(a)</num>
@@ -1825,7 +1770,7 @@
           </para>
           <para>
             <num>(E)</num>
-            <text>A plot plan prepared by a plumber including information specified in <cite path="§4.06.040">Section 4.06.040</cite>.H and I; and</text>
+            <text>A plot plan prepared by a plumber including information specified in <cite path="§4.04.040">Section 4.04.040</cite>.H and I; and</text>
           </para>
           <para>
             <num>(F)</num>
@@ -1878,7 +1823,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>Documentation specified in <cite path="§4.06.050">this section</cite>.A.3.</text>
+            <text>Documentation specified in <cite path="§4.04.050">this section</cite>.A.3.</text>
           </para>
         </para>
         <para>
@@ -1901,19 +1846,19 @@
         <text>Reconnection permit fees shall apply as established by Exhibit A.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.050 was formerly codified as 406.5</annotation>
+        <annotation type="Prior Codifications">§4.04.050 was formerly codified as 406.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.060</num>
+      <num>4.04.060</num>
       <heading>Licensing</heading>
-      <text>Requirement. No person shall engage in or perform any aspects of the business or perform for others the service of site evaluation, design, installation, pumping, maintenance, or renovation of individual sewage treatment systems within the exterior boundaries of the Bad River Reservation without first obtaining a Master Plumber or the appropriate classification of Master Plumber-Restricted, as defined as Restricted Plumber Licensee, license under WSA Chapter 145 from the State of Wisconsin and submitting a copy of the license to the POWTS Inspector. Installer licensees shall be authorized to construct, install, renovate, and repair individual sewage treatment systems only as their license permits. Licensed Journeyman Plumbers may install a system without continual supervision, subject to a Master Plumber or Master Plumber-Restricted Licensee inspecting and approving, signing-off in writing, and taking responsibility for all of the work. Plumbing Apprentices and Registered Learners shall at all times be supervised by a Master Plumber.</text>
+      <text>Requirement. No person shall engage in or perform any aspects of the business or perform for others the service of site evaluation, design, installation, pumping, maintenance, or renovation of individual sewage treatment systems within the exterior boundaries of the Bad River Reservation without first obtaining a Master Plumber or the appropriate classification of Master Plumber-Restricted, as defined as Restricted Plumber Licensee, license under WSA <cite path="1|1.35">Chapter 1.35</cite> from the State of Wisconsin and submitting a copy of the license to the POWTS Inspector. Installer licensees shall be authorized to construct, install, renovate, and repair individual sewage treatment systems only as their license permits. Licensed Journeyman Plumbers may install a system without continual supervision, subject to a Master Plumber or Master Plumber-Restricted Licensee inspecting and approving, signing-off in writing, and taking responsibility for all of the work. Plumbing Apprentices and Registered Learners shall at all times be supervised by a Master Plumber.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.060 was formerly codified as 406.6</annotation>
+        <annotation type="Prior Codifications">§4.04.060 was formerly codified as 406.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.070</num>
+      <num>4.04.070</num>
       <heading>Variances</heading>
       <para>
         <num>(a)</num>
@@ -1928,11 +1873,11 @@
         <text>A property owner may apply to the POWTS Inspector for a variance. The applicant shall have the burden of establishing a hardship that is unique to the land in question. An unnecessary hardship may exist when compliance with the strict letter of the Ordinance would unreasonably prevent the applicant from using the property for an allowable purpose or would render compliance with such restrictions unnecessarily burdensome. Financial impact is not considered for a hardship variance. Any hardship shall be weighted against the danger to the health and safety of the environment and the Tribal membership.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.070 was formerly codified as 406.7</annotation>
+        <annotation type="Prior Codifications">§4.04.070 was formerly codified as 406.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.080</num>
+      <num>4.04.080</num>
       <heading>Inspections</heading>
       <para>
         <num>(a)</num>
@@ -2040,11 +1985,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.080 was formerly codified as 406.8</annotation>
+        <annotation type="Prior Codifications">§4.04.080 was formerly codified as 406.8</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.090</num>
+      <num>4.04.090</num>
       <heading>System Management and Maintenance</heading>
       <para>
         <num>(a)</num>
@@ -2099,11 +2044,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.090 was formerly codified as 406.9</annotation>
+        <annotation type="Prior Codifications">§4.04.090 was formerly codified as 406.9</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.100</num>
+      <num>4.04.100</num>
       <heading>Administration and Enforcement</heading>
       <para>
         <num>(a)</num>
@@ -2134,7 +2079,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Interpret the provisions of this Ordinance as provided in <cite path="§4.06.010">Section 4.06.010</cite>.E. (7) Advise applicants concerning the provisions of this Ordinance and assist them in preparing permit applications;</text>
+          <text>Interpret the provisions of this Ordinance as provided in <cite path="§4.04.010">Section 4.04.010</cite>.E. (7) Advise applicants concerning the provisions of this Ordinance and assist them in preparing permit applications;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -2154,7 +2099,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>to <cite path="§4.06.010">Section 4.06.010</cite>.D., above, and enforce the terms of such agreement to ensure compliance schedule milestones are adhered to.</text>
+          <text>to <cite path="§4.04.010">Section 4.04.010</cite>.D., above, and enforce the terms of such agreement to ensure compliance schedule milestones are adhered to.</text>
         </para>
         <para>
           <num>(12)</num>
@@ -2242,7 +2187,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The timely filed request for reconsideration must specify the reasons for the request and the administrative remedy requested. The POWTS Inspector shall issue a written decision within forty-five (45) days of the request for reconsideration. Parties dissatisfied with the reconsideration decision of the POWTS Inspector may request an appeal as specified in <cite path="§4.06.100">this section</cite>.</text>
+          <text>The timely filed request for reconsideration must specify the reasons for the request and the administrative remedy requested. The POWTS Inspector shall issue a written decision within forty-five (45) days of the request for reconsideration. Parties dissatisfied with the reconsideration decision of the POWTS Inspector may request an appeal as specified in <cite path="§4.04.100">this section</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2330,7 +2275,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Actions for violations of <cite path="4|4.06">this chapter</cite> may be commenced in Tribal Court by conservation citation or by summons and complaint.</text>
+          <text>Actions for violations of <cite path="4|4.04">this chapter</cite> may be commenced in Tribal Court by conservation citation or by summons and complaint.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -2338,15 +2283,15 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Any person may bring suit in Tribal Court to enjoin a violation of <cite path="4|4.06">this chapter</cite>.</text>
+          <text>Any person may bring suit in Tribal Court to enjoin a violation of <cite path="4|4.04">this chapter</cite>.</text>
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.100 was formerly codified as 406.10</annotation>
+        <annotation type="Prior Codifications">§4.04.100 was formerly codified as 406.10</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.110</num>
+      <num>4.04.110</num>
       <heading>Violations</heading>
       <para>
         <num>(a)</num>
@@ -2365,16 +2310,16 @@
         <text>Each day of any continuing violation may be charged as a separate violation and a separate forfeiture may be imposed.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.110 was formerly codified as 406.11</annotation>
+        <annotation type="Prior Codifications">§4.04.110 was formerly codified as 406.11</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.06.120</num>
+      <num>4.04.120</num>
       <heading>Injunctions, Civil Damages, Civil Forfeitures, and Other Remedies</heading>
       <para>
         <num>(a)</num>
         <text>Injunctions, Civil Damages, Civil Forfeiture, Other Remedies</text>
-        <text>The Bad River Tribal Court may impose any of the following for violations of <cite path="4|4.06">this chapter</cite>, singly or in any combination:</text>
+        <text>The Bad River Tribal Court may impose any of the following for violations of <cite path="4|4.04">this chapter</cite>, singly or in any combination:</text>
         <para>
           <num>(1)</num>
           <text>Immediate injunction;</text>
@@ -2401,11 +2346,11 @@
         <text>Citizen Suit Damages</text>
         <para>
           <num>(1)</num>
-          <text>The Bad River Tribal Court may award damages to individuals who successfully bring suit demonstrating harm from the actions of any person found in violation of <cite path="4|4.06">this chapter</cite>.</text>
+          <text>The Bad River Tribal Court may award damages to individuals who successfully bring suit demonstrating harm from the actions of any person found in violation of <cite path="4|4.04">this chapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Citizen suit damages are separate from and may be in addition to and may duplicate any damages requested by the Tribe under <cite path="§4.06.120">this section</cite>.</text>
+          <text>Citizen suit damages are separate from and may be in addition to and may duplicate any damages requested by the Tribe under <cite path="§4.04.120">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -2414,16 +2359,16 @@
         <text>In the event of imminent threat to persons or the environment, the POWTS Inspector, or other authorized persons may issue immediate cease and desist orders, injunctions, and closures and may post premises with such orders. Administrative review of such action shall be held within ten (10) days of the action. The POWTS Inspector or other authorized persons and the Tribe shall not be liable for damages incurred by good faith action on their part in addressing real or perceived imminent threats or harm.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.06.120 was formerly codified as 406.12</annotation>
+        <annotation type="Prior Codifications">§4.04.120 was formerly codified as 406.12</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.10</num>
-    <heading>Interim Land Use Controls (Formerly Unnumbered)</heading>
     <prefix>Chapter</prefix>
+    <num>4.05</num>
+    <heading>Interim Land Use Controls (Formerly Unnumbered)</heading>
     <section>
-      <num>4.10.010</num>
+      <num>4.05.010</num>
       <heading>Statement of Policy</heading>
       <text>The Bad River Tribal Council recognizes that the land within its jurisdiction represents a unique confluence of cultural, historical, and environmental resources. Home to the ancestors of the Bad River Band for over three centuries, the land is an irreplaceable habitat for the wealth of fish, waterfowl, and mammal life from which the Chippewa Indians have traditionally derived their sustenance. Where the rivers widen, wild rice stands stretch out to the high ground and down to the Lake, and contribute to a delicate ecosystem about with life. Upstream, the Bad River Falls are the site of pictographs created by the ancestors of those Indians who still fish the Falls today. Throughout the territory traditional burial grounds are scattered, spiritual wellsprings of the Bad River Band and visible reminders of the Band's ancient attachment to the area now known as the Bad River Reservation.</text>
       <text>Reminders of man's more recent and continuing impact on the land are also visible. Wrought by tribal members and non-members alike, sometimes beneficial to the Bad River Band and sometimes not, sometimes in harmony with the land and sometimes not, these artifacts are lasting mementos of man's presence. Timber sites, roads, utility rights-of-way, government buildings, stores, houses, taverns, motels, hunting shacks, quarries, dumps, mills - all have left a mark of more or less permanence whether appropriately placed and productively used or not.</text>
@@ -2432,11 +2377,11 @@
       <text>The Council cannot, however, control the development of the reservation solely in its capacity as lessor. Regrettably, through the unwise actions of the United States government in previous years, much of the Reservation lands are no longer in tribal hands. Either as restricted allotments or as fee-title land, this property is beyond the proprietary control of the Band. Only through the exercise of the Band's regulatory authority can the majority of Reservation lands be subject to controlled, planned development, to the mutual reciprocal benefit of all.</text>
       <text>The development of a land use plan, encompassing the 125,000 acres that constitute the Bad River Reservation, cannot spring full-blown overnight. On the other hand, developmental pressures will not cease while the Council deliberates. In order therefore to forestall any action which may limit the Band's regulatory prerogatives, in order to notify those with an interest in any Reservation lands that a comprehensive land use plan is under consideration, in order to establish a process for the creation of such a plan, and in order to establish interim controls pending the approval of such a plan, this ordinance is adopted.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.010 was formerly codified as 410.1</annotation>
+        <annotation type="Prior Codifications">§4.05.010 was formerly codified as 410.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.020</num>
+      <num>4.05.020</num>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -2463,11 +2408,11 @@
         <text>"Reservation" means all lands within the boundaries of the Bad River Indian Reservation.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.020 was formerly codified as 410.2</annotation>
+        <annotation type="Prior Codifications">§4.05.020 was formerly codified as 410.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.030</num>
+      <num>4.05.030</num>
       <heading>Changes Prohibited</heading>
       <para>
         <num>(a)</num>
@@ -2509,11 +2454,11 @@
         <text>Citations for violations of <cite path="3|3|3.1">Section 3.1</cite> may be issued by the tribal conservation office, the tribal prosecutor, or the tribal attorney.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.030 was formerly codified as 410.3</annotation>
+        <annotation type="Prior Codifications">§4.05.030 was formerly codified as 410.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.040</num>
+      <num>4.05.040</num>
       <heading>Land Use Committee Established</heading>
       <para>
         <num>(a)</num>
@@ -2544,73 +2489,72 @@
         <text>The committee shall invite public participation at all stages of the zoning procedure.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.040 was formerly codified as 410.4</annotation>
+        <annotation type="Prior Codifications">§4.05.040 was formerly codified as 410.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.050</num>
+      <num>4.05.050</num>
       <heading>Sunset Clause</heading>
       <text>Unless extended by Council action, the provisions of Section 3 shall expire one year from date of passage of the ordinance, except that such provisions shall apply to any housing constructed during the effective period of this ordinance for one year following the completion of any such housing.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.050 was formerly codified as 410.5</annotation>
+        <annotation type="Prior Codifications">§4.05.050 was formerly codified as 410.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.060</num>
-      <heading>– Repeal of Inconsistent Prior Ordinances</heading>
+      <num>4.05.060</num>
+      <heading>Repeal of Inconsistent Prior Ordinances</heading>
       <text>All prior inconsistent ordinances or parts thereof are hereby repealed.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.060 was formerly codified as 410.6</annotation>
+        <annotation type="Prior Codifications">§4.05.060 was formerly codified as 410.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.070</num>
+      <num>4.05.070</num>
       <heading>Effective</heading>
       <text>This ordinance shall become effective upon posting at the Bad River Community Center and publication of notice of passage in the Ashland Daily Press.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.070 was formerly codified as 410.7</annotation>
+        <annotation type="Prior Codifications">§4.05.070 was formerly codified as 410.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.10.080</num>
+      <num>4.05.080</num>
       <heading>Severability</heading>
       <text>If any provision of this ordinance on its face or as applied is held invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected.</text>
-      <text>INTERIM LAND USE ENACTED BY RESOLUTION NO. 3-4-81-166</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.10.080 was formerly codified as 410.8</annotation>
+        <annotation type="Prior Codifications">§4.05.080 was formerly codified as 410.8</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.21</num>
-    <heading>Right-of-Way Maintenance Method Ordinance</heading>
     <prefix>Chapter</prefix>
+    <num>4.06</num>
+    <heading>Right-of-Way Maintenance Method Ordinance</heading>
     <section>
-      <num>4.21.010</num>
+      <num>4.06.010</num>
       <heading>Purpose and Policy Statement</heading>
       <text>The Right-of-Way Maintenance Method Ordinance establishes guidelines for clearing right-of-way vegetation on the Reservation. This ordinance prohibits the use of chemical treatments to clear vegetation from right-of-ways without expressed Tribal permission through a permit. This ordinance is enacted to preserve the health of water, wildlife, and plant resources of the Bad River Tribe as well as the health of tribal members.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.010 was formerly codified as 421.1</annotation>
+        <annotation type="Prior Codifications">§4.06.010 was formerly codified as 421.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.020</num>
+      <num>4.06.020</num>
       <heading>Authority</heading>
-      <text><cite path="4|4.21">This chapter</cite> is promulgated pursuant to Article VI, sections 1(j), (n), (q) and (w) of the Bad River Constitution.</text>
+      <text><cite path="4|4.06">This chapter</cite> is promulgated pursuant to Article VI, sections 1(j), (n), (q) and (w) of the Bad River Constitution.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.020 was formerly codified as 421.2</annotation>
+        <annotation type="Prior Codifications">§4.06.020 was formerly codified as 421.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.030</num>
+      <num>4.06.030</num>
       <heading>Applicability</heading>
-      <text><cite path="4|4.21">This chapter</cite> shall apply to all right-of-way maintenance activities of members, non- members, residents and non-residents undertaken within the exterior boundaries of the Bad River Reservation.</text>
+      <text><cite path="4|4.06">This chapter</cite> shall apply to all right-of-way maintenance activities of members, non- members, residents and non-residents undertaken within the exterior boundaries of the Bad River Reservation.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.030 was formerly codified as 421.3</annotation>
+        <annotation type="Prior Codifications">§4.06.030 was formerly codified as 421.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.040</num>
+      <num>4.06.040</num>
       <heading>Non-Chemical Treatment Alternatives to Maintain Right-of-Ways:</heading>
       <text>All right-of-way maintenance activities shall utilize non-chemical treatment alternatives. Such non-chemical alternatives shall adhere to the following guidelines:</text>
       <para>
@@ -2658,11 +2602,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.040 was formerly codified as 421.4</annotation>
+        <annotation type="Prior Codifications">§4.06.040 was formerly codified as 421.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.050</num>
+      <num>4.06.050</num>
       <heading>Prohibition and Exceptions</heading>
       <text>In the event that a non-chemical treatment maintenance alternative is not feasible:</text>
       <para>
@@ -2675,18 +2619,18 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Upon receipt of permit applicators must follow guidelines set forth in <cite path="§4.21.070">Section 4.21.070</cite> of <cite path="4|4.21">this chapter</cite>.</text>
+        <text>Upon receipt of permit applicators must follow guidelines set forth in <cite path="§4.06.070">Section 4.06.070</cite> of <cite path="4|4.06">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
         <text>Bad River Natural Resources Department and Great Lakes Indian Fish and Wildlife Department programs may utilize chemical treatments for control of exotic invasive species when such use is part of an overall control plan approved by the Bad River Tribal Council.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.050 was formerly codified as 421.5</annotation>
+        <annotation type="Prior Codifications">§4.06.050 was formerly codified as 421.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.060</num>
+      <num>4.06.060</num>
       <heading>Obtaining a Permit</heading>
       <para>
         <num>(a)</num>
@@ -2757,11 +2701,11 @@
         <text>No permit shall be granted within 3000 feet of an open water source or within one mile of residential areas, tribal communities, farms, or fish hatcheries. In addition, an environmental assessment will be required for any proposed spraying in all watershed areas.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.060 was formerly codified as 421.6</annotation>
+        <annotation type="Prior Codifications">§4.06.060 was formerly codified as 421.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.070</num>
+      <num>4.06.070</num>
       <heading>Rules of Chemical Application</heading>
       <text>Upon written permission from the Tribal Council and under tribal supervision the following will apply:</text>
       <para>
@@ -2793,11 +2737,11 @@
         <text>All remaining chemicals, contaminated materials, and contaminated materials, and contaminated water must be disposed of in compliance with applicable Tribal, State and Federal regulations. Proof of proper disposal of the above shall be provided to the Natural Resources Department within thirty (30) days of the completion of the application of the herbicide.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.070 was formerly codified as 421.7</annotation>
+        <annotation type="Prior Codifications">§4.06.070 was formerly codified as 421.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.080</num>
+      <num>4.06.080</num>
       <heading>Effective Date and Severability</heading>
       <para>
         <num>(a)</num>
@@ -2808,11 +2752,11 @@
         <text><u>Severability</u>. If the Bad River Tribal Court judges any section, provision, or portion of this Ordinance unconstitutional or invalid, the remainder of this Ordinance shall not affected.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.080 was formerly codified as 421.8</annotation>
+        <annotation type="Prior Codifications">§4.06.080 was formerly codified as 421.8</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.090</num>
+      <num>4.06.090</num>
       <heading>Enforcement/Evidence</heading>
       <para>
         <num>(a)</num>
@@ -2823,19 +2767,19 @@
         <text>The Bad River Conservation Wardens and the Bad River Police Department are authorized to enter all right-of-ways upon private property, Tribal, trust, allotted, or leased property at all reasonable times to inspect for use of chemical maintenance methods.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.090 was formerly codified as 421.9</annotation>
+        <annotation type="Prior Codifications">§4.06.090 was formerly codified as 421.9</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.100</num>
+      <num>4.06.100</num>
       <heading>Jurisdiction/Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to <cite path="4|4.21">this chapter</cite>.</text>
+        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to <cite path="4|4.06">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Bad River Tribal Court may impose any of the following penalties for violations of <cite path="4|4.21">this chapter</cite>, singly or in any combination:</text>
+        <text>The Bad River Tribal Court may impose any of the following penalties for violations of <cite path="4|4.06">this chapter</cite>, singly or in any combination:</text>
         <para>
           <num>(1)</num>
           <text>Immediate injunction against the use of chemical treatment for right-of-way maintenance;</text>
@@ -2846,7 +2790,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of <cite path="4|4.21">this chapter</cite> may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
+          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of <cite path="4|4.06">this chapter</cite> may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2854,11 +2798,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.100 was formerly codified as 421.10</annotation>
+        <annotation type="Prior Codifications">§4.06.100 was formerly codified as 421.10</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.21.110</num>
+      <num>4.06.110</num>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -2938,16 +2882,16 @@
         <text>Wetland: An area where water is at, near, or above the land surface long enough to be capable of supporting aquatic or hydrophytic vegetation and which has soils indicative of wet conditions.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.21.110 was formerly codified as 421.11</annotation>
+        <annotation type="Prior Codifications">§4.06.110 was formerly codified as 421.11</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.23</num>
-    <heading>– Energy Product Facility Rights of Way and Service Lines</heading>
     <prefix>Chapter</prefix>
+    <num>4.07</num>
+    <heading>Energy Product Facility Rights of Way and Service Lines</heading>
     <section>
-      <num>4.23.010</num>
+      <num>4.07.010</num>
       <heading>General</heading>
       <para>
         <num>(a)</num>
@@ -3054,11 +2998,11 @@
         <text>"Trust land" means any tract, or interest therein, held in trust status. Trust status means the United States holds title to the tract or interest in trust for the benefit of the Tribe or a Member.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.23.010 was formerly codified as 423.01</annotation>
+        <annotation type="Prior Codifications">§4.07.010 was formerly codified as 423.01</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.23.020</num>
+      <num>4.07.020</num>
       <heading>Administration</heading>
       <para>
         <num>(a)</num>
@@ -3116,8 +3060,8 @@
           <u>Natural Resources Director</u>
         </text>
         <text>The Director shall -</text>
-        <text>1	perform the environmental reviews and other environmental functions required under this ordinance; and</text>
-        <text>2 	Adopt policies and procedures, including time lines, and forms for the purposes of carrying out his or her duties under this ordinance</text>
+        <text>1 perform the environmental reviews and other environmental functions required under this ordinance; and</text>
+        <text>2     Adopt policies and procedures, including time lines, and forms for the purposes of carrying out his or her duties under this ordinance</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3135,12 +3079,12 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.23.020 was formerly codified as 423.02</annotation>
+        <annotation type="Prior Codifications">§4.07.020 was formerly codified as 423.02</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.23.030</num>
-      <heading>– Rights of Way</heading>
+      <num>4.07.030</num>
+      <heading>Rights of Way</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -3474,7 +3418,7 @@
         <text>Within fifteen business days after receipt of a complete application, the Realty Officer shall</text>
         <para>
           <num>(1)</num>
-          <text>Deliver a copy of the application packet to the Director for review pursuant to <cite path="§4.23.050">Section 4.23.050</cite>;</text>
+          <text>Deliver a copy of the application packet to the Director for review pursuant to <cite path="§4.07.050">Section 4.07.050</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3497,7 +3441,7 @@
         <text>
           <u>Environmental Review</u>
         </text>
-        <text>The Director shall assess the environment impact of a proposed Right-of-Way in accordance with the standards of <cite path="§4.23.050">Section 4.23.050</cite>. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
+        <text>The Director shall assess the environment impact of a proposed Right-of-Way in accordance with the standards of <cite path="§4.07.050">Section 4.07.050</cite>. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
         <para>
           <num>(1)</num>
           <text>request any additional information needed from the applicant that may be needed to complete an environmental review, and;</text>
@@ -3518,7 +3462,7 @@
         </text>
         <para>
           <num>(1)</num>
-          <text>After receipt of the final environmental review report prepared pursuant to <cite path="§4.23.050">Section 4.23.050</cite>D., the Realty Officer shall determine whether the applicant has satisfied all application requirements of this ordinance. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
+          <text>After receipt of the final environmental review report prepared pursuant to <cite path="§4.07.050">Section 4.07.050</cite>D., the Realty Officer shall determine whether the applicant has satisfied all application requirements of this ordinance. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
           <para>
             <num>(A)</num>
             <text>so advise the applicant and provide a reasonable period of time for the applicant to cure the deficiencies, and;</text>
@@ -3603,18 +3547,18 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.23.030 was formerly codified as 423.03</annotation>
+        <annotation type="Prior Codifications">§4.07.030 was formerly codified as 423.03</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.23.040</num>
+      <num>4.07.040</num>
       <heading>Service Line Agreements</heading>
       <para>
         <num>(a)</num>
         <text>
           <u>Requirement</u>
         </text>
-        <text>Before a utility provider may begin any work to construct Service Lines across Tribal Land, the utility provider must enter into a Service Line Agreement in accordance with <cite path="4|4.23">this chapter</cite> and federal regulations set forth at 25 C.F.R. Part 169, Subpart B or successor regulations of the BIA.</text>
+        <text>Before a utility provider may begin any work to construct Service Lines across Tribal Land, the utility provider must enter into a Service Line Agreement in accordance with <cite path="4|4.07">this chapter</cite> and federal regulations set forth at 25 C.F.R. Part 169, Subpart B or successor regulations of the BIA.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3677,7 +3621,7 @@
         <text>
           <u>Environmental Review</u>
         </text>
-        <text>The Director shall assess the environment impact of a proposed Service Line Agreement in accordance with the standards of <cite path="§4.23.050">Section 4.23.050</cite>. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
+        <text>The Director shall assess the environment impact of a proposed Service Line Agreement in accordance with the standards of <cite path="§4.07.050">Section 4.07.050</cite>. In the event that a proposed Right-of-Way is not categorically excluded, the Director shall:</text>
         <para>
           <num>(1)</num>
           <text>request any additional information needed from the grantee that may be needed to complete an environmental review, and;</text>
@@ -3698,7 +3642,7 @@
         </text>
         <para>
           <num>(1)</num>
-          <text>Within fifteen business days after receipt of the final environmental review report prepared pursuant to <cite path="§4.23.050">Section 4.23.050</cite>, the Realty Officer shall determine whether the applicant has satisfied all requirements of <cite path="4|4.23">this chapter</cite>. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
+          <text>Within fifteen business days after receipt of the final environmental review report prepared pursuant to <cite path="§4.07.050">Section 4.07.050</cite>, the Realty Officer shall determine whether the applicant has satisfied all requirements of <cite path="4|4.07">this chapter</cite>. If the Realty Officer identifies deficiencies in the application, the Realty Officer shall:</text>
           <para>
             <num>(A)</num>
             <text>so advise the applicant and provide a reasonable period of time for the applicant to cure the deficiencies, and</text>
@@ -3714,7 +3658,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If the Realty Officer determines that the application meets the requirements of <cite path="§4.23.040">this section</cite>, the Realty Officer shall submit the application packet, together with the environmental review report, to the Tribal Council for a final decision whether to approve or disapprove the Service Line Agreement. The application packet submitted to the Tribal Council shall include:</text>
+          <text>If the Realty Officer determines that the application meets the requirements of <cite path="§4.07.040">this section</cite>, the Realty Officer shall submit the application packet, together with the environmental review report, to the Tribal Council for a final decision whether to approve or disapprove the Service Line Agreement. The application packet submitted to the Tribal Council shall include:</text>
           <para>
             <num>(A)</num>
             <text>the proposed Service Line Agreement, together with the Realty Officer's recommendation, if any, whether to approve the Service Line Agreement;</text>
@@ -3783,12 +3727,12 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.23.040 was formerly codified as 423.04</annotation>
+        <annotation type="Prior Codifications">§4.07.040 was formerly codified as 423.04</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.23.050</num>
-      <heading>– Environmental Review</heading>
+      <num>4.07.050</num>
+      <heading>Environmental Review</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -3891,7 +3835,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>the public comment and response requirements of <cite path="§4.23.050">this section</cite> are substantially complied with.</text>
+            <text>the public comment and response requirements of <cite path="§4.07.050">this section</cite> are substantially complied with.</text>
           </para>
         </para>
       </para>
@@ -3969,7 +3913,7 @@
           <text>Exceptions to Exclusions</text>
           <para>
             <num>(A)</num>
-            <text>Notwithstanding the categorical exclusions listed in subsection (a), the Director shall prepare an environmental review statement if he or she has reason to believe that approval of the proposed Right-of- Way or service Line would adversely impact the interests addressed under <cite path="§4.23.050">this section</cite>.A.2.</text>
+            <text>Notwithstanding the categorical exclusions listed in subsection (a), the Director shall prepare an environmental review statement if he or she has reason to believe that approval of the proposed Right-of- Way or service Line would adversely impact the interests addressed under <cite path="§4.07.050">this section</cite>.A.2.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -3982,7 +3926,7 @@
         <text>
           <u>Public Notice and Comment</u>
         </text>
-        <text>A notice of availability of the draft environmental review statement shall be published in a manner calculated to reach the Public, following Section 1 - Chapter 101 - General Provisions - <cite path="1|101|101.6">Section 101.6</cite> - Administrative Procedure: Notice of Intent to Adopt a Code or Availability of Draft Environmental Review Statement Ordinance, Section.</text>
+        <text>A notice of availability of the draft environmental review statement shall be published in a manner calculated to reach the Public, following Section 1 - <cite path="1|1.01">Chapter 1.01</cite> - General Provisions - <cite path="1|101|101.6">Section 101.6</cite> - Administrative Procedure: Notice of Intent to Adopt a Code or Availability of Draft Environmental Review Statement Ordinance, Section.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -4023,11 +3967,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.23.050 was formerly codified as 423.05</annotation>
+        <annotation type="Prior Codifications">§4.07.050 was formerly codified as 423.05</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.23.060</num>
+      <num>4.07.060</num>
       <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
@@ -4041,7 +3985,7 @@
         <text>
           <u>Trespass</u>
         </text>
-        <text>A person occupying Tribal Land without authorization is subject to immediate removal and the penalties provided in the Section 5 - Chapter 401 - Trespass to Land Ordinance. The Tribe shall have no liability for loss or damage to personal property.</text>
+        <text>A person occupying Tribal Land without authorization is subject to immediate removal and the penalties provided in the Section 5 - <cite path="4|4.01">Chapter 4.01</cite> - Trespass to Land Ordinance. The Tribe shall have no liability for loss or damage to personal property.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4101,36 +4045,19 @@
       <para>
         <num>(d)</num>
         <text>BIA Enforcement.</text>
-        <text>In addition to the Tribal remedies described in <cite path="§4.23.060">this section</cite>, the BIA may, at its discretion and upon reasonable notice from the Tribe, enforce or cancel any Right-of-Way Agreement or Service Line Agreement.</text>
-      </para>
-      <text>
-        <strong>Legislative History</strong>
-      </text>
-      <text>Adopted by Resolution # 5-15-18-1029, creating Section 6 - Chapter 423 - Energy Product Facility Rights of Way and Service Lines.</text>
-      <text>Corrections have been made and incorporated into the published Section 6 - Chapter 423 - Energy Product Facility Rights of Way and Service Lines on November 20, 2019:</text>
-      <para>
-        <num>(e)</num>
-        <text>to <cite path="§4.23.010">Section 4.23.010</cite>.C [application to all facilities present on the Reservation as of June 1, 2018 or installed thereafter];</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>to <cite path="§4.23.030">Section 4.23.030</cite>.C [the surcharge amount for applications otherwise complete and filed before January 31, 2020 shall be $ 0.10, and the surcharge amount for applications otherwise complete and filed after January 31, 2020 shall be $ 0.15 and shall be indexed annually for inflation each year thereafter]; and</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>to <cite path="§4.23.030">Section 4.23.030</cite>.F [the Right-of-Way Agreement shall provide for annual payment of just compensation that is in the Public Interest, as determined by the Tribe, but not less than $ 0.25 per year, indexed annually for inflation, multiplied by the length (in feet) of the energy product line, multiplied by the diameter of the line or other facility].</text>
+        <text>In addition to the Tribal remedies described in <cite path="§4.07.060">this section</cite>, the BIA may, at its discretion and upon reasonable notice from the Tribe, enforce or cancel any Right-of-Way Agreement or Service Line Agreement.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.23.060 was formerly codified as 423.06</annotation>
+        <annotation type="Prior Codifications">§4.07.060 was formerly codified as 423.06</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.33</num>
-    <heading>Bad River Low Flow Ordinance</heading>
     <prefix>Chapter</prefix>
+    <num>4.08</num>
+    <heading>Bad River Low Flow Ordinance</heading>
     <section>
-      <num>4.33.010</num>
+      <num>4.08.010</num>
       <heading>Purpose</heading>
       <para>
         <num>(a)</num>
@@ -4141,11 +4068,11 @@
         <text>Water quality is of paramount concern to the Tribe. Reduction in water use is necessary to ensure that the Tribe's wastewater treatment facilities are able to function without threat of overload and to prevent overloads of private or individual sewerage systems such as septic systems and holding tanks. Most water coming from the tap goes directly down the drain. Because no distinction can be made between clean, "gray" or "black" water, all of the water becomes "black" and must be treated. Although the water meets strict effluent standards, it is not as "pure" as the water originally came out of the tap. The Tribe's wastewater treatment facilities are also limited in the amount of flow they can adequately treat, as are septic systems. Too much water can cause these systems to fail to meet effluent standards. Holding tanks are limited in capacity and must be pumped out. The material pumped out must then be treated in some system. By reducing the amount of water coming out of the faucet, individuals can reduce the amount of clean water entering the waste treatment system, and, consequently, help maintain or improve the quality of the Tribe's water system.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.010 was formerly codified as 433.1</annotation>
+        <annotation type="Prior Codifications">§4.08.010 was formerly codified as 433.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.020</num>
+      <num>4.08.020</num>
       <heading>Policy</heading>
       <para>
         <num>(a)</num>
@@ -4260,19 +4187,19 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.020 was formerly codified as 433.2</annotation>
+        <annotation type="Prior Codifications">§4.08.020 was formerly codified as 433.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.030</num>
+      <num>4.08.030</num>
       <heading>Applicability</heading>
-      <text><cite path="4|4.33">This chapter</cite> shall apply to all new construction, repair, renovation of commercial and residential structures owned by members, non-members, residents and non-residents undertaken within the boundaries of the Bad River Reservation and shall apply to all contractors and subcontractors undertaking the installation or replacement or repair of plumbing fixtures as prescribed in 433.2.B.</text>
+      <text><cite path="4|4.08">This chapter</cite> shall apply to all new construction, repair, renovation of commercial and residential structures owned by members, non-members, residents and non-residents undertaken within the boundaries of the Bad River Reservation and shall apply to all contractors and subcontractors undertaking the installation or replacement or repair of plumbing fixtures as prescribed in 433.2.B.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.030 was formerly codified as 433.3</annotation>
+        <annotation type="Prior Codifications">§4.08.030 was formerly codified as 433.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.040</num>
+      <num>4.08.040</num>
       <heading>Effective Date, Severability and Incentives</heading>
       <para>
         <num>(a)</num>
@@ -4287,34 +4214,34 @@
         <text>Incentives: The Tribal Council may enact incentives for free or low cost fixtures or issue a rebates for water savings at the end of the utility year.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.040 was formerly codified as 433.4</annotation>
+        <annotation type="Prior Codifications">§4.08.040 was formerly codified as 433.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.050</num>
+      <num>4.08.050</num>
       <heading>Enforcement/Evidence</heading>
       <para>
         <num>(a)</num>
-        <text>The Bad River Construction Projects Manager, Conservation Wardens and the Bad River Tribal Environmental Systems Coordinator are authorized to issue citations for violations of <cite path="4|4.33">this chapter</cite>.</text>
+        <text>The Bad River Construction Projects Manager, Conservation Wardens and the Bad River Tribal Environmental Systems Coordinator are authorized to issue citations for violations of <cite path="4|4.08">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>The Bad River Construction Projects Manager, Conservation Wardens and the Bad River Tribal Environmental Management Systems Coordinator are authorized to enter private property, tribal, trust, allotted, or leased property at all reasonable times; after a twenty-four hour notice has been given; to inspect new construction, repair, and replacement work.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.050 was formerly codified as 433.5</annotation>
+        <annotation type="Prior Codifications">§4.08.050 was formerly codified as 433.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.060</num>
+      <num>4.08.060</num>
       <heading>Jurisdiction/Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to <cite path="4|4.33">this chapter</cite>.</text>
+        <text>The Bad River Tribal Court shall have jurisdiction to hear all matters prosecuted pursuant to <cite path="4|4.08">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Bad River Tribal Court may impose any of the following penalties for violations of <cite path="4|4.33">this chapter</cite>, singly or in any combination:</text>
+        <text>The Bad River Tribal Court may impose any of the following penalties for violations of <cite path="4|4.08">this chapter</cite>, singly or in any combination:</text>
         <para>
           <num>(1)</num>
           <text>Immediate mandate requiring installation of low-flow plumbing fixtures;</text>
@@ -4325,23 +4252,23 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of <cite path="4|4.33">this chapter</cite> may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
+          <text>In addition to a civil forfeiture, any personal property, including vehicles and other equipment, which has been used in connection with the violation of <cite path="4|4.08">this chapter</cite> may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.060 was formerly codified as 433.6</annotation>
+        <annotation type="Prior Codifications">§4.08.060 was formerly codified as 433.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.070</num>
+      <num>4.08.070</num>
       <heading>Authority</heading>
-      <text><cite path="4|4.33">This chapter</cite> is promulgated pursuant to Article VI, sections 1 (j), (n), (q) and (w) of the Bad River Constitution.</text>
+      <text><cite path="4|4.08">This chapter</cite> is promulgated pursuant to Article VI, sections 1 (j), (n), (q) and (w) of the Bad River Constitution.</text>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.070 was formerly codified as 433.7</annotation>
+        <annotation type="Prior Codifications">§4.08.070 was formerly codified as 433.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>4.33.080</num>
+      <num>4.08.080</num>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -4446,37 +4373,401 @@
       <para>
         <num>(z)</num>
         <text>Wastewater: Spent or used water from individual homes, a community, a farm, or an industry that contains dissolved or suspended matter.</text>
-        <para>
-          <num>(1)</num>
-          <text>Waters: Refers to any waters within the exterior boundaries of the reservation, including but not limited to rivers, lakes, streams, creeks, ponds, sloughs, and wetlands.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Water Closet: An enclosed room or compartment containing a toilet bowl fitted with a mechanism for flushing.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Water use efficiency: Employing water-saving practices to reduce costs to slow the depletion of water supply to ensure future water quality (Kromm and White, 1990)</text>
-        </para>
       </para>
-      <text>
-        <strong>Enacted by Resolution #5-14-02-276</strong>
-      </text>
-      <text>
-        <strong>ENACTED BY RESOLUTION NO. 3-4-81-166/AMENDED BY RESOLUTION NO. 9-2-81-14</strong>
-      </text>
+      <para>
+        <num>(aa)</num>
+        <text>Waters: Refers to any waters within the exterior boundaries of the reservation, including but not limited to rivers, lakes, streams, creeks, ponds, sloughs, and wetlands.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>Water Closet: An enclosed room or compartment containing a toilet bowl fitted with a mechanism for flushing.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>Water use efficiency: Employing water-saving practices to reduce costs to slow the depletion of water supply to ensure future water quality (Kromm and White, 1990)</text>
+      </para>
       <annotations>
-        <annotation type="Prior Codifications">§4.33.080 was formerly codified as 433.8</annotation>
+        <annotation type="Prior Codifications">§4.08.080 was formerly codified as 433.8</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>4.50</num>
-    <heading>Leasehold Mortgage Regulations</heading>
     <prefix>Chapter</prefix>
-    <text>
-      <strong>Introduction</strong>
-    </text>
-    <text>The purpose of this ordinance is to make available to the Bad River Band of Lake Superior Tribe of Chippewa Indians and its members opportunities for purchasing or constructing family</text>
+    <num>4.09</num>
+    <heading>Leasehold Mortgage Regulations</heading>
+    <section>
+      <num>4.09.010</num>
+      <heading>Introduction</heading>
+      <text>The purpose of this ordinance is to make available to the Bad River Band of Lake Superior Tribe of Chippewa Indians and its members opportunities for purchasing or constructing family residences on trust land within the Bad River Reservation. This ordinance accomplishes that purpose by setting up procedures for the orderly recording, lien prioritization, foreclosure and eviction with respect to leasehold mortgages given to secure loans.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.010 was formerly codified as 450.1</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.020</num>
+      <heading>Lien Priority</heading>
+      <text>All mortgage loans recorded in accordance with the recording procedures set forth in this Code, including Leasehold Mortgages, and including loans made, guaranteed, insured or held by a governmental agency, shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim excepting a lien or claim arising from a tribal leasehold tax assessed after the recording of the mortgage. (In those cases where the government direct, guaranteed or insured mortgage is created as a second mortgage, the loan shall assume that position.)</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.020 was formerly codified as 450.2</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.030</num>
+      <heading>Recording of Mortgage Loan Documents</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Recording Clerk shall maintain in the Tribal Real Estate program a system for the recording of mortgage loans and such other documents as the Tribe may designate by laws or resolution.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Recording Clerk shall endorse upon any mortgage loan or other document received for recording:</text>
+        <para>
+          <num>(1)</num>
+          <text>The date and time of receipt of the mortgage or other document;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The filing number to be assigned by the Tribal Recording Clerk, which shall be a unique number for each mortgage or other document received, and;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name of the Tribal Recording Clerk or designee receiving the mortgage or document.</text>
+        </para>
+        <text>Upon completion of the above cited endorsements, the Tribal Recording Clerk shall make a true and correct copy of the mortgage or other document and shall certify the copy as follows:</text>
+        <text>Bad River Band of Lake Superior Tribe of Chippewa Indians</text>
+        <text>Bad River Reservation, Wisconsin</text>
+        <text>I certify that this a true and correct copy of a document received for recording this date.</text>
+        <text>Given under my hand and seal this _______ day of ____________________.</text>
+        <text>(Signature)</text>
+        <text>(Date)</text>
+        <text>The Tribal Recording Clerk shall maintain the copy in the records of the recording system and shall return the original of the mortgage loan or other document to the person or entity that presented the same for recording.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Recording Clerk shall also maintain a log of each mortgage loan or other document in which there shall be entered:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name(s) of the Borrower/Mortgagor of each mortgage loan identified as such;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name(s) of the Lender/Mortgagee of each mortgage loan, identified as such;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name(s) of the grantor(s), grantee(s) or other designation of each party named in any other documents filed or recorded;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date and time of receipt;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The filing number assigned by the Tribal Recording Clerk; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The name of the Tribal Recording Clerk or designee receiving the mortgage or document.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The certified copies of the mortgage loan and other documents and the log maintained by the Tribal Recording Clerk shall be made available for public inspection and copying. Rules for copying shall be established and disseminated by the Tribal Recording Clerk.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>All mortgages will be recorded with the BIA in addition to any Tribal recording provisions.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.030 was formerly codified as 450.3</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.040</num>
+      <heading>Foreclosure Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>A Borrower/Mortgagor shall be considered to be in default when he or she is thirty (30) days past due on his or her mortgage payment(s) or is in violation of any covenant under the mortgage for more than 30 days to the Lender/Mortgagee (i.e. the 3 1 <sup>st</sup> day from the payment due date).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When a Borrower/Mortgagor is thirty days past due on his or her mortgage and before a foreclosure action or activity is initiated, the Lender/Mortgagee shall complete the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Make a reasonable effort to arrange a face-to-face interview with the Borrower/Mortgagor. This shall include at least one trip to meet with the Borrower/Mortgagor at the mortgaged property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lender/Mortgagee shall document that it has made at least one phone call to the Borrower/Mortgagor (or the nearest phone as designated by the Borrower/Mortgagor, able to receive and relay message to the Borrower/Mortgagor) for the purpose of trying to arrange a face-to-face interview.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Lender/Mortgagee may appoint an agent to perform the services of arranging and conducting the face-to-face interview specified in this action.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>When the Borrower/Mortgagor is past due on three installment payments and at least ten (10) days before initiating a foreclosure action in Tribal Court, the Lender shall advise the Borrower/Mortgagor in writing by mail or by posting prominently on the unit, with a copy provided to the Tribe, as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Advise the Borrower/Mortgagor that information regarding the loan and default/delinquency will be given to credit bureaus.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Advise the Borrower/Mortgagor of homeownership counseling opportunities/programs available through the Lender or otherwise.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Advise the Borrower/Mortgagor of other available assistance regarding the mortgage/default.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In addition to the preceding notification requirements, the Lender/Mortgagee shall complete the following additional notice requirements: (i) notify the Borrower/Mortgagor that if the Leasehold Mortgage remains past due on three installment payments, the Lender/Mortgagee may ask the applicable governmental agency to accept assignment of the Leasehold Mortgage if this is an option of the governmental program; (ii) notify the Borrower/Mortgagor of the qualifications for forbearance relief from the Lender/Mortgagee, if any, and that forbearance relief may be available from government; and (iii) provide the Borrower/Mortgagor with names and addresses of government officials to whom further communications may be addressed, if any.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If a Borrower/Mortgagor is past due on three or more installment payments and the Lender/Mortgagee has complied with the procedures set forth in the first past of <cite path="§4.09.040">this section</cite>, the Lender/Mortgagee may commence a foreclosure proceeding in the Tribal Court by filing a verified complaint as set forth in <cite path="§4.09.050">Section 4.09.050</cite> of this Code.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.040 was formerly codified as 450.4</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.050</num>
+      <heading>Foreclosure Complaint and Summons</heading>
+      <para>
+        <num>(a)</num>
+        <text>The verified complaint in a mortgage foreclosure proceeding shall contain the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the Borrower/Mortgagor and each person or entity claiming through the Borrower/Mortgagor subsequent to the recording of the mortgage loan, including each Subordinate Lienholder (except the Tribe with respect to a claim for a tribal leasehold), as a defendant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of the property subject to the mortgage loan;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A concise statement of the facts concerning the execution of the mortgage loan and in the case of Leasehold Mortgage the lease; the facts concerning the recording of the mortgage loan or the Leasehold Mortgage; the facts concerning the alleged default(s) of the</text>
+        </para>
+      </para>
+      <text>Borrower/Mortgagor; and such other facts as may be necessary to constitute a cause of action;</text>
+      <para>
+        <num>(b)</num>
+        <text>True and correct copies of each promissory note, mortgage, deed of trust or other recorded real property security interest (each a "security instrument") and any other documents relating to the property and if a Leasehold Mortgage, a copy of the lease and any assignment of any of these documents; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any applicable allegations concerning relevant requirements and conditions prescribed in: (i) federal statutes and regulations; (ii) tribal codes, ordinances and regulations; and/or (iii) provisions of the promissory note, security instrument and if a Leasehold Mortgage, the lease.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The complaint shall be verified by the Tribal Court Clerk along with a</text>
+      </para>
+      <text>Summons specifying a date and time for appearance for the Defendant(s).</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.050 was formerly codified as 450.5</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.060</num>
+      <heading>Service of Process and Procedures</heading>
+      <text>Any foreclosure complaint must be in writing, and must be delivered to the Borrower/Mortgagor in the following manner:</text>
+      <para>
+        <num>(a)</num>
+        <text>Delivery must be made by an adult person and is effective when it is:</text>
+        <para>
+          <num>(1)</num>
+          <text>Personally delivered to a Borrower/Mortgagor with a copy sent by mail, or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Personally delivered to an adult living in the property with a copy sent by mail, or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Personally delivered to an adult agent or employee of the Borrower/Mortgagor with a copy sent by mail.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the notice cannot be given by means of personal delivery, or the Borrower/Mortgagor cannot be found, the notice may be delivered by means of:</text>
+        <para>
+          <num>(1)</num>
+          <text>Certified mail, return receipt requested, at the last known address of the Borrower/Mortgagor, or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Securely taping a copy of the notice to the main entry door of the property in such a manner that it is not likely to blow away, and by posting a copy of the notice in some public place near the premises, including a tribal office, public store, or other commonly-frequented place and by sending a copy first class mail, postage prepaid, addressed to the Borrower/Mortgagor at the premises.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The person giving notice must keep a copy of the notice and proof of service in accordance with <cite path="§4.09.060">this section</cite>, by affidavit or other manner recognized by law.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.060 was formerly codified as 450.6</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.070</num>
+      <heading>Cure of Default</heading>
+      <text>Prior to the entry of a judgment of foreclosure, and Borrower/Mortgagor or a Subordinate Lienholder may cure the default(s) under the Mortgage by making a full payment of the delinquency to the Lender/Mortgagee and all reasonable legal and court costs incurred in foreclosing on the property. Any subordinate Lienholder who has cured a default shall thereafter have included in its lien the amount of all payments made by such Subordinate Lienholder to cure the default(s), plus interest on such amounts at the rate stated in the note for the mortgage. There shall be no right of redemption in any Leasehold Mortgage Foreclosure proceeding.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.070 was formerly codified as 450.7</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.080</num>
+      <heading>Judgment and Remedy</heading>
+      <text>This matter shall be heard and decided by the Tribal Court, in a prompt and reasonable time period not to exceed sixty (60) days from the date of service of the complaint on the Borrower/Mortgagor. If the alleged default has not been cured at the time of trial and the Tribal Court finds for the Lender/Mortgagee, the Tribal Court shall enter judgment:</text>
+      <para>
+        <num>(a)</num>
+        <text>Foreclosing the interest of the Borrower/Mortgagor and each other defendant, including Subordinate Lienholder, in the mortgaged property and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Granting title to the property to the Lender/Mortgagee or the Lender's</text>
+        <text>Designated Assignee; in the case of a Leasehold Mortgage, the Lease and the and the Leasehold Estate will be assigned to the Lender/Mortgagee or the Lender's Designated Assignee, subject to the following provisions:</text>
+        <para>
+          <num>(1)</num>
+          <text>The lender shall give the Tribe the right of first refusal on any acceptable offer to purchase the Lease and the Lessess's leasehold interest in the property described in the lease which is subsequently obtained by the Lender or Lender's Designated Assignee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Lender or Lender's Designated Assignee may only transfer, sell or assign the Lease and Lessee's leasehold interest in the property described in the Lease to a Tribal member, the Tribe, or the Tribal Housing Authority;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The mortgagee has the right to convey the leasehold interest to the Secretary of HUD without providing the right of first refusal to the Tribe for Section 248.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.080 was formerly codified as 450.8</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.090</num>
+      <heading>Foreclosure Evictions</heading>
+      <text>Foreclosure evictions shall be handled according to the general eviction process set forth below.</text>
+      <para>
+        <num>(a)</num>
+        <text>Jurisdiction. The provisions of <cite path="§4.09.090">this section</cite> H. shall apply to all persons and property subject to the governing authority of the Tribe as established by the Tribal Constitution, Tribal Code, or applicable federal law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unlawful Detainer. A Lessee, Sublessee, or other occupant of a Leasehold Estate subject to a Leasehold Mortgage shall be guilty of unlawful detainer if such person continue in occupancy of Leasehold Estate without the requirement of any notice by the Lessor, after such person's Leasehold Estate has been foreclosed in a Leasehold Mortgage foreclosure proceeding in the Tribal Court;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Complaint and Summons. The lender or Federal Agency (which made, guaranteed or insured the mortgage loan) as appropriate, shall commence an action for unlawful detainer by filing with the Tribal Court, in writing, the following documents:</text>
+        <para>
+          <num>(1)</num>
+          <text>A complaint, signed by the lender or Federal Agency, or an agent or attorney on their behalf:</text>
+          <para>
+            <num>(A)</num>
+            <text>Citing facts alleging jurisdiction of the Tribal Court;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Naming as defendants the mortgagors and any other record owner (including Sublessees and subordinate lienholders), of which the complainant has record notice (except the Tribe with respect to a claim for a Tribal tax on the Leasehold Estate subject to the Leasehold Mortgage);</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Describing the Leasehold Estate subject to the Leasehold Mortgage;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>(iv)  Stating the facts concerning (1) the execution of the lease and the Leasehold Mortgage; (2) the recording of the Leasehold Mortgage; and (3) the facts upon which he or she seeks to recover;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Stating any claim for damages or compensation due form the</text>
+            <text>the persons to be evicted; and</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Otherwise satisfying the requirements of the Tribal Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A copy of the summons, issued in accordance with established Tribal Court procedures, requiring the defendants to file a response to the complaint by the date specified in the summons. The deadline specified in the summons for filing a response shall be no less than 6 nor more than 30 days from the date of service of the summons and complaint. The summons shall notify the defendants that judgment will be taken against them in accordance with the terms of the complaint unless they file a response with the court by the date specified in the summons.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Service of Summons and Complaint. A copy of the summons and complaint shall be served upon the defendants in the manner provided by the Tribal Court rules for service of process in civil matters. In the absence of such Tribal Court rules, the summons and complaint shall be served by one of the following two methods.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Procedures for Service of Notice. Notices required or authorized in the immediately preceding section shall be given in writing either by:</text>
+        <para>
+          <num>(1)</num>
+          <text>delivering a copy personally to the Borrower/Mortgagor or to any other occupant under color of law, or to any adult residing on the leasehold Estate and, if applicable, to any Sublessee; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>posting said notice in a conspicuous place near the entrance to said Leasehold Estate, and sending an additional copy to the Lessee or to any other occupant under color of law, and, if applicable, to the Sublessee, by certified mail, return receipt requested, property addressed, postage paid.</text>
+        </para>
+        <text>Proof of service may be made by affidavit of any adult person stating that he has complied with the requirements of one of the above methods of service.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Powers of the Tribal Court. The Tribal Court shall enter of Order of Repossession if:</text>
+        <para>
+          <num>(1)</num>
+          <text>Notice of suit is given by service of summons and complaint in accordance with the procedures provided herein; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Court shall find during pre-trial proceedings or at trial that the lessee, Sublessee, or other occupant under color of law of the Leasehold Estate subject to the Leasehold Mortgage is guilty of an act of unlawful detainer. Upon issuance of an Order of Repossession, the Tribal Court shall have the authority to enter a judgment against the defendants for the following, as appropriate: (1) back rent, unpaid utilities, and any charges due the Tribe, Tribal Housing Authority, other public Housing Authority, or Sublessor under any sublease or other written agreement (except for a Leasehold Mortgage); (2) any and all amounts secured by the Leasehold Mortgage that are due the lender (or Federal Agency); and (3) damages to the property caused by the defendants, other than ordinary wear and tear. The Tribal Court shall have the authority to award to the prevailing party its costs and reasonable attorney's fees in bringing suit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Enforcement. Upon issuance of an Order of Repossession by the Tribal Court, Tribal Law Enforcement officers shall help plaintiffs enforce same by evicting the defendants and their property from the unlawfully occupied Leasehold Estate. In all cases involving the lender or Federal Agency, the Order of Repossession shall be enforced no later than 45 days after a pre-trial proceeding or trial in which the Tribal Court finds against defendants, subject to Paragraph (h) below, and provided, that no party exercised the right to cure a default or right of first refusal as described in Paragraphs F and G above.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Continuances in Cases Involving the Lender or Federal Agency. (Which originally made, insured or guaranteed the mortgage loan). Except by agreement of all parties, there shall be no continuances in cases involving the lender or Federal Agency that will interfere with the requirement that the Order of Repossession be enforced not later than 45 days after a pretrial proceeding or trial in which the Tribal Court finds against defendants, subject to the sound discretion of the Court.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.090 was formerly codified as 450.9</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.100</num>
+      <heading>No Merger of Estates</heading>
+      <text>There shall be no merger of estates by reason of the execution of a Lease or a Leasehold Mortgage or the assignment or assumption of the same, including an assignment adjudged by the Tribal Court, or by operation of law, except as such merger may arise upon satisfaction of the Leasehold Mortgage.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.100 was formerly codified as 450.10</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.110</num>
+      <heading>Certified Mailing to Tribe</heading>
+      <text>In any foreclosure proceedings on a Leasehold Mortgage where the Tribe is not named as a defendant, a copy of the summons and complaint shall be mailed to the Tribe by certified mail, return receipt requested, within five (5) days after the issuance of the summons. If the lessor is not the Tribe, this notice will also be mailed to the lessor at the same time the notice is mailed to the Tribe. If the location of the lessor cannot be ascertained after reasonable inquiry, a copy of the summons and complaint shall be mailed to the lessor in care of the Superintendent of the applicable agency of the Bureau of Indian Affairs.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.110 was formerly codified as 450.11</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.120</num>
+      <heading>Intervention</heading>
+      <text>The Tribe or any Lessor may petition the Tribal Court to intervene in any Lease or Leasehold Mortgage foreclosure proceeding under this Code. Neither the filing of a petition for intervention by the Tribe, nor the granting of such petition by the Tribal Court shall operate as a waiver of the sovereign immunity of the Tribe, except as may be expressly authorized by the Tribe.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.120 was formerly codified as 450.12</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>4.09.130</num>
+      <heading>Appeals</heading>
+      <text>Appeals under this code shall be handled in accordance with the general tribal appellate provisions.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§4.09.130 was formerly codified as 450.13</annotation>
+      </annotations>
+    </section>
   </container>
 </container>

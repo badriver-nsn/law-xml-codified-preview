@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>17</num>
   <heading>Repatriation Committee</heading>
-  <prefix>Title</prefix>
   <container>
-    <num>17.00</num>
-    <heading>Establishment and Operation of the Bad River Repatriation Committee</heading>
     <prefix>Chapter</prefix>
+    <num>17.01</num>
+    <heading>Establishment and Operation of the Bad River Repatriation Committee</heading>
     <section>
-      <num>17.01</num>
+      <num>17.01.010</num>
       <heading>Purpose</heading>
       <text>The purpose behind the creation of a Tribal Repatriation Committee is to appoint a body of individuals to directly engage in activities designed to locate, inventory and repatriate human remains, funerary objects, sacred objects and objects of cultural patrimony which should rightfully be repatriated to the Bad River Band of Lake Superior Tribe of Chippewa Indians and which are currently being held in museums, educational institutions, and other agencies, offices or locations.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.01 was formerly codified as 1700.1</annotation>
+        <annotation type="Prior Codifications">§17.01.010 was formerly codified as 1700.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.02</num>
+      <num>17.01.020</num>
       <heading>Scope</heading>
       <text>This ordinance is applicable to Bad River Repatriation Committee as it relates to the Bad River Band's repatriation activities and efforts.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.02 was formerly codified as 1700.2</annotation>
+        <annotation type="Prior Codifications">§17.01.020 was formerly codified as 1700.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.03</num>
+      <num>17.01.030</num>
       <heading>Authority</heading>
       <text>This ordinance is enacted pursuant to Article VI, Section 1(m) and 1(n) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.03 was formerly codified as 1700.3</annotation>
+        <annotation type="Prior Codifications">§17.01.030 was formerly codified as 1700.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.04</num>
+      <num>17.01.040</num>
       <heading>Severability</heading>
       <text>If any portion of this ordinance is found to be invalid for any reason, the remaining portions of this ordinance shall remain in effect.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.04 was formerly codified as 1700.4</annotation>
+        <annotation type="Prior Codifications">§17.01.040 was formerly codified as 1700.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.05</num>
+      <num>17.01.050</num>
       <heading>Establishment and Composition</heading>
       <para>
         <num>(a)</num>
@@ -57,43 +57,43 @@
         <text>The Committee shall consist of six permanent members, who shall be Bad River Tribal members appointed by the Bad River Tribal Council to serve a five year term. Tribal appointees shall be eligible for reappointment. Members of the Committee may simultaneously serve as members of the Tribal Council or on other Tribal boards, commissions or committees.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§17.05 was formerly codified as 1700.5</annotation>
+        <annotation type="Prior Codifications">§17.01.050 was formerly codified as 1700.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.06</num>
+      <num>17.01.060</num>
       <heading>Removal</heading>
       <text>Members of the Repatriation Committee may be removed by the Tribal Council for just cause. Members shall not be removed except after given a fair and impartial hearing including the opportunity to respond to and rebut specific allegation or allegations of misconduct. Members facing removal shall be afforded due process including the right to present reliable evidence and witnesses, confront adverse witnesses with cross-examination and be represented by counsel at no expense to the Band. An affirmative vote of at least five Tribal Council members after the close of the a hearing is required to remove a member of the Repatriation Committee.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.06 was formerly codified as 1700.6</annotation>
+        <annotation type="Prior Codifications">§17.01.060 was formerly codified as 1700.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.07</num>
+      <num>17.01.070</num>
       <heading>Substitutions</heading>
-      <text>If a member to the Repatriation Committee is removed, resigns or is otherwise no longer a members of the Committee, he or she shall be replaced by his or her successor in the case of permanent member, or a reasonable substitute at the discretion of the Tribal Council if necessary, or succeeded by a new appointment made by the Tribal Council. When applicable, new appointees appointed pursuant to <cite path="§17.07">this section</cite> shall serve out the original term of their predecessor.</text>
+      <text>If a member to the Repatriation Committee is removed, resigns or is otherwise no longer a members of the Committee, he or she shall be replaced by his or her successor in the case of permanent member, or a reasonable substitute at the discretion of the Tribal Council if necessary, or succeeded by a new appointment made by the Tribal Council. When applicable, new appointees appointed pursuant to <cite path="§17.01.070">this section</cite> shall serve out the original term of their predecessor.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.07 was formerly codified as 1700.7</annotation>
+        <annotation type="Prior Codifications">§17.01.070 was formerly codified as 1700.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.08</num>
+      <num>17.01.080</num>
       <heading>Expenses/Stipends</heading>
       <text>Members of the Repatriation Committee are authorized reimbursements for costs associated with official Committee business and shall be paid reasonable stipends at a rate to be determined by the Tribal Council. The Tribal Council shall authorize a sufficient amount of funding to meet the needs of the Repatriation Committee subject to availability of funds and an approved budget, including any necessary education and training pertaining to the Native American Graves Protection and Repatriation Act.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.08 was formerly codified as 1700.8</annotation>
+        <annotation type="Prior Codifications">§17.01.080 was formerly codified as 1700.8</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.09</num>
+      <num>17.01.090</num>
       <heading>Reports</heading>
       <text>The Repatriation Committee shall be invited to meet with the Tribal Council at least once per year and from time to time as necessary so as to report any information deemed important.</text>
       <annotations>
-        <annotation type="Prior Codifications">§17.09 was formerly codified as 1700.9</annotation>
+        <annotation type="Prior Codifications">§17.01.090 was formerly codified as 1700.9</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.10</num>
+      <num>17.01.100</num>
       <heading>Oversight Powers and Duties</heading>
       <para>
         <num>(a)</num>
@@ -145,13 +145,13 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§17.10 was formerly codified as 1700.10</annotation>
+        <annotation type="Prior Codifications">§17.01.100 was formerly codified as 1700.10</annotation>
       </annotations>
     </section>
     <section>
-      <num>17.11</num>
+      <num>17.01.110</num>
       <heading>By-Laws</heading>
-      <text>The Repatriation Committee shall operate under the procedures listed below but may establish by-laws and procedures for the operation of the organization not inconsistent with those set forth in <cite path="§17.11">this section</cite>.</text>
+      <text>The Repatriation Committee shall operate under the procedures listed below but may establish by-laws and procedures for the operation of the organization not inconsistent with those set forth in <cite path="§17.01.110">this section</cite>.</text>
       <para>
         <num>(a)</num>
         <text>A quorum shall consist of at least three members.</text>
@@ -185,7 +185,7 @@
         <text>A secretary shall be selected from within the members to be responsible for producing and maintaining records of official meetings, minutes and so forth.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§17.11 was formerly codified as 1700.11</annotation>
+        <annotation type="Prior Codifications">§17.01.110 was formerly codified as 1700.11</annotation>
       </annotations>
     </section>
   </container>

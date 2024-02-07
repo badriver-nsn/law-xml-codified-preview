@@ -1,53 +1,752 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>11</num>
   <heading>Worker's Compensation</heading>
-  <prefix>Title</prefix>
   <container>
-    <num>11.00</num>
-    <heading>Health and Disability Benefits (Worker's Compensation)</heading>
     <prefix>Chapter</prefix>
+    <num>11.01</num>
+    <heading>Health and Disability Benefits (Worker's Compensation)</heading>
     <section>
-      <num>11.01</num>
+      <num>11.01.010</num>
       <heading>Purpose</heading>
-      <text>The Bad River Tribal Council may authorize the Tribe to offer health and/or disability insurance, including at its option, opting into the State of Wisconsin's Worker's Compensation system, to all full time employees, as defined in the Bad River Personnel and Policy Manual, of the Bad River Tribe, including it's enterprises.</text>
+      <text>The Bad River Tribal Council may authorize the Tribe to offer health and/or disability insurance, including at its option, opting into the State of Wisconsin's Worker's Compensation system, to all full time employees, as defined in the Bad River Personnel and Policy Manual, of the Bad River Tribe, including its enterprises.</text>
       <annotations>
-        <annotation type="Prior Codifications">§11.01 was formerly codified as 1100.1</annotation>
+        <annotation type="Prior Codifications">§11.01.010 was formerly codified as 1100.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>11.02</num>
+      <num>11.01.020</num>
       <heading>Exclusive Remedy</heading>
       <text>If the Tribe elects to offer health and disability benefits to Tribal Employees, such benefits shall be the sole and exclusive remedy for claims and compensation resulting from any work related injury or illness. If the Tribe elects to offer a comprehensive health insurance coverage to its employees for off-duty injury or illness, the benefits and coverage contained in the policy shall be the exclusive remedy for claims and compensation resulting for any non-work related injury or illness. If the Tribe opts not to offer health and/or disability insurance to its employees then there shall be no remedy available from the Tribe for injury sustained at the workplace.</text>
       <annotations>
-        <annotation type="Prior Codifications">§11.02 was formerly codified as 1100.2</annotation>
+        <annotation type="Prior Codifications">§11.01.020 was formerly codified as 1100.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>11.03</num>
+      <num>11.01.030</num>
       <heading>Index</heading>
+      <text>1100.1  Purpose</text>
+      <text>1100.2  Exclusive Remedy</text>
+      <text>1100.3  Index</text>
+      <text>1100.4  Definitions</text>
+      <text>1100.5  Conditions of Liability</text>
+      <text>1100.6  Joint Liability of Employer and Contractor</text>
+      <text>1100.7  Employee Defined.</text>
+      <text>1100.8  Health Benefits</text>
+      <text>1100.9  Temporary Disability</text>
+      <text>1100.10 Earnings, Method of Computation</text>
+      <text>1100.11 Notice of Injury, Exception, Laches</text>
+      <text>1100.12 Fraudulent Claims Reporting and Investigating</text>
+      <text>1100.13 Examination; Competent Witnesses; Exclusion of Evidence; Autopsy</text>
+      <text>1100.14 Rules of Procedure; Transcripts</text>
+      <text>1100.15 Submission of Disputes</text>
+      <text>1100.16 Procedure, Notice of Hearing; Witnesses; Contempt; Testimony; Medical Examination</text>
+      <text>1100.17 Apportionment of Liability</text>
+      <text>1100.18 Findings; Orders and Awards</text>
+      <text>1100.19 Employees Confined in Institutions; Payment of Benefits</text>
+      <text>1100.20 Judicial Review</text>
+      <text>1100.21 Appeal from Judgment on Award</text>
+      <text>1100.22 Fees and Costs</text>
+      <text>1100.23 Third Party Liability</text>
+      <text>1100.24 Other Insurance Not Affected; Liability of Insured Employer</text>
+      <text>1100.25 Department Forms and Records; Public Access</text>
+      <text>1100.26 Maximum Limitations</text>
+      <text>1100.27 Benefits Payable to Minors; How paid</text>
+      <text>1100.28 Death Benefit</text>
+      <text>1100.29 Burial Expenses</text>
+      <text>1100.30 Decreased Compensation</text>
+      <text>1100.31 Sovereign Immunity</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.030 was formerly codified as 1100.3</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.040</num>
+      <heading>Definitions</heading>
       <para>
         <num>(a)</num>
-        <text>1100.1		Purpose</text>
+        <text><cite path="11|11.01">This chapter</cite> may be referred to as the "Workers Compensation Ordinance" and allowances, recoveries and liabilities under <cite path="11|11.01">this chapter</cite> constitute "Worker's Compensation".</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>1100.2		Exclusive Remedy</text>
+        <text>In <cite path="11|11.01">this chapter</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>"Compensation" means worker's compensation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Injury" means mental or physical harm to an employee while working in the scope of their employment caused by accident or disease, and also means damage to or destruction of artificial members, dental appliances, teeth, hearing aids and eyeglasses, but in the case of hearing aids or eyeglasses, only if such damage or destruction resulted from accident which also caused personal injury entitling the employee to compensation therefor either for disability or treatment.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Order" means any decision, rule, regulation, direction, requirement or standard of the Tribal Council or Tribal Court.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.040 was formerly codified as 1100.4</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.050</num>
+      <heading>Conditions of Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>Liability under <cite path="11|11.01">this chapter</cite> shall exist against an employer only where the following conditions concur:</text>
+        <para>
+          <num>(1)</num>
+          <text>Where the employee sustains an injury.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Where, at the time of the injury, both the employer and employee are subject to the provisions of <cite path="11|11.01">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <para>
+            <num>(A)</num>
+            <text>Where, at the time of the injury, the employee is performing service growing out of and incidental to his or her employment.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any employee going to and from his or her employment in the ordinary and usual way, while on the premises of the employer, or while in the immediate vicinity thereof if the injury results from an occurrence on the premises, any employee going between the employer's designated parking lot and the employer's work premises while on a direct route and in the ordinary and usual way or any firefighter or municipal utility employee responding to a call for assistance outside the limits of his or her village, unless that response is in violation of law, is performing service growing out of and incidental to employment.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>An employee is not performing service growing out of and incidental to his or her employment while going to or from employment in a private group or employer-sponsored car pool, van pool, commuter bus service or other ride-sharing program in which the employee participates voluntary and the sole purpose of which is the mass transportation of employees to and from employment. An employee is not performing service growing out of and incidental to employment while engaging in a program designed to improve the physical well-being of the employee, whether or not the program is located on the employer's premises, if participation in the program is voluntary and the employee receives no compensation for participation.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The premises of the employer include the premises of any other person on whose premises the employee performs service.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>To enhance the morale and efficiency of Tribal employees and attract qualified personnel to work for the Band, it is the policy of the Bad River Band that the benefits of <cite path="11|11.01">this chapter</cite> shall extend and be granted to employees in the service of the Band:</text>
+            <para>
+              <num>(i)</num>
+              <text>Where the injury is not intentionally self-inflicted.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Where the accident or disease causing injury arises out of the employees employment.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Every employee whose employment requires the employee to travel shall be deemed to be performing service growing out of and incidental to the employee's employment at all times while on a trip, except when engaged in a deviation for a private or personal purpose. Acts reasonably necessary for living or incidental thereto shall not be regarded as such a deviation. Any accident or disease arising out of a hazard of such service shall be deemed to arise out of the employee's employment.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>Members of the Tribal Council are covered by <cite path="11|11.01">this chapter</cite> when they are engaged in performing their duties as Tribal Council members including:</text>
+              <para>
+                <num>(I)</num>
+                <text>While performing services growing out of and incidental to their function as Tribal Council members;</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>While performing their official duties as members of committees or other official bodies created by the Tribal Council;</text>
+              </para>
+              <para>
+                <num>(III)</num>
+                <text>While traveling to and from the Chief Blackbird Center to perform their duties as Tribal Council members; and</text>
+              </para>
+              <para>
+                <num>(IV)</num>
+                <text>While traveling to and from any place to perform services growing out of and incidental to their function as Tribal Council members, regardless of where the trip originated, and including acts reasonably necessary for living are not deviations.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Where such conditions exist the right to the recovery of compensation under <cite path="11|11.01">this chapter</cite> shall be the exclusive remedy against the employer, any other employee of the same employer and the worker's compensation insurance carrier. <cite path="§11.01.050">This section</cite> does not limit the right of an employee to bring action against any co-employee for assault intended to cause bodily harm, or against a co-employee for negligent operation of a motor vehicle not owned or leased by the employer.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>1100.3		Index</text>
+        <text>Providing or failing to provide any safety inspection or safety advisory service incident to a contract for worker's compensation insurance or to a contract for safety inspections or safety advisory services does not by itself subject an insurer, an employer, insurance service organization to liability for damages for an injury resulting from providing or failing to provide the inspection or services.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>1100.4		Definitions</text>
+        <text>The right to compensation and the amount of the compensation shall in all cases be determined in accordance with the provisions of a tribal health and disability insurance policy in effect as of the date of the injury.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>1100.5		Conditions of Liability</text>
+        <text>If an employee of the Band, while working outside the territorial limits of this Band, suffers an injury on account of which the employee, or in the event of the employee's death, his or her dependents would have been entitled to the benefits provided by <cite path="11|11.01">this chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§11.03 was formerly codified as 1100.3</annotation>
+        <annotation type="Prior Codifications">§11.01.050 was formerly codified as 1100.5</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.060</num>
+      <heading>Joint Liability of Employer and Contractor</heading>
+      <text>An employee shall not recover compensation for the same injury from more than one party. If the Band pays compensation to an employee it may recover the same from the other employer for whom the employee was working at the time of the injury if such contractor, subcontractor or other employer as defined herein above.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.060 was formerly codified as 1100.6</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.070</num>
+      <heading>Employee Defined</heading>
+      <text>"Employee" as used in the chapter means:</text>
+      <para>
+        <num>(a)</num>
+        <text>Every person, including all officials, in the service of the Band whether elected or under any appointment, or express contract of hire, and whether a resident or employed or injured within or outside the boundaries of the Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every member of the Bad River Police Department or Volunteer Fire Department or Ambulance Service.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>An independent contractor is not an employee of an employer for whom the independent contractor performs work or services if the independent contractor meets all of the following conditions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maintains a separate business with his or her own office, equipment, materials and other facilities.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Holds or has applied for a federal employer identification number with the federal internal revenue service or has filed business or self-employment income tax returns with the federal internal revenue service based on work or service in the previous year.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Operates under contracts to perform specific services or work for specific amounts of money and under which the independent contractor controls the means of performing the services or work.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Incurs the main expenses related to the service or work that he or she performs contract.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Is responsible for the satisfactory completion of work or services the he or she contracts to perform and is liable for a failure to complete the work or service.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Receives compensation for work or service performed under a contract on a commission or per job or competitive bid basis and not on any other basis.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>May realize a profit or suffer a loss under contracts to perform work or service.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Has continuing or recurring business liabilities or obligations.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The success or failure of the independent contractor's business depends on the relationship of business receipts to expenditures.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>The Tribal Council may by resolution, prescribe classes of volunteer workers who may, at the election of the person for whom the service is being performed, be deemed to be employees for the purposes of <cite path="11|11.01">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>A juvenile performing uncompensated community service work as a result of a disposition ordered by the Bad River Tribal Court is considered an employee. No compensation may be paid to that employee for temporary disability during the healing period.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>An adult performing uncompensated community service work under is considered an employee of the Band. No compensation may be paid to that employee for temporary disability during the healing period.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>A prisoner of a county jail who is assigned to the Huber Program who</text>
+          <text>performs compensated work for the Band is considered an employee of the Band.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>A participant in a trial job or on probation is considered an employee of the Band and shall receive benefits under <cite path="11|11.01">this chapter</cite> from the date of hire so long as he or she is otherwise eligible under <cite path="11|11.01">this chapter</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.070 was formerly codified as 1100.7</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.080</num>
+      <heading>Health Benefits</heading>
+      <text>The Tribal Council, in its discretion may contract with an insurance carrier or offer a self-insured health insurance benefit plan to its employees. The health insurance plan, if any, shall constitute the health benefit made available by the Band to employees for work related injuries, injured workers.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.080 was formerly codified as 1100.8</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.090</num>
+      <heading>Temporary Disability</heading>
+      <text>The Tribal Council may, in its discretion, contract with an insurance carrier or offer a self-insured disability benefit to its employees. The disability plan, if any, shall constitute the health benefit made available by the Band to employees for disability compensation.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.090 was formerly codified as 1100.9</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.100</num>
+      <heading>Earnings, Method of Computation</heading>
+      <text>The method of calculating disability payments shall be established by the Tribal Council and promulgated in the disability policy, if any, sponsored by the Band.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.100 was formerly codified as 1100.10</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.110</num>
+      <heading>Notice of Injury, Laches</heading>
+      <text>Eligibility for a claim for compensation is contingent upon an employee qualifying for health coverage and/or disability compensation. Criteria for qualification shall be approved by the Tribal Council and all benefits and eligibility requirements for compensation will be published and made widely available to all employees. At a minimum, the criteria shall include policies and procedures for timely notice from the employee to the Band of injury. The notice shall, at a minimum, include the date, time, nature of injury, and place of injury and any potential or actual witnesses to the injurious event. The notice shall be signed by the employee's supervisor. Further policies and procedures may be developed to supplement the above minimum requirements. Regardless of whether notice was received, if no payment of compensation, other than medical treatment or burial expense, is made, and no application is filed within 2 years from the date of the injury or death, or from the date of the employee or his or her dependent knew or ought to have known the nature of the disability and its relation to the employment, the right to compensation therefore is barred, except that the right to compensation is not barred if the employer knew or should have known, within the 2-year period, that the employee had sustained the injury on which the claim is based. Issuance of notice of a hearing on the Band's own motion has the same effect for the purposes of <cite path="§11.01.110">this section</cite> as the filing of an application.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.110 was formerly codified as 1100.11</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.120</num>
+      <heading>Examination; Competent Witnesses; Exclusion of Evidence; Autopsy</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>Whenever compensation is claimed by an employee, the employee shall, upon the written request of the Band or insurer, submit to reasonable examinations by physicians, chiropractors, psychologists, dentists or podiatrists provided and paid for by the Band or insurer. A claim may be denied if an employee refuses to submit to an examination under this paragraph.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When compensation is claimed for loss of earning capacity the employee shall, on the written request of the Band, submit to reasonable examinations by vocational experts provided and paid for by the Band.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The employee is entitled to have physician, chiropractor, psychologist, dentist or podiatrist provided by himself or herself present at the examination and to receive a copy of all reports of the examination that prepared by the examining physician, chiropractor, psychologist, podiatrist, dentist or vocational expert immediately upon receipt of those reports by the Band or insurer. The Band's written request for examination shall notify the employee of all of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>The proposed date, time and place of the examination and the identity and area of specialization of the examining physician, chiropractor, psychologist, dentist, podiatrist or vocational expert.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The procedure for changing the proposed date, time and place of the examination.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The employee's right to have his or her physician, chiropractor, psychologist, dentist or podiatrist present at the examination.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The employee's right to receive a copy of all reports of the examination that are prepared by the examining physician, chiropractor, psychologist, dentist, podiatrist or vocational expert immediately upon receipt of these reports by the employer or insurer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>So long as the employee, after a written request from the Band or insurer which complies with par. (c), refuses to submit to or in anyway obstructs the examination, the employee's right to begin or maintain any proceeding for the collection of compensation is suspended. If the employee refuses to submit to the examination after direction by the Band or in anyway obstructs the examination, the employee's right to the weekly indemnity which accrues and becomes payable during the period of that refusal or obstruction, is barred. Subject to paragraph (e):</text>
+          <para>
+            <num>(A)</num>
+            <text>Any physician, chiropractor, psychologist, dentist, podiatrist or vocational expert who is present at any examination under par. (a) may be required to testify as to the results thereof.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any physician, chiropractor, psychologist, dentist or podiatrist who attended a worker's compensation claimant for any condition reasonably related to the condition for which the claimant claims compensation may be required to testify before the Tribal Council when it so directs.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Notwithstanding any chapter provisions except par. (e), any physician, chiropractor, psychologist, dentist or podiatrist attending a worker's compensation claimant for any condition or complaint reasonably related to the condition for which the claimant claims compensation may furnish to the employee, Band, insurer reports relative to a compensation claim.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The testimony of any physician, chiropractor, psychologist, dentist or podiatrist who is licensed to practice where he or she resides or practices in any state and the testimony of any vocational expert may be received in evidence in compensation proceedings.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No person may testify on the issue of the reasonableness of the fees of a licensed health care professional unless the person is licensed to practice the same health care profession as the professional whose fees are the subject of the testimony.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>An employee who reports an injury alleged to be work-related or files an application for hearing waives any physician-patient, psychologist-patient or chiropractor-patient privilege with respect to any condition or complaint reasonably related to the condition for which the employee claims compensation. Any physician, chiropractor, psychologist, dentist, podiatrist, hospital or health care provider shall, within a reasonable time after written request by the employee, employer, worker's compensation insurer or Band or its representative, provide that person with any information or written material reasonably related to any injury for which the employee claims compensation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A physician, chiropractor, podiatrist, psychologist, dentist, hospital or health service provider shall furnish a legible, certified duplicate of the written material requested under par. (a) upon payment of the actual costs of preparing the certified duplicate, not to exceed the greater of 45 cents per page or $7.50 per request, plus the actual costs of postage. Any person who refuses to provide certified duplicates of written material in the person's custody that is requested under par. (a) shall be liable for reasonable and necessary costs including reasonable attorney fees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <para>
+          <num>(1)</num>
+          <text>If 2 or more physicians, chiropractors, psychologists, dentists or podiatrists disagree as to the extent of an injured employee's temporary disability, the end of an employee's healing period, an employee's ability to return to work at suitable available employment or the necessity for further treatment or for a particular type of treatment, the Band may appoint another physician, chiropractor, psychologist, dentist or podiatrist to examine the employee and render an opinion as soon as possible. The Band shall promptly notify the claimant of this appointment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the employee has not returned to work, payment for temporary disability shall continue until the terms regarding length of disability payments expires or the Band receives the opinion. The Band or its insurance carrier or both shall pay for the examination and opinion. The Band or insurance carrier or both shall receive appropriate credit for any overpayment to the employee.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.120 was formerly codified as 1100.13</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.130</num>
+      <heading>Rules of Procedure; Transcripts</heading>
+      <para>
+        <num>(a)</num>
+        <text>All testimony at any hearing held under <cite path="11|11.01">this chapter</cite> shall be recorded by a recording machine.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.130 was formerly codified as 1100.14</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.140</num>
+      <heading>Submission of Claims</heading>
+      <text>All claims made by employees for compensation under <cite path="11|11.01">this chapter</cite> shall be submitted to the Tribal Benefit Specialist who shall review the claim for evaluation of eligibility of payment. The Tribal Benefit Specialist shall evaluate each claim for payment of benefits based on the eligibility criteria and available benefits established in <cite path="11|11.01">this chapter</cite> and the health and disability plan which may be adopted by the Band. The Tribal Benefit Specialist shall promptly evaluate all claims and either pay out health and/or disability benefits to eligible employees or deny such claims. A complete explanation of benefits, or in the case of a denial of benefits statement shall be forwarded to the employee.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.140 was formerly codified as 1100.15</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.150</num>
+      <heading>Disputes, Procedure; Notice of Hearing, Witnesses, Contempt; Testimony, Medical Examination</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>Employees who dispute either the amount and nature of the benefit offered, or are denied benefits by the Tribal Benefit Specialist shall file a dispute as outlined under <cite path="§11.01.150">this section</cite>. The Band may bring in additional parties by service of a copy of the application. The Band shall cause notice of hearing on the application to be given to each party interested, by service of such notice on the interested party personally or by mailing a copy to the interested party's last-known address at least 10 days before such hearing. In case a party in interest is located outside the state, and has no post-office address within this state, the copy of the application and copies of all notices shall be filed and sent by registered or certified mail to the last know post office address of such party. Such filing and mailing shall constitute sufficient service, with the same effect as if served upon a party located within this state. A hearing may be adjourned in the discretion of the Band, and hearings may be held at such places as the Band designates.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In any dispute or controversy pending before the Band, the Band may direct the parties to appear before the Tribal Council for a conference to consider the clarification of issues, the joining of additional parties, the necessity or desirability of amendments to the pleadings, the obtaining of admissions of fact or of documents, records, reports and bills which may avoid unnecessary proof and such other matters as may aid in disposition of the dispute or controversy. After this conference the Tribal Council may issue an order requiring disclosure or exchange of any information or written material which it considers material to the timely and orderly disposition of the dispute or controversy. If a party fails to disclose or exchange within the time stated in the order, the Band may issue an order dismissing the claim without prejudice or excluding evidence or testimony relating to the information or written material. The Band shall provide each party with a copy of any order.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All parties shall have the right to be present at any hearing, in person or by attorney, or any other agent, and to present such testimony as may be pertinent to the controversy before the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The contents of certified medical and surgical reports by physicians, podiatrists, surgeons, dentists, psychologists and chiropractors licensed in and practicing in this state and of certified reports by experts concerning loss of earning capacity presented by a party for compensation constitute prima facie evidence as to the matter contained in them, subject to any rules and limitations the Tribal Council prescribes. Certified reports of physicians, podiatrists, surgeons, dentists, psychologists and chiropractors, wherever licensed and practicing, who have examined or treated the claimant, and of experts, if the practitioner or expert consents to subject himself or herself to cross-examination also constitute prima facie evidence as to the matter contained in them. Certified reports of physicians, podiatrists, surgeons, psychologists and chiropractors are admissible as evidence of the diagnosis, necessity of the treatment and cause and extent of the disability. Certified reports by doctors of dentistry are admissible as evidence of the diagnosis and necessity for treatment but not of disability. The record of a hospital or sanatorium in this state operated by any department or agency of the federal or state government or by any municipality, tribe, or of any other hospital or sanatorium in the State of Wisconsin which is satisfactory to the Tribal Council, established by certificate, affidavit or testimony of the supervising officer or other person having charge of such records, or of a physician, podiatrist, surgeon, dentist, psychologist or chiropractor to be the record of the patient in questions, and made in the regular course of examination of such patient, constitutes prima facie evidence in any worker's compensation proceeding as to the matter contained in it, to the extent that it is otherwise competent and relevant. The Tribal Council may, by rule, establish the qualifications of and the form used for certified reports submitted by experts who provide information concerning loss of earning capacity. The Tribal Council may not admit into evidence a certified report of a practitioners or other expert or a record of a hospital or sanatorium that was not filed with the Tribal Council and all parties in interest at least 7 days before the date of the hearing, unless the Tribal Council is satisfied that there is good cause for the failure to file the report.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Tribal Council may, with or without notice to either party, cause testimony to be taken, or an inspection of the premises where the injury occurred to be made, or the time books and payrolls of the Band to be examined by any Tribal Council member examiner, and may direct any employee claiming compensation to be examined by a physician, chiropractor, psychologist, dentist or podiatrist. The testimony so taken, and the results of any such inspection or examination, shall be reported to the Tribal Council for its consideration upon final hearing. All ex parte testimony taken by the Tribal Council shall be reduced to writing and either party shall have opportunity to rebut such testimony on final hearing.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Whenever the testimony presented at any hearing indicates a dispute, or is such as to create doubt as to the extent or cause of disability or death, the Tribal Council may direct that the injured employee be examined or autopsy be performed, or an opinion of a physician, chiropractor, dentist, psychologist or podiatrist be obtained without examination or autopsy, but an impartial, competent physician, chiropractor, dentist, psychologist or podiatrist designated by the Tribal Council who is not under contract with or regularly employed by the Band or Insurer. The expense of such examination shall be paid by the Band. The report of such examination shall be transmitted in writing to the Tribal Council and a copy thereof shall be furnished by the Tribal Council to each party, who shall have an opportunity to rebut such report on further hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any party, including the Tribal Council, may require any person to produce books, papers and records at the hearing by personal service of a subpoena upon the person.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A party's attorney of record may issue a subpoena to compel the attendance of a witness or the production of evidence. A subpoena issued by an attorney must be in substantially the same form as provided in the Bad River Tribal Code <cite path="§1.15.010">Section 1.15.010</cite> and must be served in the manner provided in the Bad River Tribal Code <cite path="§1.15.020">Section 1.15.020</cite>. The attorney shall, at the time of issuance, send a copy of the subpoena to the appeal tribunal or other representative of the Band responsible for conducting the proceeding.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any person who shall willfully and unlawfully fail or neglect to appear or testify or to produce books, papers and records as required, shall be fined not less than $25 nor more than $100.00 each day such person shall so refuse or neglect shall constitute a separate offense.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The right of an employee, the employee's legal representative or dependent to proceed under <cite path="§11.01.150">this section</cite> shall not extend beyond 12 years from the date of the injury or death or from the date that compensation, other than treatment or burial expenses, was last paid, or would have been payable if no advancement were made, whichever date is latest.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><cite path="§11.01.150">This section</cite> does not limit the time within which the Band may bring an action to recover benefits fraudulently obtained.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>If an employee or dependent shall, at the time of injury, or at the time the employee's or dependent's right accrues, be under 18 years of age, the limitations of time within which the employee or dependent may file application or proceed under <cite path="11|11.01">this chapter</cite>, if they would otherwise sooner expire, shall be extended to one year after the employee or dependent attains the age of 18 years. If, within part of the last of any such period of limitation, an employee, the employee's personal representative, or surviving dependent be insane or active duty in the armed forces of the United States such period of limitation shall be extended to 2 years after the date that the limitation would otherwise expire. The provision hereof with respect to persons on active duty in the armed forces of the United States shall apply only where no applicable federal statute is in effect.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <para>
+          <num>(1)</num>
+          <text>Testimony or certified reports of expert witnesses on loss of earning capacity may be received in evidence and considered with all other evidence to decide on an employee's actual loss of earning capacity.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as provided in par. (c), the Tribal Council shall exclude from evidence, testimony or certified reports from expert witnesses under par. (a) offered by the party that raises the issue of loss of earning capacity if that party failed to notify the Tribal Council and the other parties of interest, at least 60 days before the date of the hearing, of the party's intent to provide the testimony or reports and of the names of the expert witnesses involved. Except as provided in par. (c), the Tribal Council shall exclude from evidence testimony or certified reports from expert witnesses under par. (a) offered by a party of interest in response to the party that raises the issue of loss of earning capacity if the responding party failed to notify the Tribal Council and the other parties of interest, at 45 days before the date of the hearing, of the party's intent to provide the testimony or reports and of the names of the expert witnesses involved.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Unless otherwise agreed to by all parties, an injured employee shall file with the Tribal Council and serve on all parties at least 15 days before the date of the hearing an itemized statement of all medical expenses and incidental compensation claimed by the injured employee. The itemized statement shall include, if applicable, information relating to any travel expenses incurred by the injured employee in obtaining treatment including the injured employee's destination, number of trips, round trip mileage and meal and lodging expenses. The Tribal Council may not admit into evidence any information relating to medical expenses and incidental compensation claimed by an injured employee if the injured employee failed to file with the Band and serve on all parties at least 15 days before the date of the hearing an itemized statement of the medical expenses and incidental compensation claimed by the injured employee, unless the Tribal Council is satisfied that there is good cause for the failure to file and serve the itemized statement.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.150 was formerly codified as 1100.16</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.160</num>
+      <heading>Apportionment of Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>If it is established at the hearing that 2 or more parties have each contributed to a physical or mental condition for which benefits would be otherwise due, liability for such benefits shall be apportioned according to the proof of the relative contribution to disability resulting from the injury.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If after a hearing or a pre-hearing conference the Tribal Council determines that an injured employee is entitled to compensation but that there remains in dispute only the issue of which of 2 or more parties is liable for that compensation and one the parties is the Band, the Tribal Council may order the Band to pay is prorated share in an amount, time and manner as determined by the Tribal Council. If the Tribal Council later determines that another party is liable for compensation, the Tribal Council shall authorize the Band to seek reimbursement from the responsible party.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.160 was formerly codified as 1100.17</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.170</num>
+      <heading>Findings, Orders and Awards</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>All parties shall be afforded opportunity for full, fair, public hearing after reasonable notice, but disposition of application may be made by compromise, stipulation, agreement or default without hearing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 45 days after the final hearing and close of the record, the Tribal shall make and file its findings upon the ultimate facts involved in the controversy, and its order, which shall state its determination as to the rights of the parties. Pending the final determination of any controversy before it, the Tribal Council may in its discretion after any hearing make interlocutory findings, orders and awards which may be enforced in the same manner as final awards. The Tribal Council may include in its final award, as a penalty for noncompliance with any such interlocutory order or award, if it finds that noncompliance was not in good faith, not exceeding 25% of each amount which shall not have been paid as directed thereby.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A party in interest may petition the Tribal Council for reconsideration of its decision awarding or denying compensation if the Tribal Council receives the petition within 21 days after the Tribal Council mailed a copy of the findings and order to the party's last known address. The Tribal Council shall dismiss a petition for reconsideration which is not timely filed unless the petitioner shows probable good cause that the reason for failure to timely file was beyond the petitioner's control. If no petition is filed within 21 days from the date that a copy of the findings or order is mailed to the last known address of the parties in interest, the findings or order shall be considered final.</text>
+        <para>
+          <num>(1)</num>
+          <text>On its own motion, for reasons it deems sufficient, the Tribal Council may set aside any final order or award within one year the date of the order or award, upon grounds of mistake or newly discovered evidence, and, after further consideration, do any of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>Affirm, reverse or modify, in whole or in part, the order or award.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Reinstate the previous order or award.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.170 was formerly codified as 1100.18</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.180</num>
+      <heading>Employees Confined in Institutions; Payment of Benefits</heading>
+      <text>In case an employee is adjudged insane or incompetent, or convicted of a felony, and is confined in a public institution and has dependents wholly dependent upon the employee for support a person, whose dependency is determined as if the employee were deceased, compensation payable during the period of the employee's confinement may be paid to the employee and the employee's dependents, in such manner, for such time and in such amount as the Tribal Council may determine.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.180 was formerly codified as 1100.19</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.190</num>
+      <heading>Judicial Review</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>The findings of fact made by the Tribal Council acting within its powers shall, in the absence of fraud, be conclusive. The order or award granting or denying compensation, either interlocutory or final, whether judgment has been rendered on it or not, is subject to review only as provided in <cite path="§11.01.190">this section</cite>. Within 30 days after the date of an order or award made by the Tribal Council either originally or after the filing of a petition for reconsideration any party aggrieved thereby may be serving a complaint as provided in Bad River Tribal Code <cite path="1|1.11">Chapter 1.11</cite> and filing the summons and complaint with the clerk of the Bad River Tribal Court commence, in Tribal Court, an action against the Tribal Council for the review of the order or award, in which action the adverse party shall also be made a defendant. If the Tribal Court is satisfied that a party in interest has been prejudiced because of an exceptional delay in the receipt of a copy of any finding or order, it may extend the time in which an action may be commenced by an additional 30 days.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In such an action a complaint shall be served with an authenticated copy of the summons. The complaint need not be verified, but shall state the grounds upon which a review is sought. Service upon the Tribal Council or agent authorized by the Tribal Council to accept service constitutes complete service on all parties, but there shall be left with the person so served as many copies of the summons and complaint as there are defendants, and the Tribal Court shall mail one copy to each other defendant.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Council shall serve its answer within 45 days after the service of the complaint, and, within the like time, the adverse party may serve an answer to the complaint, which answer may, by way of counterclaim or cross complaint, ask for the review of the order referred to in the complaint, with the same effect as if the party had commenced a separate action for the review of the order or award referred to in the complaint, with the same effect as if the party had commenced a separate action for the review thereof.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribal Council shall return to the court all of the documents and papers on file in the matter, and of all testimony which has been taken, and of the Council's order, findings and award. Executive sessions minutes shall not have to be made available to any party. The action may thereupon be brought on for hearing before the court upon the record by either party on 10 days notice to the other; subject however, to the provisions of a law for a change of the place of trial or the calling in of another judge.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Upon such hearing, the court may confirm or set aside such order or award; and any judgment which may theretofore have been rendered thereon; but the same shall be set aside only upon the following grounds:</text>
+          <para>
+            <num>(A)</num>
+            <text>That the Tribal Council acted without or in excess of its powers.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>That the order or award was procured by fraud.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>That the findings of fact by the Tribal Council do not support the order or award by preponderance of the evidence presented before the Council.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Upon the trial of any such action the court shall disregard any irregularity or error of the Tribal Council unless it is made to affirmatively appear that the plaintiff was damaged thereby.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The record in any case shall be transmitted to the Band within 5 days after expiration of the time for appeal from the order or judgment of the court, unless appeal shall be taken from such order or judgment.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Whenever an award is made against the Band, the General Counsel may bring an action for review thereof in the same manner and upon the same grounds as are provided by sub. (1).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The commencement of action for review shall not relieve the Band from paying compensation as directed, when such action involves only the question of liability as between the Band and one or more insurance companies or as between several insurance companies.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>If the Tribal Council's order or award depends on any fact found by the Tribal Council, the court shall not substitute its judgment for that of the Council as to the weight or credibility of the evidence on any finding of fact. The court may, however, set aside the Tribal Council's order or award and remand the case to the Third Party Administrator or Tribal Benefits Specialist or if the Tribal Council's order or award depends on any material and controverted finding of fact that is not supported by credible and substantial evidence.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.190 was formerly codified as 1100.20</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.200</num>
+      <heading>Appeal from Judgment on Award</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any party aggrieved by a judgment entered upon the review of any order or award may appeal therefrom within the time period specified in the Bad River Tribal Code <cite path="1|1.21">Chapter 1.21</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.200 was formerly codified as 1100.21</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.210</num>
+      <heading>Fees and Costs</heading>
+      <text>No fees may be charged by the clerk of any circuit court for the performance of any service required by <cite path="11|11.01">this chapter</cite>, except for the entry of judgments and certified transcripts of judgments. In proceedings to review an order or award, costs as between parties shall be in the discretion of the court.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.210 was formerly codified as 1100.22</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.220</num>
+      <heading>Third Party Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>The making of a claim for compensation against an employer or compensation insurer for the injury or death of an employee shall not affect the right of the employee, the employee's personal representative, or other person entitled to bring action, to make claim or maintain an action in tort against any party other than the Band for such injury or death, hereinafter referred to as a 3 <sup>rd</sup> party; nor shall the making of a claim by any such person against a 3 <sup>rd</sup> party for damages by reason of an injury affect the right of the injured employee or the employee's dependents to recover compensation. The employer or compensation insurer who shall have paid or is obligated to pay a lawful claim under <cite path="11|11.01">this chapter</cite> shall have the same right to make claim or maintain an action in tort against any other party for such injury or death. If the Band pays or is obligated to pay a claim under <cite path="11|11.01">this chapter</cite> the Band shall also have the right to maintain an action in tort against any other party for the employee's injury or death. However, each shall give to the other reasonable notice and opportunity to join in the making of such claim or the instituting of an action and to be represented by counsel.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No employee who is loaned by his or her employer to the Band and who makes a claim for compensation under <cite path="11|11.01">this chapter</cite> may make a claim or maintain an action in tort against the Band who accepted the loaned employee's services.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No participant in a community service job sponsored by the Band or is provided worker's compensation coverage by a Wisconsin works agency, as defined under Wis. Stat. "9.001 (9), and who makes a claim for compensation under <cite path="11|11.01">this chapter</cite> may make a claim or maintain an action in tort against the Band.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.220 was formerly codified as 1100.23</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.230</num>
+      <heading>Other Insurance Not Affected; Liability of Insured Employer</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="11|11.01">This chapter</cite> does not affect the right of the Band to insure in mutual or other companies against such liability or against the liability for the compensation provided for by <cite path="11|11.01">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Band may provide by mutual or other insurance, by arrangement with employees or otherwise, for the payment to those employees, their families, their dependents or their representatives, of sick, accident or death benefits in addition to the compensation provided under <cite path="11|11.01">this chapter</cite>. Liability for compensation is not affected by any insurance, contribution or other benefit due to or received by the person entitled to that compensation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless an employee elects to receive sick leave benefits in lieu of compensation under <cite path="11|11.01">this chapter</cite>, if sick leave benefits to the employee in an amount equal in value to the amount payable under <cite path="11|11.01">this chapter</cite>. The combination of temporary disability benefits and sick leave benefits paid to the employee may not exceed the employee's weekly wage.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Payment of compensation under <cite path="11|11.01">this chapter</cite> by either the Band or the insurance company directly to the employee or the person entitled to compensation is subject to the conditions of the policy.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.230 was formerly codified as 1100.24</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.240</num>
+      <heading>Department Forms and Records; Public Access</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Band shall print and furnish free to any employer or employee such blank forms as it shall deem requisite to facilitate efficient administration of <cite path="11|11.01">this chapter</cite>; it shall keep such record books or records as it shall deem required for the proper and efficient administration of <cite path="11|11.01">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>Except as provided in par. (b), the records of the Band related to the administration of <cite path="11|11.01">this chapter</cite> are subject to inspection and copying.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Notwithstanding par. (a), a record maintained by the Band that reveals the identity of an employee who claims worker's compensation benefits, the nature of the employee's claimed injury, the employee's past or present medical condition, the extent of the employee's disability, the amount, type or duration of benefits paid to the employee or any financial information provided to the Band is confidential and not open to public inspection or copying. The Band may deny a request made or refuse to honor a subpoena issued by an attorney of record in a civil or criminal action or special proceeding to inspect and copy a record that is confidential under this paragraph, unless one of the following applies:</text>
+          <para>
+            <num>(A)</num>
+            <text>The requester is the employee who is the subject of the record or an attorney or authorized agent of that employee. An attorney or authorized agent of an employee who is the subject of a record shall provide a written authorization for inspection and copying from the employee if requested by the Tribal Council for use pursuant to <cite path="11|11.01">this chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The record that is requested contains confidential information concerning a</text>
+            <text>worker's compensation claim and the requester is the Band or an insurance carrier or is a party to any worker's compensation claim involving the same employee or an attorney or authorized agent of that insurance carrier or Band, except that the Band is not required to do a random search of its records and may require the requester to provide the approximate date of the injury and any other relevant information that would assist the Band in finding the record requested. An attorney or authorized agent of a party to an employee's worker's compensation claim shall provide a written authorization for inspection and copying from the insurance carrier or employer if requested by the Band.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A court of competent jurisdiction orders the Band to release the record.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The requester is the subunit of the department that administers child and spousal support or a county child support agency under Wis. Stat. 559.53(5), the request is made under Wis. Stat. 549.22(2m) and the request is limited to the name and address of the employee who is the subject of the record, the name and address of the employee's employer and any financial information about that employee contained in the record.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The federal or state department of revenue requests the record for the purpose of locating a person, or the assets of a person, who has failed to file tax returns, who has under reported taxable income or who is a delinquent taxpayer; identifying fraudulent tax returns; or providing information for tax-related prosecutions.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>TREATMENT REJECTED BY EMPLOYEE.</heading>
+        <text>Unless the employee shall have</text>
+        <text>elected Christian Science treatment in lieu of medical, surgical, dental or hospital treatment, no compensation shall be payable for the death or disability of an employee, if the death be caused, or insofar as the disability may be aggravated, caused or continued by an unreasonable refusal or neglect to submit to or follow any competent and reasonable medical, surgical or dental treatment or, in the case of tuberculosis, by refusal or neglect to submit to or follow hospital or medical treatment when found by an independent medical doctor to be necessary. The right to compensation accruing during a period of refusal or neglect to submit to or follow hospital or medical treatment when found by a medical doctor to be necessary in the case of tuberculosis shall be barred, irrespective of whether disability was aggravated, caused or continued thereby.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.240 was formerly codified as 1100.25</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.250</num>
+      <heading>Maximum Limitations</heading>
+      <text>The maximum allowable benefits under <cite path="11|11.01">this chapter</cite> available to employees, if any, shall be outlined in the disability policy designated by the Band to be the disability policy for this</text>
+      <text>Chapter.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.250 was formerly codified as 1100.26</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.260</num>
+      <heading>Benefits Payable to Minors; How Paid</heading>
+      <text>Compensation and death benefit payable to an employee or dependent who was a minor when the employee's or dependent's right began to accrue, may, in the discretion of the department, be ordered paid to a bank, trust company, trustee, parent or guardian, for the use of such employee or dependent as may be found best calculated to conserve the employee's or dependent's interests. Such employee or dependent shall be entitled to receive payments, in the aggregate, at a rate not less than that applicable to payments of primary compensation for total disability or death benefit as accruing from the employee's or dependent's 18<sup>th </sup>birthday.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.260 was formerly codified as 1100.27</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.270</num>
+      <heading>Death Benefit</heading>
+      <text>Where death proximately results from the injury and the deceased leaves a person wholly dependent upon him or her for support, the death benefit if obtained by the Band shall be limited to the amount specified in the policy for this purpose.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.270 was formerly codified as 1100.28</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.280</num>
+      <heading>Burial Expenses</heading>
+      <text>In all cases where death of an employee proximately results from the injury, the Band may provide burial expense insurance in which case the Band, through its insurer shall pay the reasonable expense for burial in the amount specified in the policy obtained by the Band.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.280 was formerly codified as 1100.29</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.290</num>
+      <heading>Decreased Compensation</heading>
+      <text>If injury is caused by the failure of the employee to use safety devices which are provided in accordance with any statute or lawful order of the Band and are adequately maintained, and the use of which is reasonably enforced by the Band, or if the injury results from the employee's failure to obey any reasonable rule adopted and reasonably enforced by the Band for the safety of the employee by alcohol beverages, as defined in Wis. Stat. 5125.02(1), or use of a controlled substance, as defined in Wis. Stat. 5961.01 (4), or a controlled substance analog, as defined in Wis. Stat. 5961.01 (4m), the compensation provided in <cite path="11|11.01">this chapter</cite> shall be reduced 15% but the total reduction may not exceed $15,000.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.290 was formerly codified as 1100.30</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.300</num>
+      <heading>Sovereign Immunity</heading>
+      <text>By enacting this ordinance the Tribe in no way waives its inherent sovereignty and with all rights and privileges, including but not limited to sovereign immunity.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§11.01.300 was formerly codified as 1100.31</annotation>
       </annotations>
     </section>
   </container>

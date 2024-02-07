@@ -1,64 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>13</num>
   <heading>Business Organizations</heading>
-  <prefix>Title</prefix>
   <container>
-    <num>13.00</num>
-    <heading>Chapter of Non-Profit Economic Organizations</heading>
     <prefix>Chapter</prefix>
+    <num>13.01</num>
+    <heading>Chapter of Non-Profit Economic Organizations</heading>
     <section>
-      <num>13.01</num>
+      <num>13.01.010</num>
       <heading>Introduction</heading>
       <text>The following is the ordinance authorizing the charter of subordinate non-profit economic organizations for the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.01 was formerly codified as 1300.1</annotation>
+        <annotation type="Prior Codifications">§13.01.010 was formerly codified as 1300.1</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.02</num>
+      <num>13.01.020</num>
       <heading>Purpose</heading>
       <text>The Bad River Band seeks to encourage the formation of charitable organizations within the exterior boundaries of the Bad River Reservation its works both on and off the Bad River Reservation. By this ordinance the Bad River Band authorizes the charter and regulation of charitable organizations.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.02 was formerly codified as 1300.2</annotation>
+        <annotation type="Prior Codifications">§13.01.020 was formerly codified as 1300.2</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.03</num>
+      <num>13.01.030</num>
       <heading>Scope</heading>
       <text>The chartering of charitable organizations applies to specifically designated tribally sanctioned non-profit operations and/or enterprises subordinate to the Bad River Tribal Government.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.03 was formerly codified as 1300.3</annotation>
+        <annotation type="Prior Codifications">§13.01.030 was formerly codified as 1300.3</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.04</num>
+      <num>13.01.040</num>
       <heading>Authority</heading>
-      <text>This Ordinance is enacted pursuant to Article VI, Section 1(o) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians. Economic enterprises chartered under <cite path="13|13.00">this chapter</cite> are enacted under the auspice of Section 16 of the Indian Reorganization Act of 1934, 25 United States Code Section 476 (governmental powers) and shall not be deemed to be managed or otherwise formed pursuant to the Band's Corporate Charter pursuant to 25 Untied States Code Section 477.</text>
+      <text>This Ordinance is enacted pursuant to Article VI, Section 1(o) of the Constitution and Bylaws of the Bad River Band of the Lake Superior Tribe of Chippewa Indians. Economic enterprises chartered under <cite path="13|13.01">this chapter</cite> are enacted under the auspice of Section 16 of the Indian Reorganization Act of 1934, 25 United States Code Section 476 (governmental powers) and shall not be deemed to be managed or otherwise formed pursuant to the Band's Corporate Charter pursuant to 25 Untied States Code Section 477.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.04 was formerly codified as 1300.4</annotation>
+        <annotation type="Prior Codifications">§13.01.040 was formerly codified as 1300.4</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.05</num>
+      <num>13.01.050</num>
       <heading>Severability</heading>
       <text>If any portion of this ordinance is found to be invalid for any reason, the remaining portions of this ordinance shall remain in effect.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.05 was formerly codified as 1300.5</annotation>
+        <annotation type="Prior Codifications">§13.01.050 was formerly codified as 1300.5</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.06</num>
+      <num>13.01.060</num>
       <heading>Non-Profit Charter Authorization</heading>
-      <text>Under <cite path="13|13.00">this chapter</cite> the Tribal Council shall have the authority to chapter subordinate non- profit organizations.</text>
+      <text>Under <cite path="13|13.01">this chapter</cite> the Tribal Council shall have the authority to chapter subordinate non- profit organizations.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.06 was formerly codified as 1300.6</annotation>
+        <annotation type="Prior Codifications">§13.01.060 was formerly codified as 1300.6</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.07</num>
+      <num>13.01.070</num>
       <heading>Approval Authority</heading>
-      <text>The Tribal Council shall have the authority to approve organizational by-laws and any amendment made thereto. The Tribal Council shall require at a minimum the following from all economics entitles chartered under <cite path="13|13.00">this chapter</cite>:</text>
+      <text>The Tribal Council shall have the authority to approve organizational by-laws and any amendment made thereto. The Tribal Council shall require at a minimum the following from all economics entitles chartered under <cite path="13|13.01">this chapter</cite>:</text>
       <para>
         <num>(a)</num>
         <text>By-laws outlining the composition of the board of directors and officers, the powers and duties of said directors and officers. Proposed terms of office, provisions for the replacement and succession of directors and officers. Quorum requirements, and provisions for meetings.</text>
@@ -96,56 +96,64 @@
         <text>Any other market study, informational requirement deemed necessary by the Tribal Court.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§13.07 was formerly codified as 1300.7</annotation>
+        <annotation type="Prior Codifications">§13.01.070 was formerly codified as 1300.7</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.08</num>
+      <num>13.01.080</num>
       <heading>Appointment Authority</heading>
-      <text>The Tribal Council shall have the authority to appoint board members to any non-profit organization chartered under <cite path="13|13.00">this chapter</cite>. The boards shall serve at the pleasure of the Tribal Council. Board members may be removed without cause at any time by a majority vote of the Tribal Council.</text>
+      <text>The Tribal Council shall have the authority to appoint board members to any non-profit organization chartered under <cite path="13|13.01">this chapter</cite>. The boards shall serve at the pleasure of the Tribal Council. Board members may be removed without cause at any time by a majority vote of the Tribal Council.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.08 was formerly codified as 1300.8</annotation>
+        <annotation type="Prior Codifications">§13.01.080 was formerly codified as 1300.8</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.09</num>
+      <num>13.01.090</num>
       <heading>Authorization to Contract</heading>
-      <text>Subject to <cite path="13|13.00">this chapter</cite>, the Tribal Council may delegate the authority to enter into and otherwise bind any non-profit organization chartered under <cite path="13|13.00">this chapter</cite> and may also limit said authority.</text>
+      <text>Subject to <cite path="13|13.01">this chapter</cite>, the Tribal Council may delegate the authority to enter into and otherwise bind any non-profit organization chartered under <cite path="13|13.01">this chapter</cite> and may also limit said authority.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.09 was formerly codified as 1300.9</annotation>
+        <annotation type="Prior Codifications">§13.01.090 was formerly codified as 1300.9</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.10</num>
+      <num>13.01.100</num>
       <heading>Wavier of Sovereign Immunity</heading>
       <text>The Tribal Council may authorize officials representing any non-profit organization</text>
-      <text>chartered under <cite path="13|13.00">this chapter</cite> to waive immunity on behalf of the non-profit organization only from suit attendant up to a contract or obligated amount but not over a stated contract amount and shall not attach to Tribal assets other than those designated to the non-profit organization. In instances where the Tribal Council authorizes an organization chartered under <cite path="13|13.00">this chapter</cite>, a specific contract shall be extended to the organization by the Tribal Council under separate letter. In no instance shall the contract limit be extended without the express written consent and authorization of the Tribal Council.</text>
+      <text>chartered under <cite path="13|13.01">this chapter</cite> to waive immunity on behalf of the non-profit organization only from suit attendant up to a contract or obligated amount but not over a stated contract amount and shall not attach to Tribal assets other than those designated to the non-profit organization. In instances where the Tribal Council authorizes an organization chartered under <cite path="13|13.01">this chapter</cite>, a specific contract shall be extended to the organization by the Tribal Council under separate letter. In no instance shall the contract limit be extended without the express written consent and authorization of the Tribal Council.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.10 was formerly codified as 1300.10</annotation>
+        <annotation type="Prior Codifications">§13.01.100 was formerly codified as 1300.10</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.11</num>
+      <num>13.01.110</num>
       <heading>Dispute Resolution</heading>
-      <text>Unless otherwise authorized beforehand by the Tribal Council, all non-profit organizations chartered under <cite path="13|13.00">this chapter</cite> shall only consent to settle disputes in the Bad River Tribal Court.</text>
+      <text>Unless otherwise authorized beforehand by the Tribal Council, all non-profit organizations chartered under <cite path="13|13.01">this chapter</cite> shall only consent to settle disputes in the Bad River Tribal Court.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.11 was formerly codified as 1300.11</annotation>
+        <annotation type="Prior Codifications">§13.01.110 was formerly codified as 1300.11</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.12</num>
+      <num>13.01.120</num>
       <heading>Tort Liability</heading>
-      <text>Non-profit organizations chartered under <cite path="13|13.00">this chapter</cite> shall maintain sufficient tort liability insurance commensurate with the risk involving their respective activity and specifically approved by the Tribal Council and shall not allow the insurer to invoke the defense of sovereign immunity up to the limit of such insurance coverage.</text>
+      <text>Non-profit organizations chartered under <cite path="13|13.01">this chapter</cite> shall maintain sufficient tort liability insurance commensurate with the risk involving their respective activity and specifically approved by the Tribal Council and shall not allow the insurer to invoke the defense of sovereign immunity up to the limit of such insurance coverage.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.12 was formerly codified as 1300.12</annotation>
+        <annotation type="Prior Codifications">§13.01.120 was formerly codified as 1300.12</annotation>
       </annotations>
     </section>
     <section>
-      <num>13.13</num>
+      <num>13.01.130</num>
       <heading>Name</heading>
       <text>The chartered organization shall include the phrase "Non-Profit Business Organization Chartered by the Bad River Band" in it logo and letterhead.</text>
       <annotations>
-        <annotation type="Prior Codifications">§13.13 was formerly codified as 1300.13</annotation>
+        <annotation type="Prior Codifications">§13.01.130 was formerly codified as 1300.13</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.140</num>
+      <heading>_</heading>
+      <text>Non-profit organizations chartered under <cite path="13|13.01">this chapter</cite> may seek tax-exempt status under section 501 .C of the United States Internal Revenue Code.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§13.01.140 was formerly codified as 1300.14</annotation>
       </annotations>
     </section>
   </container>
