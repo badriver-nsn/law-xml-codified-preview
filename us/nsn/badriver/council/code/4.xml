@@ -77,6 +77,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.01.040 was formerly codified as 401.4</annotation>
+        <annotation type="Commentary">Based on Restatement of Torts Second, § 158 "Liability for Intentional Intrusions on Land."</annotation>
       </annotations>
     </section>
     <section>
@@ -85,6 +86,7 @@
       <text>A trespass is committed by the continued presence on tribal land of a structure, chattel, or other thing which the actor or his predecessor in legal interest has placed on the land pursuant to a license or other privilege if the actor fails to remove it after the privilege has been terminated by the accomplishment of its purpose or otherwise.</text>
       <annotations>
         <annotation type="Prior Codifications">§4.01.050 was formerly codified as 401.5</annotation>
+        <annotation type="Commentary">Based on Restatement of Torts Second, § 160 "Liability for Intentional Intrusions on Land."</annotation>
       </annotations>
     </section>
     <section>
@@ -155,6 +157,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.01.070 was formerly codified as 401.7</annotation>
+        <annotation type="Commentary">For sub. (a)(1) - See Davilla v. Enable Midstream Partners, L.P., 2016 WL 6952356 (W.D. Okla. 2016), holding that state trespass law relating to statute of limitations and remedies does not apply and that there is no federal common law statute of limitations for Indian trespass claims relating to trust land and that the three remedies listed in <cite path="4.01.070|(a)|(1)">Section 4.01.070(a)(1)</cite> are available.</annotation>
       </annotations>
     </section>
     <section>
@@ -2999,6 +3002,14 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.07.010 was formerly codified as 423.01</annotation>
+        <annotation type="Commentary">For sub. (g) (Definition of "Trust Land") - See also, Section 6 - Chapter 403 - Leasing.</annotation>
+        <annotation type="Commentary">For sub. (g) (Definition of "Service Line") - Based on 25 C.F.R. § 169.051</annotation>
+        <annotation type="Commentary">For sub. (g) (Definition of "Public") - This is intended to resemble NEPA requirements.</annotation>
+        <annotation type="Commentary">For sub. (g) (Definition of "Mitigate" or "Mitigation") - Cf. 40 C.F.R. § 1508.20</annotation>
+        <annotation type="Commentary">For sub. (g) (Definition of "Effect") - Cf. 40 C.F.R. § 1508.8</annotation>
+        <annotation type="Commentary">For sub. (g) - Where terms are defined in Section 6 - Chapter 403 - Leasing (adapted from 25 C.F.R. §162.003), the same definitions are adopted here.</annotation>
+        <annotation type="Commentary">For sub. (e) - 25 C.F.R. § 169.9 provides that tribal law applies to ROWs if not inconsistent with federal law and that ROWs "are generally not subject to State law or the law of a political subdivision thereof."</annotation>
+        <annotation type="Commentary">For sub. (a)(1) - The 2016 regulations became effective April 21, 2016. See Final Rule 80 Fed. Reg. 72492.</annotation>
       </annotations>
     </section>
     <section>
@@ -3130,7 +3141,7 @@
           </para>
           <para>
             <num>(H)</num>
-            <text>Bonds, insurance, and/or other security meeting the requirements of § 423.03(D) and federal regulations;</text>
+            <text>Bonds, insurance, and/or other security meeting the requirements of <cite path="4.07.030|(d)">Section 4.07.030(d)</cite> and federal regulations;</text>
           </para>
           <para>
             <num>(I)</num>
@@ -3548,6 +3559,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.07.030 was formerly codified as 423.03</annotation>
+        <annotation type="Commentary">For sub. (i) - C.F.R. § 169.11(a) reads that state and local taxes are not permitted and 25 C.F.R. § 169.11(b) ("improvements, activities, and right-of-way interests may be subject to taxation by the Indian tribe with jurisdiction.").</annotation>
+        <annotation type="Commentary">For sub. (e) - Cf. 25 C.F.R. § 169.105</annotation>
+        <annotation type="Commentary">For sub. (b) - Cf. 25 C.F.R. § 169.102</annotation>
       </annotations>
     </section>
     <section>
@@ -3728,6 +3742,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.07.040 was formerly codified as 423.04</annotation>
+        <annotation type="Commentary">For sub. (h)(1)(B) - 25 C.F.R. § 169.56</annotation>
+        <annotation type="Commentary">For sub. (c)(1) - Cf. 25 C.F.R. § 162.317, 417.</annotation>
+        <annotation type="Commentary">Cf. 25 C.F.R. § 169.51-56</annotation>
       </annotations>
     </section>
     <section>
@@ -3968,6 +3985,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.07.050 was formerly codified as 423.05</annotation>
+        <annotation type="Commentary">For sub. (b)(1)(B) - 77 Fed. Reg. 47864, August 10, 2012 (implementing corresponding provision at 516 DM 10, the environmental provision of the DOI's Departmental Manual).</annotation>
+        <annotation type="Commentary">For sub. (b) - Based on Indian Affairs NEPA Guidebook, 59 IAM 3-H (8/2012); Appendix 15, Section 10.5.</annotation>
+        <annotation type="Commentary">For sub. (a)(2) - Cf. 40 C.F.R. § 1508.27</annotation>
       </annotations>
     </section>
     <section>
@@ -4049,6 +4069,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.07.060 was formerly codified as 423.06</annotation>
+        <annotation type="Commentary">For sub. (b) - Cf. 25 C.F.R. § 169.413: "If an individual or entity takes possession of, or uses, Indian land or BLA land without a right-of-way and a right-of-way is required, the unauthorized possession or use is a trespass. An unauthorized use within an existing right-of-way is also a trespass. We may take action to recover possession, including eviction, on behalf of the Indian landowners and pursue any additional remedies available under applicable law. The Indian landowners may pursue any available remedies under applicable law, including applicable tribal law."</annotation>
       </annotations>
     </section>
   </container>

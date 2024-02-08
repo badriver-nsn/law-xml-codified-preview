@@ -1092,13 +1092,12 @@
       <num>1.21.010</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="1|1.21">this chapter</cite> is to establish the procedures by which appeals are taken from the decisions of the Tribal Court.</text>
-      <text>
-        <u>Comment</u>
-      </text>
-      <text><cite path="1|1.21">This chapter</cite> does not establish the structure of the Tribe's Court of Appeals. The appellate court is established and structured by other tribal law. See. <cite path="§1.21.040|(b)">Section 1.21.040(b)</cite>, below.</text>
-      <text>Comments such as this one follow many sections of <cite path="1|1.21">this chapter</cite>. They are not part of the chapter but are furnished as guides to understanding the chapter. The Tribal Court and the Court of Appeals may use these comments to the extent they deem appropriate.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.010 was formerly codified as 121.1</annotation>
+        <annotation type="Commentary">
+          <text><cite path="1|1.21">This chapter</cite> does not establish the structure of the Tribe's Court of Appeals. The appellate court is established and structured by other tribal law. See. <cite path="§1.21.040|(b)">Section 1.21.040(b)</cite>, below.</text>
+          <text>Comments such as this one follow many sections of <cite path="1|1.21">this chapter</cite>. They are not part of the chapter but are furnished as guides to understanding the chapter. The Tribal Court and the Court of Appeals may use these comments to the extent they deem appropriate.</text>
+        </annotation>
       </annotations>
     </section>
     <section>
@@ -1161,6 +1160,10 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.050 was formerly codified as 121.5</annotation>
+        <annotation type="Commentary">
+          <text>Subsection (a) safeguards the authority of the Court of Appeals to perform its review function without interference from other governmental agencies either before or after it has acted.</text>
+          <text>Subsection (b) establishes the authority of the Court of Appeals to review the constitutionality of Tribal Council acts of whatever nature. Because tribal constitutions do not typically provide for a separation of powers between the judiciary and the other functions of the government, some question may be raised as to the implicit authority of the courts to review the acts of tribal government. Whatever the correct answer is to that question, this subsection delegates whatever authority is necessary to perform such review.</text>
+        </annotation>
       </annotations>
     </section>
     <section>
@@ -1169,6 +1172,7 @@
       <text>There shall be one form of review in the Court of Appeals, to be designated an appeal.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.060 was formerly codified as 121.6</annotation>
+        <annotation type="Commentary">This ordinance provides the only method of obtaining review in the Court of Appeals. This section eliminates any argument that any Anglo-American common law writs may be pursued for extraordinary relief</annotation>
       </annotations>
     </section>
     <section>
@@ -1177,6 +1181,7 @@
       <text>Any party aggrieved by a decision of the Tribal Court may initiate an appeal.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.070 was formerly codified as 121.7</annotation>
+        <annotation type="Commentary">Only a party in the case below, who is in some way harmed by the decision below, may appeal.</annotation>
       </annotations>
     </section>
     <section>
@@ -1185,6 +1190,7 @@
       <text>Any final judgment or order of the Tribal Court may be appealed to the Court of Appeals. A final judgment or order is one which disposes of all issues in litigation between at least two parties to a case.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.080 was formerly codified as 121.8</annotation>
+        <annotation type="Commentary">All final judgments and orders may be appealed. Nothing but a final judgment or order may be appealed. If an order in a case leaves other matters to be decided, and does not completely settle all disputed issues between the parties, so that the Tribal Court still has work to do, then the order is not final and an appeal cannot be filed. In cases involving multiple parties, an order or judgment may dispose of all issues between two or more of the parties, and would therefore be appealable. In cases involving multiple issues, an order disposing of one or more issues may leave others as yet unresolved and would therefore not be appealable.</annotation>
       </annotations>
     </section>
     <section>
@@ -1204,6 +1210,10 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.090 was formerly codified as 121.9</annotation>
+        <annotation type="Commentary">
+          <text>The appeal is started by filing the notice of appeal, a simple form for which a model is provided as Official Form no. 1. A party other than the initial appellant may decide to appeal in light of the initial appellant's appeal and is therefore allowed additional time to do so after service of the first notice of appeal. The interest of parties in the security of judgments entered by the court requires that an appeal must be filed within the time prescribed or be forever waived. Calculation of time is prescribed by <cite path="1.21.170">Sec. 1.21.170</cite>.</text>
+          <text>Proper methods of service are prescribed by <cite path="1.21.180">Sec. 1.21.180</cite>.</text>
+        </annotation>
       </annotations>
     </section>
     <section>
@@ -1227,6 +1237,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.100 was formerly codified as 121.10</annotation>
+        <annotation type="Commentary">The essence of the notice of appeal is to give fair notice to the other parties that what would otherwise be a final disposition of a case will not be final, and to allow the other parties to begin preparation for responding to the appeal or for filing a cross-appeal. The notice of appeal provided for in this section also requires a statement of the grounds for appeal and the relief sought, in the event an appellant appearing pro Se elects not to file a brief. Any party including in the notice of appeal the items listed in this subsection will be deemed to have clearly identified the matter appealed. A notice of appeal that fails to include all of the items listed in this subsection may cause the Court to expand the time for response, dismiss the appeal, or make other appropriate orders.</annotation>
       </annotations>
     </section>
     <section>
@@ -1246,6 +1257,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.110 was formerly codified as 121.11</annotation>
+        <annotation type="Commentary">The Court of Appeals will receive the entire Tribal Court written record, and a transcript of the trial or hearings that pertain to the appeal, unless the parties agree that the Court need not have the entire record.</annotation>
       </annotations>
     </section>
     <section>
@@ -1277,6 +1289,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.120 was formerly codified as 121.12</annotation>
+        <annotation type="Commentary">The above rules are considered the minimum necessary for allowing the Court of Appeals to conduct its business in an efficient and just fashion. Briefing rules are purposely looser than in other jurisdictions to allow non-lawyers to represent themselves, or if otherwise permitted by the rules of the Tribal Court (see <cite path="1.21.200">sec. 1.21.200</cite>), to represent others. Briefs are made optional, in recognition that some parties appearing pro Se may not wish to file briefs but may rather wish to present their cases solely in oral argument. The notice of appeal (see <cite path="1.21.100|(a)">Sec. 1.21.100(a)</cite>) accordingly requires a short statement of the grounds for appeal and of the relief sought. A party may or may not be disadvantaged by failure to file a brief.</annotation>
       </annotations>
     </section>
     <section>
@@ -1360,6 +1373,10 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.140 was formerly codified as 121.14</annotation>
+        <annotation type="Commentary">
+          <text>The standard of review defines the relationship between the trial court and the appeals court. The standard of review seeks to allocate to each court that part of the judicial work which it can best do. The trial court is in the best position to weigh the evidence and assess witness credibility and is therefore sustained on such matters unless its findings are clearly erroneous. The trial court is in no better position to interpret the law than the appeals court; in fact, the appeals court has the luxury of being able to analyze the law away from the heat of trial and can better perform this task itself. The appeals court can therefore look at questions of law afresh and need not defer at all to the trial court. Discretionary questions by their nature, can result in different decisions when put to different decision makers. The function of the appeals court in reviewing a discretionary decision is not to itself decide the result it would choose, but to determine whether the trial court in fact exercised discretion and made a decision based on the applicable facts and law. The exercise of discretion is more than bald decision making and it is the task of the appeals court to see that the appropriate process was followed.</text>
+          <text>Specific instances of common standard of review problems are listed in this section; for instance the definition of sentencing as a discretionary determination. These instances are not exclusive. The Tribal Council may provide by ordinance and the courts by decision the classification of other matters as factual, legal, or discretionary.</text>
+        </annotation>
       </annotations>
     </section>
     <section>
@@ -1379,6 +1396,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.150 was formerly codified as 121.15</annotation>
+        <annotation type="Commentary">In order for the appeals court to properly perform its review function, it must have an adequate basis for understanding the trial court's decision.</annotation>
       </annotations>
     </section>
     <section>
@@ -1402,6 +1420,11 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.160 was formerly codified as 121.16</annotation>
+        <annotation type="Commentary">
+          <text>Subsections (a) and (d) preserve the basic function of the appeals court as a court of review, not a court of initial determination. The trial court should have the first opportunity to consider all issues in litigation and to see as only it can do that the record is fully developed.</text>
+          <text>Subsection (b) protects the court and parties from expending energy on issues that an appellant has no intention of pursuing.</text>
+          <text>Subsection (c) states the principle that a court will not decide issues over which there is no current controversy. The controversy that existed during trial may be dispelled by the time of appeal. The exception to this rule is the type of case that may occur again but is likely never to survive long enough to receive appellate review. For instance, an individual may wish to challenge a court's suspension of his hunting and fishing rights for a period of three months, but by the completion of the appellate briefing schedule the suspension would be ended and the case moot. Since the issue could recur, but would always become moot before it was ready for decision, the mootness doctrine would be set aside.</text>
+        </annotation>
       </annotations>
     </section>
     <section>
@@ -1456,6 +1479,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.190 was formerly codified as 121.19</annotation>
+        <annotation type="Commentary">Fees are necessary to partially defray the costs of court operations and to discourage frivolous appeals. Fees should not however prevent an appellant who cannot afford them from filing an arguably meritorious appeal. Official Forms 2 and 3 prescribe the substance of a sufficient affidavit of indigency and an order waiving fees.</annotation>
       </annotations>
     </section>
     <section>
@@ -1480,6 +1504,7 @@
       <text>The Court of Appeals may in its discretion order a party, his or her attorney, or both, filing or pursuing a frivolous appeal, to pay the costs and reasonable attorney fees incurred by the other party or parties in responding to the appeal.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.220 was formerly codified as 121.22</annotation>
+        <annotation type="Commentary">Law is developed by appeals cases which push against the limits of previously accepted doctrine. This section should not be lightly applied, or used in such a way that arguably meritorious appeals are discouraged. Frivolousness may be found, however, when an appeal is grounded neither on existing law nor on a good faith argument for extension, modification, or reversal of existing law.</annotation>
       </annotations>
     </section>
   </container>
@@ -9356,7 +9381,7 @@
       <heading>Warrants and Process</heading>
       <text>Any tribal warden may execute and serve warrants and processes issued by the tribal court in the same manner as any law enforcement officer of the State of Wisconsin may serve and execute such state warrants and processes under state law.</text>
       <annotations>
-        <annotation type="Prior Codifications">§1.44.010 was formerly codified as 157.1</annotation>
+        <annotation type="Prior Codifications">§1.44.010 was formerly codified as 201.1</annotation>
       </annotations>
     </section>
     <section>
@@ -9364,7 +9389,7 @@
       <heading>Stop and Search</heading>
       <text>For the purpose of enforcing any natural resource ordinance of the tribe or such other ordinance as the Tribal Council may direct, any tribal warden may stop and board any boat and stop any automobile, snowmobile, or other vehicle, if the tribal warden reasonably suspects there is a violation or breach of such ordinance. Any tribal warden may, with or without warrant, open, enter, and examine all buildings, camps, vessels or boats, wagons, trailers, automobiles or other vehicles snowmobiles, stages, tents, suit cases, valises, packages, and other receptacles and places where the tribal warden has probable cause to believe that game, fish, or other natural products of the Bad River Reservation taken or held in violation or breach of any tribal natural resource ordinance are to be found.</text>
       <annotations>
-        <annotation type="Prior Codifications">§1.44.020 was formerly codified as 157.2</annotation>
+        <annotation type="Prior Codifications">§1.44.020 was formerly codified as 201.2</annotation>
       </annotations>
     </section>
     <section>
@@ -9372,7 +9397,7 @@
       <heading>Arrest of Members</heading>
       <text>Any tribal warden may arrest, with or without a warrant, any tribal member detected in the actual violation, or whom such warden has probable cause to believe guilty of a violation of any tribal natural resource ordinance or such other tribal ordinance as the Tribal Council may direct, whether such violation is punishable by criminal penalties or civil remedial measures, and may take such member before the tribal court and make proper complaint.</text>
       <annotations>
-        <annotation type="Prior Codifications">§1.44.030 was formerly codified as 157.3</annotation>
+        <annotation type="Prior Codifications">§1.44.030 was formerly codified as 201.3</annotation>
       </annotations>
     </section>
     <section>
@@ -9380,7 +9405,7 @@
       <heading>Civil Remedial Enforcement</heading>
       <text>Any tribal warden may issue a citation to any member or non-member if the tribal warden reasonably believes that such person has breached a provision of any tribal natural resource ordinance or such other ordinance as the Tribal Council may direct, and may seize and hold any property authorized to be seized in such ordinance, pursuant to the civil remedial forfeiture provisions of the Tribal Court Code.</text>
       <annotations>
-        <annotation type="Prior Codifications">§1.44.040 was formerly codified as 157.4</annotation>
+        <annotation type="Prior Codifications">§1.44.040 was formerly codified as 201.4</annotation>
       </annotations>
     </section>
   </container>
