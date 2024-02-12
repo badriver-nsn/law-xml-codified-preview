@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="1986">
   <heading>1986 Resolutions</heading>
+  <xi:include href="./12-3-86-119.xml"/>
+  <xi:include href="./11-5-86-79.xml"/>
+  <xi:include href="./10-3-86-75.xml"/>
   <xi:include href="./9-3-86-63.xml"/>
   <xi:include href="./9-3-86-62.xml"/>
   <xi:include href="./8-14-86-59.xml"/>
@@ -9,6 +12,7 @@
   <xi:include href="./7-2-86-45.xml"/>
   <xi:include href="./7-2-86-44.xml"/>
   <xi:include href="./6-4-86-34.xml"/>
+  <xi:include href="./5-7-86-28.xml"/>
   <xi:include href="./4-14-86-19.xml"/>
   <xi:include href="./3-20-86-11.xml"/>
   <xi:include href="./2-5-86-2.xml"/>
