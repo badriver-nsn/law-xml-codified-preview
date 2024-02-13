@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin">
+  <meta>
+    <effective>1978-03-08</effective>
+  </meta>
+  <heading>Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin</heading>
+  <preamble>We, the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin in order to organize as a tribe for the common welfare of ourselves and our posterity and to insure domestic tranquility; to conserve and develop our natural resources; to form business and other organizations: to enjoy certain rights of home rule; to provide for our people education in vocational and trade schools and institutions of higher learning: do ordain and establish this Constitution according to the Act of Congress, dated June 18, 1934 (48Stat. L 984).</preamble>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Territory and Jurisdiction</heading>
+    <section>
+      <num>1</num>
+      <text>The territory of this Band shall extend to all lands embraced within the original boundary lines of the Bad River Reservation defined in the Treaty of September 30, 1854, and to land acquired or reserved within or without said boundary lines by or on behalf of the Bad River Band, except as otherwise provided by law.</text>
+    </section>
+    <section>
+      <num>2</num>
+      <text>The jurisdiction of this Band shall extend to all lands as defined in Section 1 of this Article, and further, for the purposes of exercising and regulating the exercise of rights to hunt, fish, trap and gather, the jurisdiction of the Band shall extend to all lands wherein such rights are reserved by Treaties of July 2, 1837, October 4, 1854,and September 30, 1854.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Membership</heading>
+    <section>
+      <num>1</num>
+      <text>For the purpose of membership in this Band under this Constitution. The following shall be included:</text>
+      <para>
+        <num>(a)</num>
+        <text>All persons of Bad River Chippewa Indian blood. whose name appears on any official allotment rolls of the Bad River Reservation. the names of all these Indians shall be entered on a roll and this roll shall be known as the "Basic Membership Roll".</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any lineal descendant of a member whose name appears on the "Basic Roll," and, PROVIDED, such person is not enrolled with another tribe, band, or group of Indians.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Living lineal descendants, born prior to the effective date of this amendment, shall identify themselves, by filing an enrollment application with the Membership Committee within six (6) months after the effective date of this amendment. All descendants born after the effective date of this amendment shall be identified for enrollment by an application filed with the Membership Committee, by the parents or guardian, within sixty (60) days after birth of descendant. Living lineal descendants who have not been enrolled within this time period will then have to apply for membership through the adoption process.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>There shall be no extension of enrollment period beyond cutoff dates as defined in <cite path="II|1|(c)">Section 1 (c). Article II – Membership</cite>. There shall be no such cutoff date for adoption.</text>
+      </para>
+    </section>
+    <section>
+      <num>2</num>
+      <text>The Tribal Council shall have power to promulgate ordinances, subject to review by the Secretary of the Interior, governing future membership and the acquisition or loss of membership.</text>
+    </section>
+    <section>
+      <num>3</num>
+      <text>The administration of the foregoing powers, and of all bylaws and ordinances affecting tribal membership, shall be vested in a Membership Committee, to be appointed by the Tribal Council independent of its own members. The acts of such committee shall be subject to review by the Tribal Council and the action of such Council shall be final, except as otherwise hereinafter provided.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <text>Adoption of a non-member of the Band shall be made by written application to the Membership Committee who shall make recommendations to the Tribal Council. The decision of the Tribal Council shall be subject to popular vote at the next annual election.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any non-member Indian applying for adoption into the Bad River Band of Chippewas, must prove relinquishment of membership in all other tribes, Bands, or group of Indians.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any non-member Indian who has been duly adopted into the Bad River Band of Chippewa Indians shall have all the same rights and privileges as a member who has been duly enrolled in the Band.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Application for adoption must be filed with the Membership Committee six (6) months prior to the annual Tribal Council election. Applications screened by the Membership Committee and acted upon by the Tribal Council shall be posted sixty (60) days before the date of the annual Tribal Council election.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Membership rights and privileges shall not apply to non-members who have been honorarily adopted.</text>
+      </para>
+    </section>
+    <section>
+      <num>5</num>
+      <text>Property rights shall not be acquired or lost through membership in this organization. except as provided herein.</text>
+    </section>
+    <section>
+      <num>6</num>
+      <text>The Membership Committee shall issue an identification card to bona fide members of the Bad River Band of Chippewa Indians, displaying name, enrollment, number, birthdate, and sex of Band- member. Small fee to be set by the Tribal Council to cover printing cost.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Governing Body</heading>
+    <section>
+      <num>1</num>
+      <text>The governing body under this Constitution and Bylaws shall be known as the Tribal Council. composed of seven (7) members to be elected by the people.</text>
+    </section>
+    <section>
+      <num>2</num>
+      <text>The first election for Tribal Council to be held after the effective date of this amendment shall be held within seventy (70) days, thereafter, the Tribal Council election shall be held on the first Tuesday following the first Monday of the month of November. Newly-elected officials shall take office five (5) days after election.</text>
+      <para>
+        <num>(a)</num>
+        <text>The Band members shall caucus within ten (10) days after the effective date of this amendment to nominate the candidates who shall campaign for election to the Tribal Council at the first election. Thereafter, the Band members shall caucus at least sixty (60) days prior to each Tribal Council election to the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The incumbent Tribal Council shall establish by resolution an ad hoc election committee, composed of three Tribal members. It shall be the duty of each election committee to draft regulations and controls to govern both the caucus and the Tribal Council elections.</text>
+        <text>The first ad hoc election committee shall determine the date and place for the caucus and place for the first Tribal election.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The committee shall preside over both the caucus and the Tribal Council election.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The committee shall administer the oath of office to the candidates duly elected to office.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If any member of the election committee is nominated as a candidate for office, and if that member chose to run, then that member shall resign from the election committee, immediately upon conclusion of the caucus. Vacancy to be filled by the incumbent Tribal Council.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>All regulations pertaining to the Tribal caucus and the Tribal Council election, drafted by the election committee, shall be submitted to the Tribal Council. The Tribal Council, on approval, shall by resolution enact the proposed regulation.</text>
+      </para>
+    </section>
+    <section>
+      <num>3</num>
+      <text>Seven (7) candidates shall be elected to serve on the Tribal Council at the first election after the effective date of this amendment.</text>
+      <text>The Tribal Chairperson, Treasurer, and the two Senior Council Members shall serve two (2) year terms beginning with the first election.</text>
+      <text>The office of Tribal Chairperson shall be a full time occupation and shall pay a livable salary.</text>
+      <text>The Tribal Vice-Chairperson, Secretary, and one Junior Council Member shall serve a one-year term beginning with the first election. Thereafter, the Tribal Vice-Chairman, Secretary and one Junior Council Member shall serve two (2) year terms beginning with their second election.</text>
+      <text>The Band member in caucus shall nominate candidates for each specific Tribal Council position.</text>
+      <text>Of the candidates nominated for office, the one receiving the largest number of votes for each specific office shall be deemed elected, with the exception of the two Senior Council members, in which instance, the two candidates receiving the largest number of votes shall be deemed elected.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <text>In any Tribal Council election, the defeated candidate receiving the largest number of votes, is designated the first alternate. The defeated candidate receiving the next largest number of votes, is designated the second alternate. The defeated candidate receiving the next largest number of votes, is designated the third alternate.</text>
+      <text>Where there is a vacancy on the Tribal Council, the Tribal Council shall appoint the designated alternate to serve for the remainder of the unexpired term of that office.The alternate shall retain their designations for two (2) years only.</text>
+    </section>
+    <section>
+      <num>5</num>
+      <text>The Tribal Council shall have authority to appoint subordinate officers, boards, and committees, and to define their duties.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Elections</heading>
+    <section>
+      <num>1</num>
+      <text>Qualified voters shall be all members of the Bad River Band of Chippewa Indians 18 years of age or older, on the day of the election.</text>
+      <para>
+        <num>(a)</num>
+        <text>Qualified voters may vote in absentee by requesting an absentee ballot in writing from the election committee thirty (30) days prior to election day.</text>
+      </para>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Any member of the Band is eligible to be elected to the Tribal Council, provided he/she is 21 years of age or older on the day of the election, and a resident of the Bad River Reservation for not less than one (1) year preceding the date of election.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading/>
+    <section>
+      <num>1</num>
+      <text>Upon receipt of a petition signed by thirty (30) percent of the eligible resident voters calling for the recall of any member of the Council, the Tribal Council shall conduct an open hearing within five (5) days at which the accused member shall face the petitioners and show just cause why the petition should be set aside.</text>
+      <text>The accused shall be entitled to counsel at their own expense. The petitioners shall be entitled to counsel at their own expense.</text>
+      <text>The Band members shall vote by a show of hands. Upon failure to show just cause it shall be the duty of the Tribal Council who shall have no recourse but to call a recall election.</text>
+      <text>No member may be recalled in any such election unless at least thirty (30) percent of the eligible 'resident voters' shall vote at such recall election.</text>
+      <para>
+        <num>(a)</num>
+        <text>Resident voter, for recall petition and recall election only, shall mean any member of the Bad River Band of Chippewas, who maintains a continuous residence within the exterior boundary of the Bad River Reservation for sixty (60) days.</text>
+      </para>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Any vacancy that occurs because of death, prolonged illness, prolonged absence, removal through recall, expelled by Tribal Council action, or by resignation, shall be filled by a designated alternate for the unexpired term of office only. All Tribal vacancies shall be filled by the appointment of a designated alternate in their priority, as was determined by popular vote at the fast annual election. All appointments shall be made by the Tribal Council.</text>
+    </section>
+    <section>
+      <num>3</num>
+      <text>The Tribal Council may by an affirmative vote of four (4) members expel any member for neglect of duty or gross misconduct provided that the accused member shall be given full and fair opportunity to reply to any and all charges at a designated Council meeting. It is further stipulated that any such member shall be given a written statement of the charges against him at least five (5) days before the meeting at which he is to appear.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <text>The position of any Tribal Council member who leaves the reservation for any reason, except tribal business, for a period of 45 days shall be deemed to be vacant.</text>
+      <text>Any Tribal Council member who neglects to attend two (2) consecutive meetings without good cause or without first notifying the Chairperson or Vice-Chairperson, will be deemed to be derelict in their duty and so subject to recall or removal, and the position to be filled by appointment of the proper designated alternate. Shall any member of the Tribal Council be found guilty of a felony or misdemeanor involving dishonesty in any Indian, State or Federal Court, the Tribal Council shall declare the position vacant and fill by appointment of the proper designated alternate.</text>
+      <text>The position of any Tribal Council member who is recalled in a recall election shall be declared vacant and filled by appointment of the proper designated alternate. The position of any Tribal Council member who cannot attend meetings or Tribal business because of prolonged illness, shall be declared vacant and filled by appointment of the proper designated alternate.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Powers</heading>
+    <section>
+      <num>1</num>
+      <text>Enumerated powers. The Tribal Council shall exercise the following powers, subject to any limitations imposed by the Constitution or statutes of the United States, and subject further to all express restrictions upon such powers contained in this Constitution and the attached Bylaws.</text>
+      <para>
+        <num>(a)</num>
+        <text>To negotiate with the Federal. State, and local governments on behalf of the Band, and to advise and consult with the representatives of the Interior Department on all activities of the Department that may affect the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To employ counsel for the protection and advancement of the rights of the Band and its member, the choice of counsel and fixing of fees to be subject to the approval of the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To approve or veto any sale, disposition, lease or encumbrance of Tribal lands, interests in lands or other Tribal assets, which may be authorized or executed by the Secretary of the Interior, the Commissioner of Indian Affairs, or be sold or encumbered, or leased for a period exceeding ten (l0) years, except for governmental purposes, except that leases for mining purposes may be made for such longer periods as may be authorized by law.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To advise with the Secretary of the Interior with regard to all appropriations, estimates or federal projects for the benefit of the Band prior to the submission of such estimates to the Office of Management and Budget and to Congress.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To make assignments of Tribal land to members of the Band in conformity with <cite path="VIII">Article VIII of this Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>To manage all economic affairs and enterprises of the Band in accordance with the terms of the charter which may be issued to the Band by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>To appropriate for public purposes of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of Wisconsin available Tribal Council funds, and subject to review by the Secretary of the Interior. any other available tribal funds.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>To levy taxes upon members of the Band and/or their property and to levy taxes or license fees, subject to review by the Secretary of the Interior, upon non-members of their property located within the Reservation; PROVIDED, however, that any such assessment upon members of the Band shall have the approval of a majority of the voters of the Band at a special election at which at least thirty (30) percent of the eligible voters of the Band shall vote.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>To purchase lands of members of the Band for public purposes, under condemnation proceedings in courts of competent jurisdiction.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>To regulate by enactment of ordinances the conduct of business within the exterior boundaries of the Bad River Reservation including the power to impose taxes and license fees upon members and non-members during business within the Bad River Reservation.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>To regulate the inheritance of property, real and personal, other than allotted lands, within the territory of the Bad River Reservation, subject to review by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>To regulate the manner of making nominations and holding elections for Tribal officers.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>To adopt resolutions regulating the procedure of the Tribal Council itself and other Tribal agencies and Tribal officials.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>To encourage and foster the arts, crafts, traditions, culture, wildlife, and natural resources of the Bad River Band of Lake Superior Tribe of Chippewa Indians of Wisconsin.</text>
+        <para>
+          <num>1.</num>
+          <text>By banning the taking of fish by any means during the spawning season from the waters of the Kakagon Sloughs and River, Wood Creek, and Bear Trap Creek, by members and non-members except for the fish needed by the fish hatchery located on the Bad River Reservation, and other lawfully authorized personnel in the performance of their duties, i.e., U.S. Fish and Wildlife Service.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>To establish a closed season on deer so as to prevent the taking of does while they are carrying their unborn young – ban to include members and non-members.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>To empower the Tribal Council to regulate ricing as to the days and time of day to harvest wild rice, so as to ensure a full growing season. The Tribal Council will act on the recommendation of the Tribal game wardens as to when to post the time and date to rice on Kakagon, Sandcut, Wood Creek, and Bear Trap Creek. Regulations will apply to members and non-members.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>On recommendation of the Tribal game wardens, and the U.S. Fish and Wildlife Service. as to the estimated number of each species of furbearing animals within the exterior boundaries of the Bad River Reservation, the Tribal Council will decide if there is a need to establish a quota and/or a limited season for trapping so as to not over trap and deplete this resource.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>In addition to the limited ordinance 1, 2, 3, and 4, non-members will obey all Tribal ordinances on hunting, fishing, trapping, and ricing on all lands and waters within the exterior boundaries of the Bad River Indian Reservation and all times.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>On recommendation of the Tribal game wardens. and the U.S. Fish and Wildlife Service, that sound resource management together with the fish hatchery’s restocking efforts has resulted in very substantial increases of fish, the Tribal Council may lift the ban on fishing for home use to Tribal members only.</text>
+        </para>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>To charter subordinate organizations for economic purposes, and to regulate the activities of cooperative associations of members of the Bad River Band of the Lake Superior Tribe of Chippewa Indians by ordinance, provided that any such ordinance shall be subject to review by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>To select delegates to sit in a National Council of the entire Chippewa Nation.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>To promulgate and enforce ordinances, which shall be subject to review by the Secretary of the Interior, governing the conduct of members of the Bad River Band, and of non-members of the Reservation providing for the maintenance of law and order; and for the administration of justice by establishing an Indian court and defining its duties and powers.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>To consolidate inherited land holdings by purchase, exchange, transfer, gift, or voluntary relinquishment, including the power to reassign same in the public interest.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>To exclude from the restricted lands of the reservation, persons not legally entitled to reside thereon, under ordinances which shall be subject to review by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>To regulate, by enactment of ordinances, the activities of hunting, fishing, ricing, trapping, boating, snowmobiling, and recreational vehicles by members and non-members within the exterior boundaries of the Bad River Reservation, as defined in <cite path="I|1">Article I – Section 1 of the Constitution</cite>, including the power to limit boat and motor sizes of members and non-members, to levy taxes or license fees upon members and non-members for such activities.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>To delegate to subordinate boards, or Tribal officials, or to cooperative associations, that are open to all members of the Tribe, any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated power.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>To bring suit in any State or Federal Court to enforce any of the· Band’s Tribal Ordinances.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>To enact ordinances governing the planning, zoning and other use regulating to all lands and water areas within the exterior boundaries of the Bad River Reservation regardless of land ownership.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>To authorize the Tribal Council to bring suit in any State or Federal Court to collect judgments or fines that are assessed against a defendant by the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>To regulate by enactment of ordinances the exercise of rights to hunt, fish, trap and gather within the lands described in <cite path="I|2">Article I, Section 2</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Any resolution or ordinance which, by the terms of the Constitution, is subject to review by the Secretary of the Interior, shall be presented to the Superintendent of the reservation, who shall, within ten (l0) days thereafter, approve or disapprove the same. If the Superintendent shall approve any ordinance or resolution, it shall thereupon become effective, but the Superintendent shall transmit a copy of the same bearing his endorsement, to the Secretary of the Interior, who may, within 90 days from the date of its enactment, rescind the said ordinance or resolution for any cause, by notifying the Tribal Council of such decision.</text>
+      <text>If the superintendent shall refuse to approve any resolution or ordinance submitted to him, within ten (10) days of its enactment, he shall advise the Tribal Council of his reasons therefore. If these reasons appear to the Tribal Council insufficient, it may, by a majority vote, refer the ordinance or resolution to the Secretary of the Interior, who may, within 90 days from the date of its enactment, approve the same in writing, whereupon the said ordinance or resolution shall become effective.</text>
+    </section>
+    <section>
+      <num>3</num>
+      <text>Future Powers. The Tribal Council may exercise such further powers as may in the future be delegated to the Band by The Secretary of the Interior, or by any duly authorized official or agency of the State or Federal Government.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <text>Reserved Powers. Any rights and powers heretofore vested in the Bad River Band, but not expressly referred to in this Constitution, shall not be abridged by the Article, but may be exercised by the people of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of Wisconsin through the adoption of appropriate Bylaws and Constitutional Amendments.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Referendum</heading>
+    <section>
+      <num>1</num>
+      <text>The exercise of any enumerated powers lodged in the Tribal Council shall be subject to a referendum vote of the people upon a written petition signed by not less than 25 percent of the total number of voters in the last general election, provided that not less than 30 percent of the eligible voters shall vote in any such referendum, a majority of those voting to decide the issue.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VIII</num>
+    <heading>Lands</heading>
+    <section>
+      <num>1</num>
+      <text>Allotted land, including heirship lands, within the Bad River Reservation shall continue to be held as heretofore by their present owners. It is recognized that under existing laws such lands may be condemned for public purposes. such as roads, public buildings, or other public improvements, upon payment of adequate compensation. It is further recognized that under existing laws such lands may be inherited by the heirs of the present owners, whether or not they are members of the Bad River Band of Lake Superior Tribe of Chippewa Indians. Likewise, it is recognized that under existing law the Secretary of Interior may, in his discretion, remove restriction upon such land, upon application by the Indian owner, whereupon the land will become subject to State tax and may then be mortgaged and sold. The right of the individual Indian to hold or to dispose of his land, as under existing law, shall not be abrogate by anything contained in this Constitution, but the owner of restricted land may, with the approval of the Secretary of the Interior, voluntarily convey his land to the Bad River Band of Lake Superior Tribe of Chippewa Indians either in exchange for money payment or in exchange for an assignment covering the same land or other land, as hereinafter provided.</text>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Tribal lands of the Bad River Reservation of the Lake Superior Tribe of Chippewa Indians and all lands which may hereafter be acquired by the Bad River Band or by the United States in trust forthe Bad River Band shall be held as Tribal lands, and no part of such lands shall be mortgaged or sold.</text>
+    </section>
+    <section>
+      <num>3</num>
+      <text>Tribal lands shall not be allotted to individual Indians, but such Tribal lands as are not required to school, agency, or other administrative use may be assigned by the Tribal Council to members of the Bad River Band of the Lake Superior Tribe of Chippewa Indians or may be leased or otherwise used by the Band as hereinafter provided.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <text>Tribal Lands may be leased by the Tribal Council with the approval of the Secretary of the Interior in accordance with law. Preference shall be given, first, to cooperative associations of members of the Band, and, secondly, to individual Indians who are members of the Band. No lease of Tribal lands to a non-member shall be made by the Tribal Council unless it shall appear that no cooperative association of member or individual member of the Band is able and willing to use the land to pay a reasonable fee for such use.</text>
+    </section>
+    <section>
+      <num>5</num>
+      <text>In any assignment of Tribal lands which are now owned by the Band, or which may hereafter be acquired for the Band by the United States or purchased by the Band out of Tribal funds, or which may be designated for the use of the Band, preference shall be given, first to heads of families which are entirely landless, and, second, to heads of families which have no allotted lands or interests in allotted lands, but shall have already received assignments in land of equal value, such economic unit to be determined by the Tribal Council by ordinances. Such assignments shall be known as "standard assignments."</text>
+      <text>No member of the Band who may hereafter have the restrictions upon his land removed, and whose land may thereafter be alienated, except to the Band, shall be entitled to receive an assignment of land as a landless Indian.</text>
+      <text>The Tribal Council may, if it sees fit, charge a fee on approval of a standard assignment.</text>
+    </section>
+    <section>
+      <num>6</num>
+      <text>If any person holding a standard assignment of land shall, for a period of one (1) year, fail to use the lands so assigned, or shall use the land for any unlawful purpose, his assignment may be cancelled by the Tribal Council after due notice and opportunity to be heard. Such land may then be available for reassignment.</text>
+      <text>Upon death of any Indian holding a standard assignment, his heirs or other individuals designated by him in writing shall have preference in the reassignment of land, provided such persons are eligible to receive a standard assignment.</text>
+    </section>
+    <section>
+      <num>7</num>
+      <text>Any member of the Bad River Band who owns an allotment of land or any share in heirship land or any deeded land, may with the approval of the Secretary of the Interior, voluntarily transfer his interest in such land, to the Band and receive therefore an assignment in the same land or other land of equal value or he may receive a proportionate share in a unit of agricultural or other lands.</text>
+      <text>Assignments made under this section shall be known as "exchange assignments."</text>
+    </section>
+    <section>
+      <num>8</num>
+      <text>Exchange assignments may be used by the assignee or leased to him to cooperative associations of members of the Band, to individual members of the Band, or if no individual member or cooperative association of members is able and willing to rent the land at a reasonable fee, such assignments may be leased to non-Indians, in the same manner as allotted lands.</text>
+    </section>
+    <section>
+      <num>9</num>
+      <text>Upon death of a holder of an exchange assignment such lands shall be reassigned by the Tribal Council to his heirs or devisees, subject to the following conditions:</text>
+      <para>
+        <num>(a)</num>
+        <text>Such lands may not be reassigned to any heir or devisee who is not a member of the Bad River Band, except that a Iife assignment may be made to the surviving spouse or child of the holder of such assignment.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Such lands may not be reassigned to any heir or devisee who already owns or hold more than an economic unit of land.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Such lands may not be subdivided among heirs or devisees into units too small for convenient management, and no assignment shall be subdivided into units smaller than two and one-half (2½) acres, except that land used for buildings or other improvements may be divided to suit the convenience of the parties. Where it is impossible to divide the land properly among the eligible heirs or devisees, the Tribal Council may issue to the eligible heirs or devisees interests in Tribal lands or property of the same value as the assignment of the decedent.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If there are no eligible heirs or devisees of the decedent, the land shall be eligible for assignment of the same as other Tribal land.</text>
+      </para>
+    </section>
+    <section>
+      <num>10</num>
+      <text>Improvements of any character made upon assigned land may be willed to and inherited by members of the Bad River Band. When improvements are not possible of fair division, the Tribal Council shall dispose of them under such regulations as it may provide, for the benefit of such heirs. No permanent improvements may be removed from any Tribal or assigned land without the consent of the Tribal Council.</text>
+    </section>
+    <section>
+      <num>11</num>
+      <text>No member of the Bad River Band may use or occupy Tribal lands except under an assignment or lease.</text>
+    </section>
+    <section>
+      <num>12</num>
+      <text>Tribal land which is not assigned, including tribal timber reserves, shall be managed by the Tribal Council for the benefit of the members of the entire Band, and any cash income derived from such land shall accrue to the benefit of the Band as a whole. All action of the Tribal Council with respect to such lands shall be in conformity with Departmental regulations for protection of Indian range and timber resources authorized by Section 6, of the Act of June 18, 1934.</text>
+    </section>
+    <section>
+      <num>13</num>
+      <text>Tribal funds may be used, with the consent of the Secretary of the Interior, to acquire land for the Bad River Band.</text>
+    </section>
+    <section>
+      <num>14</num>
+      <text>Applications for assignment of land shall be made in writing. Such applications shall be submitted to the Tribal Council at regular or special sessions. The application shall be placed in the hands of a proper committee who shall call the matter up for action at the next regular meeting of the Tribal Council. Any member of the Band may object in writing to a proposed assignment. In the event of objection, the Chairman of the Tribal Council shall set a date for hearing, advising both the applicant and the objector. The action of the Tribal Council shall be final.</text>
+      <text>The Secretary of the Council shall furnish the Superintendent or other officer-in-charge of the agency a complete record of all action taken by the Tribal Council on application for assignment of land, and a complete record of assignments shall be kept in the agency office and shall be open for inspection by members of the Band.</text>
+      <text>The Tribal Council shall draw up one or more forms for standard and exchange assignments, which shall be subject to the approval of the Secretary of the Interior.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IX</num>
+    <heading>Amendments</heading>
+    <section>
+      <num>1</num>
+      <text>This Constitution and Bylaws may be amended by a majority vote of the qualified voters of the Bad River Band of the Lake Superior Tribe of Chippewa Indians voting at an election called for that purpose by the Secretary of the Interior; PROVIDED, that at least thirty (30) percent of those entitled to vote shall vote in such election; but no amendment shall become effective until it shall have been approved by the Secretary of the Interior. It shall be the duty of the Secretary of the Interior to call an election on any proposed amendment, upon receipt of a written resolution signed by at least five (5) members of the Tribal Council.</text>
+    </section>
+  </container>
+  <procedural-data>
+    <text>I, Harold L. Ickes, the Secretary of the Interior of the United States of America, by virtue of the authority granted me by the Act of June 18, 1934, (48 Stat. 984), as amended, do hereby approve the attached Constitution and Bylaws of the Bad River Band of the Lake Superior Chippewa Indians of the Bad River Reservation.</text>
+    <text>All rules and regulations heretofore promulgated by the Interior Department or by the Office of Indian Affairs, so far as they may be incompatible with any of the provisions of the said Constitution or Bylaws are hereby declared inapplicable to the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+    <text>All officers and employees of the Interior Department are ordered to abide by the provisions of the said Constitution and Bylaws.</text>
+    <text>
+      <strong>Approval recommended June 12, 1936.</strong>
+    </text>
+    <text>s/John Collier, Commission of Indian Affairs</text>
+    <text>s/Harold L. Ickes, Secretary of the Interior</text>
+    <text>Washington. D.C. June 20, 1936</text>
+    <text>This Constitution and Bylaws includes the following amendments:</text>
+    <text>Amendment I – Approved December 1, 1942</text>
+    <text>Amendment II – Approved October 31, 1944</text>
+    <text>Amendment III through XII – Approved April 25, 1977</text>
+    <text>Amendment XIII through XXVIII – Approved March 8, 1978</text>
+  </procedural-data>
+</document>

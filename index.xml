@@ -16,13 +16,19 @@
     <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="badriver-nsn/law-xml" commit="c3da631de0ddc0e53c548d7aa339c71f61373ed1"/>
+        <repository name="badriver-nsn/law-xml" commit="b22fe2a74c88b3f7f7bfa9d10edcb90fb8a5bd4a"/>
       </repositories>
       <platform version="2.13.0" reproducible="false"/>
-      <build-date>2024-02-12</build-date>
+      <build-date>2024-02-13</build-date>
       <codified-date>2020-08-06</codified-date>
     </build>
   </meta>
+  <collection name="us/nsn/badriver/council/constitution-and-bylaws">
+    <heading>Constitution and Bylaws</heading>
+    <xi:include href="./us/nsn/badriver/council/constitution.xml"/>
+    <xi:include href="./us/nsn/badriver/council/bylaws.xml"/>
+  </collection>
+  <xi:include href="./us/nsn/badriver/council/charter.xml"/>
   <xi:include href="./us/nsn/badriver/council/code/index.xml"/>
   <collection name="us/nsn/badriver/council/resolutions">
     <heading>Council Resolutions</heading>

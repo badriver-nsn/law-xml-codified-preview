@@ -206,7 +206,7 @@
     <section>
       <num>1.04.010</num>
       <text>Any person over the age of 30 who is generally knowledgeable in the laws applicable upon the Bad River Reservation shall be eligible for appointment as judge.</text>
-      <annotations>
+      <annotations id="test_anno">
         <annotation type="Prior Codifications">§1.04.010 was formerly codified as 104.1</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-6-91-167"/>
       </annotations>
