@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03">
+  <num>2-13-24-03</num>
+  <heading>ADOPTING THE BAD RIVER BAND OF LAKE SUPERIOR CHIPPEWA INDIANS LAW LIBRARY</heading>
+  <meta>
+    <effective>2024-02-13</effective>
+    <history>
+      <adopted>2024-02-13</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2-13-24-03.pdf">Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-13-24-03</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Bad River Band of Lake Superior Band of Chippewa Indians (hereinafter “the Band”) is a federally recognized Indian Band with a Constitution enacted pursuant to the Indian Reorganization Act of 1934, 25 U.S.C. Section 5123; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1">Article VI</cite> Section <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(m)">1(m)</cite> and <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(n)">1(n)</cite> of the <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin">Bad River Tribal Constitution</cite> the Bad River Tribal Council exercise the following powers (1) to adopt resolutions regulating the procedure of the Tribal Council itself and other Tribal agencies and Tribal officials; and (2) the primary responsibility for protecting and advancing the well – being of the Band's members through ensuing and fostering the arts, crafts, traditions, culture, wildlife, and natural resources of the Band; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for the opportunity of community members and governmental operations and economic opportunity and activity, and to protecting and advance the natural resources of the Band, the Band desires to publish its resolutions and other laws of general applicability on the Internet; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Band has, through its legal services, worked with Open Law Library ("OLL") to recodify the Band's resolutions and code and publish them in a new electronic tribal law library at <a href="https://law.badriver-nsn.gov">https://law.badriver-nsn.gov</a>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the work recodifying the Band's resolutions and code, ensuring that the published code is:</text>
+      <para>
+        <num>(a)</num>
+        <text>Preservable - All published laws will be maintained in a manner that meets or exceeds all requirements for level 2 preservation as specified by the National Digital Stewardship Alliance,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authenticatable - All published laws will be authenticatable as the official laws of the Band. Authentication will use Open Law Library certificates, and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Accessible - All published laws will be available to the public through OLL or the Band indefinitely.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Band, as part of establishing its new online Bad River Band of the Lake Superior Chippewa Indians Law Library, intends to recodify its resolutions and code as the Bad River Band of the Lake Superior Chippewa Indians Tribal Code. This codification includes reorganizing and renumbering prior resolutions and codes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Band wishes to make the Bad River Band of the Lake Superior Chippewa Indians Tribal Code the official version of the Band's resolutions.</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Band:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>(1)</num>
+    <heading>Recodification</heading>
+    <para>
+      <num>(a)</num>
+      <text>hereby codifies its current resolutions and code as the Bad River Band of the Lake Superior Chippewa Indians Tribal Code; and</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>this codification reorganizes and consolidates the existing tribal resolutions and code by subject area into titles and chapters. Tribal resolutions shall be reorganized, and renumbered appropriately, into the following Titles:</text>
+      <text>
+        <ul>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="1">Title 1 – Tribal Court Code</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="3">Title 3 – Conservation</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="4">Title 4 – Property Code</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="8">Title 8 – Membership</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="9">Title 9 – Contract Code</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="10">Title 10 – Policies and Procedures</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="11">Title 11 – Workers Compensation</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="13">Title 13 – Business Organizations</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="14">Title 14 – Vehicles</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="15">Title 15 – Motor Vehicle Licensing</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="16">Title 16 – Fireworks</cite>
+          </li>
+          <li>
+            <cite doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" path="17">Title 17 – Repatriation Committee</cite>
+          </li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>As part of this recodification, the Tribal Governing Board authorized administrative corrections to replace inaccurate citations and references within the individual resolutions and codes, update renumbering within and between ordinances, correct typos, and make other similar minor changes that do not change the substantive content of the ordinances and codes that are part of the Tribal Code. All such corrections are included as Attachment 1.</text>
+    </para>
+  </section>
+  <section>
+    <num>(2)</num>
+    <heading>Official Version</heading>
+    <text>The electronic version of the Bad River Band of the Lake Superior Chippewa Indians Tribal Code, which is published online using OLL software and which is part of the online Bad River Band of the Lake Superior Chippewa Indians Law Library, shall be the official version of such code. Additionally, this Bad River Band of the Lake Superior Chippewa Indians Tribal Code, shall be in the public domain.</text>
+  </section>
+  <section>
+    <num>(3)</num>
+    <heading>Enactment and Effective Date</heading>
+    <text>The Band hereby enacts the Bad River Band of the Lake Superior Chippewa Indians Tribal Code, which shall become effective on February 14, 2024.</text>
+  </section>
+  <procedural-data>
+    <text class="center">
+      <u>CERTIFICATION</u>
+    </text>
+    <text>I, the undersigned, as Secretary of the Bad River Band of the Lake Superior Band of Chippewa Indians, an Indian Band organized under Section 16 of the Indian Reorganization Act, hereby certifies that the Tribal Council is composed of seven members, of whom <strong><u>6</u></strong> members, constituting a quorum were present at a meeting hereof duly called, noticed, convened, and held on the <strong><u>13 day of February, 2024</u></strong>; that the foregoing resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong>members; <strong><u>0</u></strong>against; and <strong><u>0</u></strong> abstaining, and that the said resolution has not been rescinded or amended.</text>
+    <text>_________________________</text>
+    <text>Liz Arbuckle, Acting Secretary</text>
+  </procedural-data>
+</document>
