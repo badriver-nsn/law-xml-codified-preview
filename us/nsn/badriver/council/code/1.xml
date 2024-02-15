@@ -10,7 +10,7 @@
     <section>
       <num>1.01.010</num>
       <heading>Authority</heading>
-      <text>This Tribal Court Code shall become effective when adopted by resolution of the Bad River Tribal Council pursuant to the inherent authority vested in the Bad River Band of the Lake Superior Tribe of Chippewa Indians, retained and acknowledged by the Constitution of the Band adopted pursuant to the Indian Reorganization Act of June 18, 1934 (48 Stat. 984) as amended and shall apply to all members, and provided herein to non-members who, through either their residence, presence, business dealings, other actions or contact with the Band or other significant contracts with the Band and or its residents, commit criminal offenses in violation of the laws of the Band or incur civil obligations to persons or entities entitled to the protection of laws of the Band.</text>
+      <text>This Tribal Court Code shall become effective when adopted by resolution of the Bad River Tribal Council pursuant to the inherent authority vested in the Bad River Band of the Lake Superior Tribe of Chippewa Indians, retained and acknowledged by the <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin">Constitution of the Band</cite> adopted pursuant to the Indian Reorganization Act of June 18, 1934 (48 Stat. 984) as amended and shall apply to all members, and provided herein to non-members who, through either their residence, presence, business dealings, other actions or contact with the Band or other significant contracts with the Band and or its residents, commit criminal offenses in violation of the laws of the Band or incur civil obligations to persons or entities entitled to the protection of laws of the Band.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.01.010 was formerly codified as 101.1</annotation>
       </annotations>
@@ -42,7 +42,7 @@
     <section>
       <num>1.01.050</num>
       <heading>Future Amendments of the Court Code</heading>
-      <text>This Court Code may be amended by ordinance of the Tribal Council and any amendments adopted shall be effective and become part of this Code as provided in the amending ordinance, subject however to review by the Secretary of the Interior as provided in Article VI, Sec. 1(g) of the Bad River Tribal Constitution.</text>
+      <text>This Court Code may be amended by ordinance of the Tribal Council and any amendments adopted shall be effective and become part of this Code as provided in the amending ordinance, subject however to review by the Secretary of the Interior as provided in <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(g)">Article VI, Sec. 1(g) of the Bad River Tribal Constitution</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.01.050 was formerly codified as 101.5</annotation>
       </annotations>
@@ -206,7 +206,7 @@
     <section>
       <num>1.04.010</num>
       <text>Any person over the age of 30 who is generally knowledgeable in the laws applicable upon the Bad River Reservation shall be eligible for appointment as judge.</text>
-      <annotations id="test_anno">
+      <annotations>
         <annotation type="Prior Codifications">§1.04.010 was formerly codified as 104.1</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 2-6-91-167"/>
       </annotations>
@@ -370,7 +370,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>All alleged violations of ordinances duly in effect pertaining to hunting, fishing, trapping or gathering by members in the territory described in Article I, Section 2 of the Bad River Constitution.</text>
+          <text>All alleged violations of ordinances duly in effect pertaining to hunting, fishing, trapping or gathering by members in the territory described in <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="I|2">Article I, Section 2 of the Bad River Constitution</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1121,7 +1121,7 @@
     <section>
       <num>1.21.020</num>
       <heading>Authority</heading>
-      <text><cite path="1|1.21">This chapter</cite> is adopted pursuant to Art. VI, Sec. 1(q), of the Constitution of the Tribe.</text>
+      <text><cite path="1|1.21">This chapter</cite> is adopted pursuant to <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(q)">Art. VI, Sec. 1(q)</cite>, of the Constitution of the Tribe.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.020 was formerly codified as 121.2</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-22-88-148"/>
@@ -2940,7 +2940,7 @@
     <section>
       <num>1.25.020</num>
       <heading>Authority</heading>
-      <text><cite path="1|1.25">This chapter</cite> is created under art. VI, sec. (1), Bad River Constitution.</text>
+      <text><cite path="1|1.25">This chapter</cite> is created under <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1">art. VI, sec. (1), Bad River Constitution</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.25.020 was formerly codified as 125.02</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
@@ -5408,7 +5408,7 @@
     <section>
       <num>1.28.010</num>
       <heading>Jurisdiction in Tribal Court</heading>
-      <text>Pursuant to the Bad River Tribal Constitution, Article VI Sections 1 (j) and (q), the Tribal Court shall have jurisdiction over all petitions for adult guardianship. A guardianship of the estate of any adult person, once granted shall extend to wherever any of his or her assets, whatever the nature, are located.</text>
+      <text>Pursuant to the <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin">Bad River Tribal Constitution</cite>, Article VI Sections 1 <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(j)">(j)</cite> and <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(q)">(q)</cite>, the Tribal Court shall have jurisdiction over all petitions for adult guardianship. A guardianship of the estate of any adult person, once granted shall extend to wherever any of his or her assets, whatever the nature, are located.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.28.010 was formerly codified as 128.01</annotation>
       </annotations>
@@ -6516,15 +6516,15 @@
         <heading>Authority</heading>
         <para>
           <num>(a)</num>
-          <text>Article VI, Section 1 (k) of the Bad River Tribal Constitution authorizes the Tribal Council to regulate the inheritance of property, real and personal, other than allotted lands within the territory of the Bad River Reservation, subject to review by the Secretary of the Interior.</text>
+          <text><cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(k)">Article VI, Section 1 (k) of the Bad River Tribal Constitution</cite> authorizes the Tribal Council to regulate the inheritance of property, real and personal, other than allotted lands within the territory of the Bad River Reservation, subject to review by the Secretary of the Interior.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Article VI, Section 1 (q) of the Bad River Constitution authorizes the Tribal Council to promulgate and enforce ordinances which shall be subject to review by the Secretary of the Interior, governing the conduct of members of the Bad River Band, and of non-members of the Reservation providing for the maintenance of law and order; and for the administration of justice by establishing an Indian court and defining its duties and powers.</text>
+          <text><cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(q)">Article VI, Section 1 (q) of the Bad River Constitution</cite> authorizes the Tribal Council to promulgate and enforce ordinances which shall be subject to review by the Secretary of the Interior, governing the conduct of members of the Bad River Band, and of non-members of the Reservation providing for the maintenance of law and order; and for the administration of justice by establishing an Indian court and defining its duties and powers.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Article VI, Section 1(r) of the Bad River Tribal Constitution authorizes the Tribal Council to consolidate inherited land holdings by purchase, exchange, transfer, gift, or voluntary relinquishment, including the power to reassign same in the public interest.</text>
+          <text><cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(r)">Article VI, Section 1(r) of the Bad River Tribal Constitution</cite> authorizes the Tribal Council to consolidate inherited land holdings by purchase, exchange, transfer, gift, or voluntary relinquishment, including the power to reassign same in the public interest.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -7981,7 +7981,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Authority. This code is enacted pursuant to Article VI, Section 1(q) of the Bad River Tribal Constitution.</text>
+        <text>Authority. This code is enacted pursuant to <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(q)">Article VI, Section 1(q) of the Bad River Tribal Constitution</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -8127,7 +8127,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Authority. This code is enacted pursuant to Article VI, Section 1(q) of the Bad River Tribal Constitution.</text>
+        <text>Authority. This code is enacted pursuant to <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(q)">Article VI, Section 1(q) of the Bad River Tribal Constitution</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -8192,7 +8192,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"School Attendance Officer" means an employee designated by a school board under the Bad River Tribal Constitution, Lac Courte Oreilles Tribal Constitution or Wis. Stat. Sec. 118.16 to deal with matters relating to school attendance and truancy.</text>
+        <text>"School Attendance Officer" means an employee designated by a school board under the <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin">Bad River Tribal Constitution</cite>, Lac Courte Oreilles Tribal Constitution or Wis. Stat. Sec. 118.16 to deal with matters relating to school attendance and truancy.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -8452,7 +8452,7 @@
       <heading>Jurisdiction &amp; Civil Nature of This Code</heading>
       <para>
         <num>(a)</num>
-        <text>Jurisdiction &amp; Authority to Enact This Code. This Code is adopted pursuant to Article VI, section 1(q) of the Bad River Band's Constitution and pursuant to an exercise of this Tribe's inherent sovereign authority.</text>
+        <text>Jurisdiction &amp; Authority to Enact This Code. This Code is adopted pursuant to <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(q)">Article VI, section 1(q) of the Bad River Band's Constitution</cite> and pursuant to an exercise of this Tribe's inherent sovereign authority.</text>
       </para>
       <para>
         <num>(b)</num>
