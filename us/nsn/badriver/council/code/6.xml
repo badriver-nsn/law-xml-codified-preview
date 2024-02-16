@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>6</num>
+  <heading>Membership</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.01</num>
+    <heading>Membership</heading>
+    <section>
+      <num>6.01.010</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Application" means the original application filed with the Enrollment Office including a carbonless copy which will be deemed the receipt.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Certified copy" means a copy of an official record or report or entry therein, or of a document authorized by law to be recorded or filed and actually recorded in a public office (including federal, tribal, state, and local government agencies), and certified as correct by the custodian or other person authorized to make the certification.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Committee" shall mean the Membership Committee created by this chapter.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Enrollment Clerk" means the employee or employees of the Tribe, whatever their current job title, designated to maintain the Tribe's membership records and to provide staff support to the Committee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Member" shall mean a member of the Committee, unless the context indicates that the reference is to member of the Tribe.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Tribal Council" means the Tribal Council of the Tribe.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Tribe" means the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.010 was formerly codified as 601.01</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.020</num>
+      <heading>Qualifications for Membership Committee Members</heading>
+      <text>Committee members shall meet the following qualifications:</text>
+      <para>
+        <num>(a)</num>
+        <text>Member of the Bad River Band of Lake Superior Tribe of Chippewa Indians;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>At least 21 years of age;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Resident of the Bad River Reservation for at least one year prior to Committee membership and knowledge of the history of the Bad River Band;
+                </text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Committee members shall not be Tribal Council members, Bad River Tribal Court judges, employees of the Enrollment Office, Legal Department or Tribal Court.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.020 was formerly codified as 601.02</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.030</num>
+      <heading>Powers and Duties of Committee</heading>
+      <text>The Committee shall have the following powers and duties:</text>
+      <para>
+        <num>(a)</num>
+        <text>To maintain custody of all of the membership applications and supporting evidence, and all related documentation, correspondence and collateral records related to membership.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To review applications for membership in the Tribe, and to make recommendations to the Tribal Council on such applications.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To request and receive records of the Bureau of Indian Affairs to determine eligibility for membership.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To recommend to the Tribal Council disenrollment as provided by this chapter.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To advise the Tribal Council on matters related to membership and enrollment.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>To delegate to the enrollment clerk the ministerial duties of the Committee as the Committee chooses to delegate.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>All actions of the Committee are subject to review by the Tribal Council as provided herein, the decision of which shall in all matters be final and conclusive.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.030 was formerly codified as 601.03</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.040</num>
+      <heading>Powers and Duties of Enrollment Clerk</heading>
+      <text>The enrollment clerk and assistant shall have the following powers and duties:</text>
+      <para>
+        <num>(a)</num>
+        <text>To protect and maintain the records that are in the custody of the Committee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To accept and process applications for enrollment in the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To certify eligibility for entitlements and benefits based on tribal membership. </text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To perform the ministerial duties of the Committee as delegated.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To advise the Committee and the Tribal Council on matters related to membership and enrollment.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Such other duties as assigned by <cite path="6.01">this chapter</cite> or by job description.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The acts of the Enrollment Clerk shall be reviewable as provided by the Tribe's Personnel Policies.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The names of all applicants whose applications have been processed and the disposition thereof shall be entered on a master log, which shall be typed up on the first regular working day following Committee screening session and which shall be kept by the Enrollment Clerk who shall keep the master log locked in the file cabinet when not in use.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.040 was formerly codified as 601.04</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-10-00-413"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.050</num>
+      <heading>Committee Structure</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Committee shall be composed of seven members appointed by the Tribal Council, each of whom shall serve a term of two years, and be eligible for reappointment.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council shall appoint from the seven members a Chairperson. The members among themselves shall select a vice-chairperson, who shall have all of the powers and duties of chairperson in his or her absence and a secretary, who shall keep the minutes of all committee meetings. All Committee members shall be deemed researchers.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each Committee member shall take an oath of office, which shall include an oath to keep all information he or she obtains by virtue of the office secret and confidential.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Committee shall meet regularly on the first Tuesday of each month, or such other day as established by the Committee, but no less frequently than once per month. The Committee may also hold special meetings as required. A quorum of four shall be necessary for the transaction of business. </text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any member who is absent, with or without excuse from two consecutive regular Committee meetings will be deemed to have resigned and will be considered automatically removed. No further action will be required to treat the seat of such member vacant. The Committee, or a member designated by those remaining on the Committee, shall report such vacancy to the Tribal Chairman within five days of its occurrence.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Any member who is convicted of a felony or misdemeanor involving dishonesty in any state, federal, or tribal court shall be subject to removal from the Committee by a vote of four members. The Committee, or a member designated by those remaining on the Committee, shall report such removal to the Tribal Chairman within five days of the removal.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Any member who has violated his or her oath of office may be removed by the Committee by a vote of four members. Upon an allegation of such breach being lodged with the Committee, the Chairperson shall call a meeting of the Committee to be held within five days to determine if the evidence warrants removal. If the Chairperson is alleged to have violated the oath, the Vice-Chairperson shall call the meeting. If both the Chairperson and Vice-Chairperson are alleged to have violated the oath, or if the Vice-Chairperson is unavailable, any member may call the meeting. The challenged member shall have the opportunity to be heard. If the challenged member does not contest the allegations, or if he or she does not appear at the meeting, he or she shall be considered automatically removed. The Committee, or a member designated by the remaining members of the Committee, shall report any removal under this section to the Tribal Chairman within five days of such removal.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Any decision on removal of a Committee member taken under subsection (f) or (g) may be appealed to the Tribal Council by an aggrieved party. "Aggrieved party" in this section shall mean, in the case of a vote to remove, the member so removed; in the case of a vote not to remove, shall mean the person or persons instituting the complaint against the member. Any such appeal must be filed by providing written notice thereof to the Tribal Chairperson and to the Committee within five days of the action appealed from.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Each Committee member shall receive a stipend of $25.00 for each Committee meeting attended and the Committee Secretary shall receive a stipend of $35.00.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.050 was formerly codified as 601.05</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.060</num>
+      <heading>Screening of Application</heading>
+      <para>
+        <num>(a)</num>
+        <text>All persons applying for membership in the Tribe must complete an "Application for Enrollment" on the form provided by the Enrollment Clerk, and must attach to such form all documentary evidence offered as proof of eligibility for enrollment. The original of the application for enrollment must be submitted in person by the applicant to the Enrollment Clerk's office, and must be signed and dated in the presence of the Enrollment Clerk. In the case of an applicant who is under the age of eighteen (18), the application for enrollment must be submitted and signed by the applicant's parent or legal guardian, who must display proof of parenthood or legal guardianship at the time the application is submitted to the Enrollment Clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All applications for enrollment must include the social security number of the applicant, with the exception of newborns.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each application submitted in compliance with this Chapter shall be stamped by the Enrollment Clerk to reflect the date of submittal. The date indicated by the Enrollment Clerk's stamp will serve as the official date of the application, regardless of any other date(s) which may otherwise appear on the application. An individual may request a copy of their application at this time. </text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Screening of applications shall be done only when the Committee is in session at which a quorum is present, for the express purpose of processing applications and confirming those lineal descendants who meet the requirements for membership under the <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin">Tribal Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To ensure that uniform action is taken on all applications, each application shall be screened by each member seated present. To prevent any dispute from arising at a later date, each member shall initial each application after screening. To further ensure accuracy in the screening of applications, each member shall enter the name of the applicant and the disposition of his or her application on a personal log which the member shall keep at all times. Dispositions shall be "recommended for inclusion on adoption ballot" or "not recommended for inclusion on adoption ballot."</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The names of all applicants whose applications have been processed and the disposition thereof shall be entered by the Enrollment Clerk on a master log, which shall be typed up on the first regular working day following a Committee screening session and which shall be kept by the Enrollment Clerk who shall keep the master log locked in the file cabinet when not in use. </text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>To ensure continued accuracy, the master log shall be compared to the member's private log periodically, and any discrepancies shall be resolved when discovered.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>When application is complete and accurate and meets the requirements for adoption, the applicant's name shall be included on the list of those individuals recommended to the Tribal Council for inclusion on the adoption ballot.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Deadlines. The following deadlines shall be observed in the processing of applications for adoption to membership under <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="II|4">Art. II, Sec. (4), Bad River Constitution</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>All applications for adoption to be considered at the regular election of any year must be submitted and complete no later than the date in May six months before the first Tuesday following the first Monday of November of that year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Committee shall report to the Tribal Council at its regular meeting in June of each year the number of applications that were submitted and complete by the deadline stated in subsection (i)(1) for that year.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Committee shall report to the Tribal Council at its regular meeting in August the list of names of individuals recommended for inclusion on the adoption ballot at the regular election for that year. At the same time, the Committee shall report to the Tribal Council the list of names of individuals not recommended for inclusion on the ballot. The two lists shall together include the names of all individuals who submitted completed applications by the deadline stated in subsection (i)(1) for that year.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the Enrollment Clerk shall post the list of names approved by the Tribal Council for inclusion on the election ballot no less than sixty days prior to the election.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Prior to February 1 of each year the Committee shall post the calendar dates for that year that correspond to the deadlines set by subsections (i)(1) through (5).</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Enrollment Clerk shall notify, by certified mail addressed to the individual's last known address, each individual whose name appears on the list submitted to the Tribal Council of names not recommended for inclusion on the adoption ballot. Such notification shall be mailed no later than the date specified in subsection (i)(3). Any individual may appeal the Committee's recommendation, and seek Tribal Council inclusion on the adoption ballot, by filing a written notice of such appeal with both the Membership Committee and the Tribal Council. The individual shall be allowed to appear at any Tribal Council meeting scheduled prior to the deadline specified in subsection (i)(4) and present his or her case for Tribal Council decision. If no Tribal Council meeting is scheduled prior to the deadline specified in subsection (i)(4), the individual may demand the scheduling of a meeting upon payment of a meeting fee equal to the sum of the meeting stipends to which the Council members would be entitled for attending the meeting. The individual may, in the alternative, demand to be heard at a later scheduled meeting, in which case if the Tribal Council finds in the individual's favor his or her name will be placed on the adoption ballot for the subsequent year.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The purpose of this section is to regularize the processing of applications for adoption. It does not confer upon any applicant for adoption any rights or expectation of membership.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Applicants who are not voted into membership through the election process must reapply in order to be considered for membership on a subsequent election ballot.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.060 was formerly codified as 601.06</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.070</num>
+      <heading>Proof of Eligibility</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any individual who demonstrates to the satisfaction of the Committee lineal descent from a tribal member whose name appears on the Basic Membership Roll, as provided in <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="II">Art. II, of the Tribal Constitution</cite>, shall be eligible for recommendation for inclusion on an adoption ballot for purposes of enrollment into the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The burden of proof rests upon the applicant to establish his or her eligibility for inclusion on an adoption ballot. Documentary evidence of eligibility includes but is not limited to birth certificates, death certificates, baptismal records, copies of probate findings, affidavits and records of the Bureau of Indian Affairs. The Committee shall determine the weight and sufficiency of any documentary evidence used to establish eligibility and may require the production of additional evidence if the Committee determines that the evidence submitted is insufficient to establish eligibility. If an applicant fails to respond to the Committee's request for additional evidence within thirty (30) days, the Committee may refuse to recommend that application for approval to the Tribal Council. In addition, where the Committee determines that the documentary evidence provided in support of an application for enrollment is insufficient to establish eligibility for enrollment, the Committee may require an evidentiary hearing on the issue of eligibility. The Enrollment Clerk shall inform the applicant of the need for an evidentiary hearing by written notice, which notice shall also inform the applicant of the date, time and location of the hearing. The applicant may request that the hearing be rescheduled; any such request must be made within two weeks of the applicant's receipt of the notice hearing. The applicant and all witnesses in support of the application for enrollment must appear in person at any such evidentiary hearing. All testimony given shall be sworn. The Committee shall determine the weight and sufficiency of all evidence offered by the applicant to establish eligibility for enrollment and require as evidence of lineal descent that the applicant submit to blood or Deoxyribonucleic acid [DNA] testing. DNA testing shall only recognized if performed at a bona fide laboratory employing current standards issued by either the "Technical Working Group on DNA Analysis Methods" [TWGDAM] associated with the "California Association of Criminalist Ad Hoc Committee on DNA Quality Assurance" or the "American Society of Crime Laboratory Directors" [ASCLD]. Applicants shall pay for any and all testing required. Submission of DNA evidence of lineal descent shall occur by the following manner and method:</text>
+        <para>
+          <num>(1)</num>
+          <text>A DNA sample of a known living Bad River tribal member purported to be a blood relative shall be compared to that of the applicant using the Restriction Fragment Length Polymorphism [RFLP] method of DNA analysis. Compared subjects may be considered of the same lineal descent of a person appearing on the basic membership roll of the Bad River Tribe, if the compared DNA samples of the applicant and known member are of such similar genotype that the scientific community generally accepts the comparison to be so unique that the applicant is of the direct issue of the known member, i.e., either mother/father and child, or grandmother/grandfather and grandchild, etc. Comparisons which indicate that a known member is a collateral relative such as an aunt, uncle, brother or sister, etc., is not in and of itself evidence of lineal descent from a person appearing on the basic membership roll of the Bad River Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In no case shall a known member be compelled to submit a DNA sample or be otherwise ordered to submit a sample under this ordinance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Notwithstanding DNA evidence submissions, all other requirements of this chapter shall be met when determining eligibility for membership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The applicant shall complete a family tree showing lineal descent from a member whose name appears on the Basic Membership Roll. If the applicant is unable to complete the family tree, the applicant may request the Enrollment Clerk to do so, in which case the applicant shall pay for the actual time and costs incurred by the Enrollment Clerk in completing the family tree. The applicant shall make advance payment of $25.00 with the Enrollment Clerk for the estimated total expenses of completing the family tree, prior to the Enrollment Clerk undertaking any work thereon. The Enrollment Clerk shall keep accurate contemporaneous time and expense records for all work undertaken on each family tree, and shall prepare a regular statement for the applicant thereon. Upon exhaustion of the initial payment, the Enrollment Clerk shall require an additional payment to continue work.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Only originals or certified copies of documents submitted as proof of eligibility will be accepted as evidence by the Enrollment Office.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Enrollment Office shall retain all documents that are submitted, unless the applicant requests that the documents be returned to the applicant, in which event a copy of the submitted documents shall be retained by the Enrollment Office.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Tribe shall have sole ownership of all Tribal Membership documents retained by and in the custody of the Committee.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Individuals of Indian blood of other tribes, and of no Indian blood, who claim lineal descendancy through a person who has been legally adopted by a lineal descendant, are not eligible for enrollment, except that individuals of Bad River Indian blood shall be eligible for adoption to membership under <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="II|4">Article II, Section (4) of the Bad River Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Each applicant shall be required to disclose whether he or she claims descendancy through any person who has been legally adopted. Applicants who so claim must indicate whether their biological descent is of Bad River Chippewa blood, blood of another tribe, or no Indian blood.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.070 was formerly codified as 601.07</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.080</num>
+      <heading>Newborns</heading>
+      <text>Newborns, one or both of whose parents are tribal members, may be enrolled by a parent or legal guardian by completing an application form provided for that purpose and filing it with the Committee no later than sixty days after the date of birth of the newborn.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.080 was formerly codified as 601.08</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.090</num>
+      <heading>Records and Files</heading>
+      <para>
+        <num>(a)</num>
+        <text>Membership applications and supporting evidence, and all related documentation, correspondence, and collateral records related to membership shall be kept secure at all times, except when necessary for the conduct of business of the Committee or of the Enrollment Clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person other than the Committee and Enrollment Clerk in the course of their official business shall have access to any membership file other than his or her own and that of his or her minor children or wards, except that a member may authorize in writing another person to have access to his or her file and that of any of his or her minor children or wards.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any person may obtain a copy of documents in his or her file, or that of his or her minor child or ward, at a charge of twenty five (.25) cents per page to cover the cost of copying documents.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The following information shall be deemed public information: the names of members, their sex, date of birth, date of death, roll number, allotment number through which member is enrolled and last known address. Upon request, membership lists showing this information may be made available to candidates for tribal political office upon payment of a charge set to reflect the cost of preparing and copying the list.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.090 was formerly codified as 601.09</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+    <section>
+      <num>6.01.100</num>
+      <heading>Disenrollment</heading>
+      <para>
+        <num>(a)</num>
+        <text>Grounds for Disenrollment. Any tribal member may be disenrolled from membership in the Tribe upon proof of the following; and in accordance with the procedures for disenrollment set forth below:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person whose membership is based on false material information contained in his or her application, or who withheld material information in making his or her application for enrollment, shall be removed from the membership rolls. </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person whose membership is based on false information given by another person, or whose membership is based on another person's withholding of material information in making the application for enrollment, shall be removed from the rolls.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No member may be enrolled in the Tribe who is also enrolled in another tribe. Any member who is alleged to be enrolled in another tribe may be required to furnish proof that he is not so enrolled. Any person who fails to furnish such proof shall be removed from the membership rolls.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Disenrollment Proceedings. Disenrollment proceedings shall be governed by the following procedures:</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon receipt of any evidence that a tribal member should be subjected to disenrollment proceedings, the Committee shall discuss the matter at the next scheduled meeting, and shall vote on whether to initiate disenrollment proceedings against such tribal member. No proceeding for disenrollment of a tribal member shall be initiated unless at least four (4) members of the Committee vote to initiate such proceedings. If a majority of the Committee fails to vote in favor of initiating disenrollment proceedings, the matter shall be deemed closed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the Committee decides to initiate disenrollment proceedings against a tribal member, the Enrollment Clerk shall send a "Notice of Disenrollment Proceedings" by certified letter to the last known address of such tribal member. The letter shall specify the grounds for initiating such disenrollment proceedings, and shall explain the disenrollment procedures and the rights and remedies available to the tribal member. The date stamped by the U.S. Post Office on the Domestic Return Receipt shall be deemed to be the date on which the tribal member was served with the "Notice of Disenrollment Proceedings."</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In the event that the """Notice of Disenrollment Proceedings" is returned undelivered by the United States Post Office, the Enrollment Clerk shall publish the "Notice of Disenrollment Proceedings" in the local newspaper in the county of the last known address of the tribal member against whom disenrollment proceedings have been initiated. At the expiration of sixty (60) days from the date such notice first appears in the local newspaper, the tribal member shall be deemed to have been served with the "Notice of Disenrollment Proceedings.'</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any tribal member against whom disenrollment proceedings have been initiated must file a written response challenging such proceedings within thirty (30) days of receipt of the "Notice of Disenrollment Proceedings." Such a response can be mailed by certified or regular mail, and will be deemed filed on the date the response is post-marked by the U.S. Post Office. Failure to file a written response to the "Notice of Disenrollment Proceedings" within the thirty day time period shall waive the tribal members rights to an informal hearing before the Committee and a formal hearing before the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any tribal member against whom disenrollment proceedings have been initiated shall have a right to appear and testify in an informal hearing before the Committee. At such hearing, the Committee shall determine if sufficient evidence exists to support a finding that the tribal member should be disenrolled. If a majority of the members of the Committee decide that the tribal member should remain on the membership rolls, the disenrollment proceedings shall be deemed closed. If a majority of the members of the Committee find that sufficient evidence exists to support disenrollment, the Committee shall submit a written recommendation to the Tribal Council that the tribal member be disenrolled. The recommendation of the Committee shall include all evidence compiled in the disenrollment proceeding. Upon receipt of such recommendation, the Tribal Council shall schedule a hearing to decide whether the tribal member shall be disenrolled, unless the tribal member has waived his/her right to a hearing by failure to respond to the "Notice of Disenrollment Proceedings," in which event the Tribal Council will make its decision based on the recommendation and evidence furnished by the Committee.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any tribal member subject to a disenrollment proceeding, who has filed a written response to the "Notice of Disenrollment Proceedings" with the Enrollment Clerk, shall have the right to be represented by counsel at his or her own expense at all stages of the proceeding, the right to inspect and copy all documents which purportedly support disenrollment, the right to inspect and copy all documents in the custody of the Committee which support the member's claim to continued eligibility for enrollment, the right to inspect and copy all documents in the member's application file, the right to cross-examine all adverse witnesses, the right to present testimony and documentary evidence on his or her own behalf, the right to adequate notice of all proceedings, and the right to a written decision in which the facts relied upon and the conclusions made by the Tribal Council are given. All disenrollment proceedings shall be conducted as closed hearings in Executive Session.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>In any disenrollment proceeding, the Committee shall have the burden of proving by clear and convincing evidence that the tribal member is not eligible for enrollment.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A decision to disenroll a tribal member shall be made by vote of the members of the Tribal Council. No less than five (5) members of the Tribal Council must vote to disenroll the tribal member before such member shall be disenrolled. The decision of the Tribal Council in any disenrollment proceeding shall be final and non-appealable.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>If the Tribal Council votes to disenroll a tribal member, the Enrollment Clerk shall strike the name of such tribal member from the membership rolls of the Tribe. Any tribal member who has been disenrolled shall be prohibited from thereafter seeking enrollment in the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Voluntary Disenrollment. Any tribal member may request that his/her name be stricken from the membership rolls. Such voluntary disenrollment must be carried out in accordance with the procedures set forth below.</text>
+        <para>
+          <num>(1)</num>
+          <text>The tribal member seeking voluntary disenrollment must submit to the Enrollment Office a notarized statement requesting relinquishment of membership in the Tribe, and stating the reason(s) for seeking relinquishment of membership.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The statement requesting relinquishment of membership in the Tribe must be either submitted in person, or delivered by certified mail, and must be dated no more than sixty (60) days before the date such statement is received at the Enrollment Office.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Council shall direct the Enrollment Clerk to strike from the membership rolls the name of the tribal member seeking voluntary disenrollment. </text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If a request for relinquishment is made on behalf of a tribal member who is under the age of eighteen (18) years, the following procedures will govern the voluntary disenrollment process:</text>
+          <para>
+            <num>(i)</num>
+            <text>The person requesting relinquishment must be the parent having legal custody of the tribal member, or the legal guardian of such tribal member, and must provide the Enrollment Office with proof of such legal custody or guardianship. For the purposes of this Chapter, the term "legal custody" means the custody awarded by a court of competent jurisdiction. Any documentary evidence provided as proof of legal custody or guardianship must be in the form of originals or certified copies. Proof of parenthood alone, without proof of legal custody or guardianship, will not authorize a person to request relinquishment on behalf of a tribal member who is under the age of eighteen (18) years.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any parent requesting relinquishment for a child who is a tribal member must have sole custody of such child in order to request relinquishment of membership on behalf of the child. If a parent making a request for relinquishment on behalf of a child does not have sole custody of such child, such parent must demonstrate that he/she has joint custody of the child, and a notarized statement from the other parent joining in the request for relinquishment must be provided to the Enrollment Office. Certified copies of the divorce decree or order of separation, and of the order granting custody, must be submitted to the Enrollment Office.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>No tribal member under the age of (18) years shall be disenrolled from membership in the Tribe until the Enrollment Office receives official notification from another tribe that such person has been accepted for membership in such other tribe.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If a person who is under the age of eighteen (18) years is disenrolled from membership in the Tribe by request of a parent or legal guardian, such person shall be entitled to enrollment in the Tribe in accordance with the procedures and requirements set forth in this Chapter, if such person makes a request for enrollment after his/her eighteenth (18th) birthday. No benefits associated with membership in the Tribe shall be granted to such person for the period of time during which he/she was not enrolled in the Tribe. Any tribal member whose membership is challenged under subsection (a), (b), or (c) shall have a right to be heard by the Membership Committee, which shall determine if there is sufficient evidence to believe that the tribal member should be disenrolled. If the Committee so finds it shall present its evidence and recommendation to the Tribal Council which shall decide whether the tribal member shall be disenrolled.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§6.01.100 was formerly codified as 601.10</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+      </annotations>
+    </section>
+  </container>
+</container>
