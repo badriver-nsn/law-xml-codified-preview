@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>7</num>
+  <heading>Cigarettes</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.01</num>
+    <heading>Cigarettes</heading>
+    <section>
+      <num>7.01.010</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this ordinance is to regulate the business of selling, exposing for sale, exchanging, or bartering of cigarettes for purposes of resale within the boundaries of the Bad River Reservation.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.010 was formerly codified as 701.1</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.020</num>
+      <heading>Authority</heading>
+      <text><cite path="7.01">This chapter</cite> is adopted pursuant to <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(j)">Art. VI, Section 1(j), of the Bad River Constitution</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.020 was formerly codified as 701.2</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.030</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Carton" means any container prepared by the manufacturer of cigarettes in which 200 cigarettes are held, packed, or contained.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Cigarette" means any roll of tobacco wrapped in paper or in any substance other than tobacco.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Class I Certification" means a certification authorizing an Indian retailer to sell unstamped cigarettes and no more than 5,000 cartons of stamped cigarettes per month.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Class II Certification" means a certification authorizing an Indian retailer to sell unstamped cigarettes and an unlimited number of cartons of stamped cigarettes per month.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Reporting Date" means the first day of the month, or if any such date is a Saturday, Sunday or holiday, the first non-holiday weekday thereafter.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Reporting Period" means the period starting on a reporting date and ending one day before the next reporting date.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Reservation" means all land within the boundaries of the Bad River Reservation.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Tribe" means the Bad River Band of the Lake Superior Tribe of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Tribal Council" means the Tribal Council of the Tribe.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.030 was formerly codified as 701.3</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.040</num>
+      <heading>Cigarette Sales Permitted</heading>
+      <para>
+        <num>(a)</num>
+        <text>Indian retailer sales. A member of the Tribe whether operating as a sole proprietorship, joint venture, or corporation, may sell, expose for sale, or possess with intent to sell cigarettes, whether stamped or unstamped, on the Reservation only upon compliance with the provisions of this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Business organizations. No person or organization shall be considered an Indian retailer for purposes of this section unless said person is an enrolled member of the Tribe, or unless at least fifty-one percent of profits and control of the total business inure to one or more enrolled members of the Tribe.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.040 was formerly codified as 701.4</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.050</num>
+      <heading>Certification of Indian Retailers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any enrolled member of the Tribe or busin ess organization desiring to do business as an Indian retailer pursuant to this chapter shall apply in writing to the Tribe requesting certification as such.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An applicant for Indian retailer certification shall provide evidence to the Tribe of all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Enrollment in the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In case of an organization other than a sole proprietorship, documents describing ownership, profit-sharing, control of organization, and identification of enrolled members participating in the organization.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Description of the location to which wholesale deliveries of cigarettes shall be made, and statement as to its status as Indian-owned fee land, allotted land, leased tribal-trust land or other.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Whether the applicant requests a class I certification or a class II certification.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Council shall deny certification to any applicant who is not eligible for certification under <cite path="7.01.040|(a)">Section 7.01.040(a)</cite> or <cite path="7.01.040|(b)">(b)</cite>, and to any applicant when it shall appear that the applicant will serve as a sham for any person or persons, legal or natural, who are not eligible for certification under <cite path="7.01.040|(a)">Section 7.01.040(a)</cite> or <cite path="7.01.040|(b)">(b)</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The issuance of certification is within the discretion of the Tribal Council. With no limitation by enumeration implied, the Tribal Council may deny certification to any applicant who has been found in non-compliance with any section of this chapter or of applicable state cigarette tax law, or who has any outstanding cigarette tax pre-collection liability.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any new certification issued shall be for a class I or class II certification as requested. Any applicant for renewal of certification shall be issued a class I or class II certification based on monthly sales as determined by an average of monthly sales over the preceding 12 month period.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>An Indian retailer holding a class I certification may sell more than the number of cartons of stamped cigarettes permitted by the certification. Upon submittal of invoices showing monthly sales of more than the number of cartons permitted under a class I certification, the tribal accounting office shall administratively reclassify the retailer as a class II retailer, starting with sales in the calendar month immediately following the submittal requiring reclassification, and continuing for the length of the certification period.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Each certification shall state the name of the Indian retailer, the location at which the certification authorizes cigarette sales, and the date of validity and expiration of the certification. Each certification shall be valid for only one location. The Tribal Council may in its discretion issue certifications for more than one location to a single applicant.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The original of the certificate shall be issued to the Indian retailer. The original or copies thereof shall not be valid proof of certification to be furnished to the retailer's distributors. Such proof must be given as provided in <cite path="7.01.080|(b)">Section 7.01.080(b)</cite>.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>All certifications shall be valid for a period not to exceed one year, expiring on the June 30 following the initial date of validity of the certification. </text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Certification is non-transferrable.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Certification shall be by Tribal Council resolution.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>No member may sell, expose for sale, or possess with intent to sell cigarettes on the Reservation without a valid certification under <cite path="7.01">this chapter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.050 was formerly codified as 701.5</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.060</num>
+      <heading>Regulation of Indian Retailers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each retailer shall submit on each reporting date the original invoices for each sale and delivery to it of stamped and unstamped cigarettes. The original invoice shall meet the requirements of Wis. Adm. Code Tax Ch. 9.08 (4)(d).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each retailer shall submit on each reporting date the original records for the preceding reporting period showing all sales of unstamped cigarettes to Bad River members. The record shall show the date of sale, amount of sale in volume and dollar amount, and the name of purchaser, for each sale to a Bad River member. Failure to keep or produce such records shall be a violation of this chapter. In addition, all untaxed sales for which such records are not kept and produced shall be rebuttably presumed to have been made to persons ineligible to buy them.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each Indian retailer shall allow any agent authorized by the Tribe to audit and inspect the books, records, and the premises of the location for which the Indian retailer possesses certification. </text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No Indian retailer may sell any unstamped cigarettes to any one who is not a member of the Tribe and a resident of the Reservation. </text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No Indian retailer may sell more than 100 cartons of unstamped cigarettes to any one person, natural or legal, in any one calendar month.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>No Indian retailer may transfer, or cause to be transferred, any cigarettes from the location to which the invoice shows their delivery to another location.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.060 was formerly codified as 701.6</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.070</num>
+      <heading>Tax Refunds</heading>
+      <text>Any Indian retailer complying with provisions of this chapter shall receive that portion of the state cigarette tax to which the Tribe is entitled by virtue of the Indian retailer's sales, less</text>
+      <para>
+        <num>(a)</num>
+        <text>In the case of a retailer holding a class I certification, twenty-five cents per carton.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In the case of a retailer holding a class II certification, per carton.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.070 was formerly codified as 701.7</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.080</num>
+      <heading>Distributors and Wholesalers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any distributor or wholesaler selling cigarettes to an Indian retailer on the reservation shall, upon request of any agent authorized by the Tribe, produce all records pertaining to the sale of cigarettes to that retailer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Prior to sale or delivery of any cigarettes to any Indian retailer, a distributor or wholesaler must first obtain, directly from the Tribe, a duplicate original of the retailers certification, specifically endorsed to the specific wholesaler or distributor. </text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any distributor or wholesaler who fails to comply with subsec. (b) or any request under subsection (a) may be barred by order of the Tribal Chairman or Treasurer. Within 20 days of service of any such order, the distributor or wholesaler may file a complaint in Tribal Court seeking review of the order.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.080 was formerly codified as 701.8</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.01.090</num>
+      <heading>Suspension and Revocation, Penalties, Civil Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council may suspend or revoke the certification of any Indian retailer who is found to have submitted misleading, untruthful, or fraudulent information in the retailer's application for certification.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council may refuse to issue, or may suspend or revoke the certification of any Indian retailer who has any outstanding cigarette tax pre-collection liability or who is found by Tribal Court to have violated this chapter or any provision of applicable state cigarette tax law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any violation of this ordinance may be punished by a civil forfeiture not to exceed $5,000.00. All findings of violation of this chapter shall be reported by the Clerk of Court to the Tribal Chairman and Treasurer.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In addition to a penalty, if any, imposed by the Tribal Court, or suspension or revocation, if any, imposed by the Tribal Council, the Tribe by its Chairman or Treasurer, may assess an Indian retailer holding a class I certification 25 cents, and an Indian retailer holding a class II certification __________________ cents, for each carton of unstamped cigarettes sold to a person ineligible to purchase it. Such assessments may also include simple interest at 1«% per month from the date of the sale, or if the date of the sale cannot reasonable be estimated, from assessment, the Indian retailer may file a complaint in Tribal Court seeking review of the assessment.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.090 was formerly codified as 701.9</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.10.100</num>
+      <heading>Effective Date</heading>
+      <text><cite path="7.01">This chapter</cite> as amended shall be effective on and after July 1, 1991.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§7.01.100 was formerly codified as 701.10</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-21-83-18"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-83-24"/>
+      </annotations>
+    </section>
+  </container>
+</container>
