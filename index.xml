@@ -16,10 +16,10 @@
     <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="badriver-nsn/law-xml" commit="b2404f3bd00b339a50fedaeb64a469191d22ad63"/>
+        <repository name="badriver-nsn/law-xml" commit="b2e448a825d39cec76347bed87e579e9e4529f69"/>
       </repositories>
-      <platform version="2.13.3" reproducible="false"/>
-      <build-date>2024-02-19</build-date>
+      <platform version="2.13.4" reproducible="false"/>
+      <build-date>2024-02-22</build-date>
       <codified-date>2024-02-13</codified-date>
     </build>
   </meta>

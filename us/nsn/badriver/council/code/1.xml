@@ -2953,7 +2953,7 @@
       <heading>Construction</heading>
       <para>
         <num>(a)</num>
-        <text><cite path="1|1.25">This chapter</cite> shall be liberally construed to effect the purposes stated in Section. 125.01.</text>
+        <text><cite path="1|1.25">This chapter</cite> shall be liberally construed to effect the purposes stated in <cite path="|1.25.010">Section 1.25.010</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3013,7 +3013,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Upon entry of the order transferring the case, dispositional orders in effect when the case was transferred to the Children's Court shall have the same effect as if they had issued from the Children's Court, regardless of whether the Children's Court would in fact have had the power to make the order. Regardless of the law of other jurisdictions, the Children's Court may modify, extend, suspend or terminate any order issued in a transferred judicial proceeding pursuant to <cite path="§1.25.190">Section 1.25.190</cite> of <cite path="1|1.25">this chapter</cite>.</text>
+        <text>Upon entry of the order transferring the case, dispositional orders in effect when the case was transferred to the Children's Court shall have the same effect as if they had issued from the Children's Court, regardless of whether the Children's Court would in fact have had the power to make the order. Regardless of the law of other jurisdictions, the Children's Court may modify, extend, suspend or terminate any order issued in a transferred judicial proceeding pursuant to <cite path="§1.25.200">Section 1.25.200</cite> of <cite path="1|1.25">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3084,28 +3084,40 @@
           <num>(13)</num>
           <text>The child has not received immunizations as required by law.</text>
         </para>
+        <para>
+          <num>(14)</num>
+          <text>The child is a Prenatal Exposed Newborn, but only if the Abinoojiyag Resource Center files a petition alleging that the child is in need of care within 60 days of the child's birth.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
         <text>In addition to jurisdiction granted by other sections of <cite path="1|1.25">this chapter</cite>, the Children's Court shall have jurisdiction to:</text>
         <para>
           <num>(1)</num>
-          <text>Order a law enforcement officer or the child welfare coordinator to take a child into custody pursuant to <cite path="§1.25.110|(b)">Section 1.25.110(b)</cite> and conduct other proceedings called for in Sections 125.10 to 125.13 inclusive.</text>
+          <text>Order a law enforcement officer or the child welfare coordinator to take a child into custody pursuant to <cite path="|1.25.120|(b)">Section 1.25.120(b)</cite> and conduct other proceedings called for in Sections <cite path="|1.25.120">1.25.120</cite> to <cite path="|1.25.150">1.25.150</cite> inclusive.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Terminate the parental rights of a parent of a child pursuant to <cite path="§1.25.220">Section 1.25.220</cite>.</text>
+          <text>Terminate the parental rights of a parent of a child pursuant to <cite path="§1.25.230">Section 1.25.230</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Appoint a guardian for a child pursuant to <cite path="§1.25.230">Section 1.25.230</cite>.</text>
+          <text>Appoint a guardian for a child pursuant to <cite path="§1.25.280">Section 1.25.280</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Enter an order of adoption resetting the parental relations of a child pursuant to <cite path="§1.25.240">Section 1.25.240</cite>.</text>
+          <text>Enter an order of adoption resetting the parental relations of a child pursuant to <cite path="|1.25.250">Section 1.25.250</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
+          <text>Suspend the parental rights of a parent pursuant to <cite path="|1.25.230">Section 1.25.230</cite>.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Enter an order of Customary Adoption resetting the parental relations of a child pursuant to <cite path="|1.25.260">Section 1.25.260</cite>.</text>
+        </para>
+        <para>
+          <num>(7)</num>
           <text>Conduct any other proceedings not contrary to express tribal law necessary to exercise delegated and inherent authority held by the tribe to protect child members of the tribe and children eligible for tribal membership.</text>
         </para>
       </para>
@@ -3129,7 +3141,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The Children's Court shall have continuing jurisdiction, subject to <cite path="§1.25.140">Section 1.25.140</cite> and 125.16(h), over a child who is determined to be subject to <cite path="1|1.25">this chapter</cite> and shall have the power to modify or dismiss previous orders, expunge the child's records, or consider petitions based on new evidence concerning the child.</text>
+        <text>The Children's Court shall have continuing jurisdiction, subject to <cite path="§1.25.150">Section 1.25.150</cite> and <cite path="|1.25.180|(h)">1.25.180(h)</cite>, over a child who is determined to be subject to <cite path="1|1.25">this chapter</cite> and shall have the power to modify or dismiss previous orders, expunge the child's records, or consider petitions based on new evidence concerning the child.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -3144,12 +3156,13 @@
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
       </annotations>
     </section>
     <section>
       <num>1.25.070</num>
       <heading>Waiver of Jurisdiction Protest of Child's Tribe</heading>
-      <text>When a petition is filed regarding an Indian child who is domiciled on the Reservation but who is not a member of or eligible for membership in the Bad River Tribe, the party filing the petition shall notify the child's tribe, or any tribe(s) in which the child is eligible for membership. Any party filing any document in the case shall serve the child's tribe(s) with the document. If a child's tribe objects to the jurisdiction of the Bad River Tribal Court prior to the entry of a final judgment in the case, the Court shall waive jurisdiction over the child. Such a child shall be deemed an ineligible child subject to <cite path="§1.25.250">Section 1.25.250</cite>.</text>
+      <text>When a petition is filed regarding an Indian child who is domiciled on the Reservation but who is not a member of or eligible for membership in the Bad River Tribe, the party filing the petition shall notify the child's tribe, or any tribe(s) in which the child is eligible for membership. Any party filing any document in the case shall serve the child's tribe(s) with the document. If a child's tribe objects to the jurisdiction of the Bad River Tribal Court prior to the entry of a final judgment in the case, the Court shall waive jurisdiction over the child. Such a child shall be deemed an ineligible child subject to <cite path="§1.25.260">Section 1.25.260</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.25.070 was formerly codified as 125.055</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
@@ -3205,11 +3218,84 @@
         <num>(i)</num>
         <text>"Child welfare proceeding" has the meaning given to "child custody proceeding" in Title 23, United States Code 1903(1) (1992) and shall be defined to encompass all delegated and inherent power held by the Bad River tribal government applicable to child welfare proceedings.</text>
       </para>
+      <para>
+        <num>(j)</num>
+        <text>"Adoptee" is defined as the individual, child or adult who is adopted or is to be adopted.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Adoptive Parent" is defined as the person establishing or seeking to establish a permanent parent-child relationship with a child who is not their biological child.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Best Interests of the Child" is defined as:</text>
+        <para>
+          <num>(1)</num>
+          <text>the ability of the tribe and reservation community to provide for the care of the child;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the wishes of the tribe, parents, party or parties;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the preference of the child if the child is of sufficient age to express a preference;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the intimacy of the relationship between the parties and the child; the child's adjustment to home, school and tribal community;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the length of time the child has lived in a stable, satisfactory environment and the desirability of maintaining continuity;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the permanence, as a family unity, of the existing or proposed adoptive home;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the mental and physical health of all individuals involved;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the capacity and disposition of the parties to give the child love, affection, guidance and to continue educating the child in the child's tribal culture and heritage.</text>
+        </para>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Best Interests of the Tribe" is defined as a variety of factors including but not limited to the ability of the tribe and its members to provide for the child; the ability of the tribe and its members to provide for the continuation of the tribe's culture, language, history, religion, traditions and values through its children if those children are taken away and not taught these things throughout their daily lives. The ability of the Tribe to continue as a viable cultural entity will be hindered by the loss of its children. Every child is a gift from the Creator and is viewed by the Tribe as crucial to the future of the tribe as a whole.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Birth Parent" is defined as the biological parents listed on the child's birth certificate, enrollment application or acknowledged as the birth parent by law.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Customary Adoption" means a traditional tribal practice recognized by the community and tribe which gives a child a permanent parent-child relationship with someone other than the child's birth parent(s).</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Final Decree of Customary Adoption" is defined as the final court order which established the permanent legal relationship between the child and the adoptive parent(s) and establishes any contact which may be allowed with the biological parent.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Final Order Suspending Parental Rights" means a final order of the court which suspends the rights of a biological parent to provide for the care, custody and control of their child. A Final Order Suspending Parental Rights may establish the parameters of contact between the birth parent and the child if that contact is in the child's best interests.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Suspension of Parental Rights" is defined as the suspension of the rights, powers, privileges, immunities, duties, and obligations existing between parent and child, as agreed by biological parent; however tribal membership, rights, privileges, entitlements, or obligations shall not be affected by such suspension for the child(ren).</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Prenatal Exposed Newborn" means a child who has been exposed to addictive illicit drugs or prescription drugs or alcohol while in the womb and exhibits symptoms consistent with Neonatal Abstinence Syndrome after birth, or the child or the mother tests positive for addictive illicit drugs or addictive prescription drugs during the pregnancy or shortly after the child's birth. Addictive illicit and prescription drugs include, but are not limited to: amphetamine, including methamphetamine,, barbiturates, benzodiazepines, cocaine and its metabolites, marijuana, opiates, narcotics and opioids, such as fentanyl, oxymorphone, hydromorphone, codeine, dihydrocodeine, ethylmorphine, hydromorphone, hydrocodone, morphine, methadone, and buprenorphine. The definition “Prenatal Exposed Newborn” does not include children whose sole exposure to addictive prescription substances comes through medication provided to the mother during labor and childbirth.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§1.25.080 was formerly codified as 125.06</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
       </annotations>
     </section>
     <section>
@@ -3217,7 +3303,7 @@
       <heading>Pre-Petition Procedure</heading>
       <para>
         <num>(a)</num>
-        <text>Any person may inform the child welfare coordinator of facts suggesting a child is in need of care, whereupon the child welfare coordinator shall investigate such facts and either file a petition or tell the complainant the reasons why not, provided that the child welfare coordinator shall not disclose any confidential information or any information which is not in the child's interest to disclose. If the child welfare coordinator decides to not file a petition under <cite path="§1.25.150">Section 1.25.150</cite>, he or she may attempt to obtain an Informal Resolution rather than declining all further proceedings.</text>
+        <text>Any person may inform the child welfare coordinator of facts suggesting a child is in need of care, whereupon the child welfare coordinator shall investigate such facts and either file a petition or tell the complainant the reasons why not, provided that the child welfare coordinator shall not disclose any confidential information or any information which is not in the child's interest to disclose. If the child welfare coordinator decides to not file a petition under <cite path="§1.25.160">Section 1.25.160</cite>, he or she may attempt to obtain an Informal Resolution rather than declining all further proceedings.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3225,7 +3311,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The existence of an Informal Resolution shall not preclude the filing of a petition under <cite path="§1.25.150">Section 1.25.150</cite> if any party fails to comply with the Resolution or if any new factor or newly discovered factor requires the filing of the petition for the protection of the child's best interests.</text>
+        <text>The existence of an Informal Resolution shall not preclude the filing of a petition under <cite path="§1.25.160">Section 1.25.160</cite> if any party fails to comply with the Resolution or if any new factor or newly discovered factor requires the filing of the petition for the protection of the child's best interests.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3233,7 +3319,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>At any time after the filing of a petition under <cite path="§1.25.150">Section 1.25.150</cite> the parties may by stipulation resolve any matter, subject to the approval of the Court.</text>
+        <text>At any time after the filing of a petition under <cite path="§1.25.160">Section 1.25.160</cite> the parties may by stipulation resolve any matter, subject to the approval of the Court.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.25.090 was formerly codified as 125.07</annotation>
@@ -3274,6 +3360,31 @@
     </section>
     <section>
       <num>1.25.110</num>
+      <heading>Prenatal Exposure</heading>
+      <text>There shall be a presumption that a child is in need of care if the child is diagnosed with Neonatal Abstinence Syndrome by a doctor who is competent to make that diagnosis, or samples of blood, urine or meconium of the child or the mother obtained during pregnancy, or shortly after birth, indicate the presence of addictive illicit or non-prescribed addictive prescription drugs after analysis using current standards for drug screens. That presumption can be overcome, by clear and convincing evidence, showing that the birth mother made the following efforts to prevent harm to her unborn child during the pregnancy:</text>
+      <para>
+        <num>(a)</num>
+        <text>Only using addictive prescription medication as prescribed by a physician and lowering doses of addictive medication during the pregnancy, as recommended by the prescribing physician;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Avoiding all addictive illicit drugs, and addictive prescription drugs without a prescription, as shown through drug screens testing the mother's blood or urine throughout the pregnancy;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Actively participating in AODA services; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Obtaining all necessary and recommended prenatal care, including mental health services if recommended by her health care provider(s).</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.110 was formerly codified as 125.09</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.120</num>
       <heading>Taking a Child into Custody</heading>
       <para>
         <num>(a)</num>
@@ -3298,6 +3409,10 @@
           <num>(5)</num>
           <text>The child will run away or be taken away so as to be unavailable for convenient further Children's Court proceedings.</text>
         </para>
+        <para>
+          <num>(6)</num>
+          <text>The child is 60 days old or younger and has been treated for, or diagnosed with, Neonatal Abstinence Syndrome by a doctor who is competent to treat or diagnose that condition, or samples of blood, urine or meconium of the child or the mother obtained during pregnancy or shortly after birth indicate the presence of addictive illicit drugs or non-prescribed addictive prescription drugs after analysis using current standards for drug screens.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
@@ -3312,25 +3427,7 @@
         <text>If the person taking a child into custody, or the child welfare coordinator, believes the child to be in need of prompt medical diagnosis or treatment, that person shall deliver the child to a hospital or physician, for that purpose.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.110 was formerly codified as 125.10</annotation>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
-      </annotations>
-    </section>
-    <section>
-      <num>1.25.120</num>
-      <heading>Release from Custody</heading>
-      <para>
-        <num>(a)</num>
-        <text>Any child taken into custody shall be released as soon as it is possible to do so, while protecting the child from the conditions causing the taking into custody.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The person taking a child into custody, or the child welfare coordinator, shall attempt to immediately release the child to his or her parent, guardian, or custodian, unless such release is inconsistent with the child's best interests, or, if the parent, guardian, or custodian is unwilling or unable to receive such child, to a responsible adult, with suitable counsel, advice, or warning, in which case the name and address of the person to whom the child has been released shall be immediately given to the parent, guardian, or custodian, unless there is reason to believe the release of such information will endanger the child or the person to whom the child has been released. If the procedure given in Sections 125.12, 125.13 and 125.17(a) is not followed, the child's parent, guardian or custodian shall have a right to exercise custody and supervision over the child.</text>
-      </para>
-      <annotations>
-        <annotation type="Prior Codifications">§1.25.120 was formerly codified as 125.11</annotation>
+        <annotation type="Prior Codifications">§1.25.120 was formerly codified as 125.10</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
@@ -3338,6 +3435,24 @@
     </section>
     <section>
       <num>1.25.130</num>
+      <heading>Release from Custody</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any child taken into custody shall be released as soon as it is possible to do so, while protecting the child from the conditions causing the taking into custody.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The person taking a child into custody, or the child welfare coordinator, shall attempt to immediately release the child to his or her parent, guardian, or custodian, unless such release is inconsistent with the child's best interests, or, if the parent, guardian, or custodian is unwilling or unable to receive such child, to a responsible adult, with suitable counsel, advice, or warning, in which case the name and address of the person to whom the child has been released shall be immediately given to the parent, guardian, or custodian, unless there is reason to believe the release of such information will endanger the child or the person to whom the child has been released. If the procedure given in Sections <cite path="§1.25.140">1.25.140</cite>, <cite path="§1.25.150">1.25.150</cite> and <cite path="§1.25.190|(a)">1.25.190(a)</cite> is not followed, the child's parent, guardian or custodian shall have a right to exercise custody and supervision over the child.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.130 was formerly codified as 125.11</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.140</num>
       <heading>Holding a Child in Custody</heading>
       <para>
         <num>(a)</num>
@@ -3392,26 +3507,26 @@
         <text>The child welfare coordinator shall immediately notify the child's parent, guardian, or custodian that the child is in custody, the reasons for the custody, and the location of the child unless there is reason to believe that such information will present imminent danger to the child.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.130 was formerly codified as 125.12</annotation>
+        <annotation type="Prior Codifications">§1.25.140 was formerly codified as 125.12</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.140</num>
+      <num>1.25.150</num>
       <heading>Hearings for Child in Custody</heading>
       <para>
         <num>(a)</num>
-        <text>For any child who has been taken into custody and not released under <cite path="§1.25.120">Section 1.25.120</cite>, a hearing shall be held to determine whether the criteria exist under <cite path="§1.25.110">Section 1.25.110</cite> to 125.12 to continue holding the child in custody. The hearing shall be held within 24 hours of the time the child is taken into custody, excluding Saturdays, Sundays, holiday, any time after 4:00 p.m. of the day preceding any such day, and any time before 9:00 a.m. of the day succeeding any such day. A petition under <cite path="§1.25.150">Section 1.25.150</cite> shall be filed before or at the hearing. All reasonable steps shall be taken to notify the child's parents, guardian, and custodian of the hearing. If the parent, guardian, and custodian does not receive actual notice, he or she may request a rehearing by right if the child is still under the court's jurisdiction or the issue is not otherwise moot.</text>
+        <text>For any child who has been taken into custody and not released under <cite path="§1.25.130">Section 1.25.130</cite>, a hearing shall be held to determine whether the criteria exist under <cite path="§1.25.110">Section 1.25.110</cite> to <cite path="§1.25.140">Section 1.25.140</cite> to continue holding the child in custody. The hearing shall be held within 24 hours of the time the child is taken into custody, excluding Saturdays, Sundays, holiday, any time after 4:00 p.m. of the day preceding any such day, and any time before 9:00 a.m. of the day succeeding any such day. A petition under <cite path="§1.25.160">Section 1.25.160</cite> shall be filed before or at the hearing. All reasonable steps shall be taken to notify the child's parents, guardian, and custodian of the hearing. If the parent, guardian, and custodian does not receive actual notice, he or she may request a rehearing by right if the child is still under the court's jurisdiction or the issue is not otherwise moot.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If, within the time provided by <cite path="§1.25.140|(a)">Section 1.25.140(a)</cite>, no hearing is held, or no petition is filed, the child shall be released from custody, unless the court finds either ex parte or at a post-deadline hearing that probable cause exists to believe that the child is in imminent danger to self or another, or that the child's parent, guardian, or custodian is unwilling or unable to provide adequate supervision and care, in which case one 48 hour extension may be granted during which time the child shall remain in custody pending the filing of a petition. Ex parte findings of probable cause shall be reconsidered, and an opportunity to present oral and written evidence and argument shall be provided, by right, if any affected person requests reconsideration or hearing. Hearings under this subsection may be conducted by telephone.</text>
+        <text>If, within the time provided by <cite path="§1.25.150|(a)">Section 1.25.150(a)</cite>, no hearing is held, or no petition is filed, the child shall be released from custody, unless the court finds either ex parte or at a post-deadline hearing that probable cause exists to believe that the child is in imminent danger to self or another, or that the child's parent, guardian, or custodian is unwilling or unable to provide adequate supervision and care, in which case one 48 hour extension may be granted during which time the child shall remain in custody pending the filing of a petition. Ex parte findings of probable cause shall be reconsidered, and an opportunity to present oral and written evidence and argument shall be provided, by right, if any affected person requests reconsideration or hearing. Hearings under this subsection may be conducted by telephone.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The hearing required under <cite path="§1.25.140">this section</cite> may be waived by the child's parents, guardians, or legal custodians or, if the child is over 12, by the joint waiver of the above and of the child. If a guardian ad litem is subsequently appointed for the child, or if the parents, guardian, or legal custodians subsequently retain counsel, such waiver may be subsequently withdrawn and a hearing demanded, which shall be scheduled as soon as practicable.</text>
+        <text>The hearing required under <cite path="§1.25.150">this section</cite> may be waived by the child's parents, guardians, or legal custodians or, if the child is over 12, by the joint waiver of the above and of the child. If a guardian ad litem is subsequently appointed for the child, or if the parents, guardian, or legal custodians subsequently retain counsel, such waiver may be subsequently withdrawn and a hearing demanded, which shall be scheduled as soon as practicable.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3427,21 +3542,21 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>If the court finds that one or more of the conditions enumerated in <cite path="§1.25.110|(a)">Section 1.25.110(a)</cite> or (b) exists, it may continue custody in any of the placements enumerated in <cite path="§1.25.130">Section 1.25.130</cite>. The Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Bad River Indian Child Welfare Department. Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adult as necessary to secure the safety of the child. Any order entered under this section shall be reduced to writing within ten days thereof.</text>
+        <text>If the court finds that one or more of the conditions enumerated in <cite path="§1.25.110|(a)">Section 1.25.110(a)</cite> or (b) exists, it may continue custody in any of the placements enumerated in <cite path="§1.25.140">Section 1.25.140</cite>. The Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Bad River Indian Child Welfare Department. Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adult as necessary to secure the safety of the child. Any order entered under this section shall be reduced to writing within ten days thereof.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>Any order under <cite path="§1.25.140">this section</cite> shall be subject to rehearing for good cause.</text>
+        <text>Any order under <cite path="§1.25.150">this section</cite> shall be subject to rehearing for good cause.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.140 was formerly codified as 125.13</annotation>
+        <annotation type="Prior Codifications">§1.25.150 was formerly codified as 125.13</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.150</num>
+      <num>1.25.160</num>
       <heading>Petitions</heading>
       <para>
         <num>(a)</num>
@@ -3464,14 +3579,14 @@
         <text>Unless impracticable or ineffective, petitions shall be served personally or by first class mail.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.150 was formerly codified as 125.14</annotation>
+        <annotation type="Prior Codifications">§1.25.160 was formerly codified as 125.14</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.160</num>
+      <num>1.25.170</num>
       <heading>Initial Hearing</heading>
       <para>
         <num>(a)</num>
@@ -3526,14 +3641,14 @@
         <text>Before accepting an admission or a statement of no contest to a petition, the court shall make inquiry to determine that the admission or statement is informed, voluntary, and made with an understanding of the potential dispositions that could result from the admission or statement. The court shall also establish whether any promises or threats were made to elicit the admission or statement, and shall inform any unrepresented parties that a lawyer could discover defenses or mitigating circumstances not apparent to them. The court shall also elicit a factual basis for the admission or statement.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.160 was formerly codified as 125.15</annotation>
+        <annotation type="Prior Codifications">§1.25.170 was formerly codified as 125.15</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.170</num>
+      <num>1.25.180</num>
       <heading>Adjudicatory Hearing</heading>
       <para>
         <num>(a)</num>
@@ -3548,18 +3663,18 @@
         <text>All hearings shall be to the Court without a jury, all hearings shall be closed to the public, and all records shall remain confidential except for good cause to the contrary shown to the court. All proceedings shall be recorded electronically, or verbatim by a licensed court  reporter.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.170 was formerly codified as 125.16</annotation>
+        <annotation type="Prior Codifications">§1.25.180 was formerly codified as 125.16</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.180</num>
+      <num>1.25.190</num>
       <heading>Disposition</heading>
       <para>
         <num>(a)</num>
-        <text>At any stage of a proceeding under <cite path="1|1.25">this chapter</cite> the court may order interim disposition for the child. Such an order may include any disposition authorized by <cite path="§1.25.180|(d)">Section 1.25.180(d)</cite>.</text>
+        <text>At any stage of a proceeding under <cite path="1|1.25">this chapter</cite> the court may order interim disposition for the child. Such an order may include any disposition authorized by <cite path="§1.25.190|(d)">Section 1.25.190(d)</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3567,7 +3682,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Any party requesting out-of-home placement of a child shall submit to the court, and distribute as provided in sub<cite path="§1.25.180|(b)">Section 1.25.180(b)</cite>, above, a report enumerating the attempts made to prevent an out-of-home placement, and a statement describing the efforts that will be made to make it possible for the child to return home.</text>
+        <text>Any party requesting out-of-home placement of a child shall submit to the court, and distribute as provided in sub<cite path="§1.25.190|(b)">Section 1.25.190(b)</cite>, above, a report enumerating the attempts made to prevent an out-of-home placement, and a statement describing the efforts that will be made to make it possible for the child to return home.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3659,36 +3774,10 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>Whenever the court orders a child to be placed outside the home, the court shall orally inform the parents who appear in court, and shall include in the written order a statement, of any ground for termination of parental rights under <cite path="§1.25.220">Section 1.25.220</cite> that may be applicable.</text>
+        <text>Whenever the court orders a child to be placed outside the home, the court shall orally inform the parents who appear in court, and shall include in the written order a statement, of any ground for termination of parental rights under <cite path="§1.25.230">Section 1.25.230</cite> that may be applicable.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.180 was formerly codified as 125.17</annotation>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
-      </annotations>
-    </section>
-    <section>
-      <num>1.25.190</num>
-      <heading>Extensions and Modifications</heading>
-      <para>
-        <num>(a)</num>
-        <text>At any time in the last two months of the period in which a dispositional order issued by the Children's Court or issued by another court and subsequently transferred to the Children's Court is effective, any person with an interest in the child, or any person who was a party to the original proceedings may move or petition for an extension of the court's or dispositional order.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>In the event a motion or petition for extension is filed within the time period specified in <cite path="§1.25.190|(a)">Section 1.25.190(a)</cite>, the Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion or petition.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="§1.25.060">Section 1.25.060</cite>. If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition. To assist the court, parties and guardian ad litem, parties may prepare and distribute court reports similar to those called for in <cite path="§1.25.180">Section 1.25.180</cite>.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Upon motion or petition by any person with an interest in the child, for good cause shown, the Court may modify a dispositional order any time before one year after entry of the order sought to be modified unless a shorter period is provided by the Court in the order.</text>
-      </para>
-      <annotations>
-        <annotation type="Prior Codifications">§1.25.190 was formerly codified as 125.18</annotation>
+        <annotation type="Prior Codifications">§1.25.190 was formerly codified as 125.17</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
@@ -3696,6 +3785,32 @@
     </section>
     <section>
       <num>1.25.200</num>
+      <heading>Extensions and Modifications</heading>
+      <para>
+        <num>(a)</num>
+        <text>At any time in the last two months of the period in which a dispositional order issued by the Children's Court or issued by another court and subsequently transferred to the Children's Court is effective, any person with an interest in the child, or any person who was a party to the original proceedings may move or petition for an extension of the court's or dispositional order.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In the event a motion or petition for extension is filed within the time period specified in <cite path="§1.25.200|(a)">Section 1.25.200(a)</cite>, the Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion or petition.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="§1.25.060">Section 1.25.060</cite>. If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition. To assist the court, parties and guardian ad litem, parties may prepare and distribute court reports similar to those called for in <cite path="§1.25.190">Section 1.25.190</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon motion or petition by any person with an interest in the child, for good cause shown, the Court may modify a dispositional order any time before one year after entry of the order sought to be modified unless a shorter period is provided by the Court in the order.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.200 was formerly codified as 125.18</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.210</num>
       <heading>Discovery</heading>
       <para>
         <num>(a)</num>
@@ -3710,18 +3825,7 @@
         <text>Counsel and guardian ad litem shall have the right to view any videotaped oral statement of the child upon reasonable notice.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.200 was formerly codified as 125.19</annotation>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
-        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
-      </annotations>
-    </section>
-    <section>
-      <num>1.25.210</num>
-      <heading>Psychological and Other Examinations</heading>
-      <text>The Court may in any proceeding under <cite path="1|1.25">this chapter</cite>, order any child and the child's parents, guardians, or custodians, to submit to a psychological, mental, or developmental examination, or to a drug and alcohol abuse evaluation, if the court reasonably believes that any condition that may be illuminated by such an examination would assist in the adjudication or disposition of the case. The costs to any affected person of any such exam, if approved by the court, shall be paid by the Tribe, if the costs are not covered by a third-party payer.</text>
-      <annotations>
-        <annotation type="Prior Codifications">§1.25.210 was formerly codified as 125.20</annotation>
+        <annotation type="Prior Codifications">§1.25.210 was formerly codified as 125.19</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
@@ -3729,7 +3833,18 @@
     </section>
     <section>
       <num>1.25.220</num>
-      <heading>Termination of Parental Rights</heading>
+      <heading>Psychological and Other Examinations</heading>
+      <text>The Court may in any proceeding under <cite path="1|1.25">this chapter</cite>, order any child and the child's parents, guardians, or custodians, to submit to a psychological, mental, or developmental examination, or to a drug and alcohol abuse evaluation, if the court reasonably believes that any condition that may be illuminated by such an examination would assist in the adjudication or disposition of the case. The costs to any affected person of any such exam, if approved by the court, shall be paid by the Tribe, if the costs are not covered by a third-party payer.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.220 was formerly codified as 125.20</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.230</num>
+      <heading>Termination or Suspensiont of Parental Rights</heading>
       <para>
         <num>(a)</num>
         <text>Termination of parental rights means that, pursuant to court order, all rights, powers, privileges, immunities, duties, and obligations existing between parent and child are permanently severed; however, tribal membership, rights, privileges, entitlements, or obligations shall not be affected by such termination.</text>
@@ -3740,6 +3855,10 @@
       </para>
       <para>
         <num>(c)</num>
+        <text>Suspension of Parental Rights means that pursuant to court order, all rights, powers, privileges, immunities, duties, and obligations existing between parent and child are suspended as agreed by biological parent; however tribal membership, rights, privileges, entitlements, or obligations shall not be affected by such suspension for the child(ren).</text>
+      </para>
+      <para>
+        <num>(d)</num>
         <text>Involuntary Termination. Termination of parental rights may be ordered only in cases where the court finds that one or more of the following grounds exists:</text>
         <para>
           <num>(1)</num>
@@ -3771,8 +3890,8 @@
         </para>
       </para>
       <para>
-        <num>(d)</num>
-        <text>Voluntary Termination. The court may terminate the parental rights of a parent who has given his or her informed, voluntary consent as provided in <cite path="§1.25.220">this section</cite>.</text>
+        <num>(e)</num>
+        <text>Voluntary Termination. The court may terminate the parental rights of a parent who has given his or her informed, voluntary consent as provided in <cite path="§1.25.230">this section</cite>.</text>
         <para>
           <num>(1)</num>
           <text>The parent appears personally at a hearing and gives his or her consent, the court explains the effect of a termination of parental rights, and the court has questioned the parent and found to its satisfaction that the consent is informed and voluntary.</text>
@@ -3795,7 +3914,7 @@
         </para>
       </para>
       <para>
-        <num>(e)</num>
+        <num>(f)</num>
         <text>Petition.</text>
         <para>
           <num>(1)</num>
@@ -3819,7 +3938,7 @@
         </para>
       </para>
       <para>
-        <num>(f)</num>
+        <num>(g)</num>
         <text>Summons. A summons shall be filed with the petition, and shall set forth the following:</text>
         <para>
           <num>(1)</num>
@@ -3843,7 +3962,7 @@
         </para>
       </para>
       <para>
-        <num>(g)</num>
+        <num>(h)</num>
         <text>Service.</text>
         <para>
           <num>(1)</num>
@@ -3887,11 +4006,11 @@
         </para>
       </para>
       <para>
-        <num>(h)</num>
+        <num>(i)</num>
         <text>Initial Hearing.</text>
         <para>
           <num>(1)</num>
-          <text>An initial hearing shall be held on a petition to terminate parental rights no later than 30 days after the filing of the petition. At the hearing the court shall determine whether any party wishes to contest the petition and shall inform the parties of their rights under <cite path="§1.25.160|(c)">Section 1.25.160(c)</cite>.</text>
+          <text>An initial hearing shall be held on a petition to terminate parental rights no later than 30 days after the filing of the petition. At the hearing the court shall determine whether any party wishes to contest the petition and shall inform the parties of their rights under <cite path="§1.25.170|(c)">Section 1.25.170(c)</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3899,7 +4018,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If the petition is not contested, the court shall set a date for a dispositional hearing no later than 45 days from the date of the initial hearing, unless all parties consent to an immediate hearing and the report required by <cite path="§1.25.220|(j)">Section 1.25.220(j)</cite> has been filed, in which case the court may immediately so proceed.</text>
+          <text>If the petition is not contested, the court shall set a date for a dispositional hearing no later than 45 days from the date of the initial hearing, unless all parties consent to an immediate hearing and the report required by <cite path="§1.25.230|(j)">Section 1.25.230(j)</cite> has been filed, in which case the court may immediately so proceed.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -3907,7 +4026,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>A guardian ad litem shall be appointed for the child in any contested proceeding under <cite path="§1.25.220">this section</cite>.</text>
+          <text>A guardian ad litem shall be appointed for the child in any contested proceeding under <cite path="§1.25.230">this section</cite>.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -3915,34 +4034,34 @@
         </para>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(j)</num>
         <text>Fact Finding Hearing.</text>
         <para>
           <num>(1)</num>
-          <text>At the fact finding hearing the court shall determine whether the facts alleged in a petition that has been contested are true beyond a reasonable doubt. If the court so finds, it shall proceed immediately to a dispositional hearing unless all parties agree to a delay or unless the report required in <cite path="§1.25.220|(j)">Section 1.25.220(j)</cite> has not been completed, in which case the court shall set a hearing date no later than 45 days after the fact-finding hearing.</text>
+          <text>At the fact finding hearing the court shall determine whether the facts alleged in a petition that has been contested are true beyond a reasonable doubt. If the court so finds, it shall proceed immediately to a dispositional hearing unless all parties agree to a delay or unless the report required in <cite path="§1.25.230|(j)">Section 1.25.230(j)</cite> has not been completed, in which case the court shall set a hearing date no later than 45 days after the fact-finding hearing.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If disposition is delayed, the court may enter an interim disposition under <cite path="§1.25.180|(a)">Section 1.25.180(a)</cite>.</text>
+          <text>If disposition is delayed, the court may enter an interim disposition under <cite path="§1.25.190|(a)">Section 1.25.190(a)</cite>.</text>
         </para>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(k)</num>
         <text>Disposition.</text>
         <para>
           <num>(1)</num>
-          <text>Prior to disposition, the child welfare coordinator shall prepare a report to the court including a complete social, adjudicatory, and dispositional history of the child and the parent, a statement of feasible alternative dispositions, if any, and a statement applying the standards and factors contained in <cite path="§1.25.220|(j)|(2)">Section 1.25.220(j)(2)</cite>. The report shall include a description of efforts made to prevent removal of the child from the home and efforts made, if any, to return the child, and to remedy the conditions resulting in the termination proceeding. If the report recommends termination of both parents, or of the only living or known parent, the report shall include a statement of the child's likelihood of adoption, listing factors that might prevent it and factors that might facilitate it, and the interim plan and designated guardian recommended pending adoption. The report shall also contain a medical and genetic history of the child and birth parents on a form as provided by the Wisconsin Department of Health and Social Services.</text>
+          <text>Prior to disposition, the child welfare coordinator shall prepare a report to the court including a complete social, adjudicatory, and dispositional history of the child and the parent, a statement of feasible alternative dispositions, if any, and a statement applying the standards and factors contained in <cite path="§1.25.230|(j)|(2)">Section 1.25.230(j)(2)</cite>. The report shall include a description of efforts made to prevent removal of the child from the home and efforts made, if any, to return the child, and to remedy the conditions resulting in the termination proceeding. If the report recommends termination of both parents, or of the only living or known parent, the report shall include a statement of the child's likelihood of adoption, listing factors that might prevent it and factors that might facilitate it, and the interim plan and designated guardian recommended pending adoption. The report shall also contain a medical and genetic history of the child and birth parents on a form as provided by the Wisconsin Department of Health and Social Services.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Court considerations. In making a decision about the appropriate disposition, the court shall consider the standard and factors enumerated in <cite path="§1.25.220">this section</cite>.</text>
+          <text>Court considerations. In making a decision about the appropriate disposition, the court shall consider the standard and factors enumerated in <cite path="§1.25.230">this section</cite>.</text>
           <para>
             <num>(A)</num>
             <text>Standard. The best interests of the child shall be the prevailing factor considered by the court in determining the disposition of all proceedings under this subchapter,</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Factors. In considering the best interests of the child under <cite path="§1.25.220">this section</cite> the court shall consider but not be limited to the following:</text>
+            <text>Factors. In considering the best interests of the child under <cite path="§1.25.230">this section</cite> the court shall consider but not be limited to the following:</text>
             <para>
               <num>(i)</num>
               <text>The age and health of the child, both at the time of the disposition and, if applicable, at the time the child was removed from the home,</text>
@@ -3983,18 +4102,195 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Any order under <cite path="§1.25.220">this section</cite> shall be reduced to writing and filed within 30 days of its rendition.</text>
+          <text>Any order under <cite path="§1.25.230">this section</cite> shall be reduced to writing and filed within 30 days of its rendition.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Suspension of Parental Rights means that pursuant to court order, all rights, powers, privileges, immunities, duties, and obligations existing between parent and child are suspended as agreed by biological parent; however tribal membership, rights, privileges, entitlements, or obligations shall not be affected by such suspension for the child(ren).</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Petition for Suspension of Parental Rights.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any adult or agency possessing custody of a minor child may file a petition with the Clerk of Court seeking an order for the suspension of the parental rights of a parent of a child. The petition shall begin with the caption, “In re the Suspension of Parental Rights of (names of biological parents) to (name of child), born (birthdate of child).” The petition shall contain the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>The name, address, and telephone number of the child’s tribe;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The name, address, telephone number and age of the child’s parent whose parental rights are to be suspended;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The name, address, and telephone number of the petitioner and the petitioner’s relationship, if any; to the child;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The name, address, and telephone number of any other relatives who may have an interest in the care, custody, and control of the minor child;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>A statement as to why an order for the suspension of parental rights of the parent is in the best interests of the child and the child’s tribe;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>A statement as to basis for the request of the suspension of parental rights, supported by medical, psychiatric, child protection worker, family member and/or psychological reports or testimony;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>A statement that no similar action is pending in a state or another tribal court having jurisdiction over the child.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The petitioner shall sign the petition in the presence of a notary public and shall affirm under oath that the contents are true and correct except as to those matters based upon believe and, as to those matters, the petitioner reasonably believes them to be true.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The petition shall be filed with the clerk of court, with copies served, by the petitioner, on the child welfare coordinator and the child’s parent(s); family member; caretaker, if any; and appropriate agencies of the Band which may have an interest in the proceeding or be of assistance to the Court in adjudicating the matter. The petition shall be served in the manner provided for in the Bad River Rules of Civil Procedure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Notice of Hearing on Petition to Suspend Parental Rights. Upon the filing of a petition seeking an order for the suspension of parental rights, the Clerk of Court shall schedule a hearing to be held thereon and shall cause written notice of such hearing to be served upon the petitioner; the child’s tribe; the child’s parent(s); family members; caretaker, if any; and appropriate agencies of the Band which may either have an interest in the proceedings or be of assistance to the court in adjudicating the matter. Such notice shall be served in the manner provided for in the Bad River Tribal Court Code, <cite path="|1.11.040">Section 1.11.040</cite>. A Guardian ad Litem shall be appointed to assist the Court in determining the best interests of the child. The petitioner(s), biological parents and Guardian ad Litem enjoy automatic party status.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Hearing on Petition to Suspend Parental Rights.</text>
+        <para>
+          <num>(1)</num>
+          <text/>
+          <para>
+            <num>(A)</num>
+            <text>Attendance at hearing.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The biological parent(s) and petitioner shall be present at the hearing in person or by telephone unless he or she has waived the right to appear in writing executed before the Clerk of Court or a notary and filed with the court, or unless the parent is unable to attend by reason of a medical condition as evidenced by a written statement from a licensed physician or other appropriate professional.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conduct of the hearing.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Court shall inform the parent(s) of their rights under this code and of the nature and consequences of the proceedings. In addition to any other rights afforded under the Indian Civil Rights Act, 25 U.S.C. Section 1301-03 (1968), as amended, or enumerated within the Tribal Code, petitioners, and other parties have the following rights:</text>
+            <para>
+              <num>(i)</num>
+              <text>A biological parent has the right to refuse services provided by any social services agency, however, their refusal to accept services may have a significant impact on their ability to have contact with their child;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The parties have the right to have reasonable notice and to attend any hearing arising out of the filing of a petition for suspension of parental rights pursuant to <cite path="|1.25.170">Section 1.25.170</cite>. The biological parents and the petitioner have the right to be represented by counsel at their own expense at all proceedings;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The parties have the right to summon and cross-examine witnesses.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>The biological parents and the petitioner have the right to seek independent medical, psychological or psychiatric evaluation of the child at their own expense.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The Court shall further inform all other parties of their rights under the Tribal Code and pursuant to the Indian Civil Rights Act, 25 U.S.C., Section 1301-1303 (1968), as amended, including the right to summon and cross-examine witnesses.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Court shall hear evidence on the matter, if the Court determines that the biological parent(s) have given his, her or their informed and voluntary consent to the suspension of parental rights.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The rules of evidence of the Tribal Court shall apply.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The burden of proving the allegation of the petition shall be upon the petitioner and the standard of proof shall be clear and convincing evidence. There shall be a legal presumption of parent’s ability to parent until proven otherwise.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The Court may continue the hearing, upon a showing of good cause, at the request of any party to the proceeding and enter such temporary orders, if any, as may be deemed just and reasonable to carry out the purposes of <cite path="1.25">this Chapter</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Findings on Petition to Suspend Parental Rights.</text>
+          <para>
+            <num>(A)</num>
+            <text>In all cases, the court shall make specific written findings of fact, state separately its conclusions of law, and enter an appropriate judgment or order.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The court may make findings that it is in the child’s best interest that a final order suspending the parental rights be entered and the court shall specify the basis of those findings.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The court shall complete the final hearing within 45 days of initial hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Final Order on Petition to Suspend Parental Rights.</text>
+          <para>
+            <num>(A)</num>
+            <text>If the court determines that it is in the best interests of the child and the child’s tribe, it shall issue a final order for a suspension of parental rights. Such an order for the suspension of parental rights may include, but is not limited, to the following:</text>
+            <para>
+              <num>(i)</num>
+              <text>A suspension of the parental rights of the parent, including the suspension of the right to the care, custody and control of the minor child and allowing the child to be adopted;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>A suspension of the right of the parent to have contact with the minor child including contact in person, by mail, by telephone or through third parties or the order may allow for a contact agreement agreed upon by the parties to be ordered by the court;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Restraining a parent from contacting the minor child, the child’s foster parent, the child’s adoptive parent and/or the social services agency or agencies possessing information regarding the minor child, or by an agreement;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>Ordering that the biological parents’ obligation to pay child support, except for arrearages, is hereby terminated;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>Ordering that any prior court order for custody, visitation or contact with the minor child is hereby terminated; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>Ordering that the parent shall have no standing to appear at any future legal proceedings involving the child.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The suspension of parental rights doe not sever or affect in any way a child’s relationship to his/her tribe or any rights of inheritance from the biological parent(s). A suspension of parental rights does not require a change on the child’s birth certificate.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The final order shall contain a statement regarding why it is in the best interests of the child and the child’s tribe to enter this order.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Copies of any order for suspension of parental rights shall be served upon the parent and the agency or agencies having legal custody of the child and any other parties as directed by the court.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Final orders for the suspension of parental rights may be reviewed by the court at the request of the biological parent, the agency or agencies possessing custody of the child only if one of the following occurs; if there is no final permanency order in effect after a period of one (1) year after the entry of the final order suspending parental rights; the adoption of the child fails; the adoptive parent is deceased; or if the adoptive parent(s) joins in the biological parents' request for review. Notice of this review shall be provided to all parties to the hearing at which the final suspension of parental rights order was issued.</text>
+          </para>
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.220 was formerly codified as 125.21</annotation>
+        <annotation type="Prior Codifications">§1.25.230 was formerly codified as 125.21</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.230</num>
+      <num>1.25.240</num>
       <heading>Guardianship</heading>
       <para>
         <num>(a)</num>
@@ -4049,14 +4345,14 @@
         <text>Any guardianship created under <cite path="1|1.25">this chapter</cite> shall terminate upon the ward's eighteenth birthday.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.230 was formerly codified as 125.22</annotation>
+        <annotation type="Prior Codifications">§1.25.240 was formerly codified as 125.22</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.240</num>
+      <num>1.25.250</num>
       <heading>Adoption</heading>
       <para>
         <num>(a)</num>
@@ -4167,14 +4463,173 @@
         <text>The final order shall include a provision ordering the adoptive parents to maintain the child's relationship to the Tribe.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.240 was formerly codified as 125.23</annotation>
+        <annotation type="Prior Codifications">§1.25.250 was formerly codified as 125.23</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.250</num>
+      <num>1.25.260</num>
+      <heading>Customary Adoption</heading>
+      <para>
+        <num>(a)</num>
+        <text>Guiding Philosophy for Customary Adoption</text>
+        <para>
+          <num>(1)</num>
+          <text>It is the fundamental belief of the Bad River Band of Lake Superior Chippewa Indians that its children are the sacred responsibility of the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>One of the Bad River Band of Lake Superior Chippewa’s basic inherent sovereign rights is the right to make decisions regarding the best interests of its children including who should provide for the care, custody and control of its children. <cite path="|1.25.260">This Section</cite> is intended to assure a safe, stable, nurturing, and permanent environment for the tribe’s children and to provide for the protection of our children, our people, and our way of life.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The principles that shall guide decisions pursuant to this code are: protection of the child’s safety, well-being and welfare and their sense of belonging; preservation of the child’s identity as a tribal member and member of an extended family and clan; preservation of the culture, religion, language, values, clan system and relationships of the Tribe.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>As an exercise of its inherent sovereignty the Bad River Band has the authority and jurisdiction to formally delegate the authority of its Children’s Court to adjudicate its own customary practices regarding child rearing and child custody.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Purpose of Customary Adoption</text>
+        <text><cite path="|1.25.260">Section 1.25.260</cite>, Customary Adoption, shall be liberally interpreted and construed as an exercise of the inherent sovereign authority of the Bad River Band of Lake Superior Chippewa to fulfill the following express purposes:</text>
+        <para>
+          <num>(1)</num>
+          <text>To embody and promote the basic traditional values of the Bad River Band of Lake Superior Chippewa regarding the protection and care of the tribe’s children. The Bad River Band of Lake Superior Chippewa believes that it is the responsibility of the tribe, the tribal communities and extended families to protect, care for, and nurture our children.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To promote the belief of the Bad River Band of Lake Superior Chippewa that children deserve a sense of permanency and belonging throughout their lives and at the same time they deserve to have knowledge about their unique cultural heritage including their tribal customs, history, language, religion, and values.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To provide for the best interests of the tribe, tribal communities and the tribe's children.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To afford judicial processes which allow for formal adjudications that address the issues of the rights, responsibilities, care, custody and control of minor children when the biological parents are unable or unwilling to provide a safe, stable, nurturing and permanent environment for their children by conferring jurisdiction upon the Bad River Children’s Court to hear and adjudicate such matters.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Petition for Customary Adoption</text>
+        <para>
+          <num>(1)</num>
+          <text>Any adult may file a petition with the Clerk of Court seeking an order for the customary adoption of a minor child whose parents’ parental rights have been terminated or suspended. The petition shall contain the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>The name, address, and telephone number of the child’s tribe;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The name, address, and telephone number and age of the child to be adopted;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The name, address, and telephone number of the petitioner and the petitioner’s relationship, if any; to the child;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The name, address, and telephone number of any other relatives who may have an interest in the care, custody and control of the minor child;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The proposed name of the adoptee after the entry of the final order of customary adoption;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>A statement or a copy of the final order suspending or terminating the parental rights of the biological parent(s);</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>A statement as to why a final order for customary adoption is in the best interests of the child and the best interest of the child’s tribe;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>A statement as to basis for the customary adoption supported by a home study, medical doctor, psychiatric doctor, child protection worker, family member and/or psychological reports or testimony;</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>A statement that no similar action is pending in a tribal or state court having jurisdiction over the child.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The petition shall be filed with the clerk of court, with copies served, by the petitioner, on the child welfare coordinator; appropriate family members, if any; caretaker, if any; and appropriate agencies of the Band which may have an interest in the proceeding or be of assistance to the Court in adjudicating the matter. The petition shall be served in the manner provided for in the Bad River Rules of Civil Procedure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Notice of Hearing on Petition for Customary Adoption. Upon the filing of a petition seeking an order for a customary adoption o a minor child, the Clerk of Court shall schedule a hearing to be held and shall cause written notice of such hearing to be served upon the petitioner; the child’s tribe; appropriate family members, if any; caretaker, if any; and appropriate agencies of the Band which my either have an interest in the proceedings or be of assistance to the court in adjudicating the matter. Such notice shall be served in the manner provided for in Bad River Tribal Court Code, <cite path="|1.11.040">Section 1.11.040</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Hearing on Petition for Customary Adoption</text>
+        <para>
+          <num>(1)</num>
+          <text>Attendance at hearing.</text>
+          <para>
+            <num>(a)</num>
+            <text>The child who is the subject of a petition for customary adoption, agencies, petitioner and any appropriate family members including siblings may be present at the hearing in person or by telephone</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The petitioner shall be present at the hearing. The petitioner’s failure to appear shall be grounds for dismissal of the petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conduct of hearing.</text>
+          <para>
+            <num>(a)</num>
+            <text>The court shall inform the parties of their rights under this code of the nature and consequences of the proceedings.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The court shall further inform all other parties of their rights under the Tribal Code and pursuant to the Indian Civil Rights Act, 25 U.S.C., Section 1301-1303 (1968), as amended, including the right to summon and cross-examine witnesses.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The rules of evidence of the Tribal Court shall apply.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The burden of proving the allegation of the petition shall be upon the petitioner and the standard of proof shall be clear and convincing evidence.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The court may continue the hearing, upon a showing of good cause, at the request of any party to the proceeding and enter such temporary orders, if any, as may be deemed just and reasonable to carry out the purposes of <cite path="§1.25.260">this Section</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Final Order for Customary Adoption</text>
+        <text>If the court determines that it is in the best interests of the child and the child’s tribe, it shall issue a final order for a customary adoption. Such an order may include, but is not limited, to the following:</text>
+        <text>A statement that the child has been adopted by the petitioner(s) and that the parent-child bond is hereby established and that all of the rights and responsibilities of that relationship shall exist upon the entry of such a final order.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Certification of a Customary Adoption</text>
+        <para>
+          <num>(1)</num>
+          <text>A customary adoption, conducted in a manner consistent with this Section is a long-established, continued, reasonable process and considered by the people of the Bad River Band to be binding and authentic, and may be certified by the Children's Court as having the same effect as an adoption order issues by this court so long as it is in the best interest s of the child and the child's tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A decree certifying a customary adoption has the same effect as a decree or final order of customary adoption issued by this court.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.260 was formerly codified as 125.23A</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.270</num>
       <heading>Ineligible Children</heading>
       <para>
         <num>(a)</num>
@@ -4197,14 +4652,14 @@
         <text>A report of the conditions requiring action under subsection (a) shall be filed immediately with the Ashland County Department of Social Services.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.250 was formerly codified as 125.24</annotation>
+        <annotation type="Prior Codifications">§1.25.270 was formerly codified as 125.24</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.260</num>
+      <num>1.25.280</num>
       <heading>Indian Child Welfare Act</heading>
       <para>
         <num>(a)</num>
@@ -4227,14 +4682,14 @@
         <text>In any non-tribal proceeding, where transfer of jurisdiction is denied or not sought, the child welfare coordinator shall maintain a record of all information gathered, actions taken and documents received.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.260 was formerly codified as 125.25</annotation>
+        <annotation type="Prior Codifications">§1.25.280 was formerly codified as 125.25</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.270</num>
+      <num>1.25.290</num>
       <heading>Child Welfare Coordinator</heading>
       <para>
         <num>(a)</num>
@@ -4281,14 +4736,14 @@
         <text>Immunity for acts and omissions. No liability shall attach to the child welfare coordinator for statements, acts, or omissions while in the course of activities defined under this code.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.270 was formerly codified as 125.26</annotation>
+        <annotation type="Prior Codifications">§1.25.290 was formerly codified as 125.26</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
       </annotations>
     </section>
     <section>
-      <num>1.25.280</num>
+      <num>1.25.300</num>
       <heading>Child Welfare Committee</heading>
       <para>
         <num>(a)</num>
@@ -4303,10 +4758,28 @@
         <text>By <cite path="1|1.25">this chapter</cite> and by the resolution adopting <cite path="1|1.25">this chapter</cite>, the Child Welfare Committee is delegated the Tribal Council's authority under 25 U.S.C. sec. 1915(c) to establish in individual cases a different order of preference than that set forth in 25 U.S.C. sec. 1915 (a) and (b).</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§1.25.280 was formerly codified as 125.27</annotation>
+        <annotation type="Prior Codifications">§1.25.300 was formerly codified as 125.27</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 3-8-88-128"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 4-5-89-33"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-9-95-49"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.310</num>
+      <heading>Right of Access to Records</heading>
+      <text>Any party deemed appropriate by the Court, and the child who has been the subject of the termination of parental rights proceeding, suspension of parental rights proceeding, adoption proceeding or a customary adoption proceeding, has the right, upon reaching the age of majority, to review all the court’s file on these matters subject to redaction of names or the rights of confidentiality or some documents under federal or tribal law.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.310 was formerly codified as 125.28</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1.25.320</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Chapter, or the application thereof, to any person is held invalid, such invalidity shall not affect the provisions or application of this Chapter which can be given effect without the invalid provision, and to this end the provisions of this Chapter are declared severable.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§1.25.320 was formerly codified as 125.29</annotation>
+        <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 10-14-14-330"/>
       </annotations>
     </section>
   </container>
